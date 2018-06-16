@@ -18,26 +18,26 @@ Changes:
  .
    * added debugging info
 Checksums-Sha1:
- 591907d8944a71d41ddc615a48cdc0717a1110f9 1220 gazelle-installer_18.6.3.dsc
- 57a6825bdd95a5b860be93ea19da0809e73c9467 141480 gazelle-installer_18.6.3.tar.xz
- 21e415c977866dda3c94f28f7fe32457d7231126 233904 mx-installer_18.6.3_amd64.deb
+ d221a24151a01d02151f61ab8b81df86eae12be1 1220 gazelle-installer_18.6.3.dsc
+ 7e74239e6342bb92fc50544345f73fa7abc02253 141524 gazelle-installer_18.6.3.tar.xz
+ 358957bd81e84fe3e1378b74ae776c31889a3ee3 233816 mx-installer_18.6.3_amd64.deb
 Checksums-Sha256:
- 2c625c19d627bf1219bd3bfc045df761fe0ab466b0c63377f7fb08a39f05602d 1220 gazelle-installer_18.6.3.dsc
- 34a52007fcb9a4e8ff2ca6a182b72126ae246f7ae003b4a25e896e479856fb6f 141480 gazelle-installer_18.6.3.tar.xz
- c0b071608cfd3e3e6a98a74d2164c7a0cf4463994b6da28429f96345ba7c7dbf 233904 mx-installer_18.6.3_amd64.deb
+ c254a1a0439794201c684773b6e5b84609d92e9740d8455405f2c569a7981c52 1220 gazelle-installer_18.6.3.dsc
+ af17c1a7f1ae86ef85a4d8261854a34b5a2154d15913a4874dde56c7fc74cf01 141524 gazelle-installer_18.6.3.tar.xz
+ 03e6dc712b6a5e3af1a84175f19d36f1ce0488741216d1f4b9e10ef0d16caafa 233816 mx-installer_18.6.3_amd64.deb
 Files:
- 7087f707b509e00df063c895762b0b08 1220 system optional gazelle-installer_18.6.3.dsc
- 389e59dd903ff3a6c2a6eab9cd35cee6 141480 system optional gazelle-installer_18.6.3.tar.xz
- 5b84e1f644466d1803ea9fc7276c8dc2 233904 system optional mx-installer_18.6.3_amd64.deb
+ 842377f799baf3a87ff80e1511bdb147 1220 system optional gazelle-installer_18.6.3.dsc
+ 06ce4a73213e96770e19e8b0e4b193a8 141524 system optional gazelle-installer_18.6.3.tar.xz
+ e8282dfcd4adbd311a99770141a8e9d6 233816 system optional mx-installer_18.6.3_amd64.deb
 
 -----BEGIN PGP SIGNATURE-----
 
-iQFHBAEBCAAxFiEE8ndToY6S45N+YzXncJOMeAZ57pgFAlslDagTHGFkcmlhbkBt
-eGxpbnV4Lm9yZwAKCRBwk4x4BnnumF70B/0eaa3TYrLDxP5ISf9sS9eaOwmiO4BY
-BiFC5J3OmWShIkqckxSr8x0Z5aY27VqtkpkdkKdEKobpvSGnMRBk4s7Y/eFrKA7Y
-z7a9GF0XH+TjVGmpUnSjUCrRv/PTU63Jd4f48PwRXpYOZWmEzIwoI2niK7ja6bzS
-19JJYvkQea0KWVqgt/XRhDJixz2Tmmk315KiuREv6C9QxQAC12dhmHuVH6CUG55c
-MxCwFN7OIW8UKNK2WOhjueJTmm6ubvmg0u+x9cHwunMQvoEN/0EmWyL1ODz5nK1y
-pDaDqVNsX8kM1aNUGnLB8+MySGkpsAgCKr3zFTHtX+2dRD5lda5LrEUX
-=0ifw
+iQFHBAEBCAAxFiEE8ndToY6S45N+YzXncJOMeAZ57pgFAlslKOQTHGFkcmlhbkBt
+eGxpbnV4Lm9yZwAKCRBwk4x4BnnumBorCADW+6Wn/0XZVTudD4mG2jGBCte+dx9T
+7wXiZx1sHBlhZeDBoP3VdTsyxTpqUiGjOgPFXkgyk1Pr3NpofIGf9qwxaStefZov
+mKuvFrJ/mpGYNbrLP6BrHzJLjbrEW9Q6SpJBeCzDkzN9yvpNFTh7AkGkyXwCBjTs
+D0XcijUOAeRyUattURX9E2TF2LeulXm76YuKZ0tEYA3vM40PNF+vmc5pS5MmpLlp
+E7H5lRMPDvkXDjNvB59N1HaRf4v3eEvjDTc2GoHOjGH50gOXyODsr/fyA0il0wlb
+SGA1QuN0Tleu/Z8QBr4vCMk/RPexHnoG1JYK6hBCgtEjKV/1Mzmcqg4v
+=h9ap
 -----END PGP SIGNATURE-----
