@@ -20,32 +20,32 @@ Changes:
    * allows installing /home on different file type than root
    * fix default /home label
 Checksums-Sha1:
- cc0b21d27c2d87f61a6ef99f647d436b3fbb1799 1212 gazelle-installer_18.7.dsc
- ea224f75fdf97369f74568e50f5f3e0c4c559267 148692 gazelle-installer_18.7.tar.xz
- f11d4f459e291cca7dc37c7f33d5d7410de16e65 10458 gazelle-installer_18.7_amd64.buildinfo
- b033e602be8fef9e0c9ae23c57f336d0290ba440 1000392 mx-installer-dbgsym_18.7_amd64.deb
- 39a8df89b18fd436d4795e52d22085358f93ec40 222590 mx-installer_18.7_amd64.deb
+ 57e7e5ff53ad63c125eb8f2eab90933a3d69817b 1212 gazelle-installer_18.7.dsc
+ 7ccf91fd09a2267d88ca0ad2d8d7633824e36854 148656 gazelle-installer_18.7.tar.xz
+ 1b264837d9cda097faa4967154175850bf63d94a 10458 gazelle-installer_18.7_amd64.buildinfo
+ 39529da10043dfc805d40281132db5c0e7658b7b 1000376 mx-installer-dbgsym_18.7_amd64.deb
+ 2c74e6144f4eb299a7a79b716bf133d99fb5b17e 222502 mx-installer_18.7_amd64.deb
 Checksums-Sha256:
- 4b83bbdf57c2e8ffe1b195658ec2014b6c5ba041753df150203673eeb3754ec9 1212 gazelle-installer_18.7.dsc
- 9b42c0f8dfc570e291b182e4d4fb63d02f0c442e268cc6f4133d42b428d77f3a 148692 gazelle-installer_18.7.tar.xz
- ded73488e1e472f90a02f6ad74047f1b605060c68431627d0b0c1d83e9152833 10458 gazelle-installer_18.7_amd64.buildinfo
- c422f51f009dc58ed2442819a03ff963c471b0da9b04cc5cc90a3e418ace5bac 1000392 mx-installer-dbgsym_18.7_amd64.deb
- 5277a7c7a7a190ce6fdcd4d6bda6d10687e999420993912448e9984b85b10e50 222590 mx-installer_18.7_amd64.deb
+ ec607bebfbd37919ef5c2d8bd8a79d008109b72890869280a31e855f933332ae 1212 gazelle-installer_18.7.dsc
+ 63d88ade4c2e623271018cdfe4ea30d26126d71b80abb261e268c6f2649e778d 148656 gazelle-installer_18.7.tar.xz
+ ba1a6cbc319d8b1b227b3a9297d4c23108684a6c223ef5df1492b97f0150af3b 10458 gazelle-installer_18.7_amd64.buildinfo
+ 9084113b9ac9dea46bdb5b8b4a06014802c9fb2e7cad19c4aec293e6ca67c3f4 1000376 mx-installer-dbgsym_18.7_amd64.deb
+ 49114bbe5373f308bd00d35832c6b55cc80c3ab19c6df7657c08b37d2329f737 222502 mx-installer_18.7_amd64.deb
 Files:
- 2d9ddb4bac352f78bc6f444178c09f0d 1212 system optional gazelle-installer_18.7.dsc
- e388b2095ee30ca23742f408aa98fcbf 148692 system optional gazelle-installer_18.7.tar.xz
- e5922cbe0315f70abd08f2bc16c8477a 10458 system optional gazelle-installer_18.7_amd64.buildinfo
- 85e17747aa24a575cf0bc8ab547528d2 1000392 debug optional mx-installer-dbgsym_18.7_amd64.deb
- 65aa4fd2f6cdb0b772616cf61fd44f9b 222590 system optional mx-installer_18.7_amd64.deb
+ 7246cfd5b8f974da5e98005b64ea056c 1212 system optional gazelle-installer_18.7.dsc
+ b1b7aa0756558e11067a7f5d8fdf9174 148656 system optional gazelle-installer_18.7.tar.xz
+ 6892a5e3962357f9b52b21c1dbbe346d 10458 system optional gazelle-installer_18.7_amd64.buildinfo
+ 1d1afd2f447dcef02b64affdf3bfc772 1000376 debug optional mx-installer-dbgsym_18.7_amd64.deb
+ 0659e0aa7737549b3cbecad222c44149 222502 system optional mx-installer_18.7_amd64.deb
 
 -----BEGIN PGP SIGNATURE-----
 
-iQFHBAEBCAAxFiEE8ndToY6S45N+YzXncJOMeAZ57pgFAltHncYTHGFkcmlhbkBt
-eGxpbnV4Lm9yZwAKCRBwk4x4BnnumAv4B/9I/h1DmxKUJZOwTuUOf8/lybOB6ea3
-PX7cqA4RvtwdvnlwoXXWlY6eKNzpY2a1UmfOOwEf2xkjAwPKtwySWhfhX06NQxxg
-LiHAFu++uPwdYhcSkPkVq584fAkpOxqSVrruX9anHCeZNEtgUBPihBVNsGdQ0eAd
-4ugeVz3hqHjCvr6yWWqqv4AMs+b8ZL/V1R6ABaU6DsbcHRt7XXFoURdn8fXZ4r4N
-S9Lgywv3FRo9WrifkKaoTh5it9Awqz2nm9wOaKrF5SHcE4RgPlpsZSY44ZczlGzu
-ysRqoR9oI7vAT9+i3qdw+FDRlniWX1ovgnti5OlMl/R1Wl1C+oyn0zNV
-=hKDq
+iQFHBAEBCAAxFiEE8ndToY6S45N+YzXncJOMeAZ57pgFAltHwDQTHGFkcmlhbkBt
+eGxpbnV4Lm9yZwAKCRBwk4x4BnnumMejCACNad7CoBOnv563RUWxVLKjPs2x6SXn
+HrQZP9NwssNaTVFL3/kt8HejjAY7gwfScg4GNtJJYvNhO9dze+A61jTYRp85aYbN
+/bU4mSmgcqiz1iqg8IuX25J/fEDUiDVcFZtaWXu4C+Tb01yw1MkmnlV9k/HVzCRF
+W6M1X1GcVMNx+NmHfMA3PKFWnnvg/iM1vo7bscVhPpI35gMfsdWLRaXFkunLQU/u
+r+1lhe4SN4nAHh49NZWzJgtPnLw2yneZJ6Z7WBz84VSvtskUS1Ou+ao59ihbD3gJ
+R3G8k5N0grfndcViiEbT7P1pGA/aRoSWMJGjTmFBqFEXeHeMUJADTv+z
+=/dKz
 -----END PGP SIGNATURE-----
