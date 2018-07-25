@@ -1,3 +1,9 @@
+gazelle-installer (18.7.1) mx; urgency=medium
+
+  * update translations
+
+ -- Adrian <adrian@mxlinux.org>  Wed, 25 Jul 2018 08:37:28 -0400
+
 gazelle-installer (18.7) mx; urgency=medium
 
   * change UI for partition selection

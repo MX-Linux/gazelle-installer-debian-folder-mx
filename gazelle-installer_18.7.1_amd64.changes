@@ -1,0 +1,49 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA256
+
+Format: 1.8
+Date: Wed, 25 Jul 2018 08:37:28 -0400
+Source: gazelle-installer
+Binary: mx-installer
+Architecture: source amd64
+Version: 18.7.1
+Distribution: mx
+Urgency: medium
+Maintainer: dolphinoracle <dolphinoracle@gmail.com>
+Changed-By: Adrian <adrian@mxlinux.org>
+Description:
+ mx-installer - Customizable GUI installer for MX Linux and antiX Linux
+Changes:
+ gazelle-installer (18.7.1) mx; urgency=medium
+ .
+   * update translations
+Checksums-Sha1:
+ abd52127d809d23db957e685f5d3cb81e7f37052 1220 gazelle-installer_18.7.1.dsc
+ 184263ae07e6185cfabe8fd8251bb0557ed6f114 150492 gazelle-installer_18.7.1.tar.xz
+ f805cf4d8f16c90820293d9fac2b6ae104d47831 10507 gazelle-installer_18.7.1_amd64.buildinfo
+ 4c22f3c2f7e41b20b48990562be6632a6a7e501e 1002744 mx-installer-dbgsym_18.7.1_amd64.deb
+ 0b56bf18335e0bfd2c526592510898c9d4374997 226730 mx-installer_18.7.1_amd64.deb
+Checksums-Sha256:
+ 8fd38e0c3cd41df07eba89c7da15a704ee52becccb73edcb6f08f3900c12ff44 1220 gazelle-installer_18.7.1.dsc
+ eab6397282509b89aeeaf80bc833c491475c6521a40252987aef98cc316c9df3 150492 gazelle-installer_18.7.1.tar.xz
+ 795f39c4442bab525ce42697dc65041ac3936b2712d7c15ae0d021895fda82c2 10507 gazelle-installer_18.7.1_amd64.buildinfo
+ 2ab62080e4b81c43fcc0e7d35007b1aebf18429c4297bceb36e45d45bd50ac0c 1002744 mx-installer-dbgsym_18.7.1_amd64.deb
+ f7206b2fc4b696510bb879929587b6e39a59e83f5d001d18927bf63c38bc1c3f 226730 mx-installer_18.7.1_amd64.deb
+Files:
+ 110ae937ae102b7afd78b5f0c98ffc87 1220 system optional gazelle-installer_18.7.1.dsc
+ 7c4d3f3f7600c59b8729737103b91c48 150492 system optional gazelle-installer_18.7.1.tar.xz
+ f55a616cc883ebf921e0ef77821df34b 10507 system optional gazelle-installer_18.7.1_amd64.buildinfo
+ 7165581b3db508b2d27e1ff4e5cef7db 1002744 debug optional mx-installer-dbgsym_18.7.1_amd64.deb
+ 70400ee2c4cba4d065f2f62446b8927d 226730 system optional mx-installer_18.7.1_amd64.deb
+
+-----BEGIN PGP SIGNATURE-----
+
+iQFHBAEBCAAxFiEE8ndToY6S45N+YzXncJOMeAZ57pgFAltYb/UTHGFkcmlhbkBt
+eGxpbnV4Lm9yZwAKCRBwk4x4BnnumLtAB/9/YURiic1+HeUOTTquIWFEQ6uts2Bx
+qeY27ZkQIPggshRaSdo3TgZCR6i16GPjYerMD1Vl37fYtjth1l1B+eL+DpEBb9ku
+yO+5w0okpUEWv9Aa41b+ocC5eqnj6xqN6yDMIcDdaoXUsZny0eDVokHoO2IodBP0
+5iuaUv1RXgM/xHQCkFJwXcQVhquQfRQcgnNqOQIKfM08bN2Pb3/nKjTvC0Wof0kY
+YTn135d4so8OW+wrPDayb5mfUClbFvKUY1Qnnu9iZXad7TchlU7rd+wiGE6UAFPd
+pmgxP0ACCTnAQU1Csw1YCqkXGvcyWk/zVzjFdovM24P9mNIPKguPwAZe
+=NZ8x
+-----END PGP SIGNATURE-----
