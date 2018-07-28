@@ -1,5 +1,6 @@
 #!/usr/bin/make -f
 
+QMAKE_OPTS = DEFINES+=NO_DEBUG_ON_CONSOLE
 MAKE_OPTS  = QMAKE=qmake-qt5 LRELEASE=lrelease-qt5 
 
 override_dh_auto_clean:
