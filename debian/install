@@ -9,3 +9,5 @@ scripts/guess-hwclock		usr/sbin
 minstall.desktop		usr/share/applications
 images/msystem.png		usr/share/pixmaps
 images/system-installer.png	usr/share/pixmaps
+images/msystem.png		usr/share/icons/hicolor/48x48/apps
+images/system-installer.png	usr/share/icons/hicolor/48x48/apps
