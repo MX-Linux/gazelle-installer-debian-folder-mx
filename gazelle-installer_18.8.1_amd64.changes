@@ -1,0 +1,43 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA256
+
+Format: 1.8
+Date: Fri, 17 Aug 2018 20:49:07 -0400
+Source: gazelle-installer
+Binary: mx-installer
+Architecture: source amd64
+Version: 18.8.1
+Distribution: mx
+Urgency: medium
+Maintainer: dolphinoracle <dolphinoracle@gmail.com>
+Changed-By: Adrian <adrian@mxlinux.org>
+Description:
+ mx-installer - Customizable GUI installer for MX Linux and antiX Linux
+Changes:
+ gazelle-installer (18.8.1) mx; urgency=medium
+ .
+   * fix localization problem when selecting swap partition
+Checksums-Sha1:
+ 40c3c6fdde2e22913f49a47460dbf7024ae4feb3 1220 gazelle-installer_18.8.1.dsc
+ c3512b5e05293f4817545b5885e6c57097fe2c0e 265668 gazelle-installer_18.8.1.tar.xz
+ 1e9c1e346cf2fbe77ff6a4f1825e503dd4216907 245326 mx-installer_18.8.1_amd64.deb
+Checksums-Sha256:
+ 42744a5579bd3fb317cc072a7a9dc4f50b6f1fc658454b921d48ee1c3a18a57e 1220 gazelle-installer_18.8.1.dsc
+ 2f1fdb9ccbcc0b5273acd4a9b4ceb1b0daa15844df47a76ae8eed95f45753921 265668 gazelle-installer_18.8.1.tar.xz
+ ec5cd9a45f8d4b43f52fb2f9afbc4f20ad8df965e838ab85607be5038c9e4cb8 245326 mx-installer_18.8.1_amd64.deb
+Files:
+ 2e7ec2c6c9a18438aff3b488e36f3b47 1220 system optional gazelle-installer_18.8.1.dsc
+ f0f129852809847edb86767874d618c7 265668 system optional gazelle-installer_18.8.1.tar.xz
+ a1e67f7720916a0f2e2376a1cf67db29 245326 system optional mx-installer_18.8.1_amd64.deb
+
+-----BEGIN PGP SIGNATURE-----
+
+iQFHBAEBCAAxFiEE8ndToY6S45N+YzXncJOMeAZ57pgFAlt3bgQTHGFkcmlhbkBt
+eGxpbnV4Lm9yZwAKCRBwk4x4BnnumIOWCADLkhyvekNNm2MXdKEEsOCb6gnWav+S
+lrAHDyqh8Qw5cUnBVWcJhewqPimfGEC8+cUjdItsTFXicU5X317WWneqzpfrXfqP
+nhJjVBZIiueZPmw+WxaGIeZHHzBTASlmi6jTQB52xyydJ9SHo7Ho0pah8XLtfGDb
+Rqc0gzdHM4SNg4LJM8uJe0GEv4dWJRKlC3K8WRoqrORq7NwJhPJJ4Xy1+3dCUDGn
+Yl62GwWcAh4Fuc5J7jP0tciifyFKxKzVAwW8sed8S1tQqCiw+c6SDzg7L1LMCbI6
+PjxpY8khFaWV22BtuMhDTkLE37Cw89oEY6UONtgPuJHKw4IowJ/U9DUi
+=ThFT
+-----END PGP SIGNATURE-----
