@@ -1,3 +1,9 @@
+gazelle-installer (18.10.01) mx; urgency=medium
+
+  * adjusted /etc/adjtime settings for LOCAL/UTC 
+
+ -- dolphin <dolphinoracle@gmail.com>  Wed, 17 Oct 2018 21:42:58 -0400
+
 gazelle-installer (18.10) mx; urgency=medium
 
   * updated translations
