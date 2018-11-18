@@ -1,0 +1,43 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA256
+
+Format: 1.8
+Date: Sat, 17 Nov 2018 12:55:59 -0500
+Source: gazelle-installer
+Binary: mx-installer
+Architecture: source amd64
+Version: 18.11
+Distribution: mx
+Urgency: medium
+Maintainer: dolphinoracle <dolphinoracle@gmail.com>
+Changed-By: Adrian <adrian@mxlinux.org>
+Description:
+ mx-installer - Customizable GUI installer for MX Linux and antiX Linux
+Changes:
+ gazelle-installer (18.11) mx; urgency=medium
+ .
+   * added full disk encryption option (LUKS)
+Checksums-Sha1:
+ 06d7c17c1ecee45cdc9793a1c457b82b624d3cd3 1216 gazelle-installer_18.11.dsc
+ 657050ec8d1743c0b2080c156daf64c12fea71a9 270416 gazelle-installer_18.11.tar.xz
+ b12dcaacc3f299f28f647d92f576e76ff830e724 256704 mx-installer_18.11_amd64.deb
+Checksums-Sha256:
+ 3c842219b59e842d239510f3719265744050053ac478dc44bc5ec58b68e0cc00 1216 gazelle-installer_18.11.dsc
+ 5534d326dbed4347b0d99a098ffb3e3c348a57353d24e8f76e05df5ddddd07ab 270416 gazelle-installer_18.11.tar.xz
+ 2886797da28dbb13b50f4c80c52be025484f8727ed36b1d710451f5e53880823 256704 mx-installer_18.11_amd64.deb
+Files:
+ a8a133692312a22cca34243d52b63d60 1216 system optional gazelle-installer_18.11.dsc
+ c6e895e4022c9e730924df9fee0e7e1f 270416 system optional gazelle-installer_18.11.tar.xz
+ 9f8cc574c9d5c8f6fced4e26b30f82fa 256704 system optional mx-installer_18.11_amd64.deb
+
+-----BEGIN PGP SIGNATURE-----
+
+iQFHBAEBCAAxFiEE8ndToY6S45N+YzXncJOMeAZ57pgFAlvwV/QTHGFkcmlhbkBt
+eGxpbnV4Lm9yZwAKCRBwk4x4BnnumOkyB/0RTns7RMxdK/EARFKoSR2QVTGj/4vb
+QjJII3uoXEZMvWvnDH882jEsmwBeb2XtN+lGEZdCmlfBb8C9d42v3m6pZ8zMbAIA
+jtO7vfjKjTCOFfF0Xy3dCV2R1ijxC9b5jrrixfm6Ln0av5v8MsOBRu8YIGvPJyZN
+xqyWyuxCe6E3XBs31vz7Ux3YI2M4XVC80RBus95LeDNsB0zuUfOuNepq/xvrQ3d4
+NS332sh/EgFAFL+ksqH8QtCkFWHGCtVwJwHpHAjL3OxBaiZeBhAbw7iPpoZrlrdb
+3TfcQ+gTU3posLD5FomrGTJ6FYBiiy2Etv+Q5mOWEmdeD8saYo6Jltqr
+=7140
+-----END PGP SIGNATURE-----
