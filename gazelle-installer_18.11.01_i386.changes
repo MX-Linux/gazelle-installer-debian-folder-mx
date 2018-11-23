@@ -15,8 +15,8 @@ Changes:
  .
    * revised text in installer
 Checksums-Sha1:
- 9e7490a7b7dc8a449649a728efe3762d7ec6f7e7 261412 mx-installer_18.11.01_i386.deb
+ 8c3ab5ecc0d11f562127b44cc22a023c8b43e21b 261518 mx-installer_18.11.01_i386.deb
 Checksums-Sha256:
- d5d8719e70c69e99e7cd60489bd961c694ce971c5e172015f2a8cbc391cb76f9 261412 mx-installer_18.11.01_i386.deb
+ 582ee2f641f59a4ca894f9cd07ae9355329c1258f38e2f32383608535df4b1cf 261518 mx-installer_18.11.01_i386.deb
 Files:
- 68be05f18d953131383412b441fe7e42 261412 system optional mx-installer_18.11.01_i386.deb
+ acbfd99ad394675a1adca580be0174cd 261518 system optional mx-installer_18.11.01_i386.deb
