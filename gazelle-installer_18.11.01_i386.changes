@@ -1,0 +1,22 @@
+Format: 1.8
+Date: Fri, 23 Nov 2018 13:24:48 -0500
+Source: gazelle-installer
+Binary: mx-installer
+Architecture: i386
+Version: 18.11.01
+Distribution: mx
+Urgency: medium
+Maintainer: dolphinoracle <dolphinoracle@gmail.com>
+Changed-By: Dolphin Oracle <dolphinoracle@gmail.com>
+Description:
+ mx-installer - Customizable GUI installer for MX Linux and antiX Linux
+Changes:
+ gazelle-installer (18.11.01) mx; urgency=medium
+ .
+   * revised text in installer
+Checksums-Sha1:
+ 9e7490a7b7dc8a449649a728efe3762d7ec6f7e7 261412 mx-installer_18.11.01_i386.deb
+Checksums-Sha256:
+ d5d8719e70c69e99e7cd60489bd961c694ce971c5e172015f2a8cbc391cb76f9 261412 mx-installer_18.11.01_i386.deb
+Files:
+ 68be05f18d953131383412b441fe7e42 261412 system optional mx-installer_18.11.01_i386.deb
