@@ -1,0 +1,25 @@
+Format: 1.8
+Date: Fri, 23 Nov 2018 13:24:48 -0500
+Source: gazelle-installer
+Binary: mx-installer
+Architecture: source
+Version: 18.11.01
+Distribution: mx
+Urgency: medium
+Maintainer: dolphinoracle <dolphinoracle@gmail.com>
+Changed-By: Dolphin Oracle <dolphinoracle@gmail.com>
+Description:
+ mx-installer - Customizable GUI installer for MX Linux and antiX Linux
+Changes:
+ gazelle-installer (18.11.01) mx; urgency=medium
+ .
+   * revised text in installer
+Checksums-Sha1:
+ 357d7c1d165f3baca7d6dc22921980f68c93c74e 666 gazelle-installer_18.11.01.dsc
+ 50df3056617a6cf47b62d6bbbb35aa959648a5d4 274104 gazelle-installer_18.11.01.tar.xz
+Checksums-Sha256:
+ 92285606b92350bb4062a4cc60754ead007e4345d1a19589eecfc6b4d6e47287 666 gazelle-installer_18.11.01.dsc
+ 580502aafe9c282cca631208e7744b5c3599ac91cd5a1489198c9cf575a3d3d9 274104 gazelle-installer_18.11.01.tar.xz
+Files:
+ a17b62dcced568981e6edacd06b764f3 666 system optional gazelle-installer_18.11.01.dsc
+ 52adae89b7aec54de77922f89d142d58 274104 system optional gazelle-installer_18.11.01.tar.xz
