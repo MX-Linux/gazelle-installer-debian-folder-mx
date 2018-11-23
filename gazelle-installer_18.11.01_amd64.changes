@@ -15,8 +15,8 @@ Changes:
  .
    * revised text in installer
 Checksums-Sha1:
- 791b084f372273c5d60b8a61bc75e5d068c420c0 257780 mx-installer_18.11.01_amd64.deb
+ 61f0c2fa1590eefc9c2c0250c15ddba4d1c235a1 257780 mx-installer_18.11.01_amd64.deb
 Checksums-Sha256:
- 856ed2e6dcc8d3df0ec98cd03442a67d50aaf22c1b458685ea03dfc86def6e53 257780 mx-installer_18.11.01_amd64.deb
+ 33ea4cb75e7cf6b4dba5bfb4a3673ece45656b01b6a4dd5b3ec78ebc5a0012c3 257780 mx-installer_18.11.01_amd64.deb
 Files:
- 43cb75eddf1ff4098bf0cb136dec4a64 257780 system optional mx-installer_18.11.01_amd64.deb
+ 9354aefbb851f5b53d95fc1d20189c9d 257780 system optional mx-installer_18.11.01_amd64.deb
