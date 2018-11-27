@@ -1,0 +1,23 @@
+Format: 1.8
+Date: Mon, 26 Nov 2018 22:02:49 -0500
+Source: gazelle-installer
+Binary: mx-installer
+Architecture: amd64
+Version: 18.11.02
+Distribution: mx
+Urgency: medium
+Maintainer: dolphinoracle <dolphinoracle@gmail.com>
+Changed-By: Dolphin Oracle <dolphinoracle@gmail.com>
+Description:
+ mx-installer - Customizable GUI installer for MX Linux and antiX Linux
+Changes:
+ gazelle-installer (18.11.02) mx; urgency=medium
+ .
+   * filter out vga=ask from bootcodes
+   * disable adding swap as resume device to initramfs if swap is encrypted
+Checksums-Sha1:
+ d71bf276fef23edc00e0802fa434fe1f6458df33 257974 mx-installer_18.11.02_amd64.deb
+Checksums-Sha256:
+ a7f360ea8284713ef6d0957aae1ab6373bf73b2c63cd2e90da8417f904a51c12 257974 mx-installer_18.11.02_amd64.deb
+Files:
+ c0bb5f9451370959f848b1d0ee34e142 257974 system optional mx-installer_18.11.02_amd64.deb
