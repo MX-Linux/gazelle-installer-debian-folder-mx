@@ -1,3 +1,16 @@
+gazelle-installer (18.11.02) mx; urgency=medium
+
+  * filter out vga=ask from bootcodes
+  * disable adding swap as resume device to initramfs if swap is encrypted 
+
+ -- Dolphin Oracle <dolphinoracle@gmail.com>  Mon, 26 Nov 2018 22:02:49 -0500
+
+gazelle-installer (18.11.01) mx; urgency=medium
+
+  * revised text in installer 
+
+ -- Dolphin Oracle <dolphinoracle@gmail.com>  Fri, 23 Nov 2018 13:24:48 -0500
+
 gazelle-installer (18.11) mx; urgency=medium
 
   * added full disk encryption option (LUKS)
