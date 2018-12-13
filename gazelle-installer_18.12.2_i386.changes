@@ -1,0 +1,29 @@
+Format: 1.8
+Date: Thu, 13 Dec 2018 17:21:10 -0500
+Source: gazelle-installer
+Binary: mx-installer
+Architecture: i386
+Version: 18.12.2
+Distribution: mx
+Urgency: medium
+Maintainer: dolphinoracle <dolphinoracle@gmail.com>
+Changed-By: Dolphin Oracle <dolphinoracle@gmail.com>
+Description:
+ mx-installer - Customizable GUI installer for MX Linux and antiX Linux
+Changes:
+ gazelle-installer (18.12.2) mx; urgency=medium
+ .
+   * filter out BOOT_IMAGE live boot code
+   *
+Checksums-Sha1:
+ f23a1c9fd7d49c1a8a766b4cd059879d571d0c0b 9732 gazelle-installer_18.12.2_i386.buildinfo
+ 0ffb240b82689c6d6b23811c91595ebdb0fd8dbf 1001110 mx-installer-dbgsym_18.12.2_i386.deb
+ 4de7e5897426a71ff63efe8a334f8beb9917a546 259364 mx-installer_18.12.2_i386.deb
+Checksums-Sha256:
+ d70784505443663f06f334690cad80dc39cca4ea866640b8933ab4ac41271c24 9732 gazelle-installer_18.12.2_i386.buildinfo
+ baff40b8762b710c810150c9a55989d8c4139f5513751e9772455b91ae7a1646 1001110 mx-installer-dbgsym_18.12.2_i386.deb
+ b3a9fae6faeed03b888ca3b9633a85d1824d87fc3adeb227c174bc99d8ffc9cc 259364 mx-installer_18.12.2_i386.deb
+Files:
+ da27e2289111c3aad4c1124a7fdc4af7 9732 system optional gazelle-installer_18.12.2_i386.buildinfo
+ 08ef1c1bcdee3ca1fb295008c701bbe1 1001110 debug optional mx-installer-dbgsym_18.12.2_i386.deb
+ 0f4f7dadef5c4e9ce56012d038727a45 259364 system optional mx-installer_18.12.2_i386.deb

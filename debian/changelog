@@ -1,3 +1,10 @@
+gazelle-installer (18.12.2) mx; urgency=medium
+
+  * filter out BOOT_IMAGE live boot code
+  * 
+
+ -- Dolphin Oracle <dolphinoracle@gmail.com>  Thu, 13 Dec 2018 17:21:10 -0500
+
 gazelle-installer (18.12.1) mx; urgency=medium
 
   * remove encrptfs-utils dependency
