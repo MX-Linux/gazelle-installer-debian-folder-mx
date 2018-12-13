@@ -1,0 +1,35 @@
+Format: 1.8
+Date: Thu, 13 Dec 2018 17:21:10 -0500
+Source: gazelle-installer
+Binary: mx-installer
+Architecture: source amd64
+Version: 18.12.2
+Distribution: mx
+Urgency: medium
+Maintainer: dolphinoracle <dolphinoracle@gmail.com>
+Changed-By: Dolphin Oracle <dolphinoracle@gmail.com>
+Description:
+ mx-installer - Customizable GUI installer for MX Linux and antiX Linux
+Changes:
+ gazelle-installer (18.12.2) mx; urgency=medium
+ .
+   * filter out BOOT_IMAGE live boot code
+   *
+Checksums-Sha1:
+ ecd4b433079abeab520bfa1ae4e04a83319aa8af 662 gazelle-installer_18.12.2.dsc
+ 9f1ba712d8a4557a2f808f3d4fb6ca7843a99456 166472 gazelle-installer_18.12.2.tar.xz
+ 5a27fca9aca54eabad91cbac9287226b5e4517ca 10838 gazelle-installer_18.12.2_amd64.buildinfo
+ 15616ec1f88a44aa64cbc0d2ed7e5f5a11812204 1055504 mx-installer-dbgsym_18.12.2_amd64.deb
+ 4b8919eab5ec4b4ad6a1ccaa82a1e22a354963f3 249508 mx-installer_18.12.2_amd64.deb
+Checksums-Sha256:
+ 388611de4fa6d43dd27174272955f4fdef991578c44ac38c7276b774b0c3ad87 662 gazelle-installer_18.12.2.dsc
+ a21cd98969b4e4ce54a4dad76cba8aa591ab3a3b816e702ec6483ebcb2219301 166472 gazelle-installer_18.12.2.tar.xz
+ 67c2247fe8f9a5bdd1bd47dc7852c4618aacdd97b2f7d020bc3d4e22b69785ae 10838 gazelle-installer_18.12.2_amd64.buildinfo
+ 08c65df20f84a41b30a31f9545a5bd3cdf03d1f3ce4d1d44db857e3c8759c63f 1055504 mx-installer-dbgsym_18.12.2_amd64.deb
+ 5ce25e408b4481346c5777fbae5cb777738b96ceacfd773a06cd55cf51252933 249508 mx-installer_18.12.2_amd64.deb
+Files:
+ c386300632b12b1fcea28b0b9db1ec0c 662 system optional gazelle-installer_18.12.2.dsc
+ 378d7d11534d90fe38b09889837d17f9 166472 system optional gazelle-installer_18.12.2.tar.xz
+ 33a1c1afbda3545239c5766f5e933d1c 10838 system optional gazelle-installer_18.12.2_amd64.buildinfo
+ 0d109785f756cd4f1c5fa0c846536224 1055504 debug optional mx-installer-dbgsym_18.12.2_amd64.deb
+ 159d9f44838f81407c791618f3235746 249508 system optional mx-installer_18.12.2_amd64.deb
