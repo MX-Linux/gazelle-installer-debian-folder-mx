@@ -1,0 +1,22 @@
+Format: 1.8
+Date: Sat, 15 Dec 2018 10:09:43 -0500
+Source: gazelle-installer
+Binary: mx-installer
+Architecture: amd64
+Version: 18.12.3
+Distribution: mx
+Urgency: medium
+Maintainer: dolphinoracle <dolphinoracle@gmail.com>
+Changed-By: Dolphin Oracle <dolphinoracle@gmail.com>
+Description:
+ mx-installer - Customizable GUI installer for MX Linux and antiX Linux
+Changes:
+ gazelle-installer (18.12.3) mx; urgency=medium
+ .
+   * accomdate memtest
+Checksums-Sha1:
+ 59db1b6776787eacad3538af51d5785d0082f4fc 271090 mx-installer_18.12.3_amd64.deb
+Checksums-Sha256:
+ 5f08e7a2a7ac010d593470b5e7911be04a807fe846853c56b4454952c8167e5c 271090 mx-installer_18.12.3_amd64.deb
+Files:
+ 5a2a05de261d92f6fedd53845ed1350e 271090 system optional mx-installer_18.12.3_amd64.deb

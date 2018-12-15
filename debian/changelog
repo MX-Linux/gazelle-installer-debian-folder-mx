@@ -1,3 +1,9 @@
+gazelle-installer (18.12.3) mx; urgency=medium
+
+  * accomdate memtest 
+
+ -- Dolphin Oracle <dolphinoracle@gmail.com>  Sat, 15 Dec 2018 10:09:43 -0500
+
 gazelle-installer (18.12.2) mx; urgency=medium
 
   * filter out BOOT_IMAGE live boot code
