@@ -1,3 +1,10 @@
+gazelle-installer (19.1) mx; urgency=medium
+
+  * don't link /tmp to /var/tmp
+  * create keyfile for swap only if swap is encrypted
+
+ -- Adrian <adrian@mxlinux.org>  Thu, 03 Jan 2019 15:41:46 -0500
+
 gazelle-installer (18.12.1) mx; urgency=medium
 
   * remove encrptfs-utils dependency

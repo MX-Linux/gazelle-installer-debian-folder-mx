@@ -1,0 +1,47 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA256
+
+Format: 1.8
+Date: Thu, 03 Jan 2019 15:41:46 -0500
+Source: gazelle-installer
+Binary: mx-installer
+Architecture: source amd64
+Version: 19.1
+Distribution: mx
+Urgency: medium
+Maintainer: dolphinoracle <dolphinoracle@gmail.com>
+Changed-By: Adrian <adrian@mxlinux.org>
+Description:
+ mx-installer - Customizable GUI installer for MX Linux and antiX Linux
+Changes:
+ gazelle-installer (19.1) mx; urgency=medium
+ .
+   * don't link /tmp to /var/tmp
+   * create keyfile for swap only if swap is encrypted
+Checksums-Sha1:
+ 8489a31e4f483be87a4b8e5ce43247dbe0034acf 1212 gazelle-installer_19.1.dsc
+ 08ddca87bad3cc8357f84274ac13373cd24eb0d0 164540 gazelle-installer_19.1.tar.xz
+ 7265af795f2eef8df42f12f1044f9c2165f52394 11229 gazelle-installer_19.1_amd64.buildinfo
+ 981a46883af6a1f432098e101bc96e2f7b318ef0 271900 mx-installer_19.1_amd64.deb
+Checksums-Sha256:
+ 647c805611d0f77de900290e61971da90a64ef6b15640b3046f26706a85ea03d 1212 gazelle-installer_19.1.dsc
+ a8a2966c1674b3458c44a4e6533b1da9e65afd30d26052140fe6bf81b486c09e 164540 gazelle-installer_19.1.tar.xz
+ 78e8ab7e0d5a2fe9e3910b1cd1229d28e1ffbde21d2fab41e8ceebee88460267 11229 gazelle-installer_19.1_amd64.buildinfo
+ ed53c1968f04671f7aa007fbd3f4754dc2485ffcfd472d27a4dbfe7c09e84da9 271900 mx-installer_19.1_amd64.deb
+Files:
+ 99e2bba4dad7a678aec75fe2e1e632eb 1212 system optional gazelle-installer_19.1.dsc
+ e662cc563d0797faa953c62c22098c55 164540 system optional gazelle-installer_19.1.tar.xz
+ 2fdc628a4607c28e9309c69d7d897c92 11229 system optional gazelle-installer_19.1_amd64.buildinfo
+ b40de62abe1df84939a369fb1f43e947 271900 system optional mx-installer_19.1_amd64.deb
+
+-----BEGIN PGP SIGNATURE-----
+
+iQFHBAEBCAAxFiEE8ndToY6S45N+YzXncJOMeAZ57pgFAlwueAoTHGFkcmlhbkBt
+eGxpbnV4Lm9yZwAKCRBwk4x4BnnumH8VB/9o1vxSoaHBvF9K1EJNQBz8rj/SlCb7
+GlA2tBvAppyFB+L6GnfExF0NYNjTFU5JnMmOQbABzFXn0JepZnsIfnPqwZpVFOoV
+ZS2/b6eRjTBK24CFJmsPqoGWqzr6xcMR4kxpfFxhAEgTPtMfVAUAbCLMibbGrkSg
+bGcyOy5CTqZWHyQVotqSO6WQxZucMidPTySGbbx79bUyOoCo2AcSDbSP2ACHxGfF
+onYSv5/aRWmTVep9fJqTMHG1WpZDDa5Q2llU6+jlStATkcgCf77ly3dKUZXlg+N4
+82MQF1ARNLiyZ0FpyDa1+6FugdlnfRulilchb57cPbLQ1R/HRmZilDNP
+=9kzm
+-----END PGP SIGNATURE-----
