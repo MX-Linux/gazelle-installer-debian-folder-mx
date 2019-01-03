@@ -5,6 +5,19 @@ gazelle-installer (19.1) mx; urgency=medium
 
  -- Adrian <adrian@mxlinux.org>  Thu, 03 Jan 2019 15:41:46 -0500
 
+gazelle-installer (18.12.3) mx; urgency=medium
+
+  * accomdate memtest 
+
+ -- Dolphin Oracle <dolphinoracle@gmail.com>  Sat, 15 Dec 2018 10:09:43 -0500
+
+gazelle-installer (18.12.2) mx; urgency=medium
+
+  * filter out BOOT_IMAGE live boot code
+  * 
+
+ -- Dolphin Oracle <dolphinoracle@gmail.com>  Thu, 13 Dec 2018 17:21:10 -0500
+
 gazelle-installer (18.12.1) mx; urgency=medium
 
   * remove encrptfs-utils dependency
