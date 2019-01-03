@@ -21,7 +21,6 @@ Depends: ${misc:Depends}, ${shlibs:Depends},
          grub-efi-amd64-bin [amd64], 
          grub-efi-ia32-bin, 
          parted, 
-         ecryptfs-utils, 
          cryptsetup
 Recommends: gparted
 Description: Customizable GUI installer for MX Linux and antiX Linux

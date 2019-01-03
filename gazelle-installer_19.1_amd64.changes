@@ -19,29 +19,26 @@ Changes:
    * don't link /tmp to /var/tmp
    * create keyfile for swap only if swap is encrypted
 Checksums-Sha1:
- 8489a31e4f483be87a4b8e5ce43247dbe0034acf 1212 gazelle-installer_19.1.dsc
- 08ddca87bad3cc8357f84274ac13373cd24eb0d0 164540 gazelle-installer_19.1.tar.xz
- 7265af795f2eef8df42f12f1044f9c2165f52394 11229 gazelle-installer_19.1_amd64.buildinfo
- 981a46883af6a1f432098e101bc96e2f7b318ef0 271900 mx-installer_19.1_amd64.deb
+ 044327e7d4753c10c57b274c9ef99e755ec4bb6d 1212 gazelle-installer_19.1.dsc
+ a3e42ab8dc7e1e2f4a65482b2218a49abd9e38bc 165140 gazelle-installer_19.1.tar.xz
+ ba6e9ad07d6658e39720a88aee20e4c72c617954 271276 mx-installer_19.1_amd64.deb
 Checksums-Sha256:
- 647c805611d0f77de900290e61971da90a64ef6b15640b3046f26706a85ea03d 1212 gazelle-installer_19.1.dsc
- a8a2966c1674b3458c44a4e6533b1da9e65afd30d26052140fe6bf81b486c09e 164540 gazelle-installer_19.1.tar.xz
- 78e8ab7e0d5a2fe9e3910b1cd1229d28e1ffbde21d2fab41e8ceebee88460267 11229 gazelle-installer_19.1_amd64.buildinfo
- ed53c1968f04671f7aa007fbd3f4754dc2485ffcfd472d27a4dbfe7c09e84da9 271900 mx-installer_19.1_amd64.deb
+ a863b2e7f635feca38680ae705deb0d089eef0a47615b993934d6e8631b02437 1212 gazelle-installer_19.1.dsc
+ 0206e8b592812c39c3dd59049160c98afc50033a4a3dc551f83a0cd38a359b02 165140 gazelle-installer_19.1.tar.xz
+ 206da3a0b4a9b3c0eb9ad4262b6e386dd022609de1889a8aa1b2b15d608843dc 271276 mx-installer_19.1_amd64.deb
 Files:
- 99e2bba4dad7a678aec75fe2e1e632eb 1212 system optional gazelle-installer_19.1.dsc
- e662cc563d0797faa953c62c22098c55 164540 system optional gazelle-installer_19.1.tar.xz
- 2fdc628a4607c28e9309c69d7d897c92 11229 system optional gazelle-installer_19.1_amd64.buildinfo
- b40de62abe1df84939a369fb1f43e947 271900 system optional mx-installer_19.1_amd64.deb
+ a38684a26f484bf98ec80e461ec82ca1 1212 system optional gazelle-installer_19.1.dsc
+ f94ffad1e89186c0e402c632c329f0aa 165140 system optional gazelle-installer_19.1.tar.xz
+ 5fbf4bd17c1166166b0080a9f42ec3b1 271276 system optional mx-installer_19.1_amd64.deb
 
 -----BEGIN PGP SIGNATURE-----
 
-iQFHBAEBCAAxFiEE8ndToY6S45N+YzXncJOMeAZ57pgFAlwueAoTHGFkcmlhbkBt
-eGxpbnV4Lm9yZwAKCRBwk4x4BnnumH8VB/9o1vxSoaHBvF9K1EJNQBz8rj/SlCb7
-GlA2tBvAppyFB+L6GnfExF0NYNjTFU5JnMmOQbABzFXn0JepZnsIfnPqwZpVFOoV
-ZS2/b6eRjTBK24CFJmsPqoGWqzr6xcMR4kxpfFxhAEgTPtMfVAUAbCLMibbGrkSg
-bGcyOy5CTqZWHyQVotqSO6WQxZucMidPTySGbbx79bUyOoCo2AcSDbSP2ACHxGfF
-onYSv5/aRWmTVep9fJqTMHG1WpZDDa5Q2llU6+jlStATkcgCf77ly3dKUZXlg+N4
-82MQF1ARNLiyZ0FpyDa1+6FugdlnfRulilchb57cPbLQ1R/HRmZilDNP
-=9kzm
+iQFHBAEBCAAxFiEE8ndToY6S45N+YzXncJOMeAZ57pgFAlwuj0gTHGFkcmlhbkBt
+eGxpbnV4Lm9yZwAKCRBwk4x4BnnumCYkCAC6yxUjtjTHWvZpV4O5G1aFmObdl+Ur
+0FsJW+5xVPBYSkhl94HrsmhEsvmLFq0ntsejDqO9S8d6WPCyvLTjyEvFzh+FnIsZ
+M2yw0H66DVKm+1s4XgQ7qJW5ytMX2oOuWDDKya0be8TrzlOpP6GJC2a92WFJDOHz
+wW8Luttb/zg5oYaYOgjl+pO8H9Q4n7HdRNR2lAhnecklHE9KtzTX+SX4e9lbaoXI
+BfGq2FcpelBC5g7C3jiEqY/QaajQsbgW30Ln2r65kbf2ZsHbo/F1M1n7EPWKfeRR
+NQa2nhwT3RBzgLzv4ANXS+/3GdBAnQ5s4DUzwFzRvNCU7z5n1PDOswNc
+=xLxa
 -----END PGP SIGNATURE-----
