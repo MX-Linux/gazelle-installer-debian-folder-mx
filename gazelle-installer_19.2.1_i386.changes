@@ -1,0 +1,23 @@
+Format: 1.8
+Date: Wed, 06 Feb 2019 19:02:04 -0500
+Source: gazelle-installer
+Binary: mx-installer
+Architecture: i386
+Version: 19.2.1
+Distribution: mx
+Urgency: medium
+Maintainer: dolphinoracle <dolphinoracle@gmail.com>
+Changed-By: Dolphin Oracle <dolphinoracle@gmail.com>
+Description:
+ mx-installer - Customizable GUI installer for MX Linux and antiX Linux
+Changes:
+ gazelle-installer (19.2.1) mx; urgency=medium
+ .
+   * update regex on username check
+   *
+Checksums-Sha1:
+ 7943753e16b4ec80d5e9c7095140910c7df45534 284244 mx-installer_19.2.1_i386.deb
+Checksums-Sha256:
+ e305183590c91a1d0af0e15777a05eaa52b0101486da7cb04d06d984259f7e7e 284244 mx-installer_19.2.1_i386.deb
+Files:
+ 225b576e05e9bb7051b2ca7223f0156f 284244 system optional mx-installer_19.2.1_i386.deb
