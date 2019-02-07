@@ -16,8 +16,8 @@ Changes:
    * update regex on username check
    *
 Checksums-Sha1:
- 7943753e16b4ec80d5e9c7095140910c7df45534 284244 mx-installer_19.2.1_i386.deb
+ 1328804d5c68bbea9d74b2131b5fac78013ffae3 284284 mx-installer_19.2.1_i386.deb
 Checksums-Sha256:
- e305183590c91a1d0af0e15777a05eaa52b0101486da7cb04d06d984259f7e7e 284244 mx-installer_19.2.1_i386.deb
+ 0a310720591d21d60c555f6657c3e2b40ee36522539f82c7c62c31a6b179cd60 284284 mx-installer_19.2.1_i386.deb
 Files:
- 225b576e05e9bb7051b2ca7223f0156f 284244 system optional mx-installer_19.2.1_i386.deb
+ 81f0590cc0ae1ddb6b5bb2bdda6f1327 284284 system optional mx-installer_19.2.1_i386.deb

@@ -16,11 +16,11 @@ Changes:
    * update regex on username check
    *
 Checksums-Sha1:
- ba317eee4ad29351f836e25fa79aa71322ba0f15 658 gazelle-installer_19.2.1.dsc
- 7455f46b149335567fb047ea29cf4f590a026ace 175864 gazelle-installer_19.2.1.tar.xz
+ dc65fc32f9b7cb4328790c2f2ac290771bff3de8 658 gazelle-installer_19.2.1.dsc
+ 7e7f000a921c85edfca8518ff6d4fbe271ec18b9 175968 gazelle-installer_19.2.1.tar.xz
 Checksums-Sha256:
- 569b712a88a6417f0ad84abb4c1a0465b824c180f5b726711072809cade4b401 658 gazelle-installer_19.2.1.dsc
- 366ff79d9b7f1a3e29091bc0779d8c7ae3e6c027a8cafb8013851395b9171d9c 175864 gazelle-installer_19.2.1.tar.xz
+ 94c738b92c382a72ccf7ddddd98c02009a6691aa1b8f586cbef4648d7975625e 658 gazelle-installer_19.2.1.dsc
+ da387ab59080df3c46e8c82c97783e3150c7ec7230fcc5de346e6fb4f8ba9f0d 175968 gazelle-installer_19.2.1.tar.xz
 Files:
- a82a05e04902656a28a9a8bde266ceaf 658 system optional gazelle-installer_19.2.1.dsc
- 5e4c8402194ff5e49c78bee94502a8a7 175864 system optional gazelle-installer_19.2.1.tar.xz
+ 939b37a8a03dc69937369c6d728d7823 658 system optional gazelle-installer_19.2.1.dsc
+ 371bb65d37686395d6479c3669761da1 175968 system optional gazelle-installer_19.2.1.tar.xz
