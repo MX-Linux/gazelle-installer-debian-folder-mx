@@ -1,3 +1,10 @@
+gazelle-installer (19.2.1) mx; urgency=medium
+
+  * update regex on username check
+  * 
+
+ -- Dolphin Oracle <dolphinoracle@gmail.com>  Wed, 06 Feb 2019 19:02:04 -0500
+
 gazelle-installer (19.1.2) mx; urgency=medium
 
   * updated translations
