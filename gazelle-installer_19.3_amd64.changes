@@ -1,0 +1,44 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA256
+
+Format: 1.8
+Date: Wed, 06 Mar 2019 14:35:16 -0500
+Source: gazelle-installer
+Binary: mx-installer
+Architecture: source amd64
+Version: 19.3
+Distribution: mx
+Urgency: medium
+Maintainer: dolphinoracle <dolphinoracle@gmail.com>
+Changed-By: Adrian <adrian@mxlinux.org>
+Description:
+ mx-installer - Customizable GUI installer for MX Linux and antiX Linux
+Changes:
+ gazelle-installer (19.3) mx; urgency=medium
+ .
+   * run partition-manager if gparted not available
+   * align partitions
+Checksums-Sha1:
+ 825d9608c3d391c03a3c69f2671f7dfb9ace157b 1212 gazelle-installer_19.3.dsc
+ 813eb11b66b0b770045e1f67b428298afde13c41 175396 gazelle-installer_19.3.tar.xz
+ 7d3a6beb1b18c1d7b9fec2861800683d1e25579a 279856 mx-installer_19.3_amd64.deb
+Checksums-Sha256:
+ eefb817d86efe9f06585543d62cbed445e8957760851901db7d5f4a9a074fde5 1212 gazelle-installer_19.3.dsc
+ c87e1643b18aadd7a65d41a2612ec0c573a0469485b43da888d821d504ca76ab 175396 gazelle-installer_19.3.tar.xz
+ 9a8824026362690466610330100af6d4c2c3b6514e22e7d02023cca80218b2f7 279856 mx-installer_19.3_amd64.deb
+Files:
+ 8811659ee6617175aace33435d03b9e9 1212 system optional gazelle-installer_19.3.dsc
+ 5d7ce4433bff0f013349134c75807ae8 175396 system optional gazelle-installer_19.3.tar.xz
+ 24acd58c0c18a88192719c545afb23a3 279856 system optional mx-installer_19.3_amd64.deb
+
+-----BEGIN PGP SIGNATURE-----
+
+iQFHBAEBCAAxFiEE8ndToY6S45N+YzXncJOMeAZ57pgFAlyBp7MTHGFkcmlhbkBt
+eGxpbnV4Lm9yZwAKCRBwk4x4BnnumNd0B/wK5B9DuXhY3XKYncOyb8iGuRPDtEWC
+b51HaTq4CwM6vZmZorVeWECEMybCOr3w6e4xqni+Cm5tJfs6QAFcyhpLyh/O+01q
+ZZK5zAoet86JOD/HtjxxfZ7OGMw73ZtNloixS4TUmE1hzVicdSmBWutf5f1hF0Yy
+6wRXUK+ix2wxPBVps7LEdvYmj9esb9E8ur2WpiypC05orw6VlYnVWpJJV2xGqUfH
+qysi9buk04PqqyjNOKVoErFvH45ki5CyrizAUNFQCvJUPFl7Bj2qsgG7yJXVkgxb
+GCUKoklI40pE/1Ei1j5aeHUXYwguNSZGbNT866+VLuyOOfJ5t4FtlPfM
+=QraL
+-----END PGP SIGNATURE-----
