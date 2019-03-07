@@ -1,3 +1,10 @@
+gazelle-installer (19.3) mx; urgency=medium
+
+  * run partition-manager if gparted not available
+  * align partitions
+
+ -- Adrian <adrian@mxlinux.org>  Wed, 06 Mar 2019 14:35:16 -0500
+
 gazelle-installer (19.2.1) mx; urgency=medium
 
   * update regex on username check
