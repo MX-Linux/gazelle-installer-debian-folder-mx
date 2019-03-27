@@ -1,3 +1,11 @@
+gazelle-installer (19.3.1) mx; urgency=medium
+
+  * list all ESPs when installing GRUB
+  * renamed "root" to "PBR"; allow installing GRUB on any partition
+  * replace /home/demo with /home/newuser when preserving changes
+
+ -- Adrian <adrian@mxlinux.org>  Wed, 27 Mar 2019 12:49:28 -0400
+
 gazelle-installer (19.3) mx; urgency=medium
 
   * run partition-manager if gparted not available
