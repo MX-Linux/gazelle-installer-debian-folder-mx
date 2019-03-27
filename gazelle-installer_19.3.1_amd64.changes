@@ -1,0 +1,48 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA256
+
+Format: 1.8
+Date: Wed, 27 Mar 2019 12:49:28 -0400
+Source: gazelle-installer
+Binary: mx-installer
+Architecture: source amd64
+Version: 19.3.1
+Distribution: mx
+Urgency: medium
+Maintainer: dolphinoracle <dolphinoracle@gmail.com>
+Changed-By: Adrian <adrian@mxlinux.org>
+Description:
+ mx-installer - Customizable GUI installer for MX Linux and antiX Linux
+Changes:
+ gazelle-installer (19.3.1) mx; urgency=medium
+ .
+   * list all ESPs when installing GRUB
+   * renamed "root" to "PBR"; allow installing GRUB on any partition
+   * replace /home/demo with /home/newuser when preserving changes
+Checksums-Sha1:
+ 8aa802859c22b44dc0387a2a88691ce9a95823d7 1220 gazelle-installer_19.3.1.dsc
+ f8a97654ce1b32ad03b13d2776c011ff48c7ea22 174756 gazelle-installer_19.3.1.tar.xz
+ 50852b9777c73b61e341a91262c68b2081655f27 11405 gazelle-installer_19.3.1_amd64.buildinfo
+ f641b1490add5a6211e62e5d40b592497a51db26 266254 mx-installer_19.3.1_amd64.deb
+Checksums-Sha256:
+ 8cfabb594918ce339cc10749c19ab524cc5c463ce086b13b661f0e501eec6f50 1220 gazelle-installer_19.3.1.dsc
+ e849e1ced6b3622acd4dd9433f957b507626fb72e6efa3528c70cf78de56ba61 174756 gazelle-installer_19.3.1.tar.xz
+ 0a380417117c295075cde4de89da214d64ccead252fdcfc00665c70e62e57f5e 11405 gazelle-installer_19.3.1_amd64.buildinfo
+ 58adf8ba17b593729288878eb423dddd3c3c3529fa0495e4f5ead1958645c0dd 266254 mx-installer_19.3.1_amd64.deb
+Files:
+ d18393316048ba01d69404a7e7dcbb94 1220 system optional gazelle-installer_19.3.1.dsc
+ 7a13562e5eec4d0e88a0c6a6b29ee5e3 174756 system optional gazelle-installer_19.3.1.tar.xz
+ 808d623bae55eb2bb79b15ae30b9f76e 11405 system optional gazelle-installer_19.3.1_amd64.buildinfo
+ f71af217c448d28243b8744ecba61be8 266254 system optional mx-installer_19.3.1_amd64.deb
+
+-----BEGIN PGP SIGNATURE-----
+
+iQFHBAEBCAAxFiEE8ndToY6S45N+YzXncJOMeAZ57pgFAlybqsgTHGFkcmlhbkBt
+eGxpbnV4Lm9yZwAKCRBwk4x4BnnumBrVB/9HVf5sFDBGs19JAh6MGTlJooJZ/13m
+UHel9o3AlzpNu5umElIW+I3XbKZ/d2wLt93xisLzC5d1+B8w2QxrnFFxp3RH8P01
+hYLEPkyB9aQuI5QwRsAn2FaHkerkSSUbLu6L+XhO/1xEcWlN5+SK3D2jL/llnrD2
+59HsVH89oXcBVcRm+eksy7ywKjh428mKymliEMi40PEiz16Q5iT17CdhdsYm39Qn
+t0A1UsN1M2yMdozjJ+sO5VES/ELyyeD0zfEyNk7mawTedw31U0Fsq/q78oWedeu2
+cwXenfDYe3mn5cm7uD2jZObK2687JCb53kql58I9MA9Ycv5r44SJ708C
+=izDu
+-----END PGP SIGNATURE-----
