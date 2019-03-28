@@ -1,3 +1,9 @@
+gazelle-installer (19.3.2) mx; urgency=medium
+
+  * select ESP by default if booted on UEFI system
+
+ -- Adrian <adrian@mxlinux.org>  Wed, 27 Mar 2019 20:54:59 -0400
+
 gazelle-installer (19.3.1) mx; urgency=medium
 
   * list all ESPs when installing GRUB
