@@ -1,3 +1,10 @@
+gazelle-installer (19.4) mx; urgency=medium
+
+  * added encryption advanced settings
+  * updated translations 
+
+ -- Adrian <adrian@mxlinux.org>  Fri, 05 Apr 2019 11:14:36 -0400
+
 gazelle-installer (19.3.2) mx; urgency=medium
 
   * select ESP by default if booted on UEFI system
