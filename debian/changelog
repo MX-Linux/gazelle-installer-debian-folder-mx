@@ -1,3 +1,18 @@
+gazelle-installer (19.5~1) UNRELEASED; urgency=medium
+
+  * time-saving branch: enter user information while copying files
+  * fixed some user account issues
+  * GUI stability improvement
+  * reduce CLI spam
+  * improve copy progress update
+  * simplified the copy and delete process handling code
+  * build the service list before the install starts
+  * implement the automatic exit action options
+  * improve password box red and green contrast
+  * various fixes
+
+ -- Adrian <adrian@mxlinux.org>  Thu, 02 May 2019 13:36:02 -0400
+
 gazelle-installer (19.4) mx; urgency=medium
 
   * added encryption advanced settings
