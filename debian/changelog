@@ -10,6 +10,8 @@ gazelle-installer (19.5~1) UNRELEASED; urgency=medium
   * implement the automatic exit action options
   * improve password box red and green contrast
   * various fixes
+  * remove logo from button bar
+  * change icon
 
  -- Adrian <adrian@mxlinux.org>  Thu, 02 May 2019 13:36:02 -0400
 
