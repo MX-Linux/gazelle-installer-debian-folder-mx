@@ -1,4 +1,4 @@
-gazelle-installer (19.5~1) UNRELEASED; urgency=medium
+gazelle-installer (19.5~2) UNRELEASED; urgency=medium
 
   * time-saving branch: enter user information while copying files
   * fixed some user account issues
@@ -12,8 +12,11 @@ gazelle-installer (19.5~1) UNRELEASED; urgency=medium
   * various fixes
   * remove logo from button bar
   * change icon
+  * Moved the disk check into the installation phase
+  * Revamped the error handling for faster abortions. This makes abortions less likely to corrupt data
+  * Lock the entire page when busy, rather than just specific controls. Indicate to the user when busy by changing the cursor to suit.
 
- -- Adrian <adrian@mxlinux.org>  Thu, 02 May 2019 13:36:02 -0400
+ -- Adrian <adrian@mxlinux.org>  Sat, 04 May 2019 13:29:38 -0400
 
 gazelle-installer (19.4) mx; urgency=medium
 
