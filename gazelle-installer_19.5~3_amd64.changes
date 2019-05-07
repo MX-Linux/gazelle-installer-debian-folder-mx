@@ -32,32 +32,32 @@ Changes:
    * Revamped the error handling for faster abortions. This makes abortions less likely to corrupt data
    * Lock the entire page when busy, rather than just specific controls. Indicate to the user when busy by changing the cursor to suit.
 Checksums-Sha1:
- 7243c982f8d3e0ab4149ccbec137627ffd8205ad 1220 gazelle-installer_19.5~3.dsc
- b71f4ed4862a8f47d06592218ac80704b4fc687e 190580 gazelle-installer_19.5~3.tar.xz
- 3a5877e7c3edc2a4cd278127b8dcbf1a216e980a 11560 gazelle-installer_19.5~3_amd64.buildinfo
- f506409207c15ade8db8aa9dfc6b77f59b666b7d 1120314 mx-installer-dbgsym_19.5~3_amd64.deb
- 1439b832b6c58ad71a0e802ff28800c340761103 261992 mx-installer_19.5~3_amd64.deb
+ ace16c4ce90f194d8213a9a4c60aae1cad9dd756 1220 gazelle-installer_19.5~3.dsc
+ 5ac71f1d1691b3601027c7c2dc8b7436769b2f42 190704 gazelle-installer_19.5~3.tar.xz
+ 511febd8871471ab3fd7f0310d06f67f332673d5 11276 gazelle-installer_19.5~3_amd64.buildinfo
+ 39b3860c5c7015d9304b780d254e02852ba9290a 1120778 mx-installer-dbgsym_19.5~3_amd64.deb
+ bcb9fbcad644f926107df6443181b71f98091380 261976 mx-installer_19.5~3_amd64.deb
 Checksums-Sha256:
- 3cea0091772055b73c2745591d2917146929032dbad3a9250eda2bdb2014a952 1220 gazelle-installer_19.5~3.dsc
- e27a9826c050b4867edf7d89badb9ceb927ec31d8622d934d7b95292be0b408d 190580 gazelle-installer_19.5~3.tar.xz
- 60a69fef7c2b3027d27f0776427bc4989b553d0b19eb2ddf4a731223c6c67e44 11560 gazelle-installer_19.5~3_amd64.buildinfo
- ffa5fe4b08cbcba466793793e2b771f4ed9318d3e4b4a8b3f4f689fc93d88f88 1120314 mx-installer-dbgsym_19.5~3_amd64.deb
- a756e60a6d9c48871f9976b2a598573727295637fe801d340cfd68f14cd5376b 261992 mx-installer_19.5~3_amd64.deb
+ 17bca3ea4757aa67ebc2fc821b30054aa69ee303e36162fd2dc8778b088d3943 1220 gazelle-installer_19.5~3.dsc
+ 678818c8f0b783f144754edf6d16a67130e59d6255c98563ca5b07d31f820fe2 190704 gazelle-installer_19.5~3.tar.xz
+ 56b912fec3d1e5d9b6cd73a9509e11d44c380542d63d872588abd9436fc02db7 11276 gazelle-installer_19.5~3_amd64.buildinfo
+ 1c0bcc42855fb347944388411bef362a4912d277e5d93735d02bcc380e901ebe 1120778 mx-installer-dbgsym_19.5~3_amd64.deb
+ 5471f629dc181e17a12a029bd0093a5f449442626c2db80c8cf435285233546f 261976 mx-installer_19.5~3_amd64.deb
 Files:
- ab3ee29d9e024bdc985102c956891617 1220 system optional gazelle-installer_19.5~3.dsc
- 517838fa5f9bdaf7754411bd1a7529da 190580 system optional gazelle-installer_19.5~3.tar.xz
- 013fb1df9eac20d4af388d63118c1800 11560 system optional gazelle-installer_19.5~3_amd64.buildinfo
- 5d97cf32758d0c1a07e2fdfef62e2e95 1120314 debug optional mx-installer-dbgsym_19.5~3_amd64.deb
- 20dab4e788d5a67e6789b817374e3dd2 261992 system optional mx-installer_19.5~3_amd64.deb
+ d438e6ee51a825eeee0e6ae60e3bb94c 1220 system optional gazelle-installer_19.5~3.dsc
+ aead841765b2eba766fcc884185c8c5b 190704 system optional gazelle-installer_19.5~3.tar.xz
+ dc02cd70f4432a50ad4b05fdbbf8cb61 11276 system optional gazelle-installer_19.5~3_amd64.buildinfo
+ 92437746fdf8185bbfd9de8e60834539 1120778 debug optional mx-installer-dbgsym_19.5~3_amd64.deb
+ 9cdc76f1d734cf98c7dfbbdb65553d62 261976 system optional mx-installer_19.5~3_amd64.deb
 
 -----BEGIN PGP SIGNATURE-----
 
-iQFHBAEBCAAxFiEE8ndToY6S45N+YzXncJOMeAZ57pgFAlzR+10THGFkcmlhbkBt
-eGxpbnV4Lm9yZwAKCRBwk4x4BnnumIXhB/9tLsaCQ9yWBKoziKLGvQ7mUSq/PP2A
-h/93YMRCE7u7Qghv0p35GnQugAK83hdjjRV5C+oY1zztDzAOI3jGJ8+ZSSZFnzd6
-hiNjgZngiPjotdcDOtXImJriupP0g35Y4TCrP7ZKOG7IqI7dZznO9tP0aghVeAbd
-p9A5Q6fSEfWdRNivKub5CckReS1DQPGHVo1Jc0g7T8VGJSTnlcslpmqmgT9DLCj+
-oeg8naspYVzfFzxAc1RaGi6pnDCXu70ggrQcixL+FrtlIylRdf30sq2jWcc8M4w8
-sX2VCLM6o9TNF/Ha872txcUa14DZ3ZWAuxSIHi/uq0IdksQwzSk/D+5Y
-=WvVQ
+iQFHBAEBCAAxFiEE8ndToY6S45N+YzXncJOMeAZ57pgFAlzSBewTHGFkcmlhbkBt
+eGxpbnV4Lm9yZwAKCRBwk4x4BnnumLW4B/9d8da9u4Ihp1+5M/hByymAfxsE+heA
+7hHVfiiL4hsDTHavrwfE8fCD1yIY31pfFYFpUtAa2Ktl2dmhEPPLjxOO0gRA219H
+9XdP8kYtQ1SnviKkKrwS1GkBYn+2EoXNO674BpxUPLvi+17R6TneaQetKgG6mF8f
+Iw1nef0UwcRwDcfvpodvkpXk/ZEtPCmYTGicuzUz5DHZLsezswEoPli6wjvlklkZ
+Xjm2VJ/acu+t9aWuiVxSDS4ysuBfzXehfB+QMw94a+2xBlxhUbX6CVYnSAiX4gy+
+pwhhahUVpfdb6DkosIg3bQST6DSEpzjWnLtgGa+iy2C2K3pTr8W41s/0
+=ulEk
 -----END PGP SIGNATURE-----
