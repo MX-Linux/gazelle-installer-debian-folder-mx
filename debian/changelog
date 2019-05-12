@@ -1,4 +1,4 @@
-gazelle-installer (19.5~5) UNRELEASED; urgency=medium
+gazelle-installer (19.5~6) UNRELEASED; urgency=medium
 
   * time-saving branch: enter user information while copying files
   * fixed some user account issues
@@ -18,7 +18,7 @@ gazelle-installer (19.5~5) UNRELEASED; urgency=medium
   * Install GRUB at the end so that recovery is practical if it fails
   * Split the EFI GRUB install into two steps. Fail softly if NVRAM boot variable update fails.
 
- -- Adrian <adrian@mxlinux.org>  Fri, 10 May 2019 10:51:48 -0400
+ -- Adrian <adrian@mxlinux.org>  Fri, 10 May 2019 21:06:46 -0400
 
 gazelle-installer (19.4) mx; urgency=medium
 
