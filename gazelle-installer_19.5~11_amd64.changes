@@ -1,0 +1,64 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA256
+
+Format: 1.8
+Date: Tue, 14 May 2019 11:58:09 -0400
+Source: gazelle-installer
+Binary: mx-installer
+Architecture: source amd64
+Version: 19.5~11
+Distribution: UNRELEASED
+Urgency: medium
+Maintainer: dolphinoracle <dolphinoracle@gmail.com>
+Changed-By: Adrian <adrian@mxlinux.org>
+Description:
+ mx-installer - Customizable GUI installer for MX Linux and antiX Linux
+Changes:
+ gazelle-installer (19.5~11) UNRELEASED; urgency=medium
+ .
+   * time-saving branch: enter user information while copying files
+   * fixed some user account issues
+   * GUI stability improvement
+   * reduce CLI spam
+   * improve copy progress update
+   * simplified the copy and delete process handling code
+   * build the service list before the install starts
+   * implement the automatic exit action options
+   * improve password box red and green contrast
+   * remove logo from button bar
+   * change icon
+   * Moved the disk check into the installation phase
+   * Revamped the error handling for faster abortions. This makes abortions less likely to corrupt data
+   * Lock the entire page when busy, rather than just specific controls. Indicate to the user when busy by changing the cursor to suit.
+   * Install GRUB at the end so that recovery is practical if it fails
+   * Split the EFI GRUB install into two steps. Fail softly if NVRAM boot variable update fails.
+Checksums-Sha1:
+ b392dda1711a717341ce9385dd69b91ab2fe994e 1224 gazelle-installer_19.5~11.dsc
+ eb9f8ca63b80b1f8183b160e9ed268c06092c21e 193384 gazelle-installer_19.5~11.tar.xz
+ c2cebaf261f274c62e6cb61f1ac1830c16272185 11571 gazelle-installer_19.5~11_amd64.buildinfo
+ 091d69449af072512c22583aa52e899b60437d73 1109900 mx-installer-dbgsym_19.5~11_amd64.deb
+ 10c159899d9e8d07a0df1787d390c3ac1ba1f24f 287774 mx-installer_19.5~11_amd64.deb
+Checksums-Sha256:
+ bfc42087b3b2affe77358259d8b8c8c1ff5307c46e3e52a1a63b5bb13b9aa290 1224 gazelle-installer_19.5~11.dsc
+ 80b79fbc485921efd3f955999ff3b39fb15c71867cf581028039d3685c1b073c 193384 gazelle-installer_19.5~11.tar.xz
+ f54cfce68436a7f3140995a3567263fd92ff008716300513f539615e861c6c53 11571 gazelle-installer_19.5~11_amd64.buildinfo
+ 0bbcf128f9f547f60c42e983cba1279649246428c2b61491335f9bc491cd356e 1109900 mx-installer-dbgsym_19.5~11_amd64.deb
+ 2f9939dd18f8573f9560f3e5dad4a0a7e0033f5ad438e032c7922e5eda1ea966 287774 mx-installer_19.5~11_amd64.deb
+Files:
+ a0cb5c68ee7c66fffd201c9c3fadf673 1224 system optional gazelle-installer_19.5~11.dsc
+ 012502510778d3ceddffb51cd1b89d1d 193384 system optional gazelle-installer_19.5~11.tar.xz
+ ccf8d2505a523f430e0845af7f5b5d55 11571 system optional gazelle-installer_19.5~11_amd64.buildinfo
+ 1e7b2be5d3096a8f9889d5b9b84107c7 1109900 debug optional mx-installer-dbgsym_19.5~11_amd64.deb
+ 17fed2456aa148e6624666ab22524082 287774 system optional mx-installer_19.5~11_amd64.deb
+
+-----BEGIN PGP SIGNATURE-----
+
+iQFHBAEBCAAxFiEE8ndToY6S45N+YzXncJOMeAZ57pgFAlza5gATHGFkcmlhbkBt
+eGxpbnV4Lm9yZwAKCRBwk4x4BnnumJbSCACzhVuTbd5BlaGZ0a1saQFdVAaZsNpy
+PoZgT6ZGiPerMNjN3O/xxqzKZR/Nfvj4L6gf5/LGo+lMWS4OjzXOifWcID/ZPmsW
+0KKddPpQjAisqrCA0QfFlOxD0kLHMT3QdgcYd8pCgTHlYaxbaTXyDdMqaHZwC5ZF
+TnES0e4haDrIC8/+tVXYDZySPdg6CoJ4ZObArrxNeKWTPOz/bOe2xQwrTOZHK3av
+Uft45ddWAAWkTH9uJhjVzYEzkfeHDtRq5RKvq6sL6EHFEKKNT7rHqpyecPfAjCxV
+CshVS6tWta29Odxri49FZ3I/aotc1IjdiSjJEBssliLtH+lVlslphjz3
+=f3eO
+-----END PGP SIGNATURE-----
