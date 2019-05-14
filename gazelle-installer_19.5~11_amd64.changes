@@ -33,32 +33,32 @@ Changes:
    * Install GRUB at the end so that recovery is practical if it fails
    * Split the EFI GRUB install into two steps. Fail softly if NVRAM boot variable update fails.
 Checksums-Sha1:
- b392dda1711a717341ce9385dd69b91ab2fe994e 1224 gazelle-installer_19.5~11.dsc
- eb9f8ca63b80b1f8183b160e9ed268c06092c21e 193384 gazelle-installer_19.5~11.tar.xz
- c2cebaf261f274c62e6cb61f1ac1830c16272185 11571 gazelle-installer_19.5~11_amd64.buildinfo
- 091d69449af072512c22583aa52e899b60437d73 1109900 mx-installer-dbgsym_19.5~11_amd64.deb
- 10c159899d9e8d07a0df1787d390c3ac1ba1f24f 287774 mx-installer_19.5~11_amd64.deb
+ 9bbcbed6c64c7cd071ac183838109fd070772afe 1224 gazelle-installer_19.5~11.dsc
+ bb0323e5491f74db7c6f508afb0c695ad2eeb219 193396 gazelle-installer_19.5~11.tar.xz
+ 201403319b5ec40199d8fe4359620c50b252aa95 11571 gazelle-installer_19.5~11_amd64.buildinfo
+ f0bd9c5de5ccbafbf01262f040bb185c91cb5c33 1109976 mx-installer-dbgsym_19.5~11_amd64.deb
+ 65448919d7fb6f5033c88f4ae929d01ac3686bcd 287910 mx-installer_19.5~11_amd64.deb
 Checksums-Sha256:
- bfc42087b3b2affe77358259d8b8c8c1ff5307c46e3e52a1a63b5bb13b9aa290 1224 gazelle-installer_19.5~11.dsc
- 80b79fbc485921efd3f955999ff3b39fb15c71867cf581028039d3685c1b073c 193384 gazelle-installer_19.5~11.tar.xz
- f54cfce68436a7f3140995a3567263fd92ff008716300513f539615e861c6c53 11571 gazelle-installer_19.5~11_amd64.buildinfo
- 0bbcf128f9f547f60c42e983cba1279649246428c2b61491335f9bc491cd356e 1109900 mx-installer-dbgsym_19.5~11_amd64.deb
- 2f9939dd18f8573f9560f3e5dad4a0a7e0033f5ad438e032c7922e5eda1ea966 287774 mx-installer_19.5~11_amd64.deb
+ ff6015c3511cbea4a1ee9a55c87071d385f25d2ba884dba2ca2a6d780697efe4 1224 gazelle-installer_19.5~11.dsc
+ 9c95f0eeb6cb8f63ab4e2f58d190026e814f4aa86c91e553b1f6364f8abdb634 193396 gazelle-installer_19.5~11.tar.xz
+ 754f9835134a49eefa00b14cd1babd3df4fcebbb2b15fa89d2fdf575ff0d9933 11571 gazelle-installer_19.5~11_amd64.buildinfo
+ 761c8771df14dcddea2faa37f119f1cb61e44751e5a8362eb8fc5516a87c5fe2 1109976 mx-installer-dbgsym_19.5~11_amd64.deb
+ 73c65e04242e28759fc98bd4e9d85808722e5aa705f2f3d21bf6c4286577e271 287910 mx-installer_19.5~11_amd64.deb
 Files:
- a0cb5c68ee7c66fffd201c9c3fadf673 1224 system optional gazelle-installer_19.5~11.dsc
- 012502510778d3ceddffb51cd1b89d1d 193384 system optional gazelle-installer_19.5~11.tar.xz
- ccf8d2505a523f430e0845af7f5b5d55 11571 system optional gazelle-installer_19.5~11_amd64.buildinfo
- 1e7b2be5d3096a8f9889d5b9b84107c7 1109900 debug optional mx-installer-dbgsym_19.5~11_amd64.deb
- 17fed2456aa148e6624666ab22524082 287774 system optional mx-installer_19.5~11_amd64.deb
+ 9f29dd05d1fa50259ead86e2a656d5a6 1224 system optional gazelle-installer_19.5~11.dsc
+ c760673e2a972484eb6957ea47d5433d 193396 system optional gazelle-installer_19.5~11.tar.xz
+ c148e2e60e3c65b68bf60d85cdb46e79 11571 system optional gazelle-installer_19.5~11_amd64.buildinfo
+ d512014f9f9f099f9c19b515a23cfa90 1109976 debug optional mx-installer-dbgsym_19.5~11_amd64.deb
+ d6c45c044dd7ba299930e18f08a59595 287910 system optional mx-installer_19.5~11_amd64.deb
 
 -----BEGIN PGP SIGNATURE-----
 
-iQFHBAEBCAAxFiEE8ndToY6S45N+YzXncJOMeAZ57pgFAlza5gATHGFkcmlhbkBt
-eGxpbnV4Lm9yZwAKCRBwk4x4BnnumJbSCACzhVuTbd5BlaGZ0a1saQFdVAaZsNpy
-PoZgT6ZGiPerMNjN3O/xxqzKZR/Nfvj4L6gf5/LGo+lMWS4OjzXOifWcID/ZPmsW
-0KKddPpQjAisqrCA0QfFlOxD0kLHMT3QdgcYd8pCgTHlYaxbaTXyDdMqaHZwC5ZF
-TnES0e4haDrIC8/+tVXYDZySPdg6CoJ4ZObArrxNeKWTPOz/bOe2xQwrTOZHK3av
-Uft45ddWAAWkTH9uJhjVzYEzkfeHDtRq5RKvq6sL6EHFEKKNT7rHqpyecPfAjCxV
-CshVS6tWta29Odxri49FZ3I/aotc1IjdiSjJEBssliLtH+lVlslphjz3
-=f3eO
+iQFHBAEBCAAxFiEE8ndToY6S45N+YzXncJOMeAZ57pgFAlza6BATHGFkcmlhbkBt
+eGxpbnV4Lm9yZwAKCRBwk4x4BnnumMQ1B/4+ctSUPNKK6IReMssXzbx6MKK+CeB3
+L2/KtmUyzbiIoUqu47e9KbrMJEyGsXOB1bSvixtqBnBsO2uVQd1qd7d4zZFfSFav
+Xc3mTpET6eeMLq/vFOTzh2w9s7Pf830zr+FC0HtUGewfhcH8pBOfotFa+BiyupnX
+q7fA0BqC0F19kQe/wnMclvmAeHPaEixmf7K7D/God2X6qa0+BR9bl0KFRhyIx36j
+aIxwcD5vvE616KktXb+29TJURuWN48lj9Q8XjHB8mE7t77AbEh7+BavY9VQkCTUm
+vUEBSu8o2EVSjCie+UEi6NXyd5OYRzXRVfZfrBCIOcvTNXLEqV2tepyR
+=HNzs
 -----END PGP SIGNATURE-----
