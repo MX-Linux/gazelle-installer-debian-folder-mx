@@ -1,4 +1,4 @@
-gazelle-installer (19.5~13) UNRELEASED; urgency=medium
+gazelle-installer (19.5~14) UNRELEASED; urgency=medium
 
   * time-saving branch: enter user information while copying files
   * fixed some user account issues
@@ -16,9 +16,9 @@ gazelle-installer (19.5~13) UNRELEASED; urgency=medium
   * Lock the entire page when busy, rather than just specific controls. Indicate to the user when busy by changing the cursor to suit.
   * Install GRUB at the end so that recovery is practical if it fails
   * Split the EFI GRUB install into two steps. Fail softly if NVRAM boot variable update fails. 
-  * Fix disble Samba 
+  * Fix disble Samba  
 
- -- Adrian <adrian@mxlinux.org>  Tue, 14 May 2019 12:56:44 -0400
+ -- Adrian <adrian@mxlinux.org>  Tue, 14 May 2019 21:23:05 -0400
 
 gazelle-installer (19.4) mx; urgency=medium
 
