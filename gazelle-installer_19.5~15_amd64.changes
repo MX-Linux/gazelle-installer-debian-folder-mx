@@ -35,32 +35,32 @@ Changes:
    * Fix disble Samba
    * Add /boot/efi manual mount point for the ESP
 Checksums-Sha1:
- 61fffd2cacb982cb6108f8e980e629c4a3a62970 1224 gazelle-installer_19.5~15.dsc
- f9c1cfbdbe233adba7651af965fd68de9163697f 193836 gazelle-installer_19.5~15.tar.xz
- ae11179201f2414eec28ecb5a7ac0aff1cf4513a 11287 gazelle-installer_19.5~15_amd64.buildinfo
- 8eee223619a05969e44d34afe74310046be6c0f1 1111594 mx-installer-dbgsym_19.5~15_amd64.deb
- d22bffc1a132fe8413de4ba4ee667ab36309dd23 287806 mx-installer_19.5~15_amd64.deb
+ 99a40875dccb45c4ba9658691746f8fabf5e9c61 1224 gazelle-installer_19.5~15.dsc
+ f989344ca0159e54754ef033516f5c4f424aadbf 257512 gazelle-installer_19.5~15.tar.xz
+ 5f8664fca68bac876310335a080837809fca57d7 11287 gazelle-installer_19.5~15_amd64.buildinfo
+ bb8a711b11c33fc6ad19a0e9100f1680274ce110 1111670 mx-installer-dbgsym_19.5~15_amd64.deb
+ 5601b7ef40d0fa59acdb50574b8a27e5e5637375 288056 mx-installer_19.5~15_amd64.deb
 Checksums-Sha256:
- 61e52b0087e8ac711ddf293311ee04cbe4c004c05851a63c525b3dbcba6dab08 1224 gazelle-installer_19.5~15.dsc
- 56a4838be6e559f4defb3459cad89b5cc90bc9b009a07ce2d7d8abdfbb75e2ac 193836 gazelle-installer_19.5~15.tar.xz
- ae9f71275504874a0aae87b7a2e8ba77c994b294c60aaa05b5d183afdcacc987 11287 gazelle-installer_19.5~15_amd64.buildinfo
- 626a2d534c22603eafb0f80dd3a91fe6c6facf149e7d0daf91641fdc904daeb2 1111594 mx-installer-dbgsym_19.5~15_amd64.deb
- 1e6d1d0ab4670c216f3ff0227226869e75974d6a9691873fe3eb0cdfaf1f521e 287806 mx-installer_19.5~15_amd64.deb
+ e2912c3e77d706cad08b872b28aa814624e2ad30b46ba96f679274a7704962b9 1224 gazelle-installer_19.5~15.dsc
+ fafa420a50bbc3a68cf749baaabc357d3b0bbc652b35b060128f5cf250e1218b 257512 gazelle-installer_19.5~15.tar.xz
+ bc58f822556ff4155fda45055c1f9d7a846e65cea513e4c32793149d4f869e26 11287 gazelle-installer_19.5~15_amd64.buildinfo
+ 3805fca93c48cdaec0af0a4b6dcbc7abdbdee14ef7f2501ae0f7cac238d541eb 1111670 mx-installer-dbgsym_19.5~15_amd64.deb
+ 19ab07dca90119eb29f75a8ea4df6a98b7ef46361a99502aa3829253e88e01e5 288056 mx-installer_19.5~15_amd64.deb
 Files:
- 66309f09df018be546faa186a88c3783 1224 system optional gazelle-installer_19.5~15.dsc
- 2ca13e745e9309fff188cca926069533 193836 system optional gazelle-installer_19.5~15.tar.xz
- 46c64bf8dad4b06cde7c98862d2ce3cb 11287 system optional gazelle-installer_19.5~15_amd64.buildinfo
- b8ca5a8d8a84cb96796294ece76ba01e 1111594 debug optional mx-installer-dbgsym_19.5~15_amd64.deb
- d89407b32c0f579976568e0024093f21 287806 system optional mx-installer_19.5~15_amd64.deb
+ 8980cc9fa889af7b13eeade8b732404e 1224 system optional gazelle-installer_19.5~15.dsc
+ a59e1b29ee9cc5199d99c67f9bc6bb72 257512 system optional gazelle-installer_19.5~15.tar.xz
+ 32e5300ae4432874884e9051a9b854bf 11287 system optional gazelle-installer_19.5~15_amd64.buildinfo
+ 6459af63892ba0fbcf4753b03b91a106 1111670 debug optional mx-installer-dbgsym_19.5~15_amd64.deb
+ c3558986ba067502b17abf41810babb1 288056 system optional mx-installer_19.5~15_amd64.deb
 
 -----BEGIN PGP SIGNATURE-----
 
-iQFHBAEBCAAxFiEE8ndToY6S45N+YzXncJOMeAZ57pgFAlzf5RETHGFkcmlhbkBt
-eGxpbnV4Lm9yZwAKCRBwk4x4BnnumNAYB/97AMhI1vSVAxEh9vwvB0iRhyizvLNr
-fyvU1ApHDwbk//TbK1mne5aiL1Jtgpko+bWprAgvqKKnpvjZzIUx1l2Ztf3sAv+J
-HXgxE0VhWRkIEc51rwd1lj1tVL8rkM0hipY1IVzXPzPY3l5ali9TxVyft1rM8a2/
-spXnozTnyscv5T7b4qBicCyvQxHNwH+5kvsLv9k/Fsbns5KIz/fgwsTmvteBsWEy
-sdGhLQIsXJZk4Pek7d4amU8JfUicNcR6HbinVx76cOGSPu7uvtdEED7VtFD54t4l
-1j6BGfKbWBDdmI3z/N1Ju5rUnaug+imgMoPanc6B3srfw5bm96pzJdDx
-=xX+t
+iQFHBAEBCAAxFiEE8ndToY6S45N+YzXncJOMeAZ57pgFAlzgJLgTHGFkcmlhbkBt
+eGxpbnV4Lm9yZwAKCRBwk4x4BnnumCXZB/4wnSO2WePFOJJArhiR4EnxwIu5wppY
+wpgJCuUnWIJlDCfoUvsjYnZJJq7jlbuNWL2JKpVOvVdh8uE4Zisl4b9WgQR+xHvd
+dWw3f+DaG/4PFKqjUk+6jcegArJHWROUlConDpPlQgjiFhJ33w9f8SMG4oFt3FEe
+zKGM+SDwgvyqfXSFJGoHp408tRnI3YNljNPgJrwLGy/OGz6mQ/XWzqlBYB3FtsHa
+LygZvNS5l/67OY+LbOqwtO10yGa5dTzqZSZAmu4T7FdbsXDbpWugGg4dGE7LkTlH
+gVfAp3aaW/7YdupKinhsMJp+Zz8LqnVpW4LkkufGqyjkaGWsEjqXwShe
+=3yya
 -----END PGP SIGNATURE-----
