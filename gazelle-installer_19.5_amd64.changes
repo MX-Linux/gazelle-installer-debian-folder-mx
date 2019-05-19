@@ -16,52 +16,62 @@ Description:
 Changes:
  gazelle-installer (19.5) mx; urgency=medium
  .
-   * time-saving branch: enter user information while copying files
-   * fixed some user account issues
-   * GUI stability improvement
-   * reduce CLI spam
-   * improve copy progress update
-   * simplified the copy and delete process handling code
-   * build the service list before the install starts
-   * implement the automatic exit action options
+   * time-saver: user information can now be entered and validated during the installation process.
+   * significantly improved GUI stability and responsiveness
+   * improved progress bar layout and accuracy
+   * integrated GRUB installation progress into the main GUI
    * improve password box red and green contrast
-   * remove logo from button bar
-   * change icon
-   * Moved the disk check into the installation phase
-   * Revamped the error handling for faster abortions. This makes abortions less likely to corrupt data
-   * Lock the entire page when busy, rather than just specific controls. Indicate to the user when busy by changing the cursor to suit.
-   * Install GRUB at the end so that recovery is practical if it fails
-   * Split the EFI GRUB install into two steps. Fail softly if NVRAM boot variable update fails.
-   * Fix disble Samba
-   * Add /boot/efi manual mount point for the ESP
-   * Present available locales in a format that the people can understand
+   * lock the page when busy and change the cursor to suit
+   * present available locales in a format that the people can understand
+   * confirm if the window close button is clicked during installation
+   * improve usability with dark themes and small screens
+   * distribute hints text changes accross the whole range of the progress bar
+   * better indication of loading disk and partition information
+   * remove logo from button bar and change icon
+   * reduced seven confirmation message boxes down to two
+   * moved the disk SMART checks to the start of the installation phase
+   * moved old /home confirmation messages to the user validation step
+   * encrypted /home can now be preserved
+   * removed 2 character restriction from user names and passwords
+   * install GRUB at the end so that recovery is practical if it fails
+   * split the EFI GRUB install into two steps. Fail softly if NVRAM boot variable update fails.
+   * add /boot/efi auto mount point for the ESP like stock Debian.
+   * only set boot flags when necessary
+   * improve installer startup time
+   * reduce console spam
+   * fixed some user account issues
+   * improved abortion mechanism to reduce (but not eliminate) the chances of data corruption
+   * fix disble Samba
+   * simplified the copy and delete process handling code
+   * fixed: service management operations are performed on category labels
+   * numerous other bug fixes, improvements and changes
 Checksums-Sha1:
- 7e1376bcfeac76aa23ce572a772f50ecac23ba2f 1212 gazelle-installer_19.5.dsc
- 9e7543d9f0087a5e02cbf78001910c93fe79cc6d 197744 gazelle-installer_19.5.tar.xz
- 5a1cbeaa50d7b7e769acd8fb0585f348e1e3f918 11254 gazelle-installer_19.5_amd64.buildinfo
- 93c694943770817edf430425e48823b3b46fc4c8 1112640 mx-installer-dbgsym_19.5_amd64.deb
- a2ba485b0d1fc795105acd77f4c6228adddadb34 293692 mx-installer_19.5_amd64.deb
+ f594cf2d8ad39b5736e59365f1bf410bfbc27b4e 1212 gazelle-installer_19.5.dsc
+ c71671a603add4cbe4ed601907d7b0aaaed9c00f 197888 gazelle-installer_19.5.tar.xz
+ 7d8a307fdedfa8ca1d1467f4db8175de80afa0f4 11254 gazelle-installer_19.5_amd64.buildinfo
+ 93c280be1a33eedfa004866e9a74b332dd65db31 1112054 mx-installer-dbgsym_19.5_amd64.deb
+ 173f33274665f8d6f60917b9b33a7443595ccb32 293878 mx-installer_19.5_amd64.deb
 Checksums-Sha256:
- 150b60b7e9567aeaf01845661fc4967128e87d8415cbc0cc92b10acde03c0b8a 1212 gazelle-installer_19.5.dsc
- c28e1f91a36376fe38691fd259a045684b3b6c9edfacbc6827a8ac6076b7ca7c 197744 gazelle-installer_19.5.tar.xz
- 0287f5c1ea43fc6f50de946a4990eb7c959a0662c6323723841b1e8f03f8c202 11254 gazelle-installer_19.5_amd64.buildinfo
- b2377bdf8ba0c4a0f6ff1f6e08c2cbc3c0f22fe819aea27c8299920b765f1ff4 1112640 mx-installer-dbgsym_19.5_amd64.deb
- aefda5b48d80661e3fd7050a5bfc948633dbcd2606693cde310893597bf4fd51 293692 mx-installer_19.5_amd64.deb
+ 0815217aacd49fa32d321f6146ca19fb893695f376ae690c7f0f21fa32fc51d9 1212 gazelle-installer_19.5.dsc
+ ccd462e027d25d81b0f45f4726cc6153a98f3779fe6ea477c6933ee68ba60800 197888 gazelle-installer_19.5.tar.xz
+ 17102bacc65cecc91767428fe02d8317ae2b9f5b8324fd9385f4ab385966e2d1 11254 gazelle-installer_19.5_amd64.buildinfo
+ 719f6f4d8608ca39aaf09320cf5da07ce58af6581d65bbf9ffda6fb3733c8727 1112054 mx-installer-dbgsym_19.5_amd64.deb
+ 3c02e4c91ebc4a2401de0053508fcb3160412c06fd0b0227775bd8683c05b2ec 293878 mx-installer_19.5_amd64.deb
 Files:
- 693d9743c0ea4d889301237f67f51264 1212 system optional gazelle-installer_19.5.dsc
- c80b3d769d5fc47d34b48097233db88a 197744 system optional gazelle-installer_19.5.tar.xz
- 961898774eec05e42361a7313cb19519 11254 system optional gazelle-installer_19.5_amd64.buildinfo
- 75edeb1fc07a82a211863a23716406c5 1112640 debug optional mx-installer-dbgsym_19.5_amd64.deb
- 035d544bba962faf15fc4f9772df7d2b 293692 system optional mx-installer_19.5_amd64.deb
+ c14e088a81dfa928f68fd8fabaafb1e1 1212 system optional gazelle-installer_19.5.dsc
+ ac44f62f238a4cf5be67df93ce407c2b 197888 system optional gazelle-installer_19.5.tar.xz
+ ab5547346fc200391c445ca3f9f4a6dd 11254 system optional gazelle-installer_19.5_amd64.buildinfo
+ 5ff8c03ec0ab4a1faa92be377ac89ce2 1112054 debug optional mx-installer-dbgsym_19.5_amd64.deb
+ 009a590b3291c8036557118161b37a4b 293878 system optional mx-installer_19.5_amd64.deb
 
 -----BEGIN PGP SIGNATURE-----
 
-iQFHBAEBCAAxFiEE8ndToY6S45N+YzXncJOMeAZ57pgFAlzgyooTHGFkcmlhbkBt
-eGxpbnV4Lm9yZwAKCRBwk4x4BnnumAtCCACG9LfnstzxbQBVDLdr9f9/FzUc+uJT
-2r2dEF6+nvVv8FoXYuHLjgxWPhp+z0RtVETdpG2lztx14wSUSWdQjK2ECHRXj1hg
-FRDS8xMxVAA4IOLSp5ufGWk9yPh3fFWdbwKvLO7bV8vwQnO8a+QI2CX6ybg/xMEU
-soykVAn5Dj3FCoW6SjFWwpIYouhD18935xc29/SCKZq8svTcvDOXUGQx/3RUgffW
-/iORRcz+Kt7pblMcpFnCeFEUWrLIV7fiLWfnhh5Me7NruuBHFNKPkywYl3mBWkbF
-sH0d7PZvi0VlgKNMWuNi6poaGm7GvqT9g93h7KKSsthroOEDSgsIeoR0
-=5H25
+iQFHBAEBCAAxFiEE8ndToY6S45N+YzXncJOMeAZ57pgFAlzg7G0THGFkcmlhbkBt
+eGxpbnV4Lm9yZwAKCRBwk4x4BnnumOMlB/9Ki8XHwr2G9LgyM2J08xMyJOOHKHyX
+idGGNVhnbGEc+mJmT9hLhDrMOKzutXgR8R0MqPalKidw+GYTisbMm2AE7gWFxt8S
+tXgo+vn4ugt9yuUieSl4RxbEQ5gw0Vo1LNoJztUcQI/cunWfOeJMWD9v4F2BJ/wk
+z6sVLIZFuFlSoSo67NECVjXXpNPVGLsB76nCt/NaGDVDUhZwwhpoHP6jtQH81brZ
+0Rd6NWYqCbDUNRi5Rdiad+KX6CQQKnRbTglTZOM9yHTZXOr+HNwHcVFfLWS4xP9p
+4aBcT5fBLYG5zK0wfKVKBD6cPANuaoAIxrN2z79kPcj5jV0ip4ZIfQR5
+=OXJt
 -----END PGP SIGNATURE-----
