@@ -1,4 +1,4 @@
-gazelle-installer (19.5~15) UNRELEASED; urgency=medium
+gazelle-installer (19.5) mx; urgency=medium
 
   * time-saving branch: enter user information while copying files
   * fixed some user account issues
@@ -18,8 +18,9 @@ gazelle-installer (19.5~15) UNRELEASED; urgency=medium
   * Split the EFI GRUB install into two steps. Fail softly if NVRAM boot variable update fails. 
   * Fix disble Samba  
   * Add /boot/efi manual mount point for the ESP 
+  * Present available locales in a format that the people can understand
 
- -- Adrian <adrian@mxlinux.org>  Fri, 17 May 2019 19:35:18 -0400
+ -- Adrian <adrian@mxlinux.org>  Sat, 18 May 2019 23:13:59 -0400
 
 gazelle-installer (19.4) mx; urgency=medium
 
