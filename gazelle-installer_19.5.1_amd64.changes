@@ -1,0 +1,52 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA256
+
+Format: 1.8
+Date: Sun, 19 May 2019 10:49:53 -0400
+Source: gazelle-installer
+Binary: mx-installer
+Architecture: source amd64
+Version: 19.5.1
+Distribution: mx
+Urgency: medium
+Maintainer: dolphinoracle <dolphinoracle@gmail.com>
+Changed-By: Adrian <adrian@mxlinux.org>
+Description:
+ mx-installer - Customizable GUI installer for MX Linux and antiX Linux
+Changes:
+ gazelle-installer (19.5.1) mx; urgency=medium
+ .
+   * hide the Next arrow during Advanced Encryption and Services pages.
+   * change Next to OK when at Advanced Encryption Settings and Services pages.
+   * stash service selection depending on whether Back or Next is clicked.
+   * use the readlink(2) syscall instead of spawning a process.
+Checksums-Sha1:
+ 454409a2a69a5210450f511944f45be68da8a849 1220 gazelle-installer_19.5.1.dsc
+ 6ce2933047ba4f3af60901e39606298b8d15b825 198124 gazelle-installer_19.5.1.tar.xz
+ 11d51e52f940a90c7078f22ae7dfd71fdb01497d 11276 gazelle-installer_19.5.1_amd64.buildinfo
+ d77c30e5f63363bfe98a4febc0ddf7e3901f6e4d 1113898 mx-installer-dbgsym_19.5.1_amd64.deb
+ eaf4cd4f0dac1866b5761b9b76b36674206f62fd 294032 mx-installer_19.5.1_amd64.deb
+Checksums-Sha256:
+ fc03d1b2d0992ea51ffcd95dc6443269393d41902e69c4d59518a72477651d54 1220 gazelle-installer_19.5.1.dsc
+ d47870e9ce6bfd0cbb90c5ea739a5ff2f5db4fa35c6d604d8bf68ae0b3f65f64 198124 gazelle-installer_19.5.1.tar.xz
+ 66d234d984079d96f18b4fa2c77e78c43b4aebae864b8bfb9acf0e7e9fea11d2 11276 gazelle-installer_19.5.1_amd64.buildinfo
+ 718dafc78b0dc755d01ccb15dafcda863fcb83e82bb52c9b0093052df23398c2 1113898 mx-installer-dbgsym_19.5.1_amd64.deb
+ f93649d82a94c06472d12e23c53bf87969a940823a5063a89ddb3a1f65eeea37 294032 mx-installer_19.5.1_amd64.deb
+Files:
+ 2111f7523c53d68c9e7f2afc421634cc 1220 system optional gazelle-installer_19.5.1.dsc
+ c47abacdae8b616749966087bf31299b 198124 system optional gazelle-installer_19.5.1.tar.xz
+ 2c0caaa23903b31327990bf83eaaa910 11276 system optional gazelle-installer_19.5.1_amd64.buildinfo
+ 6136f25d23c8ae3029594ffa341f48b3 1113898 debug optional mx-installer-dbgsym_19.5.1_amd64.deb
+ 0224814c60d88bba3d92c1360bcc2b90 294032 system optional mx-installer_19.5.1_amd64.deb
+
+-----BEGIN PGP SIGNATURE-----
+
+iQFHBAEBCAAxFiEE8ndToY6S45N+YzXncJOMeAZ57pgFAlzhbfUTHGFkcmlhbkBt
+eGxpbnV4Lm9yZwAKCRBwk4x4BnnumCixCADN4CbnfyaISXMkjxf9Ho7qS94DXrRb
+luz9qcI8lC9ZZIxYVo0nkAmM31od+7CqSO5rGvIJkk+JOmZxknQyRsvMmPvI5Q7b
+fT40hhP/LLWexmeyU7iQv4GCgfpJJ+DD7QHwDGsow4LTLNiKSrpmwfJh6VqU/atn
+fQFYwA7kLFSlKMrRT5RKmW6vpQJlB8dxbcDHz0y/KZL4TadgEpS0fGYtRROystLo
+gtqH4BwggzKvIeTgoMU0jf4/uRnelnPMdR5b2XGtrSELwDlbHgbFdflM2zI4rEWR
+n+ydnVai/UyKJd/bVQ34/bjiZUtMUV9Jy2Z63izASkp3oqu+9Own1HhI
+=obxZ
+-----END PGP SIGNATURE-----

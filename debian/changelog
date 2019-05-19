@@ -1,3 +1,12 @@
+gazelle-installer (19.5.1) mx; urgency=medium
+
+  * hide the Next arrow during Advanced Encryption and Services pages. 
+  * change Next to OK when at Advanced Encryption Settings and Services pages.
+  * stash service selection depending on whether Back or Next is clicked.
+  * use the readlink(2) syscall instead of spawning a process.
+ 
+ -- Adrian <adrian@mxlinux.org>  Sun, 19 May 2019 10:49:53 -0400
+
 gazelle-installer (19.5) mx; urgency=medium
 
   * time-saver: user information can now be entered and validated during the installation process.
