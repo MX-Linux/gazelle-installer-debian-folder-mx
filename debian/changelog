@@ -1,24 +1,34 @@
 gazelle-installer (19.5) mx; urgency=medium
 
-  * time-saving branch: enter user information while copying files
-  * fixed some user account issues
-  * GUI stability improvement
-  * reduce CLI spam
-  * improve copy progress update
-  * simplified the copy and delete process handling code
-  * build the service list before the install starts
-  * implement the automatic exit action options
+  * time-saver: user information can now be entered and validated during the installation process.
+  * significantly improved GUI stability and responsiveness
+  * improved progress bar layout and accuracy
+  * integrated GRUB installation progress into the main GUI
   * improve password box red and green contrast
-  * remove logo from button bar
-  * change icon
-  * Moved the disk check into the installation phase
-  * Revamped the error handling for faster abortions. This makes abortions less likely to corrupt data
-  * Lock the entire page when busy, rather than just specific controls. Indicate to the user when busy by changing the cursor to suit.
-  * Install GRUB at the end so that recovery is practical if it fails
-  * Split the EFI GRUB install into two steps. Fail softly if NVRAM boot variable update fails. 
-  * Fix disble Samba  
-  * Add /boot/efi manual mount point for the ESP 
-  * Present available locales in a format that the people can understand
+  * lock the page when busy and change the cursor to suit
+  * present available locales in a format that the people can understand
+  * confirm if the window close button is clicked during installation
+  * improve usability with dark themes and small screens
+  * distribute hints text changes accross the whole range of the progress bar
+  * better indication of loading disk and partition information
+  * remove logo from button bar and change icon
+  * reduced seven confirmation message boxes down to two
+  * moved the disk SMART checks to the start of the installation phase
+  * moved old /home confirmation messages to the user validation step
+  * encrypted /home can now be preserved
+  * removed 2 character restriction from user names and passwords
+  * install GRUB at the end so that recovery is practical if it fails
+  * split the EFI GRUB install into two steps. Fail softly if NVRAM boot variable update fails.
+  * add /boot/efi auto mount point for the ESP like stock Debian.
+  * only set boot flags when necessary
+  * improve installer startup time
+  * reduce console spam
+  * fixed some user account issues
+  * improved abortion mechanism to reduce (but not eliminate) the chances of data corruption
+  * fix disble Samba
+  * simplified the copy and delete process handling code
+  * fixed: service management operations are performed on category labels
+  * numerous other bug fixes, improvements and changes
 
  -- Adrian <adrian@mxlinux.org>  Sat, 18 May 2019 23:13:59 -0400
 
