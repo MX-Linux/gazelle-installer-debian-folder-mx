@@ -1,3 +1,10 @@
+gazelle-installer (19.5.2) mx; urgency=medium
+
+  * fixed: nothing selected if the current system locale is not listed. Also deleted the 12h clock default.
+  * fixed: generated locales are not listed. No longer needs a locales.template file.
+
+ -- Adrian <adrian@mxlinux.org>  Mon, 20 May 2019 01:07:52 -0400
+
 gazelle-installer (19.5.1) mx; urgency=medium
 
   * hide the Next arrow during Advanced Encryption and Services pages. 
