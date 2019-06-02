@@ -4,8 +4,7 @@ Priority: optional
 Maintainer: dolphinoracle <dolphinoracle@gmail.com>
 Build-Depends:  qt5-default,
                 qttools5-dev-tools,
-                debhelper (>= 9.2),
-                libcmd
+                debhelper (>= 9.2)
 Standards-Version: 3.9.8
 Homepage: https://github.com/gazelle-installer
 

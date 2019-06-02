@@ -1,0 +1,52 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA256
+
+Format: 1.8
+Date: Sun, 02 Jun 2019 00:05:46 -0400
+Source: gazelle-installer
+Binary: mx-installer
+Architecture: source amd64
+Version: 19.6~1
+Distribution: UNRELEASED
+Urgency: medium
+Maintainer: dolphinoracle <dolphinoracle@gmail.com>
+Changed-By: Adrian <adrian@mxlinux.org>
+Description:
+ mx-installer - Customizable GUI installer for MX Linux and antiX Linux
+Changes:
+ gazelle-installer (19.6~1) UNRELEASED; urgency=medium
+ .
+   * fix hanging after closing.
+   * convert three old home message boxes into one.
+   * always show the user account step in pretend mode. Use all command-line arguments as pretend homes.
+   * execute sed only on copied files when saving Desktop changes
+Checksums-Sha1:
+ b4cdf1cc0fac9711ca571339cfa119d3dc1346fd 1212 gazelle-installer_19.6~1.dsc
+ 7126f8bf4be9cbc52a1bf3bcae6aeed2914a402a 196732 gazelle-installer_19.6~1.tar.xz
+ 6a5bbf64413b8ff941b322e21fd8aed5497e6eb3 11253 gazelle-installer_19.6~1_amd64.buildinfo
+ 7b6b7d46dca7837c20acf2dcc310b7b34fa3e8ac 803126 mx-installer-dbgsym_19.6~1_amd64.deb
+ 74409a44f8642476868eb13e9060f3304c9f5c04 275772 mx-installer_19.6~1_amd64.deb
+Checksums-Sha256:
+ 5d7a13e6e4bca501170148f4bfa702f61712aa4d388459f8d4d7c2d95c84fad1 1212 gazelle-installer_19.6~1.dsc
+ da4ea4f1fa06d430ceb9b6745175ed11d4cb3dc9e7b02a40518117295abed9cb 196732 gazelle-installer_19.6~1.tar.xz
+ 38b3cc223e08ecf6020c3165836fe336f4e53bdb00aea5ffa07dd6644e46890f 11253 gazelle-installer_19.6~1_amd64.buildinfo
+ d632e82c88c0dc0bba60e9902c851d1638d60631e7b82b942478b04a3034f811 803126 mx-installer-dbgsym_19.6~1_amd64.deb
+ 3a8de77ecf4ae839e53a61c814a8359b0415890675379e232d72d06247ab6ce2 275772 mx-installer_19.6~1_amd64.deb
+Files:
+ 3594fbd1287453989168ba0f9761ae8a 1212 system optional gazelle-installer_19.6~1.dsc
+ 14fd0c83e6ed327e489509bc5c1c7927 196732 system optional gazelle-installer_19.6~1.tar.xz
+ 001195e158849d6354ed1554641322af 11253 system optional gazelle-installer_19.6~1_amd64.buildinfo
+ 319ce693e9318d7b54719713d008980a 803126 debug optional mx-installer-dbgsym_19.6~1_amd64.deb
+ 105b937d44727c3503366587c148eabc 275772 system optional mx-installer_19.6~1_amd64.deb
+
+-----BEGIN PGP SIGNATURE-----
+
+iQFHBAEBCAAxFiEE8ndToY6S45N+YzXncJOMeAZ57pgFAlzzTFwTHGFkcmlhbkBt
+eGxpbnV4Lm9yZwAKCRBwk4x4BnnumFjuB/9b/y0cmgj4asPfLqIgdbW1V36Cqpjv
+IZ2z3nQ3N5PAXduikoKGJgMCX9mo8nwegvvb2enAPzJV7J2M7tRgBjKFpJ/4bzOJ
+QI+1XL5dzLOCtjDNUTcvDf1YdmjkeHB4j9d2q4am53kx9LYyyzhuZ0N0Q0VA0Lat
+4i4YooeIRGgqPiK9UU1uSwslrIBJNNDxb0D25vAuCHm1ilDaNN4dX/UgC+Oq+3hm
+EStyzjvv7EsQEZ3zmdwvCeSdQB96couztyJ7vU1g/3ah8LDh3PUmcULF34SKgcwM
+9rL4yEjaUmdaCx/JK4iQb71FRf9LE1ILbmqDFSss3fxYqQBZ6PD7v8As
+=uFPs
+-----END PGP SIGNATURE-----
