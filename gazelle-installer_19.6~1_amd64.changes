@@ -21,32 +21,32 @@ Changes:
    * always show the user account step in pretend mode. Use all command-line arguments as pretend homes.
    * execute sed only on copied files when saving Desktop changes
 Checksums-Sha1:
- b4cdf1cc0fac9711ca571339cfa119d3dc1346fd 1212 gazelle-installer_19.6~1.dsc
- 7126f8bf4be9cbc52a1bf3bcae6aeed2914a402a 196732 gazelle-installer_19.6~1.tar.xz
- 6a5bbf64413b8ff941b322e21fd8aed5497e6eb3 11253 gazelle-installer_19.6~1_amd64.buildinfo
- 7b6b7d46dca7837c20acf2dcc310b7b34fa3e8ac 803126 mx-installer-dbgsym_19.6~1_amd64.deb
- 74409a44f8642476868eb13e9060f3304c9f5c04 275772 mx-installer_19.6~1_amd64.deb
+ 82e39d59dc19801c21a9df34ddf6878272454b73 1212 gazelle-installer_19.6~1.dsc
+ a51dcd9d58462e4bc28364c662e06ea20206002e 196700 gazelle-installer_19.6~1.tar.xz
+ 5e5de483fc0bd0e8f9ed9d6194e8aa09d98e9151 11253 gazelle-installer_19.6~1_amd64.buildinfo
+ 731683240e2e5f77090395595c7f8b7da43df4e0 802682 mx-installer-dbgsym_19.6~1_amd64.deb
+ 7a88fe617d59c4faf80b9231036bde4a67e0760a 275304 mx-installer_19.6~1_amd64.deb
 Checksums-Sha256:
- 5d7a13e6e4bca501170148f4bfa702f61712aa4d388459f8d4d7c2d95c84fad1 1212 gazelle-installer_19.6~1.dsc
- da4ea4f1fa06d430ceb9b6745175ed11d4cb3dc9e7b02a40518117295abed9cb 196732 gazelle-installer_19.6~1.tar.xz
- 38b3cc223e08ecf6020c3165836fe336f4e53bdb00aea5ffa07dd6644e46890f 11253 gazelle-installer_19.6~1_amd64.buildinfo
- d632e82c88c0dc0bba60e9902c851d1638d60631e7b82b942478b04a3034f811 803126 mx-installer-dbgsym_19.6~1_amd64.deb
- 3a8de77ecf4ae839e53a61c814a8359b0415890675379e232d72d06247ab6ce2 275772 mx-installer_19.6~1_amd64.deb
+ affcabe12e929751c23dd63c8940c4ba1540128ead076d03ffcb5578658a02ae 1212 gazelle-installer_19.6~1.dsc
+ faf5c546c47d54134e922f103cb7b24fe1b843e93544b95aa52dfc8c32b66b2e 196700 gazelle-installer_19.6~1.tar.xz
+ 3b1d08c35d4519441f740ef2631ecb8f4b58cbcb47ac995ee44138797b89e02c 11253 gazelle-installer_19.6~1_amd64.buildinfo
+ c73209690a47c48e87d2f128b1d15d6fa96b3127829b56f742a411c6fde8019e 802682 mx-installer-dbgsym_19.6~1_amd64.deb
+ cb0f8398496ec8afe1afed4c4ded7873c40f9bd143ed981d3ca883434bc7b638 275304 mx-installer_19.6~1_amd64.deb
 Files:
- 3594fbd1287453989168ba0f9761ae8a 1212 system optional gazelle-installer_19.6~1.dsc
- 14fd0c83e6ed327e489509bc5c1c7927 196732 system optional gazelle-installer_19.6~1.tar.xz
- 001195e158849d6354ed1554641322af 11253 system optional gazelle-installer_19.6~1_amd64.buildinfo
- 319ce693e9318d7b54719713d008980a 803126 debug optional mx-installer-dbgsym_19.6~1_amd64.deb
- 105b937d44727c3503366587c148eabc 275772 system optional mx-installer_19.6~1_amd64.deb
+ ed928c604bdbe536a3d21652d566bbbe 1212 system optional gazelle-installer_19.6~1.dsc
+ ea297305aea2ea268f4a66257d21c7b4 196700 system optional gazelle-installer_19.6~1.tar.xz
+ 2a48ad87eeeb9aa0c2e2dec52bb2cba6 11253 system optional gazelle-installer_19.6~1_amd64.buildinfo
+ 9af7216b29a423584e446bc1a502ac68 802682 debug optional mx-installer-dbgsym_19.6~1_amd64.deb
+ 63b6f768e4206a3df5c5d475407efb63 275304 system optional mx-installer_19.6~1_amd64.deb
 
 -----BEGIN PGP SIGNATURE-----
 
-iQFHBAEBCAAxFiEE8ndToY6S45N+YzXncJOMeAZ57pgFAlzzTFwTHGFkcmlhbkBt
-eGxpbnV4Lm9yZwAKCRBwk4x4BnnumFjuB/9b/y0cmgj4asPfLqIgdbW1V36Cqpjv
-IZ2z3nQ3N5PAXduikoKGJgMCX9mo8nwegvvb2enAPzJV7J2M7tRgBjKFpJ/4bzOJ
-QI+1XL5dzLOCtjDNUTcvDf1YdmjkeHB4j9d2q4am53kx9LYyyzhuZ0N0Q0VA0Lat
-4i4YooeIRGgqPiK9UU1uSwslrIBJNNDxb0D25vAuCHm1ilDaNN4dX/UgC+Oq+3hm
-EStyzjvv7EsQEZ3zmdwvCeSdQB96couztyJ7vU1g/3ah8LDh3PUmcULF34SKgcwM
-9rL4yEjaUmdaCx/JK4iQb71FRf9LE1ILbmqDFSss3fxYqQBZ6PD7v8As
-=uFPs
+iQFHBAEBCAAxFiEE8ndToY6S45N+YzXncJOMeAZ57pgFAlzzUsoTHGFkcmlhbkBt
+eGxpbnV4Lm9yZwAKCRBwk4x4BnnumAA5CAC0lF805WNljW1pf8LpXivcvVgBpPKp
+BONo3UClPVoftgKTd9/uWLLN7YZ+9ydFV/lSsc0pvjhwCHylu/8efc2Q7RDkQ1Zm
+lYtyH8nzLPM6ewIgp+/hTfDDEvcJzXX/cTB4ZoB6XDLtrBi4IeAGAaP5c/ga/mGT
+kc5JNXuHuORxVoJc6R6skhZbqwpIl9V7WYU2//anAP89WGVn63x4ItrktGwkciC+
+JkPc59DrLKHFEPNGAek12hte8JhLVFNG/GC3MAESM4svvXgx6eKQP6e9fjnbW4jr
+Sudqx3tMRUj9L04sIkjRL1lMEz4EMYhNCrOdLT3PKdTkQpgHB8Vjjfb2
+=hCHi
 -----END PGP SIGNATURE-----
