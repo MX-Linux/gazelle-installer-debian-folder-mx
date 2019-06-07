@@ -2,25 +2,23 @@ Source: gazelle-installer
 Section: system
 Priority: optional
 Maintainer: dolphinoracle <dolphinoracle@gmail.com>
-Build-Depends:  qt5-default,
-                qttools5-dev-tools,
-                debhelper (>= 9.2)
+Build-Depends: debhelper (>= 9.2), qt5-default, qttools5-dev-tools
 Standards-Version: 3.9.8
 Homepage: https://github.com/gazelle-installer
 
 Package: mx-installer
 Architecture: any
-Depends: ${misc:Depends}, ${shlibs:Depends},
-         gazelle-installer-data-mx,
+Depends: antix-libs,
+         cryptsetup,
          fskbsetting,
-         os-prober,
+         gazelle-installer-data-mx,
          gdisk,
-         partition-info (>= 1.7),
-         antix-libs,
          grub-efi-amd64-bin [amd64],
          grub-efi-ia32-bin,
+         os-prober,
          parted,
-         cryptsetup
+         partition-info (>= 1.7),
+         ${misc:Depends},
+         ${shlibs:Depends}
 Recommends: gparted
 Description: Customizable GUI installer for MX Linux and antiX Linux
-
