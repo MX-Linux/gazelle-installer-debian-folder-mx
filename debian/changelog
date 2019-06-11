@@ -1,11 +1,21 @@
-gazelle-installer (19.6~1) UNRELEASED; urgency=medium
+gazelle-installer (19.6~2) UNRELEASED; urgency=medium
 
-  * fix hanging after closing.
-  * convert three old home message boxes into one.
-  * always show the user account step in pretend mode. Use all command-line arguments as pretend homes.
-  * execute sed only on copied files when saving Desktop changes
+  * Fix hanging after closing.
+  * Convert three old home message boxes into one.
+  * Always show the user account step in pretend mode. Use all command-line arguments as pretend homes.
+  * Execute sed only on copied files when saving Desktop changes
+  * The GUI should now appear earlier, with most of the startup code being delayed.
+  * Added ability to load a configuration file (only /etc/minstall.conf for now).
+  * Calculate future partitions and use the results to populate the boot device list.
+  * Eliminated the pause between the drive/partition setup and the boot loader page.
+  * Optimised the localization page for smaller 800x600 and 640x480 screens.
+  * New block device list mechanism that reduces the amount of device probes and eliminates the partition-info dependency.
+  * Added nasty flag to mark some devices as unsuitable for MBR/PBR installation.
+  * The vintage Apple HFS+ check now uses the nasty flag.
+  * Added check for Windows LDM devices, uses the nasty flag.
+  * Added --brave option to bypass the nasty blocks. A warning icon is shown next to nasty partitions when using the --brave option. 
 
- -- Adrian <adrian@mxlinux.org>  Sun, 02 Jun 2019 00:05:46 -0400
+ -- Adrian <adrian@mxlinux.org>  Tue, 11 Jun 2019 10:30:29 -0400
 
 gazelle-installer (19.5.2) mx; urgency=medium
 
