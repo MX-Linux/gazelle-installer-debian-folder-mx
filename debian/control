@@ -17,8 +17,7 @@ Depends: antix-libs,
          grub-efi-ia32-bin,
          os-prober,
          parted,
-         partition-info (>= 1.7),
          ${misc:Depends},
          ${shlibs:Depends}
-Recommends: gparted
+Recommends: gparted | partitionmanager
 Description: Customizable GUI installer for MX Linux and antiX Linux
