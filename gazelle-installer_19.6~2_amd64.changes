@@ -31,32 +31,32 @@ Changes:
    * Added check for Windows LDM devices, uses the nasty flag.
    * Added --brave option to bypass the nasty blocks. A warning icon is shown next to nasty partitions when using the --brave option.
 Checksums-Sha1:
- 3a614247363ab6660be0225609fb726bd7a0f217 1212 gazelle-installer_19.6~2.dsc
- ae22c2093c9f7111fdab97afd090b19eea6536f0 198736 gazelle-installer_19.6~2.tar.xz
- d96573a5c92fefb00f3628288c9d931fa2f69bbb 11537 gazelle-installer_19.6~2_amd64.buildinfo
- 120d09f0ff4f1b8f294b49d0c778a99c1660ca2d 767836 mx-installer-dbgsym_19.6~2_amd64.deb
- ec965053ee0cca4b42993c64150576d0a14b9423 269012 mx-installer_19.6~2_amd64.deb
+ 2c8d4888081a79a947395196a839c107d2574a0e 1212 gazelle-installer_19.6~2.dsc
+ 4bc7f15e9e6e8e196939d5d65037a1019b18d0a5 198700 gazelle-installer_19.6~2.tar.xz
+ 197b44d62e98bb3344b93c1dde69b3ab9c3bb863 11253 gazelle-installer_19.6~2_amd64.buildinfo
+ ec80ce29c4f1d77c073e13e782e10fc1cb1e2480 766722 mx-installer-dbgsym_19.6~2_amd64.deb
+ 9093c36f6ec6a291716caf35881716d516aaff9c 268776 mx-installer_19.6~2_amd64.deb
 Checksums-Sha256:
- 6aaf9c85661e6b09023d41c6ce60a6b0e00924f8030fa446a7270747454fdd91 1212 gazelle-installer_19.6~2.dsc
- b207103a9cb9955e48fd73a69d492a325060869e41bc683247b26bb238b4d72a 198736 gazelle-installer_19.6~2.tar.xz
- 9b209b3cd78259cda0a0e938ffa912a28ade85365e0065be49e247f40118a137 11537 gazelle-installer_19.6~2_amd64.buildinfo
- 1db32bf06537248d8890b296e5de70bfbe31ca9ec2d73831aee41e1124b3b9c0 767836 mx-installer-dbgsym_19.6~2_amd64.deb
- 8d64624b36989c405a60815130bc1c7a4ebb5ed5059543b2d3a04e7c2dc93328 269012 mx-installer_19.6~2_amd64.deb
+ 031949b4f3943d24891d3f74889556f7c03a5805b394861b7e5d56acd246d0cf 1212 gazelle-installer_19.6~2.dsc
+ 11405fe64858505a849e54a23900d87b076b6693d7fca63ae434fa100333ef1e 198700 gazelle-installer_19.6~2.tar.xz
+ 4773a1f293fc7babf74e288cfcaf58c15ae6fe4b70216d92b83a6b3c4f3810df 11253 gazelle-installer_19.6~2_amd64.buildinfo
+ bfcb6b86387a0233b5ab48f2e48c60073d4d47f3d62cdd81581b9ab3ae1c40c8 766722 mx-installer-dbgsym_19.6~2_amd64.deb
+ a96e3f6f88142830b92ee3b13713f0b97295a9331f4790f12de0cd5d7120bad5 268776 mx-installer_19.6~2_amd64.deb
 Files:
- a80a4fc9c9750b5065553772b7199a42 1212 system optional gazelle-installer_19.6~2.dsc
- 2e73e3ef624de8e4622332bd2fed7579 198736 system optional gazelle-installer_19.6~2.tar.xz
- 22077563c6d94f10c54c959b4b7fbdf2 11537 system optional gazelle-installer_19.6~2_amd64.buildinfo
- 03c03401f1fe183ae934835ac1894c0d 767836 debug optional mx-installer-dbgsym_19.6~2_amd64.deb
- 09928b706b83c7b07fef00557cc47a05 269012 system optional mx-installer_19.6~2_amd64.deb
+ 7646ec98b5556b45677b94683bb7facf 1212 system optional gazelle-installer_19.6~2.dsc
+ 7f1a5ec1efc96f280a5705e17fa62f6b 198700 system optional gazelle-installer_19.6~2.tar.xz
+ 58f84c3e3577118a1af495c778f08c36 11253 system optional gazelle-installer_19.6~2_amd64.buildinfo
+ 410438941ec820f5d3babc8a0fd8b498 766722 debug optional mx-installer-dbgsym_19.6~2_amd64.deb
+ 92fcfd3a9eca8e0f78de5fd4416af8d3 268776 system optional mx-installer_19.6~2_amd64.deb
 
 -----BEGIN PGP SIGNATURE-----
 
-iQFHBAEBCAAxFiEE8ndToY6S45N+YzXncJOMeAZ57pgFAlz/0a0THGFkcmlhbkBt
-eGxpbnV4Lm9yZwAKCRBwk4x4BnnumEcaB/95v7i5vl8Fyup3Y1CJJqS7PDOGmW7P
-Tvoxl0z5+moa3qbsVeS4mQVwUXqJIIXmNwhIcWYZZnLLDIrD+CtU6qoXjyWfmWQ9
-7Xc6GGj/gcJKJbuifgtEW7RnhV6vG52h/qshJf9V2OJukSF3P7FEgZe1r32pmFtt
-ULZEwQe9TRIqf/4YuocWfYMzXa2UgNcnK0Tge9KzNmddHC+VwOKVCsjZOIdUHFQJ
-ar8d98MmhRafSWiQO+5bsTX2T3LIsA3/CEfZLm2d50x/fvYOa4/80/LWREhxLDy4
-91Bt4oXkcu7ExIHC5soWPr7cyZQySUQPwW/FE/aSicE2C/l+GapeQsBG
-=92+9
+iQFHBAEBCAAxFiEE8ndToY6S45N+YzXncJOMeAZ57pgFAl0AVqMTHGFkcmlhbkBt
+eGxpbnV4Lm9yZwAKCRBwk4x4BnnumHN4B/9QA/FJmbIdxvCSSOsAJVqOrATLuXwa
+p66QSjP4iOnP1BwSy9nt1+CfIJSy4QnNhrEEKv3HdwARceXaZPQides6zEt/0Rja
+x2EB+IpmUmwO45yk+6j4GeLc6hG+jE7KJcDX8nIWqzuJ/zshFwj+lYltkePyrCd9
+YZf4TRbs0QXZ5Wiqxh3DctQa+zECXAkfdwG3HsRl92PRg+EbCVEmMx4XAV7/69VA
+hqpcXjhgsk6kukHHVjFeRdASyetNbMwAOSzeWeTXv2CAzrXwYXtVahDdAvDF6hcp
+x42Ga8v3JbgCeovtNy2fOVoSrmRYryg7UvkAlUWQlRh9ylBYRF0Uqdix
+=W2nQ
 -----END PGP SIGNATURE-----
