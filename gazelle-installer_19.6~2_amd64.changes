@@ -7,14 +7,14 @@ Source: gazelle-installer
 Binary: mx-installer
 Architecture: source amd64
 Version: 19.6~2
-Distribution: UNRELEASED
+Distribution: mx
 Urgency: medium
 Maintainer: dolphinoracle <dolphinoracle@gmail.com>
 Changed-By: Adrian <adrian@mxlinux.org>
 Description:
  mx-installer - Customizable GUI installer for MX Linux and antiX Linux
 Changes:
- gazelle-installer (19.6~2) UNRELEASED; urgency=medium
+ gazelle-installer (19.6~2) mx; urgency=medium
  .
    * Fix hanging after closing.
    * Convert three old home message boxes into one.
@@ -31,32 +31,32 @@ Changes:
    * Added check for Windows LDM devices, uses the nasty flag.
    * Added --brave option to bypass the nasty blocks. A warning icon is shown next to nasty partitions when using the --brave option.
 Checksums-Sha1:
- 2c8d4888081a79a947395196a839c107d2574a0e 1212 gazelle-installer_19.6~2.dsc
- 4bc7f15e9e6e8e196939d5d65037a1019b18d0a5 198700 gazelle-installer_19.6~2.tar.xz
- 197b44d62e98bb3344b93c1dde69b3ab9c3bb863 11253 gazelle-installer_19.6~2_amd64.buildinfo
+ 46cd175126458a446a125bb9ed9bf87bbedb4ea6 1212 gazelle-installer_19.6~2.dsc
+ 69df31e890faa3f26406c9ca807bd7627e076e00 198708 gazelle-installer_19.6~2.tar.xz
+ ce1ac18dd90c3ef5933f75e0c4c4d5dae14c5336 11537 gazelle-installer_19.6~2_amd64.buildinfo
  ec80ce29c4f1d77c073e13e782e10fc1cb1e2480 766722 mx-installer-dbgsym_19.6~2_amd64.deb
- 9093c36f6ec6a291716caf35881716d516aaff9c 268776 mx-installer_19.6~2_amd64.deb
+ 79a74fae7b86aeb61e61af2adf04ae73ceef0d65 268748 mx-installer_19.6~2_amd64.deb
 Checksums-Sha256:
- 031949b4f3943d24891d3f74889556f7c03a5805b394861b7e5d56acd246d0cf 1212 gazelle-installer_19.6~2.dsc
- 11405fe64858505a849e54a23900d87b076b6693d7fca63ae434fa100333ef1e 198700 gazelle-installer_19.6~2.tar.xz
- 4773a1f293fc7babf74e288cfcaf58c15ae6fe4b70216d92b83a6b3c4f3810df 11253 gazelle-installer_19.6~2_amd64.buildinfo
+ e2f8903790255a4fbedb24bfc4b604f36336df1c9417cc192f5143c807cbad33 1212 gazelle-installer_19.6~2.dsc
+ d7277ed834c974fea50751c3b3ca8f18cc0cfbbb404c99343b2a19928cf347f9 198708 gazelle-installer_19.6~2.tar.xz
+ a00182574ef9d33457b4f39eb456e801f06b2fc7cd4f24537eb6d585800094cf 11537 gazelle-installer_19.6~2_amd64.buildinfo
  bfcb6b86387a0233b5ab48f2e48c60073d4d47f3d62cdd81581b9ab3ae1c40c8 766722 mx-installer-dbgsym_19.6~2_amd64.deb
- a96e3f6f88142830b92ee3b13713f0b97295a9331f4790f12de0cd5d7120bad5 268776 mx-installer_19.6~2_amd64.deb
+ 687fa1041fc26c95039f70d24d83536124cfb94c0e91fd8dfaa27d4089d682e7 268748 mx-installer_19.6~2_amd64.deb
 Files:
- 7646ec98b5556b45677b94683bb7facf 1212 system optional gazelle-installer_19.6~2.dsc
- 7f1a5ec1efc96f280a5705e17fa62f6b 198700 system optional gazelle-installer_19.6~2.tar.xz
- 58f84c3e3577118a1af495c778f08c36 11253 system optional gazelle-installer_19.6~2_amd64.buildinfo
+ 9fbb53603fe56c70e9354280ba534b91 1212 system optional gazelle-installer_19.6~2.dsc
+ e6c725f4ccf74fa7402c49b3cbc70e5b 198708 system optional gazelle-installer_19.6~2.tar.xz
+ 86e6b42208596eabd3cafab2a290b84e 11537 system optional gazelle-installer_19.6~2_amd64.buildinfo
  410438941ec820f5d3babc8a0fd8b498 766722 debug optional mx-installer-dbgsym_19.6~2_amd64.deb
- 92fcfd3a9eca8e0f78de5fd4416af8d3 268776 system optional mx-installer_19.6~2_amd64.deb
+ b35fe6a4de70b1465e8c9ea5cffbd0b4 268748 system optional mx-installer_19.6~2_amd64.deb
 
 -----BEGIN PGP SIGNATURE-----
 
-iQFHBAEBCAAxFiEE8ndToY6S45N+YzXncJOMeAZ57pgFAl0AVqMTHGFkcmlhbkBt
-eGxpbnV4Lm9yZwAKCRBwk4x4BnnumHN4B/9QA/FJmbIdxvCSSOsAJVqOrATLuXwa
-p66QSjP4iOnP1BwSy9nt1+CfIJSy4QnNhrEEKv3HdwARceXaZPQides6zEt/0Rja
-x2EB+IpmUmwO45yk+6j4GeLc6hG+jE7KJcDX8nIWqzuJ/zshFwj+lYltkePyrCd9
-YZf4TRbs0QXZ5Wiqxh3DctQa+zECXAkfdwG3HsRl92PRg+EbCVEmMx4XAV7/69VA
-hqpcXjhgsk6kukHHVjFeRdASyetNbMwAOSzeWeTXv2CAzrXwYXtVahDdAvDF6hcp
-x42Ga8v3JbgCeovtNy2fOVoSrmRYryg7UvkAlUWQlRh9ylBYRF0Uqdix
-=W2nQ
+iQFHBAEBCAAxFiEE8ndToY6S45N+YzXncJOMeAZ57pgFAl0BbPkTHGFkcmlhbkBt
+eGxpbnV4Lm9yZwAKCRBwk4x4BnnumCrwCAC+HNqvV33koTe98cGMt1KZZCJccnUl
+SZNQ3YhtuxRHGsxCUzSUTqAQcXqv7vD3GcUe5a90iWSJbOG2Yg5cNapBodg7D76J
+0alWDsZ5qirUs8q3Q+GPOxnpUhsdKwOoO9BkNx8XZpq6dnHD4hkE5ftYA28Tdg8z
+XoRd26bhyt7otRMUcORB4BWndAR2Td5YWW/REm5wOD+l8rMbMZDEyhyXLg/E1bgH
+cgV4f0+XaB+D/SahGdZ3zZZHit/HFr8t18CDU/EtECkn8bN6VC7NXOdH6JU99vEw
+Q0i5OxVZNsnw/V4Z1dI+WnUuJU1DH9sgKHjC4045JlcCaBGXibQzjliw
+=eJ6O
 -----END PGP SIGNATURE-----
