@@ -1,4 +1,4 @@
-gazelle-installer (19.6~2) UNRELEASED; urgency=medium
+gazelle-installer (19.6~2) mx; urgency=medium
 
   * Fix hanging after closing.
   * Convert three old home message boxes into one.
