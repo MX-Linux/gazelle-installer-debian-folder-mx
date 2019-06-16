@@ -1,3 +1,10 @@
+gazelle-installer (19.6~3) UNRELEASED; urgency=medium
+
+  * Fixed: service selection was not stashed.
+  * Moved the Version setting into the Setup section.
+
+ -- Adrian <adrian@mxlinux.org>  Sun, 16 Jun 2019 10:57:18 -0400
+
 gazelle-installer (19.6~2) mx; urgency=medium
 
   * Fix hanging after closing.
