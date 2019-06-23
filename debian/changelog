@@ -1,12 +1,12 @@
-gazelle-installer (19.6~5) UNRELEASED; urgency=medium
+gazelle-installer (19.6~5) mx; urgency=medium
 
   * Fixed: service selection was not stashed.
   * Moved the Version setting into the Setup section.
   * Implemented automatic installation (--auto).
   * Mark widgets associated with invalid settings.
-  * Removed 8-character encryption passphrase restriction. 
+  * Removed 8-character encryption passphrase restriction.  
 
- -- Adrian <adrian@mxlinux.org>  Sun, 23 Jun 2019 11:05:05 -0400
+ -- Adrian <adrian@mxlinux.org>  Sun, 23 Jun 2019 11:11:26 -0400
 
 gazelle-installer (19.6~2) mx; urgency=medium
 
