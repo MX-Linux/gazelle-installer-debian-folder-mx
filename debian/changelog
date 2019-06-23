@@ -1,4 +1,4 @@
-gazelle-installer (19.6~6) UNRELEASED; urgency=medium
+gazelle-installer (19.6~6) mx; urgency=medium
 
   * Harden test: used /bin/ls -1
 
