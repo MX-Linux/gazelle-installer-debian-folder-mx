@@ -2,19 +2,19 @@
 Hash: SHA256
 
 Format: 1.8
-Date: Sun, 23 Jun 2019 11:05:05 -0400
+Date: Sun, 23 Jun 2019 11:11:26 -0400
 Source: gazelle-installer
 Binary: mx-installer
 Architecture: source amd64
 Version: 19.6~5
-Distribution: UNRELEASED
+Distribution: mx
 Urgency: medium
 Maintainer: dolphinoracle <dolphinoracle@gmail.com>
 Changed-By: Adrian <adrian@mxlinux.org>
 Description:
  mx-installer - Customizable GUI installer for MX Linux and antiX Linux
 Changes:
- gazelle-installer (19.6~5) UNRELEASED; urgency=medium
+ gazelle-installer (19.6~5) mx; urgency=medium
  .
    * Fixed: service selection was not stashed.
    * Moved the Version setting into the Setup section.
@@ -22,32 +22,32 @@ Changes:
    * Mark widgets associated with invalid settings.
    * Removed 8-character encryption passphrase restriction.
 Checksums-Sha1:
- 30d758fe3c76b93e46daef4a40bbcc251ff88592 1212 gazelle-installer_19.6~5.dsc
- 8b986a1d85bc5c063624e5958ae621dba6480ead 198256 gazelle-installer_19.6~5.tar.xz
- 86f14e4992cb3eac67d2e5e9c3efd02bcb78716a 11256 gazelle-installer_19.6~5_amd64.buildinfo
- bb2e245b43feb85f5ae2e2df02309baafe78414e 1064048 mx-installer-dbgsym_19.6~5_amd64.deb
- 504009ca83366f2d82cea16b8287d5c3dcd18f22 271580 mx-installer_19.6~5_amd64.deb
+ e44256f32658c31592d6526e2a4b10a9ab61366d 1212 gazelle-installer_19.6~5.dsc
+ 9e7aa8ffea4aba02c089a22c73aa50fe0748d426 198256 gazelle-installer_19.6~5.tar.xz
+ eb3ccf70c5395d79558f4d811877900ce6d1c237 11256 gazelle-installer_19.6~5_amd64.buildinfo
+ 017b82fedb262a177df7baaebe37b2f3d6fbfa57 1064056 mx-installer-dbgsym_19.6~5_amd64.deb
+ 96aa0502dc5666512b2f1f7ade51c04f86f2de6e 271340 mx-installer_19.6~5_amd64.deb
 Checksums-Sha256:
- 340c804ce7af4e97b53b1071e8ebdc91abbcf067ab85bd0627ed5d9a2445b1b6 1212 gazelle-installer_19.6~5.dsc
- 83a2a704633c0c9eeba6c6f5a2b3bee40bbe92d85489e6da6d0f415e69f2c2f1 198256 gazelle-installer_19.6~5.tar.xz
- 2f924a5bfab302e559bc90e1c98e7501b91e7e9707b3b4acc81774f2c4740130 11256 gazelle-installer_19.6~5_amd64.buildinfo
- d684545422639c36da11d725bb3ae173713b2c5909d5237c9898dcce331779c0 1064048 mx-installer-dbgsym_19.6~5_amd64.deb
- c32a3b08553eaf599aa0ffdefdb818f940e704f5677c325707f9879b1267974b 271580 mx-installer_19.6~5_amd64.deb
+ 1583c051acadcdf1652d854cce7e174e2d14809f7de2a5ca938e55536d9f8514 1212 gazelle-installer_19.6~5.dsc
+ 38e38f63c151a92bbf235925c8732a0f029ee2c683d492a0dc8a020809445d9b 198256 gazelle-installer_19.6~5.tar.xz
+ 7f40558fa5b8d457b89bc1fc6d00b7d184328831da0ac566161f28e27bf8d194 11256 gazelle-installer_19.6~5_amd64.buildinfo
+ 92be1bd8ec04e9bde89a27043dddc845afa546c7d83fdeb4fd22216886e87b6e 1064056 mx-installer-dbgsym_19.6~5_amd64.deb
+ 38a4c1deb4c34be1a7f62aa573f132f529aec19c15a3da8616ea260fceecbdcd 271340 mx-installer_19.6~5_amd64.deb
 Files:
- efdf67cd328b53b0b2695cbce7c9f16d 1212 system optional gazelle-installer_19.6~5.dsc
- 00225dc14069d4326d79da8ef754929c 198256 system optional gazelle-installer_19.6~5.tar.xz
- 95eb05481592a8cd796a94fad71137bb 11256 system optional gazelle-installer_19.6~5_amd64.buildinfo
- f6c414787ca23305f0547fb1685158c7 1064048 debug optional mx-installer-dbgsym_19.6~5_amd64.deb
- 56070e7c6319f892a76a51b1aa6f29fa 271580 system optional mx-installer_19.6~5_amd64.deb
+ 2f9693856d54a85486c0086ded32e150 1212 system optional gazelle-installer_19.6~5.dsc
+ 37271fcc8af8dc6998ee8d732c448002 198256 system optional gazelle-installer_19.6~5.tar.xz
+ c85c1df7b646d744e482d45d6fb9c14e 11256 system optional gazelle-installer_19.6~5_amd64.buildinfo
+ b6e38f934f1152467c101af3442f0db3 1064056 debug optional mx-installer-dbgsym_19.6~5_amd64.deb
+ f07c995a3c558a54f2bbfc5a84eb0dbd 271340 system optional mx-installer_19.6~5_amd64.deb
 
 -----BEGIN PGP SIGNATURE-----
 
-iQFHBAEBCAAxFiEE8ndToY6S45N+YzXncJOMeAZ57pgFAl0Pla0THGFkcmlhbkBt
-eGxpbnV4Lm9yZwAKCRBwk4x4BnnumL1oB/wOxLQxOXRCm9IfOW6KXpugOAr5bqfm
-3fDBRxq1DdHroHiSjj1VmebW5LbpXL7XObF4XgTeCEjvaVkDZdUiE1tBepGXREHu
-07iIsJowqJhMivCP7WMuk7/CmSL/EAC73HkSoZNX71+UlvHVv/LnXrcawVyEQqQF
-47r7ImOXm9mVK2mt5p07UHtOPyqjvbMDDLszHkt3V3wkeI9Vpu3HT2rNTQHqb0pX
-G1HuNZxc2Ch1qpBwIteazAFPB1JdaUnELiIEl66aWeVM5i+GkHWt+1/0iq8fL4D7
-BqCXnoQWbGln1T+uuJZ/AW8LOOrJ2y0063GhHBZfvPx4rtyewK8xGh/T
-=KWR6
+iQFHBAEBCAAxFiEE8ndToY6S45N+YzXncJOMeAZ57pgFAl0PlyQTHGFkcmlhbkBt
+eGxpbnV4Lm9yZwAKCRBwk4x4BnnumHHgB/9Hw9wto14MkYWiJ4q3HAPyQqam9Xx+
+m5M7u7fGzU+EEtYAjcXgE/w37iD6v7UcpA342Sflv51cOaqsjXexzYCyluqlZfD5
+GMXfQztB+ksEZX4QITSLYydvHMatrPpuyeR31ilnOoVc+xbixEel2zZy3CQQ++3S
+gbX5qYoUUriAYQAmabxsNoLOsopqImGUtXxVYJnP0cHE1Q6P6mm69PZs6s3bF0IP
+3QX7O8IpufXH7yp582Lt/bw/2AuBAZt1ZDb/ZANWM9dj0q8k8Vzg6UWfgwmmcdho
+3hyQS7+2/67C/uswRzHXJlXCZTsdZdYj/eyE8/jcRaZcqTrFMb5exCAc
+=gQU+
 -----END PGP SIGNATURE-----
