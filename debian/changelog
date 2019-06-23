@@ -1,3 +1,9 @@
+gazelle-installer (19.6~6) UNRELEASED; urgency=medium
+
+  * Harden test: used /bin/ls -1
+
+ -- Adrian <adrian@mxlinux.org>  Sun, 23 Jun 2019 14:47:14 -0400
+
 gazelle-installer (19.6~5) mx; urgency=medium
 
   * Fixed: service selection was not stashed.
