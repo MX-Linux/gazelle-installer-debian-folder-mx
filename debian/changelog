@@ -1,3 +1,11 @@
+gazelle-installer (19.6~7) mx; urgency=medium
+
+  * Fixed: GPT formatted drives not detected properly.
+  * Fixed: live boot medium would appear in combo boxes.
+  * Fixed: home type combo box disabled until changed. 
+
+ -- Adrian <adrian@mxlinux.org>  Sun, 23 Jun 2019 22:44:35 -0400
+
 gazelle-installer (19.6~6) mx; urgency=medium
 
   * Harden test: used /bin/ls -1
@@ -7,7 +15,6 @@ gazelle-installer (19.6~6) mx; urgency=medium
 gazelle-installer (19.6~5) mx; urgency=medium
 
   * Fixed: service selection was not stashed.
-  * Moved the Version setting into the Setup section.
   * Implemented automatic installation (--auto).
   * Mark widgets associated with invalid settings.
   * Removed 8-character encryption passphrase restriction.  
