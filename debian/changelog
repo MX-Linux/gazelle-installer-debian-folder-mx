@@ -1,3 +1,13 @@
+gazelle-installer (19.6) mx; urgency=medium
+
+  * Check the SMART status of all target drives.
+  * Improved support for >=2TB drives on non-EFI systems.
+  * Added --config option to select a configuration file.
+  * Changed default configuration file locations to prevent files containing passwords being copied.
+  * Bug fixes.
+
+ -- Adrian <adrian@mxlinux.org>  Thu, 27 Jun 2019 11:51:11 -0400
+
 gazelle-installer (19.6~7) mx; urgency=medium
 
   * Fixed: GPT formatted drives not detected properly.
