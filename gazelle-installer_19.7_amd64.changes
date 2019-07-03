@@ -1,0 +1,49 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA256
+
+Format: 1.8
+Date: Tue, 02 Jul 2019 20:29:49 -0400
+Source: gazelle-installer
+Binary: mx-installer
+Architecture: source amd64
+Version: 19.7
+Distribution: mx
+Urgency: medium
+Maintainer: dolphinoracle <dolphinoracle@gmail.com>
+Changed-By: Adrian <adrian@mxlinux.org>
+Description:
+ mx-installer - Customizable GUI installer for MX Linux and antiX Linux
+Changes:
+ gazelle-installer (19.7) mx; urgency=medium
+ .
+   * Added -gpt-override option
+Checksums-Sha1:
+ 8ea112164304279949a07975a6615932158fda8c 1204 gazelle-installer_19.7.dsc
+ 6cec2e856daa28a3b0a88ff9fa9659b5af8bd81a 199732 gazelle-installer_19.7.tar.xz
+ 8ba310a49aa3ff7beb08d703f5d8b4c2414c3b40 11234 gazelle-installer_19.7_amd64.buildinfo
+ ad415a662a4c19ac736cabab5cc8641490dbf382 1068482 mx-installer-dbgsym_19.7_amd64.deb
+ 2ac936a5b781154cff7989e834e88bc9c099de96 268398 mx-installer_19.7_amd64.deb
+Checksums-Sha256:
+ f5fda6b1a395974089af6573d8b0286f739e29d5697c34f53ee38fd29d3121cb 1204 gazelle-installer_19.7.dsc
+ 48118b4f5e340c2ce684859c6b3272181ce676c5644800f865eba443f4908cd2 199732 gazelle-installer_19.7.tar.xz
+ 27ea55aa3444946b360cfcd482bdae384a53c7e402ad83226b127f9cb6c3d0cf 11234 gazelle-installer_19.7_amd64.buildinfo
+ 032b6c40c02eb3f934f6fb74cc7d2179c1475692798ba128b5dfa551d2b7e110 1068482 mx-installer-dbgsym_19.7_amd64.deb
+ dcbbed246e9698177485fbcc03f4447736e867d3bc0b5df9955e07c7243c05a3 268398 mx-installer_19.7_amd64.deb
+Files:
+ 78055b2b064fd0071f22069931525d20 1204 system optional gazelle-installer_19.7.dsc
+ 12d9c2cf506ecbff5e05776c51b293e4 199732 system optional gazelle-installer_19.7.tar.xz
+ 2a1fcfbe14efe62c54794346127f33df 11234 system optional gazelle-installer_19.7_amd64.buildinfo
+ a35c15980e23b989f4f7201441924448 1068482 debug optional mx-installer-dbgsym_19.7_amd64.deb
+ e99c3ad9c5f367b301fab51497d11115 268398 system optional mx-installer_19.7_amd64.deb
+
+-----BEGIN PGP SIGNATURE-----
+
+iQFHBAEBCAAxFiEE8ndToY6S45N+YzXncJOMeAZ57pgFAl0b99ATHGFkcmlhbkBt
+eGxpbnV4Lm9yZwAKCRBwk4x4BnnumH4xCACE0arBnkdYg8sWSrJPLL7TL00GPc+y
+BK0xTqSWzhtjR/U6GyTeyJj2qvTzJFtiqQs0VuFJPeiX2VNFOykvz+EUWit1G5JV
+Qm1AOHhIMrHpc/XqFbER2smSNVZSQXiNXKHFIMPbaM5ZTtnfzulF52UNn6ybcF4+
+Ih1uWx5oCS8mDqRiFVc1he18/ig9RYljFyjhLFDi5gluGuFgnORvfFM7rijeghCW
+zQwalyTZoZrLSo8L4uAT6rZFnX/fGoOGeZvy0+1JKCExScgfA1rjoUvzQXLy6gOv
+xqYwbm4r1V8C97+9InckMJdiBVlV/BSHQB0nl7L66FYY8glZQiYwwM0r
+=myRd
+-----END PGP SIGNATURE-----
