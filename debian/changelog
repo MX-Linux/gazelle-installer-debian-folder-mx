@@ -1,3 +1,9 @@
+gazelle-installer (19.7) mx; urgency=medium
+
+  * Added -gpt-override option
+
+ -- Adrian <adrian@mxlinux.org>  Tue, 02 Jul 2019 20:29:49 -0400
+
 gazelle-installer (19.6) mx; urgency=medium
 
   * Check the SMART status of all target drives.
