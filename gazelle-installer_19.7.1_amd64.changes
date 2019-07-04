@@ -1,0 +1,49 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA256
+
+Format: 1.8
+Date: Thu, 04 Jul 2019 14:05:59 -0400
+Source: gazelle-installer
+Binary: mx-installer
+Architecture: source amd64
+Version: 19.7.1
+Distribution: mx
+Urgency: medium
+Maintainer: dolphinoracle <dolphinoracle@gmail.com>
+Changed-By: Adrian <adrian@mxlinux.org>
+Description:
+ mx-installer - Customizable GUI installer for MX Linux and antiX Linux
+Changes:
+ gazelle-installer (19.7.1) mx; urgency=medium
+ .
+   * Process xfce4-datetime-plugin configuration
+Checksums-Sha1:
+ 8e07d3f00293a7f70b9b3d8bfa2646689be19ffe 1212 gazelle-installer_19.7.1.dsc
+ 0747145d0739c06b6dec8dd792a58363cb0eceaf 199708 gazelle-installer_19.7.1.tar.xz
+ 1c1486a86f7f29385f10d63c9db18ec137cddd3f 11256 gazelle-installer_19.7.1_amd64.buildinfo
+ a4b454947fa0f48bff77ddacde102ce925c91dfd 1068548 mx-installer-dbgsym_19.7.1_amd64.deb
+ 59750121c952e4c42f93505d0f9dc203128e4c31 268226 mx-installer_19.7.1_amd64.deb
+Checksums-Sha256:
+ eb9ae28a039765eb38ef1ee678ca28b5f2b934792b9b98cbdf034830196d3e72 1212 gazelle-installer_19.7.1.dsc
+ 7978316955f96e728f5d99fdc344f7d102f2ac308ff1a2dc34e981eefacd0001 199708 gazelle-installer_19.7.1.tar.xz
+ cfb92636b420a971567fcdf404db9d5ec147d378d670c8fe5c98fad1c6f2a7ba 11256 gazelle-installer_19.7.1_amd64.buildinfo
+ 69c7ffb487641f163bd012bf6ad82fb80b5d474585ee131af2fb31aa251e6002 1068548 mx-installer-dbgsym_19.7.1_amd64.deb
+ b7cf2e9a931bc80856f375ff9a03a01ee2053096603422c82104000245f0305b 268226 mx-installer_19.7.1_amd64.deb
+Files:
+ 12d101e90816e4c90ee562765cf4351d 1212 system optional gazelle-installer_19.7.1.dsc
+ 4243b12b933321018178aa9ba1c2c437 199708 system optional gazelle-installer_19.7.1.tar.xz
+ 776ca36cb87d996517f3c23d0a4250c3 11256 system optional gazelle-installer_19.7.1_amd64.buildinfo
+ 161e14d0e0fb4cab3263c8f925fefca7 1068548 debug optional mx-installer-dbgsym_19.7.1_amd64.deb
+ 46754673a3141122c42fda931294a42d 268226 system optional mx-installer_19.7.1_amd64.deb
+
+-----BEGIN PGP SIGNATURE-----
+
+iQFHBAEBCAAxFiEE8ndToY6S45N+YzXncJOMeAZ57pgFAl0eQKYTHGFkcmlhbkBt
+eGxpbnV4Lm9yZwAKCRBwk4x4BnnumC77B/97fDocJhdO+h6gcEhwxNU+jNPeFU5y
+FL5G9ztuVLqyavtMlSf1Ow2zbKAhAHmrCWA3H3P/t8/Qm2MsA8DAz9plXR4HsZ7T
+u6WVJb5lc42Jlu2rg4FCmBDQigHix9xL9zUuJFcQElyyPqiiixPeNVuVLMJu6l6M
+yCC9HCSyrj+e0ZywgE5tZNNB7+cflFmxsUOTcUP9Q7lMPr0NNAbcRDg23axyxbmV
+dcCjtfDdKfAGM5i78vVVjoTB8puT7wKqrgvcp9p/sk/vxjsPSfySYyn7L/3pEyc9
+w5jk+pP2o2WeooaITAC9c9U/zypEIYanKEsF0Hh1ldh9VnAqY/oNXY22
+=21kf
+-----END PGP SIGNATURE-----

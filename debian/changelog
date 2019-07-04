@@ -1,3 +1,9 @@
+gazelle-installer (19.7.1) mx; urgency=medium
+
+  * Process xfce4-datetime-plugin configuration
+
+ -- Adrian <adrian@mxlinux.org>  Thu, 04 Jul 2019 14:05:59 -0400
+
 gazelle-installer (19.7) mx; urgency=medium
 
   * Added -gpt-override option
