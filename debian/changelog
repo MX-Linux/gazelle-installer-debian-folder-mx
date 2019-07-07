@@ -1,3 +1,9 @@
+gazelle-installer (19.7.2) mx; urgency=medium
+
+  * Fixed: incomplete boot flag propagation in block device list.
+
+ -- Adrian <adrian@mxlinux.org>  Sun, 07 Jul 2019 10:00:43 -0400
+
 gazelle-installer (19.7.1) mx; urgency=medium
 
   * Process xfce4-datetime-plugin configuration
