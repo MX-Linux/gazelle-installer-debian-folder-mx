@@ -1,3 +1,9 @@
+gazelle-installer (19.7.4) mx; urgency=medium
+
+  * Add the boot flag to the partition for whole drive installation.
+
+ -- Adrian <adrian@mxlinux.org>  Wed, 10 Jul 2019 11:19:24 -0400
+
 gazelle-installer (19.7.3) mx; urgency=medium
 
   * Fixed: live boot device shown in GRUB combo boxes.
