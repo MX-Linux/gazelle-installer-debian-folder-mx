@@ -1,3 +1,9 @@
+gazelle-installer (19.7.5) mx; urgency=medium
+
+  * Add social media links
+
+ -- Adrian <adrian@mxlinux.org>  Sun, 14 Jul 2019 19:00:50 -0400
+
 gazelle-installer (19.7.4) mx; urgency=medium
 
   * Add the boot flag to the partition for whole drive installation.
