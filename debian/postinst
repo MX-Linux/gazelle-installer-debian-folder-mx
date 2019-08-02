@@ -16,6 +16,12 @@ if [ "$1" = "configure" ] || [ "$1" = "abort-upgrade" ] || [ "$1" = "abort-remov
 		if [ -e "$file" ]; then
 			sed -i s/Exec=.*/Exec=minstall-pkexec/ $file
 		fi
+		
+	 #edit version in /etc/skel/Desktop/Installer.desktop
+	 file="/etc/skel/Desktop/Installer.desktop"
+		if [ -e "$file" ]; then
+			sed -i s/Exec=.*/Exec=minstall-pkexec/ $file
+		fi
 fi
 
 #DEBHELPER#
