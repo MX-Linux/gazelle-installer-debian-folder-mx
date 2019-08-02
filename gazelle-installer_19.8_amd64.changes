@@ -18,32 +18,32 @@ Changes:
  .
    * Add polkit file
 Checksums-Sha1:
- 066b122491161021109b441a6becd386a13b8a94 1204 gazelle-installer_19.8.dsc
- 9422c95abcc8e6665afaa1250ac26fbf98b17e92 200864 gazelle-installer_19.8.tar.xz
- 9640650778dee69526613bf6179ce003a86c9589 10550 gazelle-installer_19.8_amd64.buildinfo
+ abd95c62e0d055e4857480dc8059b05d53affb5a 1204 gazelle-installer_19.8.dsc
+ c4daa1e03358bd8657c607e8993a3c031eafc6ea 200932 gazelle-installer_19.8.tar.xz
+ acd9330efe37ac7a95c4a91d306b955cc65825e3 10550 gazelle-installer_19.8_amd64.buildinfo
  9491c1ace15a0a719d005487694a0c7099e15c0c 1335232 mx-installer-dbgsym_19.8_amd64.deb
- e9e9429b643b75615b80555ad69468821575ae0c 272168 mx-installer_19.8_amd64.deb
+ 1a690e7a39301f81d58fb8d855d4b085eb885866 272176 mx-installer_19.8_amd64.deb
 Checksums-Sha256:
- ef6d255cdedb0f14775297028bba05dd4a9f480ff036dcc1129568e0796674ea 1204 gazelle-installer_19.8.dsc
- 00800e5dea56b76d02130a5fd0f92425fe74ea10a51c69b731ec38590a68e25f 200864 gazelle-installer_19.8.tar.xz
- dbce67ff884a657767b717e9031ee82dbd09bec97538ffa4394fbcb47c355c80 10550 gazelle-installer_19.8_amd64.buildinfo
+ 4e17cd75ce9a48c92908eafffddf276ae60e8f3ceae086af19198e7dff05fd98 1204 gazelle-installer_19.8.dsc
+ 00478bee1d44bb98c0500ffa61898218e3327736c9e77148a89a2facee04c650 200932 gazelle-installer_19.8.tar.xz
+ a1186fc6d5669dc3abe92e86cfdec384190d03e096e614acabf6e5006ea21eb7 10550 gazelle-installer_19.8_amd64.buildinfo
  101441125b18711d5e942cf6710295b8808c7a6bbd00888fcec04c449c659840 1335232 mx-installer-dbgsym_19.8_amd64.deb
- 5baef8f170e5028bcd9d0382c76defbf9551ac9ceabc04af5c9bc1ee170ee418 272168 mx-installer_19.8_amd64.deb
+ 3fb5a9bf0301c1268d0d0295f6e6dbe41ee17ef4528a02aa14cb8ebbfd872ff2 272176 mx-installer_19.8_amd64.deb
 Files:
- 18325c1c17f68ebc6a1018bf580e37b7 1204 system optional gazelle-installer_19.8.dsc
- 3cbd9a26025437a891c524f32b6ccfe0 200864 system optional gazelle-installer_19.8.tar.xz
- 313d9eeeff1fe519feebac5a85a60faf 10550 system optional gazelle-installer_19.8_amd64.buildinfo
+ e70ebc0251530763bc6b3b4069f78bf9 1204 system optional gazelle-installer_19.8.dsc
+ 7946d7021bac8cebf31723df5b139cbf 200932 system optional gazelle-installer_19.8.tar.xz
+ e10ef6f4654e36e056b94cb15fbe2076 10550 system optional gazelle-installer_19.8_amd64.buildinfo
  1f94b8431e7d8a8341b15a558284880d 1335232 debug optional mx-installer-dbgsym_19.8_amd64.deb
- fe0939b7b8564a2bd07285dbb4e1a282 272168 system optional mx-installer_19.8_amd64.deb
+ f42ed97e1a5e8d4a53e293257c6f9bdf 272176 system optional mx-installer_19.8_amd64.deb
 
 -----BEGIN PGP SIGNATURE-----
 
-iQFHBAEBCAAxFiEE8ndToY6S45N+YzXncJOMeAZ57pgFAl1DqnkTHGFkcmlhbkBt
-eGxpbnV4Lm9yZwAKCRBwk4x4BnnumERwCACVwfRaHAd08EdzzWmaKwVWMkwK2ewx
-HmFuDaycifShOStowrAkb/LxlPfRbpOuqKVFtl8HIBvpuwFsBfESjeotohWIBzOM
-r7LXVWxs4ywe34h5/oEHsNNKvdP5VUeMSgsu5ObSZWEULtWeFZ0H8N3kVoLjFRXh
-FimKjVAllC+epESjlYK49MsnskysoylWhBYR9wPJvQ6hXSKChhg9of489WskCgCM
-FxvH6A9edjCDuJxTTT94nhaslEHZywKd88Axri8yTabc0gxC2+jPpTb2newZmXD6
-uwrzHmK0lfwJ3YpTWpAWJEo22uoZHvpSd7mesrVBZVeNs66nJcuLrOSx
-=elbJ
+iQFHBAEBCAAxFiEE8ndToY6S45N+YzXncJOMeAZ57pgFAl1EM30THGFkcmlhbkBt
+eGxpbnV4Lm9yZwAKCRBwk4x4BnnumFfoB/4lkj4VaFaQ7phFoAdeRyUC1FMLLP+Z
+iu7j/9eJLw/2otgfEW8bdRQPf8p7W0vPF/zvlxJx/hHG2ZfMDvTEbhbTHF6kjN+B
+0oRXGswnvAJJnd+fnsfajGGVGTlgTmmTKv0HO3zpboev7FsnOrMVMtGfsM5JcrTW
+oETtsbnjQzkvb1GUkOEAQgtavCrYmR6/GslkNrt3/zSQltD/obIbGslO5Tp4tDLB
+JELphim4sB/L0w07W7+mWSNvWqZFKNsU6at6Tn9qEz3ska3TieZmsgfgQScuDxgb
+vjaahVRg/YKUpFfX2PtJEDy9x6xVxzHNwJ/Yd1cUKK/JRaad8z7YcSTx
+=J/1j
 -----END PGP SIGNATURE-----
