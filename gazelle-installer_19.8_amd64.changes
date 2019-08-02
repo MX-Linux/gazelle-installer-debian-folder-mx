@@ -1,0 +1,49 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA256
+
+Format: 1.8
+Date: Thu, 01 Aug 2019 21:40:26 -0400
+Source: gazelle-installer
+Binary: mx-installer mx-installer-dbgsym
+Architecture: source amd64
+Version: 19.8
+Distribution: mx
+Urgency: medium
+Maintainer: dolphinoracle <dolphinoracle@gmail.com>
+Changed-By: Adrian <adrian@mxlinux.org>
+Description:
+ mx-installer - Customizable GUI installer for MX Linux and antiX Linux
+Changes:
+ gazelle-installer (19.8) mx; urgency=medium
+ .
+   * Add polkit file
+Checksums-Sha1:
+ 690c23f89d9ec70504ce3448d8f476cb1461e70c 1204 gazelle-installer_19.8.dsc
+ 738fd7d63a8856da06a44d5e4e2e6024dd4786a3 200928 gazelle-installer_19.8.tar.xz
+ ae66559f1f45f5285616fea631f39184d8dca099 10550 gazelle-installer_19.8_amd64.buildinfo
+ d427b1e057b296c0c1f84a8e5942ef81996d33fe 1335352 mx-installer-dbgsym_19.8_amd64.deb
+ 8e0c21714dfae238c0e7086fc73582612e688374 272076 mx-installer_19.8_amd64.deb
+Checksums-Sha256:
+ 2c7f26b1dc7aef9205b011af301a3dd542f558243ae48bb5fee252c72b5dbf86 1204 gazelle-installer_19.8.dsc
+ 40c9563e4e58d02b75f3e56aea0997487feac8166cb7c3325e8e6f9a32aa5079 200928 gazelle-installer_19.8.tar.xz
+ 39922ff78a1107d509aa260e9f356c70f764f4304c0432f4080c7016ef1448b1 10550 gazelle-installer_19.8_amd64.buildinfo
+ 361941d0ff31deb9725136d79e3732ebafb5fbbfc4a7b22b82465a6979935076 1335352 mx-installer-dbgsym_19.8_amd64.deb
+ abff2ee42392e24252ef5d763a517ddaffe60324da6cac460858288694f4b11e 272076 mx-installer_19.8_amd64.deb
+Files:
+ ac0111b7bf196bd8e73bffc06b09f025 1204 system optional gazelle-installer_19.8.dsc
+ 12aa0bef608f17f8efef922776304e5d 200928 system optional gazelle-installer_19.8.tar.xz
+ f98475e5a4bdcc4a12c726bc900cbc29 10550 system optional gazelle-installer_19.8_amd64.buildinfo
+ 666c3a5bd1590392239f361dabbee3cd 1335352 debug optional mx-installer-dbgsym_19.8_amd64.deb
+ 808466b50053e7d353fa392b165737a1 272076 system optional mx-installer_19.8_amd64.deb
+
+-----BEGIN PGP SIGNATURE-----
+
+iQFHBAEBCAAxFiEE8ndToY6S45N+YzXncJOMeAZ57pgFAl1Dn8wTHGFkcmlhbkBt
+eGxpbnV4Lm9yZwAKCRBwk4x4BnnumO9zB/414Hg45xjyUvKtuO7lIWAAzVQkWmJC
+YWliJXlK7+QRCmVPq0gq6+/dZ3Sg7A7BNU7fwRcjpcvdY8fCctsxOa/VTLpbv+tB
+vmpMMtC4ZDxc359/v2wK1nE2yZ7c0FSYa91BZb/+J7fMqZ3TK3OSElqo8A+/BB7S
+8XRXzo6dssnPDTu6hKI38S7VkzGjJk8b2TQZGARkTMMu+zE6tCzc0lsGs9F+Cygi
+95FuzVtFr/i2JiCTxc2AUJhp6+zMbfPRFlnmMXaNGvk5J13VBRX06U4GQnIwZG3h
+pabWl1I3y+h0sLL2OL04aU3dUyOA1fIy23seJNDqAJRhPVB0v8aX53a/
+=cHau
+-----END PGP SIGNATURE-----

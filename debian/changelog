@@ -1,3 +1,9 @@
+gazelle-installer (19.8) mx; urgency=medium
+
+  * Add polkit file
+
+ -- Adrian <adrian@mxlinux.org>  Thu, 01 Aug 2019 21:40:26 -0400
+
 gazelle-installer (19.7.5) mx; urgency=medium
 
   * Add social media links
