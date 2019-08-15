@@ -1,3 +1,10 @@
+gazelle-installer (19.8.01) mx; urgency=medium
+
+  * antix automount fixes
+  * fix for more than 15 partitions bug 
+
+ -- Dolphin Oracle <dolphinoracle@gmail.com>  Wed, 14 Aug 2019 20:11:10 -0400
+
 gazelle-installer (19.8) mx; urgency=medium
 
   * Add polkit file
