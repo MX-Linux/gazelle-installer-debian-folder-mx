@@ -1,3 +1,9 @@
+gazelle-installer (19.8.02) mx; urgency=medium
+
+  * Store mount configuration in a flexible tree format.
+
+ -- Adrian <adrian@mxlinux.org>  Mon, 19 Aug 2019 08:48:12 -0400
+
 gazelle-installer (19.8.01) mx; urgency=medium
 
   * antix automount fixes
