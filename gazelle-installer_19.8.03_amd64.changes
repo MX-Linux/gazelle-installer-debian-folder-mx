@@ -1,0 +1,49 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA256
+
+Format: 1.8
+Date: Mon, 19 Aug 2019 11:18:39 -0400
+Source: gazelle-installer
+Binary: mx-installer mx-installer-dbgsym
+Architecture: source amd64
+Version: 19.8.03
+Distribution: mx
+Urgency: medium
+Maintainer: dolphinoracle <dolphinoracle@gmail.com>
+Changed-By: Adrian <adrian@mxlinux.org>
+Description:
+ mx-installer - Customizable GUI installer for MX Linux and antiX Linux
+Changes:
+ gazelle-installer (19.8.03) mx; urgency=medium
+ .
+   * Fixed: mount options for BTRFS compression are not respected.
+Checksums-Sha1:
+ 480c83660cd61290eddb18987ec9dada570f4918 1216 gazelle-installer_19.8.03.dsc
+ 24ef3a8be50b0ec418fe1053c9dd8098767dd05a 201304 gazelle-installer_19.8.03.tar.xz
+ c84c3aebd840484b4cae013b3433c2a09b4a441f 10587 gazelle-installer_19.8.03_amd64.buildinfo
+ 3433ce8e13eaa70dbe7cbee1f5bc3bac429f8f95 1337088 mx-installer-dbgsym_19.8.03_amd64.deb
+ 9cff3319dad7e7a440b10b2572e8632ee528a138 272996 mx-installer_19.8.03_amd64.deb
+Checksums-Sha256:
+ 3714e1be680c70cada377fc552ef44e7ce31bbfd66d252a7fb197d9eb4ac1579 1216 gazelle-installer_19.8.03.dsc
+ 1e9ef1c4435a4ccac21735a92022f1894ee989fe606b038791aebbed35960b3d 201304 gazelle-installer_19.8.03.tar.xz
+ 13829ab6cde7f352ddc1033867de326618975dcd6571b84513a83ee64fc43cc1 10587 gazelle-installer_19.8.03_amd64.buildinfo
+ aeb627f8e23d755ee0e0b8305c203b364a72cdd7ad5a34f145648f2de17d82c7 1337088 mx-installer-dbgsym_19.8.03_amd64.deb
+ b1a947819152928d607a2a5277f38f528948bcaa287ad123beb8caf8aad5dfb4 272996 mx-installer_19.8.03_amd64.deb
+Files:
+ 08aa9d2fb060a017b5ad3b9a59da2e2c 1216 system optional gazelle-installer_19.8.03.dsc
+ 778a7750ab7104391fcf07d4cb802a5b 201304 system optional gazelle-installer_19.8.03.tar.xz
+ 21a34f08cb5e75eb522cef601f22b0fe 10587 system optional gazelle-installer_19.8.03_amd64.buildinfo
+ be60e6d41b9605a6c13c6d9b83707592 1337088 debug optional mx-installer-dbgsym_19.8.03_amd64.deb
+ 37b46c1fc1dc714c80361aed914e3489 272996 system optional mx-installer_19.8.03_amd64.deb
+
+-----BEGIN PGP SIGNATURE-----
+
+iQFHBAEBCAAxFiEE8ndToY6S45N+YzXncJOMeAZ57pgFAl1avicTHGFkcmlhbkBt
+eGxpbnV4Lm9yZwAKCRBwk4x4BnnumJfwB/95y9tFMC50jvrEMX2k7cgzu6m+W2y/
+0UsDvTRgW6jLpBX+fhlgXOB9wIptmv0K6lsK6LPXygaSpVF1C1ZC7AilTEa3vX45
+L5tEfQMK3t4boMcpYpu6GUQVscH9UmG0FQWKTe7fIJNuMPXm9slCEZ+bztHP1GM3
+BUwtjWvcrpm68kwwdD4Csmu3/o++42Px3ueuSMDFB43V1QfO9eY8PQkZ5QHe59gv
+XnFhkxLeM0tRvqTNcC4u+yp5jZpPtuc0TA2YuMSvPR56/XQc8EwBRlWAYipYuiTd
+pq8+7A/s6UMC0SaH/sF/ekH4nNviqivcvUkzywBy+uy2VGQ/6fiRO0uH
+=v7Bq
+-----END PGP SIGNATURE-----
