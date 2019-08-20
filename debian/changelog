@@ -1,3 +1,9 @@
+gazelle-installer (19.8.04) mx; urgency=medium
+
+  * Separated root and boot mount options.
+
+ -- Adrian <adrian@mxlinux.org>  Tue, 20 Aug 2019 11:48:13 -0400
+
 gazelle-installer (19.8.03) mx; urgency=medium
 
   * Fixed: mount options for BTRFS compression are not respected.
