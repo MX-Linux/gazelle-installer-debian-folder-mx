@@ -1,3 +1,10 @@
+gazelle-installer (19.8.05) mx; urgency=medium
+
+  * Added command execution counter and improved the debug output a bit.
+  * Changed readAll() calls to readAllStandardOutput() for clarity.
+
+ -- Adrian <adrian@mxlinux.org>  Sun, 25 Aug 2019 12:26:55 -0400
+
 gazelle-installer (19.8.04) mx; urgency=medium
 
   * Separated root and boot mount options.

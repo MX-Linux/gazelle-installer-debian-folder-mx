@@ -1,0 +1,50 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA256
+
+Format: 1.8
+Date: Sun, 25 Aug 2019 12:26:55 -0400
+Source: gazelle-installer
+Binary: mx-installer mx-installer-dbgsym
+Architecture: source amd64
+Version: 19.8.05
+Distribution: mx
+Urgency: medium
+Maintainer: dolphinoracle <dolphinoracle@gmail.com>
+Changed-By: Adrian <adrian@mxlinux.org>
+Description:
+ mx-installer - Customizable GUI installer for MX Linux and antiX Linux
+Changes:
+ gazelle-installer (19.8.05) mx; urgency=medium
+ .
+   * Added command execution counter and improved the debug output a bit.
+   * Changed readAll() calls to readAllStandardOutput() for clarity.
+Checksums-Sha1:
+ 99639d46934d72b91a2ea74165df9cfad1a2d7a3 1216 gazelle-installer_19.8.05.dsc
+ e1ed64405c0a28602cab4df6dc56823f878ab36b 201508 gazelle-installer_19.8.05.tar.xz
+ e8f7c7fcb9251fe513d113cd05e707f19be4195b 10583 gazelle-installer_19.8.05_amd64.buildinfo
+ a41564cdf048694a636a953a937b519eeae1481f 1342856 mx-installer-dbgsym_19.8.05_amd64.deb
+ b35529e240ff8a22ecf927e924e69fbfd9fe74ba 273948 mx-installer_19.8.05_amd64.deb
+Checksums-Sha256:
+ bc1004cce74271d4cddf043fd73b8fd63fdf8bf4a247f629b63bb59cdd43f9ad 1216 gazelle-installer_19.8.05.dsc
+ 708e33913ee200cb90c2e993905d8d72e13e6af0a90245d54c9a76ae02ef41be 201508 gazelle-installer_19.8.05.tar.xz
+ 5d5364c24490b23bbde123407a0468a6405caf59a1798a5f0cb039bea5ca81d2 10583 gazelle-installer_19.8.05_amd64.buildinfo
+ 4cc69da7d36b2f68bf494212eb0fd95129c653ec0a99eb9c3bbbb4537d59c5df 1342856 mx-installer-dbgsym_19.8.05_amd64.deb
+ 6a14f4027301d13335ea2c0bdffb065ea0b8810877321a6a362a2b973c867879 273948 mx-installer_19.8.05_amd64.deb
+Files:
+ 3956dd4bc9db853bf2d0df3fd29a74e5 1216 system optional gazelle-installer_19.8.05.dsc
+ 186cb524bb381d00645e3665c037c998 201508 system optional gazelle-installer_19.8.05.tar.xz
+ c9a03a9ae705782d18fe0d0b7adf897a 10583 system optional gazelle-installer_19.8.05_amd64.buildinfo
+ eaeba9be798a487b7092bd19cf8b123e 1342856 debug optional mx-installer-dbgsym_19.8.05_amd64.deb
+ 0005de8a69da46ea017fbfc20b6f68ae 273948 system optional mx-installer_19.8.05_amd64.deb
+
+-----BEGIN PGP SIGNATURE-----
+
+iQFHBAEBCAAxFiEE8ndToY6S45N+YzXncJOMeAZ57pgFAl1it30THGFkcmlhbkBt
+eGxpbnV4Lm9yZwAKCRBwk4x4BnnumBpYCACKT54wSYKBmVegeP0y+HXI4AxfX6qy
+TCSQd1HiGCjUvjwUebYkzOM8g5hWAB+06jWawxbf76ArRs2rC/L+QTx+hjbO3awG
+ZbWRfaDFz1eSGnoc7ydfRnzjq/DA3dIQ35FBZOa7JxWdnma20KTK+OAmWHx8QTTY
+halTQFTqOGVJk07KSX0WZIuXigk9Ocl3g4Qu9vpTJB/eoSFdGsXuyjedI3tK/5v2
+siYZsQfFyNgMKl1zA96vjqFezYauWxa/5cDG8Qc2pmQXnRpuh3tchyWfAe4HOnB/
+w80Gifja93Ja5AJSuqr+hKbnHsBXa1rfKUXPw5QDwhhhqCr4kWrFo3Fq
+=rD9p
+-----END PGP SIGNATURE-----
