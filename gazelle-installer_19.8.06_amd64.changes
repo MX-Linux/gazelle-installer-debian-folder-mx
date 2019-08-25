@@ -1,0 +1,49 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA256
+
+Format: 1.8
+Date: Sun, 25 Aug 2019 13:57:23 -0400
+Source: gazelle-installer
+Binary: mx-installer mx-installer-dbgsym
+Architecture: source amd64
+Version: 19.8.06
+Distribution: mx
+Urgency: medium
+Maintainer: dolphinoracle <dolphinoracle@gmail.com>
+Changed-By: Adrian <adrian@mxlinux.org>
+Description:
+ mx-installer - Customizable GUI installer for MX Linux and antiX Linux
+Changes:
+ gazelle-installer (19.8.06) mx; urgency=medium
+ .
+   * Force Adwaita theme for fskbsetting
+Checksums-Sha1:
+ 275fad4dbfdd9269c472ce42ab0e08ebda73c27d 1216 gazelle-installer_19.8.06.dsc
+ 92bf0579dca8662056ddda2dc1ad97644fb49e15 201576 gazelle-installer_19.8.06.tar.xz
+ 4ae044c67c0ef2046bc4e62107f4ccf672d68dc1 10583 gazelle-installer_19.8.06_amd64.buildinfo
+ 7ca2b2a4e2c889032f557000159b170f15e97272 1342756 mx-installer-dbgsym_19.8.06_amd64.deb
+ 5d2e8d896f9f62126864768420aa0e97c0ad1931 273732 mx-installer_19.8.06_amd64.deb
+Checksums-Sha256:
+ 94710e13ad979895f27789a2d4c4fb0d6274bab91b049327e5c516484884de49 1216 gazelle-installer_19.8.06.dsc
+ 8ce4fdf33408f8e3b7b82298520189bdd9b2e4cec9d59444c0d9af5dad375334 201576 gazelle-installer_19.8.06.tar.xz
+ 4cb98580ef9ae8beac89ccafbeabd7c3c095f77ed8fe4e15c5e3b2069ed3bbe3 10583 gazelle-installer_19.8.06_amd64.buildinfo
+ 0f787f3bc56daa9d07682be72be8affd453d25285198c2c5126039b82d3b5235 1342756 mx-installer-dbgsym_19.8.06_amd64.deb
+ bd87fff19eec13d75521491037603b3f97a6e34e4e38d4beab009f31bd409138 273732 mx-installer_19.8.06_amd64.deb
+Files:
+ a14881d64ac9bfe8a22a8340f2b140d6 1216 system optional gazelle-installer_19.8.06.dsc
+ bcbaa2bb502635d4a0210a49141b7410 201576 system optional gazelle-installer_19.8.06.tar.xz
+ 9924929a699f47b52c90dc2e2623412e 10583 system optional gazelle-installer_19.8.06_amd64.buildinfo
+ 420f73f5218c1a838b2fb36ce6eb6cdb 1342756 debug optional mx-installer-dbgsym_19.8.06_amd64.deb
+ 5075d21a45fb95aa997296f43063e714 273732 system optional mx-installer_19.8.06_amd64.deb
+
+-----BEGIN PGP SIGNATURE-----
+
+iQFHBAEBCAAxFiEE8ndToY6S45N+YzXncJOMeAZ57pgFAl1izUATHGFkcmlhbkBt
+eGxpbnV4Lm9yZwAKCRBwk4x4BnnumCByCACWOrJrjHynndCMytcTSYsaH3u1NnR6
+/waw3jT3gMMuDRp4lUZ3SSsDEBIrzv/7j0TVj2E05x0RJabotJB3F6MkDeVB7SiJ
+cQ5aUa9L0wsxDS1ldEmZaMOgzbafdV5ch6G+m+dOU65RQbaZzBg7JTyX6jqAYDSZ
+0Ix8LbZZfFXfV2ieDnDL4BZcuIAEavFsYYRaoHiVCwBmeRxiuOjAPnVbJCxybJdo
+llGtvewzgD1DWQ6OCtKnEPhKJfRT9Qs6/KoGZG1bvHZdND4QAvLAKPeb8Jtc+ejD
+TtSVSSnDuBNydwCgqeMN86Ugkq+1bVf7v39tT6pvFsSkba0nCGFSYVHJ
+=QNrm
+-----END PGP SIGNATURE-----

@@ -1,3 +1,9 @@
+gazelle-installer (19.8.06) mx; urgency=medium
+
+  * Force Adwaita theme for fskbsetting
+
+ -- Adrian <adrian@mxlinux.org>  Sun, 25 Aug 2019 13:57:23 -0400
+
 gazelle-installer (19.8.05) mx; urgency=medium
 
   * Added command execution counter and improved the debug output a bit.
