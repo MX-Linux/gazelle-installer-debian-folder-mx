@@ -1,3 +1,11 @@
+gazelle-installer (19.8.07) mx; urgency=medium
+
+  * Improved disk space calculation accuracy.
+  * Determine minimum space from source medium instead of gazelle-installer-data.
+  * Produce a warning if the source cannot be accessed and activate pretend mode.
+
+ -- Adrian <adrian@mxlinux.org>  Wed, 28 Aug 2019 10:39:03 -0400
+
 gazelle-installer (19.8.06) mx; urgency=medium
 
   * Force Adwaita theme for fskbsetting

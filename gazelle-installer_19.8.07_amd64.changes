@@ -1,0 +1,51 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA256
+
+Format: 1.8
+Date: Wed, 28 Aug 2019 10:39:03 -0400
+Source: gazelle-installer
+Binary: mx-installer mx-installer-dbgsym
+Architecture: source amd64
+Version: 19.8.07
+Distribution: mx
+Urgency: medium
+Maintainer: dolphinoracle <dolphinoracle@gmail.com>
+Changed-By: Adrian <adrian@mxlinux.org>
+Description:
+ mx-installer - Customizable GUI installer for MX Linux and antiX Linux
+Changes:
+ gazelle-installer (19.8.07) mx; urgency=medium
+ .
+   * Improved disk space calculation accuracy.
+   * Determine minimum space from source medium instead of gazelle-installer-data.
+   * Produce a warning if the source cannot be accessed and activate pretend mode.
+Checksums-Sha1:
+ 24beafcb8b2c69cfa846ccde586e253c89a48d4b 1216 gazelle-installer_19.8.07.dsc
+ 08504de2c949499e17fe0a30335c38edb719ad24 201816 gazelle-installer_19.8.07.tar.xz
+ 59704185e9bb65e8dca35f0f337bb4be4e283737 10587 gazelle-installer_19.8.07_amd64.buildinfo
+ fa4730d81c3ed6cea0a30f0d422ba81ac092ac61 1345532 mx-installer-dbgsym_19.8.07_amd64.deb
+ acdffce0e13f321a30825c0a47a1749657107e1d 291392 mx-installer_19.8.07_amd64.deb
+Checksums-Sha256:
+ 2410f6daea3b0accdeb16bf41d546eab7e71b4bdd3b2514ece8ccfd3582628d9 1216 gazelle-installer_19.8.07.dsc
+ f7a819a8d0f7d5f6dc700fcb8c2ff9ada1ad0d766780d34aba31830681d53cd7 201816 gazelle-installer_19.8.07.tar.xz
+ 4bd6c878c77eb276a23c175adcb6bf8d881ed41b4d133d18f2c33d2dd408219b 10587 gazelle-installer_19.8.07_amd64.buildinfo
+ d9ff4199e4b6d50a87688276e194d74f541df22c4a7c246fe7b06e742c3ba0be 1345532 mx-installer-dbgsym_19.8.07_amd64.deb
+ 91d0cfcb1218aa08bc04a9fb3ccfaabddbd15997415a8b9fcc6b94befff83bd4 291392 mx-installer_19.8.07_amd64.deb
+Files:
+ 88c93d6923c263be21818f83b48ab4fd 1216 system optional gazelle-installer_19.8.07.dsc
+ ad91630a3ddccc8290e106b71041ce53 201816 system optional gazelle-installer_19.8.07.tar.xz
+ 2954776378337a82517ea083a83d3933 10587 system optional gazelle-installer_19.8.07_amd64.buildinfo
+ 74e1004390e3f7076a09e6d7b6b120d0 1345532 debug optional mx-installer-dbgsym_19.8.07_amd64.deb
+ 0d475bda30721af3b72a94b6adbb2bb7 291392 system optional mx-installer_19.8.07_amd64.deb
+
+-----BEGIN PGP SIGNATURE-----
+
+iQFHBAEBCAAxFiEE8ndToY6S45N+YzXncJOMeAZ57pgFAl1mkpwTHGFkcmlhbkBt
+eGxpbnV4Lm9yZwAKCRBwk4x4BnnumDGDB/9eNlIJ6HhcIzs4hKh8/ktYqztvf2Uv
+D2CeDnpvlpcMTbLkNDyL5fiwvZQscJtgve5PVZEyfJnUr85eSGNA2NfJmLFI83pA
++cGnVjrzBrkNQPriutVQLPt508iC/TtkiD29LThUWYTsXAp/zGNxNSg654JUMwGq
+yJpM9Imv1un1qo06TLnlF38HN3C/kVUrepJLbLYOrKbb5o/Z4cZ+ErpAbAfHzq6Y
+uQS0SyEhF0Ux52amen7dYln7m9U6Fhmv29k3HRs25Bvcw4YmUa7RoS8uEE1auEPK
+ouyh3pgDvOtXWE+6W8kTCPHESQmoWgTXZkuw4eVXHiBgnRaWCcwTt2sP
+=nfCF
+-----END PGP SIGNATURE-----
