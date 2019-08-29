@@ -1,3 +1,9 @@
+gazelle-installer (19.8.08) mx; urgency=medium
+
+  * New method for toggling auto-mount.
+
+ -- Adrian <adrian@mxlinux.org>  Thu, 29 Aug 2019 11:44:41 -0400
+
 gazelle-installer (19.8.07) mx; urgency=medium
 
   * Improved disk space calculation accuracy.
