@@ -1,3 +1,11 @@
+gazelle-installer (19.9) mx; urgency=medium
+
+  * New method for toggling auto-mount.
+  * Added F2FS as a file system option.
+  * Fixed: cleanup programs may not be executed.
+
+ -- Adrian <adrian@mxlinux.org>  Tue, 03 Sep 2019 09:15:00 -0400
+
 gazelle-installer (19.8.08) mx; urgency=medium
 
   * New method for toggling auto-mount.

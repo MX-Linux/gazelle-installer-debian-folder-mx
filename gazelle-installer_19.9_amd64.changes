@@ -1,0 +1,51 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA256
+
+Format: 1.8
+Date: Tue, 03 Sep 2019 09:15:00 -0400
+Source: gazelle-installer
+Binary: mx-installer mx-installer-dbgsym
+Architecture: source amd64
+Version: 19.9
+Distribution: mx
+Urgency: medium
+Maintainer: dolphinoracle <dolphinoracle@gmail.com>
+Changed-By: Adrian <adrian@mxlinux.org>
+Description:
+ mx-installer - Customizable GUI installer for MX Linux and antiX Linux
+Changes:
+ gazelle-installer (19.9) mx; urgency=medium
+ .
+   * New method for toggling auto-mount.
+   * Added F2FS as a file system option.
+   * Fixed: cleanup programs may not be executed.
+Checksums-Sha1:
+ 4f03533333fed2f9b5faa9e76a5a762081f7f67e 1204 gazelle-installer_19.9.dsc
+ db1c4b4222714fc575c249b518ea858c7f6700c5 203132 gazelle-installer_19.9.tar.xz
+ 928dd6965c01b120ea264ce39860891bcaeda38c 10554 gazelle-installer_19.9_amd64.buildinfo
+ 6a335009a66301de24725cc75dee6e7f4cf33a40 1351320 mx-installer-dbgsym_19.9_amd64.deb
+ 430dced3fb8fc98216b271986f665d1ec9382780 292260 mx-installer_19.9_amd64.deb
+Checksums-Sha256:
+ 20e936639e1c75afbb1c8c52140ea8cfde684836ba36500f2add6838b97560a7 1204 gazelle-installer_19.9.dsc
+ 767cec224dc9df9d3cf7d089061d17c461fa874135249ae16c3ad9bbee234da6 203132 gazelle-installer_19.9.tar.xz
+ 858b712419d6e0cd0ec89c8d86752cd531f57b26c4a07666c0db3da9ec6f5d34 10554 gazelle-installer_19.9_amd64.buildinfo
+ 53fdc370c66d68c00dec2bed4de453b174c920d0e5bc5be5703252bd4d94c709 1351320 mx-installer-dbgsym_19.9_amd64.deb
+ e216cb4770b89c7aeb9895f55f4507dc972f45abe18f60317d75734b88e63e8e 292260 mx-installer_19.9_amd64.deb
+Files:
+ 2982dfce3cb9c867638ced0cb61bc483 1204 system optional gazelle-installer_19.9.dsc
+ 4eeec7cca59414d80a6a1f28c9105af5 203132 system optional gazelle-installer_19.9.tar.xz
+ 2addfa4129a4a06d14f7b68b19c10525 10554 system optional gazelle-installer_19.9_amd64.buildinfo
+ 058efb64a8627f75fa572aa33dccc506 1351320 debug optional mx-installer-dbgsym_19.9_amd64.deb
+ 9fc07180e33705a46bb3f6db1625baf5 292260 system optional mx-installer_19.9_amd64.deb
+
+-----BEGIN PGP SIGNATURE-----
+
+iQFHBAEBCAAxFiEE8ndToY6S45N+YzXncJOMeAZ57pgFAl1uaC0THGFkcmlhbkBt
+eGxpbnV4Lm9yZwAKCRBwk4x4BnnumNtgB/4/j4He0pM06LhiFz7DqlBSJojcL2x5
+JoIxs+/nMWCZQj5nocr0PbrFScb2yVbHKMzkAV5n4pVsiinOgiZSZU1FIAodiexX
+kCyUb7FTuIWRDG1ZuDefyqmnIB9GKRtYLkdxgFMN0R5fJtvHwD+edQq7WdkHgrhy
+6urz02s4iDqxiw08jzDnix9FQYPK9nhkxnekA3Pqt/SDtcqgVvFV4TGPl+0IP/jX
+gWAgnbbxtmhX7b0vn4eEcG6AnHA8Y1L+I3MXwdBKAGSQb0A12K2Sl+a1+lIG1K2T
++L6kjFKEqlclxXlAwp75UGMKmjUyRrr9DqErJm7mRiYZYjdzZ6SrRcFw
+=R2bK
+-----END PGP SIGNATURE-----
