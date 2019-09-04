@@ -361,7 +361,7 @@ gazelle-installer (18.6.1) mx; urgency=medium
 
   * modified libcmd callouts (adrian)
 
- -- dolphinoracle <dolphin@mx>  Fri, 01 Jun 2018 06:55:30 -0400
+ -- dolphinoracle <dolphinoracle@gmail.com>  Fri, 01 Jun 2018 06:55:30 -0400
 
 gazelle-installer (18.5.4) mx; urgency=medium
 
@@ -399,31 +399,31 @@ mx-installer (18.4.10) mx; urgency=medium
   * added nvme mmcblk device detection
   * added backup esp finder function 
 
- -- dolphinoracle <dolphin@mx>  Mon, 16 Apr 2018 19:19:46 -0400
+ -- dolphinoracle <dolphinoracle@gmail.com>  Mon, 16 Apr 2018 19:19:46 -0400
 
 mx-installer (18.4.09) mx; urgency=medium
 
   * added Desktop/Installer.desktop to live-to-installed 
 
- -- dolphinoracle <dolphin@mx>  Sat, 14 Apr 2018 19:46:31 -0400
+ -- dolphinoracle <dolphinoracle@gmail.com>  Sat, 14 Apr 2018 19:46:31 -0400
 
 mx-installer (18.4.08) mx; urgency=medium
 
   * modified keyboard setup so that multiple keyboards stay enabled 
 
- -- dolphinoracle <dolphin@mx>  Sat, 14 Apr 2018 19:22:29 -0400
+ -- dolphinoracle <dolphinoracle@gmail.com>  Sat, 14 Apr 2018 19:22:29 -0400
 
 mx-installer (18.4.07mx17) mx; urgency=medium
 
   * tweak to memain.ui 
 
- -- dolphinoracle <dolphin@mx>  Sat, 14 Apr 2018 12:31:47 -0400
+ -- dolphinoracle <dolphinoracle@gmail.com>  Sat, 14 Apr 2018 12:31:47 -0400
 
 mx-installer (18.4.06mx17) mx; urgency=medium
 
   *  text changes
 
- -- dolphinoracle <dolphin@mx>  Fri, 13 Apr 2018 22:52:04 -0400
+ -- dolphinoracle <dolphinoracle@gmail.com>  Fri, 13 Apr 2018 22:52:04 -0400
 
 mx-installer (18.4.05mx17) mx; urgency=medium
 
@@ -431,19 +431,19 @@ mx-installer (18.4.05mx17) mx; urgency=medium
   * new live-to-installed script 
   * incorporating changes from anticapitalista 
 
- -- dolphinoracle <dolphin@mx>  Fri, 13 Apr 2018 18:38:35 -0400
+ -- dolphinoracle <dolphinoracle@gmail.com>  Fri, 13 Apr 2018 18:38:35 -0400
 
 mx-installer (18.4.04mx17) mx; urgency=medium
 
   * misc. changes for antiX/mx  
 
- -- dolphinoracle <dolphin@mx>  Wed, 11 Apr 2018 21:33:42 -0400
+ -- dolphinoracle <dolphinoracle@gmail.com>  Wed, 11 Apr 2018 21:33:42 -0400
 
 mx-installer (18.4.03mx17) mx; urgency=medium
 
   *  new services module (adrian)
 
- -- dolphinoracle <dolphin@mx>  Sun, 08 Apr 2018 20:08:53 -0400
+ -- dolphinoracle <dolphinoracle@gmail.com>  Sun, 08 Apr 2018 20:08:53 -0400
 
 mx-installer (18.4.01mx17) mx; urgency=medium
 
@@ -565,13 +565,13 @@ mx-installer (17.5.03mx16) mx; urgency=medium
 
   * blank mbr when creating msdos partition table
 
- -- dolphinoracle <dolphin@mx1>  Wed, 31 May 2017 12:30:54 -0400
+ -- dolphinoracle <dolphinoracle@gmail.com1>  Wed, 31 May 2017 12:30:54 -0400
 
 mx-installer (17.5.02mx16) mx; urgency=medium
 
   * added pop up message about encrypting swap 
 
- -- dolphinoracle <dolphin@mx1>  Wed, 31 May 2017 06:48:54 -0400
+ -- dolphinoracle <dolphinoracle@gmail.com1>  Wed, 31 May 2017 06:48:54 -0400
 
 mx-installer (17.5.01mx16) mx; urgency=medium
 

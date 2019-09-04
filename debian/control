@@ -24,3 +24,4 @@ Depends: antix-libs,
          ${shlibs:Depends}
 Recommends: gparted | partitionmanager
 Description: Customizable GUI installer for MX Linux and antiX Linux
+ Customizable GUI installer for MX Linux and antiX Linux
