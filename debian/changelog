@@ -1,3 +1,9 @@
+gazelle-installer (19.9.01) mx; urgency=medium
+
+  * Split time zone list into two combo boxes. Fixed: some time zones apparently missing.
+
+ -- Adrian <adrian@mxlinux.org>  Wed, 04 Sep 2019 12:53:35 -0400
+
 gazelle-installer (19.9) mx; urgency=medium
 
   * New method for toggling auto-mount.

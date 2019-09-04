@@ -1,0 +1,49 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA256
+
+Format: 1.8
+Date: Wed, 04 Sep 2019 12:53:35 -0400
+Source: gazelle-installer
+Binary: mx-installer mx-installer-dbgsym
+Architecture: source amd64
+Version: 19.9.01
+Distribution: mx
+Urgency: medium
+Maintainer: dolphinoracle <dolphinoracle@gmail.com>
+Changed-By: Adrian <adrian@mxlinux.org>
+Description:
+ mx-installer - Customizable GUI installer for MX Linux and antiX Linux
+Changes:
+ gazelle-installer (19.9.01) mx; urgency=medium
+ .
+   * Split time zone list into two combo boxes. Fixed: some time zones apparently missing.
+Checksums-Sha1:
+ 5dfd05d1e07ca012b9acdc7f8ea0cda530a41c75 1216 gazelle-installer_19.9.01.dsc
+ 7ef6f224d8c42e354a8345c24ce992b37be21f09 203448 gazelle-installer_19.9.01.tar.xz
+ f682a297bbd0da4aad2a05aa06e3645fd3b73521 10554 gazelle-installer_19.9.01_amd64.buildinfo
+ c2cfd004507967e01e9b8f7e576fe3440b3d82fa 1363528 mx-installer-dbgsym_19.9.01_amd64.deb
+ 1b558affc80725d7853836faca2120332011d803 293812 mx-installer_19.9.01_amd64.deb
+Checksums-Sha256:
+ 975e76671f487e6d591311fa9c0afc3f84f061da29f5fed2c1d660f62274a7dc 1216 gazelle-installer_19.9.01.dsc
+ a28bb08de718529e28aa8433727af0fcce9c0c4945e84a5d0067e6d8e4cb2d46 203448 gazelle-installer_19.9.01.tar.xz
+ f44b30e158305502349330568a428c1edf8f6108028abca6979338a14d7cf43a 10554 gazelle-installer_19.9.01_amd64.buildinfo
+ 6dcc9dab2c3907c5e1f0bb1539db80336b758a9154bb1dc70f3e3167aa976ee0 1363528 mx-installer-dbgsym_19.9.01_amd64.deb
+ ba262953c15f9918c6a150f9b7ce47517ccccf416391610d0cc901d2139c5d19 293812 mx-installer_19.9.01_amd64.deb
+Files:
+ ca4703aa5830a476f120d21d08e13148 1216 system optional gazelle-installer_19.9.01.dsc
+ 10f09e1295729f6880ec9a4d60275538 203448 system optional gazelle-installer_19.9.01.tar.xz
+ 196a5f2ed6aaabc5edfe63cde5198930 10554 system optional gazelle-installer_19.9.01_amd64.buildinfo
+ 2dd76ef7a0f705c1056b6fd75b48a20d 1363528 debug optional mx-installer-dbgsym_19.9.01_amd64.deb
+ dff6b0e5c6c68818f8a05cfe7a182781 293812 system optional mx-installer_19.9.01_amd64.deb
+
+-----BEGIN PGP SIGNATURE-----
+
+iQFHBAEBCAAxFiEE8ndToY6S45N+YzXncJOMeAZ57pgFAl1v7HITHGFkcmlhbkBt
+eGxpbnV4Lm9yZwAKCRBwk4x4BnnumHgpB/9voKcxMnZybQ/Zn9AJ8/vfknbMyC0N
+hd1FwJ3/3E99yA4arT57PQ42ZiiDk0BbZirTNwYfG4Ohwx/gsTeYp4nVDSDZMqQi
+FehPvVjuQs7QRx56K+CZCvDwt2odAobkrrN0nva3fz9xrpc3XHwR+2geFf3V0N4y
+L2xux5BeV/p+Dyn0BhTj6W/BcHoXvBSOOVVwSQQP/JteMslf0m4o6fdromYbm/WA
+YtmsXccBx3DZWRYPcExe4v0GxDW8ou3jazsqGciS0Q0i4Lxgw55XISbwrx80XUU7
+r79NGBmhTpu4Wt7ZpzTpxYg+/TIku7K4lUyM8umjd+BsyKCWjvDAi0R1
+=TvCp
+-----END PGP SIGNATURE-----
