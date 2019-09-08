@@ -1,3 +1,10 @@
+gazelle-installer (19.9.05) mx; urgency=medium
+
+  *  correction to lsblk filtering
+  *  modify rule name to inhibit automount to avoid clash with gparted
+
+ -- Dolphin Oracle <dolphinoracle@gmail.com>  Sun, 08 Sep 2019 19:40:50 -0400
+
 gazelle-installer (19.9.03) mx; urgency=medium
 
   * correction to auto-mount routine - no longer trigger events 
