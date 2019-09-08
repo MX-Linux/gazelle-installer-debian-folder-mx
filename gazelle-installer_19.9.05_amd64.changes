@@ -1,0 +1,35 @@
+Format: 1.8
+Date: Sun, 08 Sep 2019 19:40:50 -0400
+Source: gazelle-installer
+Binary: mx-installer
+Architecture: source amd64
+Version: 19.9.05
+Distribution: mx
+Urgency: medium
+Maintainer: dolphinoracle <dolphinoracle@gmail.com>
+Changed-By: Dolphin Oracle <dolphinoracle@gmail.com>
+Description:
+ mx-installer - Customizable GUI installer for MX Linux and antiX Linux
+Changes:
+ gazelle-installer (19.9.05) mx; urgency=medium
+ .
+   *  correction to lsblk filtering
+   *  modify rule name to inhibit automount to avoid clash with gparted
+Checksums-Sha1:
+ ec6f44320dd8edf3e8535b2d0cf35f4e6df61db0 654 gazelle-installer_19.9.05.dsc
+ 516b79b53ef98595516ba6d6b3ae48db4735b9e3 205700 gazelle-installer_19.9.05.tar.xz
+ f4b1d67d8ffe51cc79e120feca7f44deb5730133 10907 gazelle-installer_19.9.05_amd64.buildinfo
+ 4a30cc429ad710881e73c38a09c0ef995781d90a 1088544 mx-installer-dbgsym_19.9.05_amd64.deb
+ 7f3dacacfe94c52fa7c8dae4cdb645a3e5c046fa 289746 mx-installer_19.9.05_amd64.deb
+Checksums-Sha256:
+ 5aae58caa10ea1e467ab4b39953c59697e4cea5a7da93d003a1f3bcaf07537b0 654 gazelle-installer_19.9.05.dsc
+ 67e8c3eb6a51559a5f9a7d3ed2a0bc9abdac2789dc3e1f2c90917a6cef88763c 205700 gazelle-installer_19.9.05.tar.xz
+ f3dd75e2a396d7335d7710dc83bb538f4c79d16a0e9c0958153d7fc81d5c2245 10907 gazelle-installer_19.9.05_amd64.buildinfo
+ 92b123ee156543f0b1ae14518185bf6ae1353261e4e8fb82e7828d7fcfb8cb58 1088544 mx-installer-dbgsym_19.9.05_amd64.deb
+ d2257a1bcc49a442ab60b64e5ff7ab393a19f26cb9696df3a7759a95dda11dd6 289746 mx-installer_19.9.05_amd64.deb
+Files:
+ f0516fb8b5f39c16cb26e92c8cc9c702 654 system optional gazelle-installer_19.9.05.dsc
+ 43c7bccefb430473ba7b626a6fd348e0 205700 system optional gazelle-installer_19.9.05.tar.xz
+ 8bfe34d79f4f1f51258f61bb12758a55 10907 system optional gazelle-installer_19.9.05_amd64.buildinfo
+ f702954e84c384ffc3628f86fd0791c6 1088544 debug optional mx-installer-dbgsym_19.9.05_amd64.deb
+ 12a825362ef0f2ee846acdcf93a23000 289746 system optional mx-installer_19.9.05_amd64.deb

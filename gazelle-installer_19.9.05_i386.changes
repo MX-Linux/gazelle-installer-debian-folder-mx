@@ -1,0 +1,29 @@
+Format: 1.8
+Date: Sun, 08 Sep 2019 19:40:50 -0400
+Source: gazelle-installer
+Binary: mx-installer
+Architecture: i386
+Version: 19.9.05
+Distribution: mx
+Urgency: medium
+Maintainer: dolphinoracle <dolphinoracle@gmail.com>
+Changed-By: Dolphin Oracle <dolphinoracle@gmail.com>
+Description:
+ mx-installer - Customizable GUI installer for MX Linux and antiX Linux
+Changes:
+ gazelle-installer (19.9.05) mx; urgency=medium
+ .
+   *  correction to lsblk filtering
+   *  modify rule name to inhibit automount to avoid clash with gparted
+Checksums-Sha1:
+ c30df394e055c0c465f16388b9e85d4708f28be5 10586 gazelle-installer_19.9.05_i386.buildinfo
+ 4f0a4910ee679b27f8e7708dc10e8031248ddf53 1028248 mx-installer-dbgsym_19.9.05_i386.deb
+ d832a14f242cec88559366aa37e07c579cc767bc 301720 mx-installer_19.9.05_i386.deb
+Checksums-Sha256:
+ 34861bf8ac2731bb60db787ab9017a2f5ce3b2159f44480ddd2fba7783b708cb 10586 gazelle-installer_19.9.05_i386.buildinfo
+ 81308018cc1e006404fa2a69e1e7f1c776da31355b9a0bff9fd13b8bbddc8cb7 1028248 mx-installer-dbgsym_19.9.05_i386.deb
+ 25b1980646f89896e98aeaf703b187e8584adfa8e7c7c5c309e475d0f2e626a2 301720 mx-installer_19.9.05_i386.deb
+Files:
+ a9333e3fcf78a162b603920af3201a60 10586 system optional gazelle-installer_19.9.05_i386.buildinfo
+ ccebb30733fb8543a55996b1abb6c75d 1028248 debug optional mx-installer-dbgsym_19.9.05_i386.deb
+ 63036d4354904a66f63c5940c0ad43e0 301720 system optional mx-installer_19.9.05_i386.deb
