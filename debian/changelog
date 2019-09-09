@@ -1,3 +1,11 @@
+gazelle-installer (19.9.06) mx; urgency=medium
+
+  * Adjust lsblk command modify autmount disable rule name to avoid conflict with gparted
+  * Let udisks trigger itself on its own accord.
+  * Improved timezone appearance. 
+
+ -- Adrian <adrian@mxlinux.org>  Mon, 09 Sep 2019 08:54:50 -0400
+
 gazelle-installer (19.9.05) mx; urgency=medium
 
   *  correction to lsblk filtering
