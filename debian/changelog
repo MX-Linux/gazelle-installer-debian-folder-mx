@@ -1,3 +1,9 @@
+gazelle-installer (19.9.07) mx; urgency=medium
+
+  * Sort the output of lsblk before populating the list 
+
+ -- Dolphin Oracle <dolphinoracle@gmail.com>  Mon, 09 Sep 2019 20:07:06 -0400
+
 gazelle-installer (19.9.06) mx; urgency=medium
 
   * Adjust lsblk command modify autmount disable rule name to avoid conflict with gparted
