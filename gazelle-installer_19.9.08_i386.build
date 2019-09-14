@@ -1,6 +1,6 @@
  dpkg-buildpackage -rfakeroot -us -uc -B
 dpkg-buildpackage: info: source package gazelle-installer
-dpkg-buildpackage: info: source version 19.9.07
+dpkg-buildpackage: info: source version 19.9.08
 dpkg-buildpackage: info: source distribution mx
 dpkg-buildpackage: info: source changed by Dolphin Oracle <dolphinoracle@gmail.com>
  dpkg-source --before-build gazelle-installer
@@ -190,12 +190,12 @@ dpkg-shlibdeps: warning: package could avoid a useless dependency if debian/mx-i
    dh_gencontrol -a
    dh_md5sums -a
    dh_builddeb -a
-dpkg-deb: building package 'mx-installer-dbgsym' in '../mx-installer-dbgsym_19.9.07_i386.deb'.
-dpkg-deb: building package 'mx-installer' in '../mx-installer_19.9.07_i386.deb'.
+dpkg-deb: building package 'mx-installer-dbgsym' in '../mx-installer-dbgsym_19.9.08_i386.deb'.
+dpkg-deb: building package 'mx-installer' in '../mx-installer_19.9.08_i386.deb'.
  dpkg-genbuildinfo --build=any
- dpkg-genchanges --build=any >../gazelle-installer_19.9.07_i386.changes
+ dpkg-genchanges --build=any >../gazelle-installer_19.9.08_i386.changes
 dpkg-genchanges: info: binary-only arch-specific upload (source code and arch-indep packages not included)
  dpkg-source --after-build gazelle-installer
 dpkg-buildpackage: info: binary-only upload (no source included)
 Now signing dsc file...
-debsign: Can't find or can't read dsc file gazelle-installer_19.9.07.dsc!
+debsign: Can't find or can't read dsc file gazelle-installer_19.9.08.dsc!

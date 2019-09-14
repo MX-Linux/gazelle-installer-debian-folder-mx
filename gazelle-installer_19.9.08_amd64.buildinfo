@@ -2,22 +2,22 @@ Format: 1.0
 Source: gazelle-installer
 Binary: mx-installer
 Architecture: amd64 source
-Version: 19.9.07
+Version: 19.9.08
 Checksums-Md5:
- 1ee7dc82e4e06ced1479874a48c5f35d 654 gazelle-installer_19.9.07.dsc
- ed851baa9decf96858b58cae5ec3f973 1094382 mx-installer-dbgsym_19.9.07_amd64.deb
- 4b3783691799d0fa6388595faa7223fa 290982 mx-installer_19.9.07_amd64.deb
+ ba8266b5e1a4f893f8eac823cc4fd41f 654 gazelle-installer_19.9.08.dsc
+ 48b28008a99cc84ec53ae15dc0cfb1a0 1093908 mx-installer-dbgsym_19.9.08_amd64.deb
+ deccdffa76f26bbce83dcb636b05748a 291404 mx-installer_19.9.08_amd64.deb
 Checksums-Sha1:
- eb2185bfc35e231635e28d08f705fa70c1e21669 654 gazelle-installer_19.9.07.dsc
- 533e31263634296dd652996640ae62260fd148e9 1094382 mx-installer-dbgsym_19.9.07_amd64.deb
- bfe36e3fde460f4262a84c97c695a0af0c9be19e 290982 mx-installer_19.9.07_amd64.deb
+ c4b9b61c3f0cc3ad9cbefe348f4aa12fd0728b5b 654 gazelle-installer_19.9.08.dsc
+ fd6816881d1bc302665e1f471dd9fac1b0a79aa1 1093908 mx-installer-dbgsym_19.9.08_amd64.deb
+ c1d9bd86af7c6f5e4a775cc4c0f29b2fad2cc533 291404 mx-installer_19.9.08_amd64.deb
 Checksums-Sha256:
- 9ac9498e1385b73edf4b3174f41bb70cdc15f98d1df4a9f4e29b50a7a8634fff 654 gazelle-installer_19.9.07.dsc
- 184c4e333e7f5b9282dd9c503646940b3aab86944a32b21fca329d4f1d737dff 1094382 mx-installer-dbgsym_19.9.07_amd64.deb
- 984d4653831a720e7c13c8f29eb08168e4a9f740bed0ac618c7283fb9a44d9ff 290982 mx-installer_19.9.07_amd64.deb
+ 4b1f2fbfe07bdfdf75e7db63eeceda8baae35951c865206f6c4b0148b6980ebc 654 gazelle-installer_19.9.08.dsc
+ 85951bf38c2824a71b22357d5bd9e7f256673c80fbf32c0ce1dbc73faad6c11b 1093908 mx-installer-dbgsym_19.9.08_amd64.deb
+ 3e04f7c0b8fe5ff14bb0d5f7c51cf9ffdf3054f2a09f733239b24a42b2116f4f 291404 mx-installer_19.9.08_amd64.deb
 Build-Origin: Debian
 Build-Architecture: amd64
-Build-Date: Mon, 09 Sep 2019 20:09:47 -0400
+Build-Date: Fri, 13 Sep 2019 22:17:45 -0400
 Installed-Build-Depends:
  autoconf (= 2.69-10),
  automake (= 1:1.15-6),
@@ -343,4 +343,4 @@ Installed-Build-Depends:
 Environment:
  DEB_BUILD_OPTIONS="parallel=4"
  LANG="en_US.UTF-8"
- SOURCE_DATE_EPOCH="1568074026"
+ SOURCE_DATE_EPOCH="1568420291"
