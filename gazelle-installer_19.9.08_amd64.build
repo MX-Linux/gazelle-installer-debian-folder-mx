@@ -1,6 +1,6 @@
  dpkg-buildpackage -rfakeroot -us -uc
 dpkg-buildpackage: info: source package gazelle-installer
-dpkg-buildpackage: info: source version 19.9.07
+dpkg-buildpackage: info: source version 19.9.08
 dpkg-buildpackage: info: source distribution mx
 dpkg-buildpackage: info: source changed by Dolphin Oracle <dolphinoracle@gmail.com>
  dpkg-source --before-build gazelle-installer
@@ -15,8 +15,8 @@ make[1]: Leaving directory '/media/dataext/development/working/64/gazelle-instal
    dh_clean
  dpkg-source -b gazelle-installer
 dpkg-source: info: using source format '3.0 (native)'
-dpkg-source: info: building gazelle-installer in gazelle-installer_19.9.07.tar.xz
-dpkg-source: info: building gazelle-installer in gazelle-installer_19.9.07.dsc
+dpkg-source: info: building gazelle-installer in gazelle-installer_19.9.08.tar.xz
+dpkg-source: info: building gazelle-installer in gazelle-installer_19.9.08.dsc
  debian/rules build
 dh build
    dh_update_autotools_config
@@ -194,10 +194,10 @@ dpkg-shlibdeps: warning: package could avoid a useless dependency if debian/mx-i
    dh_gencontrol
    dh_md5sums
    dh_builddeb
-dpkg-deb: building package 'mx-installer-dbgsym' in '../mx-installer-dbgsym_19.9.07_amd64.deb'.
-dpkg-deb: building package 'mx-installer' in '../mx-installer_19.9.07_amd64.deb'.
+dpkg-deb: building package 'mx-installer-dbgsym' in '../mx-installer-dbgsym_19.9.08_amd64.deb'.
+dpkg-deb: building package 'mx-installer' in '../mx-installer_19.9.08_amd64.deb'.
  dpkg-genbuildinfo
- dpkg-genchanges  >../gazelle-installer_19.9.07_amd64.changes
+ dpkg-genchanges  >../gazelle-installer_19.9.08_amd64.changes
 dpkg-genchanges: info: including full source code in upload
  dpkg-source --after-build gazelle-installer
 dpkg-buildpackage: info: full upload; Debian-native package (full source is included)

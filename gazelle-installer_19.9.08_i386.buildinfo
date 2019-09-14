@@ -2,19 +2,19 @@ Format: 1.0
 Source: gazelle-installer
 Binary: mx-installer
 Architecture: i386
-Version: 19.9.07
+Version: 19.9.08
 Checksums-Md5:
- 44fff683c64fbbb754110a37798cd540 1032788 mx-installer-dbgsym_19.9.07_i386.deb
- 960f25806a1a2784856f1dfeff55b0d9 302386 mx-installer_19.9.07_i386.deb
+ 8b2832d4020f80e638c2b25fb202d94f 1032688 mx-installer-dbgsym_19.9.08_i386.deb
+ e8f90c23d647f613b88c76f429a665f2 302854 mx-installer_19.9.08_i386.deb
 Checksums-Sha1:
- e3efa5eba8b7880a9129f46bd571931814f5d820 1032788 mx-installer-dbgsym_19.9.07_i386.deb
- 338e289b9524876ae9cdef631f19b30be2cc0d68 302386 mx-installer_19.9.07_i386.deb
+ ea791b96511e2ec78c6f440c1cc1c61835af4a10 1032688 mx-installer-dbgsym_19.9.08_i386.deb
+ 6881ef4529c4a815fe7282d42524a42d1cb1c50d 302854 mx-installer_19.9.08_i386.deb
 Checksums-Sha256:
- 606c7d63504053f37af01e1db959831e2cef90fbe3675c77812c71202b233d97 1032788 mx-installer-dbgsym_19.9.07_i386.deb
- e596427035d8e5b77c8bb06ec93603f40cbfddf1e5fbe4a66e268de0c9cf1adb 302386 mx-installer_19.9.07_i386.deb
+ 19f6f1d4a6afe5fe3b89767a04382237361265f7f3b78ee7800e9f232337f293 1032688 mx-installer-dbgsym_19.9.08_i386.deb
+ c9bc35d6533229520bc1a9e51507235241dba499919acfd8de2f95d6a576d39c 302854 mx-installer_19.9.08_i386.deb
 Build-Origin: Debian
 Build-Architecture: i386
-Build-Date: Mon, 09 Sep 2019 20:13:05 -0400
+Build-Date: Fri, 13 Sep 2019 22:22:16 -0400
 Installed-Build-Depends:
  autoconf (= 2.69-10),
  automake (= 1:1.15-6),
@@ -338,4 +338,4 @@ Installed-Build-Depends:
 Environment:
  DEB_BUILD_OPTIONS="parallel=4"
  LANG="en_US.UTF-8"
- SOURCE_DATE_EPOCH="1568074026"
+ SOURCE_DATE_EPOCH="1568420291"
