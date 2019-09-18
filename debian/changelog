@@ -1,3 +1,9 @@
+gazelle-installer (19.9.09) mx; urgency=medium
+
+  *  fix to 12or24 clock choice default
+
+ -- Dolphin Oracle <dolphinoracle@gmail.com>  Wed, 18 Sep 2019 12:59:45 -0400
+
 gazelle-installer (19.9.08) mx; urgency=medium
 
   * revisions to automount in minstall and minstall-pkexec 
