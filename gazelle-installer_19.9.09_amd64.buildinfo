@@ -1,20 +1,23 @@
 Format: 1.0
 Source: gazelle-installer
 Binary: mx-installer
-Architecture: i386
-Version: 19.9.08
+Architecture: amd64 source
+Version: 19.9.09
 Checksums-Md5:
- 8b2832d4020f80e638c2b25fb202d94f 1032688 mx-installer-dbgsym_19.9.08_i386.deb
- e8f90c23d647f613b88c76f429a665f2 302854 mx-installer_19.9.08_i386.deb
+ 3006c5ae60ddf6e23be26574bd21f590 654 gazelle-installer_19.9.09.dsc
+ 75bc29fd4b9309e16871f23619c3b877 1094660 mx-installer-dbgsym_19.9.09_amd64.deb
+ 4579e42b9c64f95ab2abea6b2e4cddda 291532 mx-installer_19.9.09_amd64.deb
 Checksums-Sha1:
- ea791b96511e2ec78c6f440c1cc1c61835af4a10 1032688 mx-installer-dbgsym_19.9.08_i386.deb
- 6881ef4529c4a815fe7282d42524a42d1cb1c50d 302854 mx-installer_19.9.08_i386.deb
+ 08fdabb087983c7d9a6602e19415a04716fc3f5b 654 gazelle-installer_19.9.09.dsc
+ 98e48a9eeb58c298b586347d0f8adea9cd58b312 1094660 mx-installer-dbgsym_19.9.09_amd64.deb
+ 4bc46ccec6f27b31c863daec7b3904f3eb9df026 291532 mx-installer_19.9.09_amd64.deb
 Checksums-Sha256:
- 19f6f1d4a6afe5fe3b89767a04382237361265f7f3b78ee7800e9f232337f293 1032688 mx-installer-dbgsym_19.9.08_i386.deb
- c9bc35d6533229520bc1a9e51507235241dba499919acfd8de2f95d6a576d39c 302854 mx-installer_19.9.08_i386.deb
+ 67a2909121e1207c6b147aa6232b009336f8d697a6a8d65e8856fc8186553e73 654 gazelle-installer_19.9.09.dsc
+ c57042482a57d9ae4fd2d856ce203cd92b826ed98f35b0ffda44bfbd2e285929 1094660 mx-installer-dbgsym_19.9.09_amd64.deb
+ 77d9f9b34557312ae40180453bb67c3ed86b35fd7660645a090787cc0f657a10 291532 mx-installer_19.9.09_amd64.deb
 Build-Origin: Debian
-Build-Architecture: i386
-Build-Date: Fri, 13 Sep 2019 22:22:16 -0400
+Build-Architecture: amd64
+Build-Date: Wed, 18 Sep 2019 13:03:29 -0400
 Installed-Build-Depends:
  autoconf (= 2.69-10),
  automake (= 1:1.15-6),
@@ -91,7 +94,7 @@ Installed-Build-Depends:
  libcroco3 (= 0.6.11-3),
  libcups2 (= 2.2.1-8+deb9u3),
  libdb5.3 (= 5.3.28-12+deb9u1),
- libdbus-1-3 (= 1.10.26-0+deb9u1),
+ libdbus-1-3 (= 1.10.28-0+deb9u1),
  libdebconfclient0 (= 0.227),
  libdouble-conversion1 (= 2.0.1-4),
  libdpkg-perl (= 1.18.25),
@@ -108,7 +111,7 @@ Installed-Build-Depends:
  libegl1-mesa (= 18.2.6-1~mx17+1),
  libelf1 (= 0.168-1),
  libevdev2 (= 1.5.6+dfsg-1),
- libexpat1 (= 2.2.0-2+deb9u1),
+ libexpat1 (= 2.2.0-2+deb9u2),
  libfdisk1 (= 2.29.2-1+deb9u1),
  libffi6 (= 3.2.1-6),
  libfile-stripnondeterminism-perl (= 0.034-1),
@@ -158,6 +161,7 @@ Installed-Build-Depends:
  libkrb5-3 (= 1.15-1+deb9u1),
  libkrb5support0 (= 1.15-1+deb9u1),
  libllvm7 (= 1:7-6~mx17+1),
+ liblsan0 (= 6.3.0-18+deb9u1),
  liblz4-1 (= 0.0~r131-2+b1),
  liblzma5 (= 5.2.2-1.2+b1),
  libmagic-mgc (= 1:5.30-1+deb9u2),
@@ -217,7 +221,7 @@ Installed-Build-Depends:
  libsmartcols1 (= 2.29.2-1+deb9u1),
  libsqlite3-0 (= 3.16.2-5+deb9u1),
  libss2 (= 1.43.4-2),
- libssl1.0.2 (= 1.0.2r-1~deb9u1),
+ libssl1.0.2 (= 1.0.2s-1~deb9u1),
  libstdc++-6-dev (= 6.3.0-18+deb9u1),
  libstdc++6 (= 6.3.0-18+deb9u1),
  libsystemd0 (= 232-25+deb9u11),
@@ -225,6 +229,7 @@ Installed-Build-Depends:
  libtimedate-perl (= 2.3000-2),
  libtinfo5 (= 6.0+20161126-1+deb9u2),
  libtool (= 2.4.6-2),
+ libtsan0 (= 6.3.0-18+deb9u1),
  libubsan0 (= 6.3.0-18+deb9u1),
  libudev1 (= 232-25+deb9u11),
  libunistring0 (= 0.9.6+really0.9.3-0.1),
@@ -338,4 +343,4 @@ Installed-Build-Depends:
 Environment:
  DEB_BUILD_OPTIONS="parallel=4"
  LANG="en_US.UTF-8"
- SOURCE_DATE_EPOCH="1568420291"
+ SOURCE_DATE_EPOCH="1568825985"
