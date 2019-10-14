@@ -1,3 +1,9 @@
+gazelle-installer (19.10.02) mx; urgency=medium
+
+  * add sleeps to allow time for partition changes 
+
+ -- Dolphin Oracle <dolphinoracle@gmail.com>  Mon, 14 Oct 2019 14:46:50 -0400
+
 gazelle-installer (19.10.01) mx; urgency=medium
 
   * revised filesystem label routines 
