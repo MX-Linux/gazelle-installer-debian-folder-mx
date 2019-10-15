@@ -1,0 +1,49 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA256
+
+Format: 1.8
+Date: Mon, 14 Oct 2019 21:15:55 -0400
+Source: gazelle-installer
+Binary: mx-installer
+Architecture: source amd64
+Version: 19.10.03
+Distribution: mx
+Urgency: medium
+Maintainer: dolphinoracle <dolphinoracle@gmail.com>
+Changed-By: Adrian <adrian@mxlinux.org>
+Description:
+ mx-installer - Customizable GUI installer for MX Linux and antiX Linux
+Changes:
+ gazelle-installer (19.10.03) mx; urgency=medium
+ .
+   * Fixed: ext4 format fails if a file system exists on the target partition.
+Checksums-Sha1:
+ e7ec4bd8d4281106d79b3b21fda3e55dc0e4db75 1220 gazelle-installer_19.10.03.dsc
+ 1826dc5c047897b8a7c49e906347d233b30b001a 209648 gazelle-installer_19.10.03.tar.xz
+ 3e5a88320836048ab975fe7a7294c63bda447284 11350 gazelle-installer_19.10.03_amd64.buildinfo
+ 23d07e6f14536bb970ba4bde91002a1d14617e27 1092704 mx-installer-dbgsym_19.10.03_amd64.deb
+ fc8204c2837a9305ca9278edbd229fd24118ffd3 297050 mx-installer_19.10.03_amd64.deb
+Checksums-Sha256:
+ 540c727841a660c3365fb3b0c06cb9031065f5a865a57883a25367852c36194a 1220 gazelle-installer_19.10.03.dsc
+ c30db5f3d0473f1ee16ca2cd87f7f9a7bbbe6a5c0ea54b5a79f19ef09dcaacfe 209648 gazelle-installer_19.10.03.tar.xz
+ fa86d3e8660131f1da3ac2dc984a90535864a489525535854087805a1f0d6acd 11350 gazelle-installer_19.10.03_amd64.buildinfo
+ 530ad61bc0222ee79a81f7f13bc4cf2508717817213abbf1abb2e0d4b880e416 1092704 mx-installer-dbgsym_19.10.03_amd64.deb
+ 7cd9cb2bbaeef23bbdbebdd878da0ea19b974682bfd68fd42c1bbe3dccd84674 297050 mx-installer_19.10.03_amd64.deb
+Files:
+ f4210e724767780b6cbd82f61b06ec9d 1220 system optional gazelle-installer_19.10.03.dsc
+ 58adf94114b062a90fe1d8b33f756375 209648 system optional gazelle-installer_19.10.03.tar.xz
+ 32dca3c0760f075de258925a5b20bbc4 11350 system optional gazelle-installer_19.10.03_amd64.buildinfo
+ 8ecb3a6a07acda3c27ec5e56df1aa3cc 1092704 debug optional mx-installer-dbgsym_19.10.03_amd64.deb
+ 8c36dc917da8dbf88641c6359c99c707 297050 system optional mx-installer_19.10.03_amd64.deb
+
+-----BEGIN PGP SIGNATURE-----
+
+iQFHBAEBCAAxFiEE8ndToY6S45N+YzXncJOMeAZ57pgFAl2lH6UTHGFkcmlhbkBt
+eGxpbnV4Lm9yZwAKCRBwk4x4BnnumEycB/wKQ2iO/7WXrPOm9OLLiaiF+mG+/nte
+i62KJPJUMBRnt+Cze4oXZSvEbxlkAJRy5E5SMXk3qtPKYrctaU0F7r5h3KUuVzRO
+Ip2NLIrvl39Ezuuew8qhKSQAgQw1vfZG2VW4XiM4ESrMwvKrlF2FTyPeE6eSleke
+3dXgxicZRNH7d4ea1Ky/bCC6RXoUpckAn/IQgoPgbq0RVQkyd2enWNQRXTX/ILn3
+fmQnVOv30Sqw6ts6VTmt8z6XbBNHOzu0/pCZwSbo7HhBOjYV0ZHYVaud6aLZ5bM5
+4jsPpSvJlq+tCTZzlOx86OLJXhtNiHeuXbjzfEDcppw+hHbGTQC36Ze2
+=2/eL
+-----END PGP SIGNATURE-----
