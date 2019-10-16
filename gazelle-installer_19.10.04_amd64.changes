@@ -1,0 +1,50 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA256
+
+Format: 1.8
+Date: Tue, 15 Oct 2019 23:46:32 -0400
+Source: gazelle-installer
+Binary: mx-installer mx-installer-dbgsym
+Architecture: source amd64
+Version: 19.10.04
+Distribution: mx
+Urgency: medium
+Maintainer: dolphinoracle <dolphinoracle@gmail.com>
+Changed-By: Adrian <adrian@mxlinux.org>
+Description:
+ mx-installer - Customizable GUI installer for MX Linux and antiX Linux
+Changes:
+ gazelle-installer (19.10.04) mx; urgency=medium
+ .
+   * Now requires Qt 5.10 or later.
+   * Fixed: Next button is disabled if swap encryption is disabled in configuration.
+Checksums-Sha1:
+ 0fa14cd01d8e2bb132b1ca5b2dc13b8653e4b8c4 1220 gazelle-installer_19.10.04.dsc
+ d299eecc4c81d79d072ca50ad97cc5559ba58677 209652 gazelle-installer_19.10.04.tar.xz
+ 2937f82fd85b476c15ad7c34a970512e5352f5ba 10561 gazelle-installer_19.10.04_amd64.buildinfo
+ 080dcd16193313fd5276d1a1a1b943a93d8a181f 1366208 mx-installer-dbgsym_19.10.04_amd64.deb
+ c3c95ea25fb97c28364df1bb181cde834d0e61ce 300540 mx-installer_19.10.04_amd64.deb
+Checksums-Sha256:
+ 8c3e95d006faebf6e6c70abb09cb2672238f232bf4092930ed99648a70a97c13 1220 gazelle-installer_19.10.04.dsc
+ 0dbb6a607bb9505d1266a95e9c9334fec2ad612a68ad0edb569bab2402f3f3d2 209652 gazelle-installer_19.10.04.tar.xz
+ 1a0902abbb02d965a66de7fd694ed5db447800cee87201372bd914cdf4a3c9c9 10561 gazelle-installer_19.10.04_amd64.buildinfo
+ a90dc47e4d8539ece1890b18e69f55d59de6c532969f20ce88fed86ec6976b0b 1366208 mx-installer-dbgsym_19.10.04_amd64.deb
+ e91e437347ae6796cff819c1b4ca564d20a85a324dabffc227a8cc5d420cdacd 300540 mx-installer_19.10.04_amd64.deb
+Files:
+ 5ccee7ddd2ae8c5179cc634a4b2f6cbf 1220 system optional gazelle-installer_19.10.04.dsc
+ 179ca1febe15defc9bcf90fcb613a07f 209652 system optional gazelle-installer_19.10.04.tar.xz
+ 76f4427ba09c09288d80e7ab0eed256c 10561 system optional gazelle-installer_19.10.04_amd64.buildinfo
+ 850573a2970d9c6380eaa5ca2f117d7a 1366208 debug optional mx-installer-dbgsym_19.10.04_amd64.deb
+ d28db57eefb9c270330e354f3e259b3f 300540 system optional mx-installer_19.10.04_amd64.deb
+
+-----BEGIN PGP SIGNATURE-----
+
+iQFHBAEBCAAxFiEE8ndToY6S45N+YzXncJOMeAZ57pgFAl2mliETHGFkcmlhbkBt
+eGxpbnV4Lm9yZwAKCRBwk4x4BnnumKCGB/sFWKaV1Bu1HZaSfnmSGN6XMSMToqEn
+6Zelep9MhlwzQ5gjEsYJSJcs4wWn1K8LIVftXI0CYGdeG009O2YG5ZdssuaY6bEN
+wK5SNoUV0FQSqX2/mIkm6rxzTkDmO9d2lOAC4v15QZAPvlbwtX2IEJKa/PllaLCr
+JOrBQ8u09gbxW43SxnjTAiaCvrnvoHQ/VChNEKnZrdGN1pDGNXM9VJSV81qMoC0w
+fbamHPPBzbTZ++fi/9F0MEFPgAu6QpcfhCQkE8ecV/XcE6UjmuTznfXl6f/3NZEd
+obtW6VWVMDsEQcB7Y325ty2dOv0EoZgDZ+2sD7HGSyhpAieXHl5MYSlg
+=uWxq
+-----END PGP SIGNATURE-----
