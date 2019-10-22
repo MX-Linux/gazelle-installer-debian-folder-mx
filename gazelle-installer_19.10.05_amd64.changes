@@ -1,0 +1,34 @@
+Format: 1.8
+Date: Mon, 21 Oct 2019 19:02:42 -0400
+Source: gazelle-installer
+Binary: mx-installer mx-installer-dbgsym
+Architecture: source amd64
+Version: 19.10.05
+Distribution: mx
+Urgency: medium
+Maintainer: dolphinoracle <dolphinoracle@gmail.com>
+Changed-By: Adrian <adrian@mxlinux.org>
+Description:
+ mx-installer - Customizable GUI installer for MX Linux and antiX Linux
+Changes:
+ gazelle-installer (19.10.05) mx; urgency=medium
+ .
+   * Print information about artificial delays.
+Checksums-Sha1:
+ c13ae62324f5558295bf7f66d33056085a898f53 658 gazelle-installer_19.10.05.dsc
+ c897d38f0c3e2719c54642ace08be0f8b8dd56f9 208996 gazelle-installer_19.10.05.tar.xz
+ 4591ca130936dc3da42368a9cc8c7807da71f182 9996 gazelle-installer_19.10.05_amd64.buildinfo
+ b06bd5ba5f0a7fa3cbf932b84e18ea5ab8828735 1368248 mx-installer-dbgsym_19.10.05_amd64.deb
+ d11112612bd0dd4d5c22fbddd6d583f92a0c58e3 300960 mx-installer_19.10.05_amd64.deb
+Checksums-Sha256:
+ 41d0a4be0d841c805220e574957de003ae7fbf9a729c0cb69e1beaea934358ee 658 gazelle-installer_19.10.05.dsc
+ e33583f6203ad8f6400c3af8e92b6b6deeb785ec67ca1e2a61b78d1293ee9d40 208996 gazelle-installer_19.10.05.tar.xz
+ 56760c303b4108f6e46195a103385460e02a40256cdabaecbb3faa18294765e2 9996 gazelle-installer_19.10.05_amd64.buildinfo
+ 49d009204fead3c635b85b66a9a0911d55a81012dee8698fbcb57838ce81a952 1368248 mx-installer-dbgsym_19.10.05_amd64.deb
+ 51b1cfc9b990f1d235ebf8a023934b8b388363c24ae90f73b385d1a287c62913 300960 mx-installer_19.10.05_amd64.deb
+Files:
+ bbe5654f1a5341d2fb567c4404060d88 658 system optional gazelle-installer_19.10.05.dsc
+ d70c7692d0483a68f69d39e257d5c3df 208996 system optional gazelle-installer_19.10.05.tar.xz
+ 50c5f59dcabf61393a1720db4baffd79 9996 system optional gazelle-installer_19.10.05_amd64.buildinfo
+ 78c74b9466d407f5bd568e849b619389 1368248 debug optional mx-installer-dbgsym_19.10.05_amd64.deb
+ 890c2ea894952720cb7cd10b48e8d8ba 300960 system optional mx-installer_19.10.05_amd64.deb
