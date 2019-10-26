@@ -15,20 +15,20 @@ Changes:
  .
    * Fixed: installing on f2fs parititions
 Checksums-Sha1:
- 09a30f3531a4c010c5fa360e0f24ebe3c20537a0 658 gazelle-installer_19.10.06.dsc
- 504283acda30e32de65206b27c9893166e01158b 371620 gazelle-installer_19.10.06.tar.xz
- d17a84e90b5c9b69612279c79edba5e9b1e964ba 10339 gazelle-installer_19.10.06_amd64.buildinfo
- 2622522077dfb274628b28585a5079e8f976899b 1371240 mx-installer-dbgsym_19.10.06_amd64.deb
- d7319cdd835d36e8c69d7488e91d6c294ec9e7f3 301228 mx-installer_19.10.06_amd64.deb
+ e4c233a59015117f773aff1c29fb929de75e0219 658 gazelle-installer_19.10.06.dsc
+ d81aca482de90ac931373e1ab779f98dffc12f7a 211156 gazelle-installer_19.10.06.tar.xz
+ 09281dfcb6f325f58b79801797cc4dc8ab36dbed 10339 gazelle-installer_19.10.06_amd64.buildinfo
+ 11692169e8ed342e80c337b50603e0650a3ca043 1371628 mx-installer-dbgsym_19.10.06_amd64.deb
+ c068977fec2861ee51af2d986dda969aaab8854a 301140 mx-installer_19.10.06_amd64.deb
 Checksums-Sha256:
- 8acd173f5717ce86ffa299b14e7b815b42647a3303297c606d09fa6b5bd5f92c 658 gazelle-installer_19.10.06.dsc
- 16ddf09bd6f5cf1e053a151495bb4ede4f33731d4a1aaca061bcd6695addbff8 371620 gazelle-installer_19.10.06.tar.xz
- d5615d94436e8f4eb6c8a7fba6365a9b5d263cda039742fb8d559f48d26fc455 10339 gazelle-installer_19.10.06_amd64.buildinfo
- 707c0cd4aeda5149472f1d3b99fcaa2f0c60b6b1ab0b9a51dc585000a010c2d8 1371240 mx-installer-dbgsym_19.10.06_amd64.deb
- 616d224103af76c5775e3f2392430f0f9c8b6052639848497608c1107a1279d5 301228 mx-installer_19.10.06_amd64.deb
+ 82976278b8e47c22cd9d9f239ce45221fc9f88705151458382c7ff50c4f9f60b 658 gazelle-installer_19.10.06.dsc
+ 256aa6969acb41923710c97ee41e86a5a732c26679b6d7ff0df6c3b2874b22bf 211156 gazelle-installer_19.10.06.tar.xz
+ 12000cbfcfeeba64cc7e9126bad34497270fa30dbf1b7ee7d63ffa02275ccb42 10339 gazelle-installer_19.10.06_amd64.buildinfo
+ c53dda94c57da272a42e39d08179fbdc307dbcb58dfed559beb827ba40e9e760 1371628 mx-installer-dbgsym_19.10.06_amd64.deb
+ 7427eae6c5fb13466ac2313e41d313f824364754ecd0c90287c78a7c4f7ba2f0 301140 mx-installer_19.10.06_amd64.deb
 Files:
- 6c812b72a863a0eb80ae514757ed912c 658 system optional gazelle-installer_19.10.06.dsc
- 2c476831cd119f57ec20a521d4960223 371620 system optional gazelle-installer_19.10.06.tar.xz
- cb9d31740b39196986743115d51f8378 10339 system optional gazelle-installer_19.10.06_amd64.buildinfo
- 548bb477b11b77366a9ef40812eb2573 1371240 debug optional mx-installer-dbgsym_19.10.06_amd64.deb
- 2da7b4b9cd4a558efd9bb3d17dbdeb5f 301228 system optional mx-installer_19.10.06_amd64.deb
+ b0c2ac131e7c12c11a51ca3d680809a8 658 system optional gazelle-installer_19.10.06.dsc
+ 3922826f4d1f32b99fd0d4b1a56fcc35 211156 system optional gazelle-installer_19.10.06.tar.xz
+ d0cbe6bf215f00d04ad16a2e08762da8 10339 system optional gazelle-installer_19.10.06_amd64.buildinfo
+ f3ae6b068e689377ecba661623909102 1371628 debug optional mx-installer-dbgsym_19.10.06_amd64.deb
+ 1b01071321cff2df424a703877854773 301140 system optional mx-installer_19.10.06_amd64.deb
