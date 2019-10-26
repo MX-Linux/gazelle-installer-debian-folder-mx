@@ -15,14 +15,14 @@ Changes:
  .
    * Fixed: installing on f2fs parititions
 Checksums-Sha1:
- 99bea257f46c0ab59bc7fe0d6036989447a243e4 10029 gazelle-installer_19.10.06_i386.buildinfo
- 779467b97103f0eebcaa12226a12a13f77b60d3d 1305816 mx-installer-dbgsym_19.10.06_i386.deb
- e9194f17b81c6115057abed20077cdd84152aadd 309520 mx-installer_19.10.06_i386.deb
+ 66f27d95ef62142b3fbcc26b0b8bc81ea295c443 10029 gazelle-installer_19.10.06_i386.buildinfo
+ 5a66718073b7a69ad2043f073079b3e402bb31ba 1306484 mx-installer-dbgsym_19.10.06_i386.deb
+ efaa182c8360724ee51842c6e9552e1fc9ba97f0 309936 mx-installer_19.10.06_i386.deb
 Checksums-Sha256:
- c92bac73804d3fb21c40865f979647e98fbb2f1e5f404dc0679e832eb3cb342d 10029 gazelle-installer_19.10.06_i386.buildinfo
- 6d1ec7c76731411f5de9130ae9fc1b4bba574d15779d95c10dc91eb5c4396acb 1305816 mx-installer-dbgsym_19.10.06_i386.deb
- 89d015bacb0cdbe9d974e02cb40eb1c5ac80bcaaea379fde5e01bfef76aaf780 309520 mx-installer_19.10.06_i386.deb
+ aa4f3578790234812760118b995fae57b4e408aca46dd00fd682db5f91cd874d 10029 gazelle-installer_19.10.06_i386.buildinfo
+ 9528f2fad415475ca9d5de021b4c3562ad493d2d59d19c388a61b1d0286f3f74 1306484 mx-installer-dbgsym_19.10.06_i386.deb
+ c49ff7cd126bc23e094c178eef354a42f861de0eb9d2ae768c9875fcefff4c8e 309936 mx-installer_19.10.06_i386.deb
 Files:
- 76f93b1b851cea0f3df3780b075f715d 10029 system optional gazelle-installer_19.10.06_i386.buildinfo
- a6587dd009cd7cfcbf3be385fffc7c17 1305816 debug optional mx-installer-dbgsym_19.10.06_i386.deb
- 1696b3d17ddcdb6e2e603a7bc9083400 309520 system optional mx-installer_19.10.06_i386.deb
+ 066eee33fec69b2afc0fcb54462b2ce5 10029 system optional gazelle-installer_19.10.06_i386.buildinfo
+ 5ca2595abe48dded1d3d7d8664c7b559 1306484 debug optional mx-installer-dbgsym_19.10.06_i386.deb
+ ab65efda0a8915672873b1d3c2c15c68 309936 system optional mx-installer_19.10.06_i386.deb
