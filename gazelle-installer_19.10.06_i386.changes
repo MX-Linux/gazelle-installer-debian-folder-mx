@@ -1,0 +1,28 @@
+Format: 1.8
+Date: Fri, 25 Oct 2019 14:30:33 -0400
+Source: gazelle-installer
+Binary: mx-installer mx-installer-dbgsym
+Architecture: i386
+Version: 19.10.06
+Distribution: mx
+Urgency: medium
+Maintainer: dolphinoracle <dolphinoracle@gmail.com>
+Changed-By: Adrian <adrian@mxlinux.org>
+Description:
+ mx-installer - Customizable GUI installer for MX Linux and antiX Linux
+Changes:
+ gazelle-installer (19.10.06) mx; urgency=medium
+ .
+   * Fixed: installing on f2fs parititions
+Checksums-Sha1:
+ 99bea257f46c0ab59bc7fe0d6036989447a243e4 10029 gazelle-installer_19.10.06_i386.buildinfo
+ 779467b97103f0eebcaa12226a12a13f77b60d3d 1305816 mx-installer-dbgsym_19.10.06_i386.deb
+ e9194f17b81c6115057abed20077cdd84152aadd 309520 mx-installer_19.10.06_i386.deb
+Checksums-Sha256:
+ c92bac73804d3fb21c40865f979647e98fbb2f1e5f404dc0679e832eb3cb342d 10029 gazelle-installer_19.10.06_i386.buildinfo
+ 6d1ec7c76731411f5de9130ae9fc1b4bba574d15779d95c10dc91eb5c4396acb 1305816 mx-installer-dbgsym_19.10.06_i386.deb
+ 89d015bacb0cdbe9d974e02cb40eb1c5ac80bcaaea379fde5e01bfef76aaf780 309520 mx-installer_19.10.06_i386.deb
+Files:
+ 76f93b1b851cea0f3df3780b075f715d 10029 system optional gazelle-installer_19.10.06_i386.buildinfo
+ a6587dd009cd7cfcbf3be385fffc7c17 1305816 debug optional mx-installer-dbgsym_19.10.06_i386.deb
+ 1696b3d17ddcdb6e2e603a7bc9083400 309520 system optional mx-installer_19.10.06_i386.deb
