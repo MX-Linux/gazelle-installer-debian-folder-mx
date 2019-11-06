@@ -1,3 +1,9 @@
+gazelle-installer (19.11.02) mx; urgency=medium
+
+  * Refreshed build with changes from master
+
+ -- Adrian <adrian@mxlinux.org>  Wed, 06 Nov 2019 10:25:31 -0500
+
 gazelle-installer (19.11.01) mx; urgency=medium
 
   * put minstall.conf feature behind --config switch
