@@ -12,7 +12,6 @@ Homepage: https://github.com/gazelle-installer
 Package: mx-installer
 Architecture: any
 Depends: antix-libs,
-         cryptsetup,
          fskbsetting,
          gazelle-installer-data-mx,
          gdisk,
@@ -22,6 +21,6 @@ Depends: antix-libs,
          parted,
          ${misc:Depends},
          ${shlibs:Depends}
-Recommends: gparted | partitionmanager
+Recommends: gparted | partitionmanager, cryptsetup
 Description: Customizable GUI installer for MX Linux and antiX Linux
  Customizable GUI installer for MX Linux and antiX Linux
