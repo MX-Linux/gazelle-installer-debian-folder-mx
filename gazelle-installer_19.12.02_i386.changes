@@ -1,0 +1,28 @@
+Format: 1.8
+Date: Tue, 10 Dec 2019 18:59:16 -0500
+Source: gazelle-installer
+Binary: mx-installer mx-installer-dbgsym
+Architecture: i386
+Version: 19.12.02
+Distribution: mx
+Urgency: medium
+Maintainer: dolphinoracle <dolphinoracle@gmail.com>
+Changed-By: Dolphin Oracle <dolphinoracle@gmail.com>
+Description:
+ mx-installer - Customizable GUI installer for MX Linux and antiX Linux
+Changes:
+ gazelle-installer (19.12.02) mx; urgency=medium
+ .
+   * new partition size estimate scheme (similar to live-remaster)
+Checksums-Sha1:
+ e721767daac4094d9ad7ce5a3fec069598991d07 10157 gazelle-installer_19.12.02_i386.buildinfo
+ c487b39777edf6761bf3a32e13c67763faf17feb 1323804 mx-installer-dbgsym_19.12.02_i386.deb
+ c89835f4a683d76c67a6ec7c244101b99ed4754d 293968 mx-installer_19.12.02_i386.deb
+Checksums-Sha256:
+ 2227adbaec6e2f573a967372d9d69f67ebd008408a960d6149e52268f89f63bd 10157 gazelle-installer_19.12.02_i386.buildinfo
+ 22d426a255622ffb4018c90d53da4c3e5e07ba49d3edd77bf78a22e28252060b 1323804 mx-installer-dbgsym_19.12.02_i386.deb
+ 7c4975b6b2e9152781f17082f0ec6bdfe16ff3a63d3d09afffcabde83cfb5488 293968 mx-installer_19.12.02_i386.deb
+Files:
+ 4886337e3466c2d2606697756e1c30a7 10157 system optional gazelle-installer_19.12.02_i386.buildinfo
+ 8fa66cac2178baf542817ca311b39611 1323804 debug optional mx-installer-dbgsym_19.12.02_i386.deb
+ 46181e6bfc694e7c8ea15d27274a4edd 293968 system optional mx-installer_19.12.02_i386.deb

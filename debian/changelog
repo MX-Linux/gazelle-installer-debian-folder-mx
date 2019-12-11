@@ -1,3 +1,9 @@
+gazelle-installer (19.12.02) mx; urgency=medium
+
+  * new partition size estimate scheme (similar to live-remaster) 
+
+ -- Dolphin Oracle <dolphinoracle@gmail.com>  Tue, 10 Dec 2019 18:59:16 -0500
+
 gazelle-installer (19.12.01) mx; urgency=medium
 
   * adjust preserve saving existing home partition function
