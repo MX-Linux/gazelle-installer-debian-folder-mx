@@ -1,3 +1,9 @@
+gazelle-installer (20.1) mx; urgency=medium
+
+  * Offer user creation if remastered demo folder is present
+
+ -- Adrian <adrian@mxlinux.org>  Mon, 06 Jan 2020 20:48:27 -0500
+
 gazelle-installer (19.12.02) mx; urgency=medium
 
   * new partition size estimate scheme (similar to live-remaster) 
