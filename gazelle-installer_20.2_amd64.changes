@@ -1,0 +1,35 @@
+Format: 1.8
+Date: Wed, 12 Feb 2020 17:35:52 -0500
+Source: gazelle-installer
+Binary: mx-installer mx-installer-dbgsym
+Architecture: source amd64
+Version: 20.2
+Distribution: mx
+Urgency: medium
+Maintainer: dolphinoracle <dolphinoracle@gmail.com>
+Changed-By: Dolphin Oracle <dolphinoracle@gmail.com>
+Description:
+ mx-installer - Customizable GUI installer for MX Linux and antiX Linux
+Changes:
+ gazelle-installer (20.2) mx; urgency=medium
+ .
+   * adjust live-to-install/makeFstab sequence
+   * update translations (ravrett)
+Checksums-Sha1:
+ f6df8c7745f2f226fdfd9fc44e3df4f9359614b0 642 gazelle-installer_20.2.dsc
+ 20f49a56df9e5edf6c33b8ff0a0b2ac895ab94cb 227840 gazelle-installer_20.2.tar.xz
+ e6f873e44ddbaaee5410dc39ca8ac6a709f924df 10568 gazelle-installer_20.2_amd64.buildinfo
+ 5af828401742844642ed74de7cbb48c815ba7564 1397600 mx-installer-dbgsym_20.2_amd64.deb
+ 7c2c675030c769b450978cec49ad166f5052883a 315640 mx-installer_20.2_amd64.deb
+Checksums-Sha256:
+ 187c9ac2883c23ee99eff62378f5b13e9fb38fa9f4a80e2a7a2fcb98e9c12338 642 gazelle-installer_20.2.dsc
+ f467366160e23fa61e96f0e8f0b0eb41fff01c68d5329b10fd4fe0e7645da122 227840 gazelle-installer_20.2.tar.xz
+ ae77d6766fd9fb4cdd5d9af78898a281044e49c4cece9ae983e92b2067d7ffcc 10568 gazelle-installer_20.2_amd64.buildinfo
+ 909df29a148bac29ad898db976575bb7de21e39d4288e072d0fe487962d9f10a 1397600 mx-installer-dbgsym_20.2_amd64.deb
+ 2791b55cd5c08e2e9c75362b9f029b2b176f6837872393c7967886eaafadf663 315640 mx-installer_20.2_amd64.deb
+Files:
+ bba15f4bfe7a3dfa564bd91c5e25ee12 642 system optional gazelle-installer_20.2.dsc
+ 720d6d04e3413b483e8e309f35a4afd0 227840 system optional gazelle-installer_20.2.tar.xz
+ 2b3b9bcb0d29a25ecebcaccf5659e9a1 10568 system optional gazelle-installer_20.2_amd64.buildinfo
+ c9bf705b4c5ef9e504f8236184674d8d 1397600 debug optional mx-installer-dbgsym_20.2_amd64.deb
+ 47e71661e162ac284a99870ff496afc3 315640 system optional mx-installer_20.2_amd64.deb

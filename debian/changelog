@@ -1,3 +1,10 @@
+gazelle-installer (20.2) mx; urgency=medium
+
+  * adjust live-to-install/makeFstab sequence 
+  * update translations (ravrett)
+
+ -- Dolphin Oracle <dolphinoracle@gmail.com>  Wed, 12 Feb 2020 17:35:52 -0500
+
 gazelle-installer (20.1) mx; urgency=medium
 
   * Offer user creation if remastered demo folder is present
