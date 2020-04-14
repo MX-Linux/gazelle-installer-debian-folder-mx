@@ -7,4 +7,5 @@ minstall.desktop		usr/share/applications
 polkit/*			usr/share/polkit-1/actions
 scripts/guess-hwclock		usr/sbin
 scripts/minstall-pkexec		usr/bin
+scripts/oobe			usr/share/gazelle-installer-data
 translations/*.qm		usr/share/gazelle-installer/locale
