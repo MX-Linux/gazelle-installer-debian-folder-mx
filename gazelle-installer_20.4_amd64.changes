@@ -1,0 +1,49 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+Format: 1.8
+Date: Mon, 13 Apr 2020 20:17:44 -0400
+Source: gazelle-installer
+Binary: mx-installer mx-installer-dbgsym
+Architecture: source amd64
+Version: 20.4
+Distribution: UNRELEASED
+Urgency: medium
+Maintainer: dolphinoracle <dolphinoracle@gmail.com>
+Changed-By: Adrian <adrian@mxlinux.org>
+Description:
+ mx-installer - Customizable GUI installer for MX Linux and antiX Linux
+Changes:
+ gazelle-installer (20.4) UNRELEASED; urgency=medium
+ .
+   * test OEM install
+Checksums-Sha1:
+ dddb2c3f326035d18843f2e0154c9fd789710698 1204 gazelle-installer_20.4.dsc
+ e065df1d27d9fc7c473113d37708f35fb26f0eef 229292 gazelle-installer_20.4.tar.xz
+ 905884cae5043f647ba0de557ed9cbe8432a6bec 10865 gazelle-installer_20.4_amd64.buildinfo
+ 4a47f74cc3b3cb825226d03bae8c00e5ab34fc25 1404848 mx-installer-dbgsym_20.4_amd64.deb
+ 12af8e7ad0aeb860f1ee66318daf7c9df119c0ba 325816 mx-installer_20.4_amd64.deb
+Checksums-Sha256:
+ 5e089acae0b590a55479977a3b51c86e14e1b9bb4f13226876c0ec507fd9746e 1204 gazelle-installer_20.4.dsc
+ 3045278cad6faf6dddf6db653318621dbc69d9c267a89f8fe4d8156a65ad44bc 229292 gazelle-installer_20.4.tar.xz
+ c0d381c1a1ce3f5815a23e7ab85b53cc84f46d4237eb7d020960cd47f81c9714 10865 gazelle-installer_20.4_amd64.buildinfo
+ 6b30175304179458729b83527884feb3bc0ea4204424559164aa5668160e2d08 1404848 mx-installer-dbgsym_20.4_amd64.deb
+ b44c9e7731557f4f003903d468c78b14b3e9449ecfeffe2196570b48ebff5697 325816 mx-installer_20.4_amd64.deb
+Files:
+ 8cef84fc9eb191218a9896a96825e1eb 1204 system optional gazelle-installer_20.4.dsc
+ cc46604efa382eee63aa8231431a136c 229292 system optional gazelle-installer_20.4.tar.xz
+ e939419369760454ab439b37aa0d83b9 10865 system optional gazelle-installer_20.4_amd64.buildinfo
+ a1260e89bd9a464d98efa3f1660ecace 1404848 debug optional mx-installer-dbgsym_20.4_amd64.deb
+ 71fcba9a1266c0886961d49d2e2f25a6 325816 system optional mx-installer_20.4_amd64.deb
+
+-----BEGIN PGP SIGNATURE-----
+
+iQFHBAEBCgAxFiEE8ndToY6S45N+YzXncJOMeAZ57pgFAl6VAg4THGFkcmlhbkBt
+eGxpbnV4Lm9yZwAKCRBwk4x4BnnumLQDB/93V8t+r0a3LJsQNTCzeAukrjLQbu/0
+qmReRSEerCpy0eJ7Esj8zF7Pm2ZU9Y/LdUMW/0BAk5Am/ybYMKZIz8FDSKBeu9K3
+HUUpvcJlwuMOXuBv7i6qhIK8nDQaMgWQQTbPFkN1fmN9loVV6i0QVlgMV7NlLCjZ
+x/OML6eEMDl1K10U5sgbxgVAaPXbgEa2P8Wr8haOt9EekfXm4Z5SSgKlzQfJ45SP
+xyomrH9pFwE+QIfKKhHio7anu+kddI5Ab2hApqWPhyTqcAmTz9TtcIgAIo3srEI2
+CigPDoU7YxcsFwNfFHAhSd0j0anSLF4KIyxeE9BinhmvXQknVLONosi+
+=2mwo
+-----END PGP SIGNATURE-----
