@@ -1,3 +1,9 @@
+gazelle-installer (20.4) UNRELEASED; urgency=medium
+
+  * test OEM install
+
+ -- Adrian <adrian@mxlinux.org>  Mon, 13 Apr 2020 20:17:44 -0400
+
 gazelle-installer (20.2) mx; urgency=medium
 
   * adjust live-to-install/makeFstab sequence 
