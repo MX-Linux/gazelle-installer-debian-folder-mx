@@ -18,32 +18,32 @@ Changes:
  .
    * test OEM install
 Checksums-Sha1:
- 92bed2a8d04e53b4f2a6737c8980d9c50dd4f493 1204 gazelle-installer_20.4.dsc
- c1b397401f8a04c793f2b2ac25355b56ab8cba9a 229328 gazelle-installer_20.4.tar.xz
- 7ef30109c2848ddfa3dbae4fd4a2d3e9be792f57 10865 gazelle-installer_20.4_amd64.buildinfo
- 4a47f74cc3b3cb825226d03bae8c00e5ab34fc25 1404848 mx-installer-dbgsym_20.4_amd64.deb
- b3a7d06b0cefe86d7fd5c77be866299f3ce52539 325840 mx-installer_20.4_amd64.deb
+ 995428aacd2aa3d8027a3b4f6eef9179a1ba0ea6 1204 gazelle-installer_20.4.dsc
+ c666dfb22a24cac560c77913119ca448488ea7f8 229636 gazelle-installer_20.4.tar.xz
+ 165af4d7a09758817c0dd3c998406452af319dcf 10865 gazelle-installer_20.4_amd64.buildinfo
+ 0783628daad6683ad59fd81558c33506403490e4 1450584 mx-installer-dbgsym_20.4_amd64.deb
+ a9160f85290cbf4f054f83128af580b2bb24da68 320160 mx-installer_20.4_amd64.deb
 Checksums-Sha256:
- b5c15249fad04778a9b5706a00015f623c579eba2b9353815796e11099371dd1 1204 gazelle-installer_20.4.dsc
- 6fbaeba2b4140785a3fc28a6c14ff0cc3f33094b09e473ca5caec2c64c9bce9a 229328 gazelle-installer_20.4.tar.xz
- f579e492501f2ef48e60ed67202ef0c9bf76f3f5b7a77a81bb709998914cb359 10865 gazelle-installer_20.4_amd64.buildinfo
- 6b30175304179458729b83527884feb3bc0ea4204424559164aa5668160e2d08 1404848 mx-installer-dbgsym_20.4_amd64.deb
- bc42ae522d434f0bb0745f3ac5c94f55f68f0851f3ae9193e868c0ec4daf6b6a 325840 mx-installer_20.4_amd64.deb
+ 6b19fbb85cfbd7ac4041be3a3f07fb884724ece9dab44e8eba13b2d36995a346 1204 gazelle-installer_20.4.dsc
+ f9bd50535d11a3ee8dec9a4521896bead6af67fe2690bc2c055296ecc0ad8a93 229636 gazelle-installer_20.4.tar.xz
+ 4232b00ea889d5c9971dd0b0cdde124c2f1b70dd053b79d865a741302e2a5a36 10865 gazelle-installer_20.4_amd64.buildinfo
+ 284a7d76740936e1ed928eff83213905865c424de26873ab9e35ef7157c0fa9e 1450584 mx-installer-dbgsym_20.4_amd64.deb
+ 47adcc82dfeb097d091766d9abdfa5e581cd28671c209d72344095c5a69db5db 320160 mx-installer_20.4_amd64.deb
 Files:
- 9c3b767a6fa538a7abf677240bf6ebfc 1204 system optional gazelle-installer_20.4.dsc
- db49de85134dd5bd20c5fd1b5bbaa8e8 229328 system optional gazelle-installer_20.4.tar.xz
- 4b84fdfc415311a9ad3917ea1c0dc3c7 10865 system optional gazelle-installer_20.4_amd64.buildinfo
- a1260e89bd9a464d98efa3f1660ecace 1404848 debug optional mx-installer-dbgsym_20.4_amd64.deb
- 9370132d4a78f635687c9eba517dde8b 325840 system optional mx-installer_20.4_amd64.deb
+ c7566f7516265768b32b06ed6e8c197a 1204 system optional gazelle-installer_20.4.dsc
+ 13645d058a6d6ab2a46a23fca9f90654 229636 system optional gazelle-installer_20.4.tar.xz
+ fc0826be7b9690dd4c19f8280b96b4ca 10865 system optional gazelle-installer_20.4_amd64.buildinfo
+ b1442d06fbfd635d39825193cb4b067d 1450584 debug optional mx-installer-dbgsym_20.4_amd64.deb
+ 2df2e1a42a085b17656074f2630d4088 320160 system optional mx-installer_20.4_amd64.deb
 
 -----BEGIN PGP SIGNATURE-----
 
-iQFHBAEBCgAxFiEE8ndToY6S45N+YzXncJOMeAZ57pgFAl6VjxYTHGFkcmlhbkBt
-eGxpbnV4Lm9yZwAKCRBwk4x4BnnumA0CCACJ6aS2n4JsCvavr0NlghbW5adF/H27
-WfHfmCHELMItad8P+ErLZ9RyJ7OoEDduhfS/7SS+P68y+GvZW33LfDgbSHT+UQNm
-ZPxZTp1R+ZM4/f8cvGcotV4kMcLpme9OVSwUWZfxSxtpfAQrn/qTihhYVByY7TT0
-6fmmPsnqpa6tGID8m0nIpOHeLCka4+6noHhenZ3b93d/7UXkbqQ8SG94M/q/xDzJ
-nkMrS7pbzBz/v8udr1ajBcE8n0Q2jd0ORLQ3tOGXlDnXzZwRYKCk8b0G//mVy6MT
-pZxjLADgaAbrtHWT1YSj0QkihaYkIik3ybDm8k8jBHxn9ys1Yg5ISMDN
-=9Bxe
+iQFHBAEBCgAxFiEE8ndToY6S45N+YzXncJOMeAZ57pgFAl6dsN0THGFkcmlhbkBt
+eGxpbnV4Lm9yZwAKCRBwk4x4BnnumNV1CACMYtZVnwbRg0ztOGB/qJPVJ91wGa6y
+JrSqMUX+58lXCpudE6mSKKuuECd4TgECCf5OiLwr+FQI+rGRZPL+xZPkJakhd94V
+JWiGpAJnzkFYR0GJepy9ML0/ypk8HJglU1SXxUHr9UzRAEa4jMnbwxTJd8tipIvk
+Z22OzMZg6JBlkuDx6CyRT2000pFcvKuC2sbgjtnxc6/1Ym5EvORA4cuQNuPmz3iK
+wuVgnHUYx8jOtNLyIb06L+rAObajMrwgAd2Rf9WAAc1XBKegaPdrMXqSYZgnjm+H
+pDQQiUv5vAzScMKto9UvT+reUuLCZ6fgZ7aDoJuGI8RWbga8xPE5kCcJ
+=jdfF
 -----END PGP SIGNATURE-----
