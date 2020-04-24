@@ -1,8 +1,13 @@
-gazelle-installer (20.4) UNRELEASED; urgency=medium
+gazelle-installer (20.4.1) mx; urgency=medium
 
-  * test OEM install
+  * Added assembly-line mode (--oem) and integrated out-of-box experience.
+  * Added splash screen, currently shown while querying information from the system.
+  * Removed command-line short-hand versions of test and experimental switches.
+  * GUI text clarity improvements.
+  * Select "No" by default for abortion confirmation.
+  * Postpone some initialization until after the GUI is visible. 
 
- -- Adrian <adrian@mxlinux.org>  Mon, 13 Apr 2020 20:17:44 -0400
+ -- Adrian <adrian@mxlinux.org>  Fri, 24 Apr 2020 09:12:06 -0400
 
 gazelle-installer (20.2) mx; urgency=medium
 
