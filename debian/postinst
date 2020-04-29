@@ -1,4 +1,4 @@
-#!/bin/sh -e
+#!/bin/sh 
 
 if [ "$1" = "configure" ] || [ "$1" = "abort-upgrade" ] || [ "$1" = "abort-remove" ] ; then
     
@@ -24,4 +24,5 @@ if [ "$1" = "configure" ] || [ "$1" = "abort-upgrade" ] || [ "$1" = "abort-remov
 		fi
 fi
 
+exit 0
 #DEBHELPER#
