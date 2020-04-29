@@ -1,3 +1,9 @@
+gazelle-installer (20.4.2) mx; urgency=medium
+
+  * fixed postinst script
+
+ -- Adrian <adrian@mxlinux.org>  Wed, 29 Apr 2020 10:58:22 -0400
+
 gazelle-installer (20.4.1) mx; urgency=medium
 
   * Added assembly-line mode (--oem) and integrated out-of-box experience.
