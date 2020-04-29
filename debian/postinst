@@ -7,7 +7,7 @@ if [ "$1" = "configure" ] || [ "$1" = "abort-upgrade" ] || [ "$1" = "abort-remov
 		do
 			file="/home/$i/Desktop/Installer.desktop"
 			if [ -e "$file" ]; then
-				sed -i s/Exec\=.*/Exec\=minstall-pkexec/ $file
+				sed -i s/Exec=.*/Exec=minstall-pkexec/ $file
 			fi
 	done
 	 
