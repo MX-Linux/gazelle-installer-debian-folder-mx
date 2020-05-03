@@ -1,3 +1,10 @@
+gazelle-installer (20.5) mx; urgency=medium
+
+  *Added live log tab.
+  *Eliminate warning about encrypted swap.
+
+ -- Adrian <adrian@mxlinux.org>  Sun, 03 May 2020 11:22:29 -0400
+
 gazelle-installer (20.4.2) mx; urgency=medium
 
   * fixed postinst script
