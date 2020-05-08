@@ -1,13 +1,19 @@
+gazelle-installer (20.5.1) mx; urgency=medium
+
+  * Fixed uninitialized variable.
+
+ -- Adrian <adrian@mxlinux.org>  Fri, 08 May 2020 09:28:50 -0400
+
 gazelle-installer (20.5) mx; urgency=medium
 
-  *Added live log tab.
-  *Eliminate warning about encrypted swap.
+  * Added live log tab.
+  * Eliminate warning about encrypted swap.
 
  -- Adrian <adrian@mxlinux.org>  Sun, 03 May 2020 11:22:29 -0400
 
 gazelle-installer (20.4.2) mx; urgency=medium
 
-  * fixed postinst script
+  * Fixed postinst script
 
  -- Adrian <adrian@mxlinux.org>  Wed, 29 Apr 2020 10:58:22 -0400
 
