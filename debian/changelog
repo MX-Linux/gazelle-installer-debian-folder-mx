@@ -1,6 +1,8 @@
 gazelle-installer (20.5.1) mx; urgency=medium
 
   * Fixed uninitialized variable.
+  * Enhanced live log color palette.
+  * Status changes are now logged.
 
  -- Adrian <adrian@mxlinux.org>  Fri, 08 May 2020 09:28:50 -0400
 
