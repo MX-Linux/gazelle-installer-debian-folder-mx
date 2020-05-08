@@ -1,3 +1,6 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
 Format: 1.8
 Date: Fri, 08 May 2020 09:28:50 -0400
 Source: gazelle-installer
@@ -14,21 +17,35 @@ Changes:
  gazelle-installer (20.5.1) mx; urgency=medium
  .
    * Fixed uninitialized variable.
+   * Enhanced live log color palette.
+   * Status changes are now logged.
 Checksums-Sha1:
- 1df8adf23585d434059fd83ecd01029f9f4e0ce0 650 gazelle-installer_20.5.1.dsc
- 8b8ac6f6a4f45eef3e916572c6fe23c5fc0ea098 228228 gazelle-installer_20.5.1.tar.xz
- 651a7e000d52b21fb7eb0d79b7feb5c3d5e64958 10322 gazelle-installer_20.5.1_amd64.buildinfo
- 336118cfecf2e873a81caab5c18df7063a647bae 1496492 mx-installer-dbgsym_20.5.1_amd64.deb
- 614466c96c3d138572f591c1bef895c8f1381dd5 320248 mx-installer_20.5.1_amd64.deb
+ 11b326083f96609f728e21e98e637c1d25a0681c 1212 gazelle-installer_20.5.1.dsc
+ 14b257f618c92ca8eb99ce61dc397022ad0eb08f 228428 gazelle-installer_20.5.1.tar.xz
+ 52fb20b3c7d61adcfc4648eac405fe036f3cd9df 10887 gazelle-installer_20.5.1_amd64.buildinfo
+ c696595329090e269a570af8919836ed42d87738 1501624 mx-installer-dbgsym_20.5.1_amd64.deb
+ c7b03ee57542d959ac71c5d0c41e1981ea9d6dbd 320544 mx-installer_20.5.1_amd64.deb
 Checksums-Sha256:
- 1e24160d8596b9a4fb7db049ecd27f48403d50ce1d25dc9f4d0dfc16fad45433 650 gazelle-installer_20.5.1.dsc
- f25865d278f29cf90d0e266ce5f634bd70ffc9a03d55a35519be95abd38fec90 228228 gazelle-installer_20.5.1.tar.xz
- a75e86d1255e1b49d6e7d9cb30ce62e0f087cfdb7f5c972e9948134bc69ab53c 10322 gazelle-installer_20.5.1_amd64.buildinfo
- f32af51180f3bdd468aa6a6d9e62031c858fc1915619c82ba66c7035c65cae54 1496492 mx-installer-dbgsym_20.5.1_amd64.deb
- d95a95ae72cbce2600e75c3fd4bf864fecffea2cb863137f2b7bb1e1e94c1fd0 320248 mx-installer_20.5.1_amd64.deb
+ 40f810c397dd586c254446db467199a2b5cd8d226db4abbb5a065bdba6f94040 1212 gazelle-installer_20.5.1.dsc
+ 1f84899b41f5c4dc534d7d0ae26d5c7dfa104ea43e6331e5afc6ed9109a1a965 228428 gazelle-installer_20.5.1.tar.xz
+ d37ae89b3961b66d66c44348267ff273e8a880dbdf326914316e20a2f42e12cd 10887 gazelle-installer_20.5.1_amd64.buildinfo
+ d95a38683916f3d2e8059d9304007f9105853436529a5860427d5844f839a226 1501624 mx-installer-dbgsym_20.5.1_amd64.deb
+ 4b227517c86d8702f48a20b608688b4af12ccee5eb647e4378dec28ab264b9d9 320544 mx-installer_20.5.1_amd64.deb
 Files:
- 38c8ac33c42dd474293fb0ca1749dec3 650 system optional gazelle-installer_20.5.1.dsc
- 37c30cbf2d74bafb7a3e19801e535f9b 228228 system optional gazelle-installer_20.5.1.tar.xz
- c7fd694f8444d0c48ff4348dab55ce67 10322 system optional gazelle-installer_20.5.1_amd64.buildinfo
- 2dfde18ffa6c81c2f6c59f8eb1c4fc45 1496492 debug optional mx-installer-dbgsym_20.5.1_amd64.deb
- 1dfab795a89656d3cd48429e9b35acd8 320248 system optional mx-installer_20.5.1_amd64.deb
+ a04f9546ff4de6329ee14d1d8bbb1e48 1212 system optional gazelle-installer_20.5.1.dsc
+ 737c645b6702e97bd93a9821b116f25b 228428 system optional gazelle-installer_20.5.1.tar.xz
+ d7fde2d3588eb749e971387c49ab3f16 10887 system optional gazelle-installer_20.5.1_amd64.buildinfo
+ 6dbd87fdda7179df3c741d920d2f6695 1501624 debug optional mx-installer-dbgsym_20.5.1_amd64.deb
+ ac7c149660566fc0b7d63a46f38a7dbd 320544 system optional mx-installer_20.5.1_amd64.deb
+
+-----BEGIN PGP SIGNATURE-----
+
+iQFHBAEBCgAxFiEE8ndToY6S45N+YzXncJOMeAZ57pgFAl61dvETHGFkcmlhbkBt
+eGxpbnV4Lm9yZwAKCRBwk4x4BnnumIg0B/4wb/2cUMatsM1nGBxGFpUt+E2MRnFH
++ye/qi7YMuEJjg9k81JZGWQr+TbNhTZBiPmxcnd4QIj+UrAIIRmbTcd9VM98jHX3
+3Q79dP11T9Xh1FDutR07wyj40U5qbdmDnvGtb+CcaBSpA8sYI0dJzzeyNlpliPab
+//ruyuZjrnVdWQJ+tpfEG/4Brl4UXVM3WNxVS634URP6z6qU+3WJrKRMILpwBQl9
+0lApa+z4/Ef37+jjOHSbWibs2zGTCxtaXvnBPmwYFfwQ1qEIFRheK3Yqh8EAQRoK
+X2SKLXeWTimnmhGgqt6s6z/rT1K2+qS3+JZmaCD7RV+z8YsQj+n3fMzG
+=J4qE
+-----END PGP SIGNATURE-----
