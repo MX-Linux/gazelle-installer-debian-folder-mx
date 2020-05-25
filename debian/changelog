@@ -1,3 +1,10 @@
+gazelle-installer (20.5.2) mx; urgency=medium
+
+  * Enhanced logging of the copy process.
+  * OOBE script now supports SLiM.
+
+ -- Adrian <adrian@mxlinux.org>  Mon, 25 May 2020 10:21:56 -0400
+
 gazelle-installer (20.5.1) mx; urgency=medium
 
   * Fixed uninitialized variable.
