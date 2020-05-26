@@ -1,0 +1,34 @@
+Format: 1.8
+Date: Tue, 26 May 2020 14:10:53 -0400
+Source: gazelle-installer
+Binary: mx-installer mx-installer-dbgsym
+Architecture: source amd64
+Version: 20.5.4
+Distribution: mx
+Urgency: medium
+Maintainer: dolphinoracle <dolphinoracle@gmail.com>
+Changed-By: Adrian <adrian@mxlinux.org>
+Description:
+ mx-installer - Customizable GUI installer for MX Linux and antiX Linux
+Changes:
+ gazelle-installer (20.5.4) mx; urgency=medium
+ .
+   * Fixed: Copying and renaming /etc/skel
+Checksums-Sha1:
+ 55f530e41a94b939ed9b341a609a14d8ee766aa8 650 gazelle-installer_20.5.4.dsc
+ 9b3fb45ac6428283992ce099929f57a4fffff9b0 228356 gazelle-installer_20.5.4.tar.xz
+ 7e483542561c610f2d5550d5da40c928a7b354c1 10322 gazelle-installer_20.5.4_amd64.buildinfo
+ 6010d104a93dbf5e647b717eb21c9b62e389731b 1504628 mx-installer-dbgsym_20.5.4_amd64.deb
+ 89335e5f7b0eee5b2af252e17a23781cd1d38b73 320768 mx-installer_20.5.4_amd64.deb
+Checksums-Sha256:
+ 9f2def466ee28445d77f630b4a9fb9d195184a2cd3f9b75e54bc1164542c1e6b 650 gazelle-installer_20.5.4.dsc
+ 8eb886e776784eeacc4378158623ff01d8583388c40ff3db193c96b78943b940 228356 gazelle-installer_20.5.4.tar.xz
+ 12c9f063eab3390ee77dbd699a34e2c88e9013aa3b8a1ec9dfb0b4126b3955d9 10322 gazelle-installer_20.5.4_amd64.buildinfo
+ 5bfe7fbe9c80e076f77e4310fecb0ee221dc5edd3e090c5cc6a183dd8ee5d5c1 1504628 mx-installer-dbgsym_20.5.4_amd64.deb
+ 5baca91646ab264d48e8b1874586089631d6a195266555c45ce876de59a6a2ac 320768 mx-installer_20.5.4_amd64.deb
+Files:
+ c6c8cd7986fb2631a2206b76ff7a414a 650 system optional gazelle-installer_20.5.4.dsc
+ de6bcabd024dd5088dd696fbccc8f18b 228356 system optional gazelle-installer_20.5.4.tar.xz
+ 09b9ce7b91ada379b3935306726ac2cb 10322 system optional gazelle-installer_20.5.4_amd64.buildinfo
+ 58d2ce26805f908c3cd000d14df6ebe8 1504628 debug optional mx-installer-dbgsym_20.5.4_amd64.deb
+ 22bedf08ffc7ae07d9a0120e20c696b1 320768 system optional mx-installer_20.5.4_amd64.deb
