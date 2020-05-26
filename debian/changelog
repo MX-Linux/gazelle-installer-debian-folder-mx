@@ -1,3 +1,9 @@
+gazelle-installer (20.5.3) mx; urgency=medium
+
+  * Fixed: Microsoft Reserved partition incorrectly flagged as LDM.
+
+ -- Adrian <adrian@mxlinux.org>  Tue, 26 May 2020 09:28:52 -0400
+
 gazelle-installer (20.5.2) mx; urgency=medium
 
   * Enhanced logging of the copy process.
