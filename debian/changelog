@@ -1,3 +1,9 @@
+gazelle-installer (20.6) mx; urgency=medium
+
+  * Added autologin for sddm
+
+ -- Adrian <adrian@mxlinux.org>  Wed, 24 Jun 2020 02:10:03 -0400
+
 gazelle-installer (20.5.4) mx; urgency=medium
 
   * Fixed: Copying and renaming /etc/skel
