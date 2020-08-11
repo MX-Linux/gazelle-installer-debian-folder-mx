@@ -1,3 +1,9 @@
+gazelle-installer (20.8) mx; urgency=medium
+
+  * add user directory creation when renaming home folder 
+
+ -- Adrian <dolphin@littlebyte>  Tue, 11 Aug 2020 19:55:38 -0400
+
 gazelle-installer (20.7) mx; urgency=medium
 
   * Set 12or24 hour for plasma clock 
