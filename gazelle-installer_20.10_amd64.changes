@@ -1,0 +1,34 @@
+Format: 1.8
+Date: Fri, 30 Oct 2020 18:24:45 -0400
+Source: gazelle-installer
+Binary: mx-installer mx-installer-dbgsym
+Architecture: source amd64
+Version: 20.10
+Distribution: mx
+Urgency: medium
+Maintainer: dolphinoracle <dolphinoracle@gmail.com>
+Changed-By: dolphin <dolphinoracle@gmail.com>
+Description:
+ mx-installer - Customizable GUI installer for MX Linux and antiX Linux
+Changes:
+ gazelle-installer (20.10) mx; urgency=medium
+ .
+   * add /dev to esp device for parted -s command
+Checksums-Sha1:
+ a0d6b65b882a1202aa593f0c6778a8ba15eeb68b 646 gazelle-installer_20.10.dsc
+ 9ec866c2e22bec7b6530f47c4e712f5401715f8d 228700 gazelle-installer_20.10.tar.xz
+ 8c57911f3deba01b3ec98c8451892c03b742f940 10591 gazelle-installer_20.10_amd64.buildinfo
+ 63eea533ce6d0e65714287d4462efab8d734b309 1506384 mx-installer-dbgsym_20.10_amd64.deb
+ cae4bfee9dc16960903125ba989ee5b68e49c9a0 321544 mx-installer_20.10_amd64.deb
+Checksums-Sha256:
+ a97784179d800877847d34f19538af8cd172c175f545736a6ea404a17808a16f 646 gazelle-installer_20.10.dsc
+ 6b80e85c77867a1b329f7843e3e09f1ef19fcd2b26c381c25fc011290909fb12 228700 gazelle-installer_20.10.tar.xz
+ 77a1579a19e3b58f517b309af3941263fffd07066c84f2c6ef3099da78c052d5 10591 gazelle-installer_20.10_amd64.buildinfo
+ 707c38764d1104c1094e40502c425769111878f4e35cc1980914d579ad827853 1506384 mx-installer-dbgsym_20.10_amd64.deb
+ 7b6bc61299c85fe01a373a1bb82d3ec0cbc8758c00eb19dcd5ca82c57248ed26 321544 mx-installer_20.10_amd64.deb
+Files:
+ 2cd77ed7ba2072eaa3ebee845fbcccdb 646 system optional gazelle-installer_20.10.dsc
+ 39024e4fc1a47706d2c7fa20298e4eec 228700 system optional gazelle-installer_20.10.tar.xz
+ 43c2572ca7b4a7c7d79bdc57fa1b9860 10591 system optional gazelle-installer_20.10_amd64.buildinfo
+ 8e56227894d684c15882ae35d5178ac7 1506384 debug optional mx-installer-dbgsym_20.10_amd64.deb
+ 2615aa7b9e72e9acf4cafc757f79778b 321544 system optional mx-installer_20.10_amd64.deb
