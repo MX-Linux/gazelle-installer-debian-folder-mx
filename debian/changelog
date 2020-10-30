@@ -1,3 +1,9 @@
+gazelle-installer (20.10) mx; urgency=medium
+
+  * add /dev to esp device for parted -s command
+
+ -- dolphin <dolphinoracle@gmail.com>  Fri, 30 Oct 2020 18:24:45 -0400
+ 
 gazelle-installer (20.8) mx; urgency=medium
 
   * add user directory creation when renaming home folder 
