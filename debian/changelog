@@ -1,3 +1,9 @@
+gazelle-installer (20.12) mx; urgency=medium
+
+  * theme fixes for KDE
+
+ -- Adrian <adrian@mxlinux.org>  Sat, 19 Dec 2020 16:53:30 -0500
+
 gazelle-installer (20.10) mx; urgency=medium
 
   * add /dev to esp device for parted -s command
