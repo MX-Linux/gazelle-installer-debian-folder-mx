@@ -1,0 +1,28 @@
+Format: 1.8
+Date: Thu, 21 Jan 2021 20:43:14 -0500
+Source: gazelle-installer
+Binary: mx-installer mx-installer-dbgsym
+Architecture: i386
+Version: 21.01
+Distribution: mx
+Urgency: medium
+Maintainer: dolphinoracle <dolphinoracle@gmail.com>
+Changed-By: Dolphin Oracle <dolphinoracle@gmail.com>
+Description:
+ mx-installer - Customizable GUI installer for MX Linux and antiX Linux
+Changes:
+ gazelle-installer (21.01) mx; urgency=medium
+ .
+   * update minstall-pkexec to minstall-launcher
+Checksums-Sha1:
+ 10194f98d4024d866f1619d1d51435008a15c339 10228 gazelle-installer_21.01_i386.buildinfo
+ 45e51bea5adab0f4590f5b06f710b7a75c9023c5 1461772 mx-installer-dbgsym_21.01_i386.deb
+ 3ff73dbbf9866821038c3b1a3a246bc1335c552c 332036 mx-installer_21.01_i386.deb
+Checksums-Sha256:
+ d9ef423f5856f251560de2c742e2d95e9a909260dfcba090e97d0514cbe92831 10228 gazelle-installer_21.01_i386.buildinfo
+ 3e96c3dbf3073d708c6ef59e422b94b9460530b4f1d368dd67c54d314fc77975 1461772 mx-installer-dbgsym_21.01_i386.deb
+ e04f55ea4663b82a6bfde3f46a57297a02dc5b1b2f84956f8fcde6386ead79bf 332036 mx-installer_21.01_i386.deb
+Files:
+ da60ec30d2b5857d75432fcb04ab81f3 10228 system optional gazelle-installer_21.01_i386.buildinfo
+ 47648834288364d2e6a6c296f76b486d 1461772 debug optional mx-installer-dbgsym_21.01_i386.deb
+ 218d14ff6122e6543be43ef19323d53d 332036 system optional mx-installer_21.01_i386.deb

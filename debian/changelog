@@ -1,3 +1,9 @@
+gazelle-installer (21.01) mx; urgency=medium
+
+  * update minstall-pkexec to minstall-launcher 
+
+ -- Dolphin Oracle <dolphinoracle@gmail.com>  Thu, 21 Jan 2021 20:43:14 -0500
+ 
 gazelle-installer (20.12) mx; urgency=medium
 
   * theme fixes for KDE
