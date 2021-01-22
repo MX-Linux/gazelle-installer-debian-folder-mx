@@ -1,0 +1,34 @@
+Format: 1.8
+Date: Thu, 21 Jan 2021 20:43:14 -0500
+Source: gazelle-installer
+Binary: mx-installer mx-installer-dbgsym
+Architecture: source amd64
+Version: 21.01
+Distribution: mx
+Urgency: medium
+Maintainer: dolphinoracle <dolphinoracle@gmail.com>
+Changed-By: Dolphin Oracle <dolphinoracle@gmail.com>
+Description:
+ mx-installer - Customizable GUI installer for MX Linux and antiX Linux
+Changes:
+ gazelle-installer (21.01) mx; urgency=medium
+ .
+   * update minstall-pkexec to minstall-launcher
+Checksums-Sha1:
+ 20d2beec0002bd6cf8507db0ac2247245eb4f0af 646 gazelle-installer_21.01.dsc
+ cb1a98a4a9497b8b02249168360a48179145d59c 231112 gazelle-installer_21.01.tar.xz
+ 8c449c0c251ab91997daa3da8386bc985e77b83a 10529 gazelle-installer_21.01_amd64.buildinfo
+ 36593cbb733fb0330bd99fde81d0f0cc62182443 1534224 mx-installer-dbgsym_21.01_amd64.deb
+ ce5b1d0ed2a058d0b22fad2c74b5473ec0cf32db 322760 mx-installer_21.01_amd64.deb
+Checksums-Sha256:
+ 52b5f5c6d1b2767b203ebe78978c1252bce5590076cfa8d131d6e05b84a6276b 646 gazelle-installer_21.01.dsc
+ 57864a4c8b47af2e1dbec02c7b56cd429eddf0f9ca66be378f6c02eb55cc0081 231112 gazelle-installer_21.01.tar.xz
+ 57453994d0a78428ca0595e6fded4644e3399f1a0b4dff3a2a5d8a4474cda0de 10529 gazelle-installer_21.01_amd64.buildinfo
+ 152e92a555541e3a8ebd0dcd7bb07d9734066a2a8fbc5cd6355bd175fa27f73b 1534224 mx-installer-dbgsym_21.01_amd64.deb
+ 5a74c0f30faf2912fafff4add686e933d03a1d1d208e04fe46a3674acccfa488 322760 mx-installer_21.01_amd64.deb
+Files:
+ 95365c19036f9123324ccc867dcb1960 646 system optional gazelle-installer_21.01.dsc
+ 377a2645d37c8309ca682c3d3865b3a4 231112 system optional gazelle-installer_21.01.tar.xz
+ c9026ad32b52a3da8044ab64cb36fdff 10529 system optional gazelle-installer_21.01_amd64.buildinfo
+ b224dfc2fbdff564e8483ed154d93eb0 1534224 debug optional mx-installer-dbgsym_21.01_amd64.deb
+ efc30f1fdd850c6626bcf92b61937aa3 322760 system optional mx-installer_21.01_amd64.deb
