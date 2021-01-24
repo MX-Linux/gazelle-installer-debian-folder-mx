@@ -1,6 +1,6 @@
  dpkg-buildpackage -us -uc -ui
 dpkg-buildpackage: info: source package gazelle-installer
-dpkg-buildpackage: info: source version 21.01
+dpkg-buildpackage: info: source version 21.01.02
 dpkg-buildpackage: info: source distribution mx
 dpkg-buildpackage: info: source changed by Dolphin Oracle <dolphinoracle@gmail.com>
  dpkg-source --before-build .
@@ -10,13 +10,24 @@ dh clean
    debian/rules override_dh_auto_clean
 make[1]: Entering directory '/media/demo/dataext/development/working/gazelle-installer/64'
 dh_auto_clean
+	make -j1 distclean
+make[2]: Entering directory '/media/demo/dataext/development/working/gazelle-installer/64'
+rm -f moc_predefs.h
+rm -f moc_minstall.cpp
+rm -f ui_meinstall.h
+rm -f app.o minstall.o msettings.o blockdev.o safecache.o mprocess.o moc_minstall.o
+rm -f *~ core *.core
+rm -f minstall 
+rm -f .qmake.stash
+rm -f Makefile
+make[2]: Leaving directory '/media/demo/dataext/development/working/gazelle-installer/64'
 rm -f src/translations/*.qm
 make[1]: Leaving directory '/media/demo/dataext/development/working/gazelle-installer/64'
    dh_clean
  dpkg-source -b .
 dpkg-source: info: using source format '3.0 (native)'
-dpkg-source: info: building gazelle-installer in gazelle-installer_21.01.tar.xz
-dpkg-source: info: building gazelle-installer in gazelle-installer_21.01.dsc
+dpkg-source: info: building gazelle-installer in gazelle-installer_21.01.02.tar.xz
+dpkg-source: info: building gazelle-installer in gazelle-installer_21.01.02.dsc
  debian/rules build
 dh build
    dh_update_autotools_config
@@ -204,10 +215,10 @@ dpkg-shlibdeps: warning: package could avoid a useless dependency if debian/mx-i
    dh_gencontrol
    dh_md5sums
    dh_builddeb
-dpkg-deb: building package 'mx-installer' in '../mx-installer_21.01_amd64.deb'.
-dpkg-deb: building package 'mx-installer-dbgsym' in '../mx-installer-dbgsym_21.01_amd64.deb'.
+dpkg-deb: building package 'mx-installer-dbgsym' in '../mx-installer-dbgsym_21.01.02_amd64.deb'.
+dpkg-deb: building package 'mx-installer' in '../mx-installer_21.01.02_amd64.deb'.
  dpkg-genbuildinfo
- dpkg-genchanges  >../gazelle-installer_21.01_amd64.changes
+ dpkg-genchanges  >../gazelle-installer_21.01.02_amd64.changes
 dpkg-genchanges: info: including full source code in upload
  dpkg-source --after-build .
 dpkg-buildpackage: info: full upload; Debian-native package (full source is included)

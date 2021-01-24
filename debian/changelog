@@ -1,3 +1,9 @@
+gazelle-installer (21.01.02) mx; urgency=medium
+
+  * fix missing launcher file
+
+ -- Dolphin Oracle <dolphinoracle@gmail.com>  Sun, 24 Jan 2021 17:25:15 -0500
+
 gazelle-installer (21.01) mx; urgency=medium
 
   * update minstall-pkexec to minstall-launcher 

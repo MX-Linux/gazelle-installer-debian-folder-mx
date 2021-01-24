@@ -2,19 +2,19 @@ Format: 1.0
 Source: gazelle-installer
 Binary: mx-installer
 Architecture: i386
-Version: 21.01
+Version: 21.01.02
 Checksums-Md5:
- 47648834288364d2e6a6c296f76b486d 1461772 mx-installer-dbgsym_21.01_i386.deb
- 218d14ff6122e6543be43ef19323d53d 332036 mx-installer_21.01_i386.deb
+ 3b09e8fea41e9709210c91cc5b317539 1461820 mx-installer-dbgsym_21.01.02_i386.deb
+ 301c2976c45f86f03e55a09ac97e272a 333196 mx-installer_21.01.02_i386.deb
 Checksums-Sha1:
- 45e51bea5adab0f4590f5b06f710b7a75c9023c5 1461772 mx-installer-dbgsym_21.01_i386.deb
- 3ff73dbbf9866821038c3b1a3a246bc1335c552c 332036 mx-installer_21.01_i386.deb
+ b1dc2874d6197ed93bd0ead9b01a1783daa2634f 1461820 mx-installer-dbgsym_21.01.02_i386.deb
+ 372d210088d267cd94fa207130b9119f1c467bd7 333196 mx-installer_21.01.02_i386.deb
 Checksums-Sha256:
- 3e96c3dbf3073d708c6ef59e422b94b9460530b4f1d368dd67c54d314fc77975 1461772 mx-installer-dbgsym_21.01_i386.deb
- e04f55ea4663b82a6bfde3f46a57297a02dc5b1b2f84956f8fcde6386ead79bf 332036 mx-installer_21.01_i386.deb
+ 3edbf9fb3e5e5fa0aa21e903192a13d6fd7ca9372c61eda8c77c64ddd6438426 1461820 mx-installer-dbgsym_21.01.02_i386.deb
+ 6b6920001ad7892e00dc055a32317fa7ad30c36a76d61c543ad0a19dc8a904a1 333196 mx-installer_21.01.02_i386.deb
 Build-Origin: Debian
 Build-Architecture: i386
-Build-Date: Thu, 21 Jan 2021 20:48:55 -0500
+Build-Date: Sun, 24 Jan 2021 17:32:00 -0500
 Build-Tainted-By:
  merged-usr-via-symlinks
  usr-local-has-libraries
@@ -341,4 +341,4 @@ Installed-Build-Depends:
 Environment:
  DEB_BUILD_OPTIONS="parallel=4"
  LANG="en_US.UTF-8"
- SOURCE_DATE_EPOCH="1611279794"
+ SOURCE_DATE_EPOCH="1611527115"
