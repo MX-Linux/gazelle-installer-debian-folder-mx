@@ -1,0 +1,34 @@
+Format: 1.8
+Date: Sun, 24 Jan 2021 17:25:15 -0500
+Source: gazelle-installer
+Binary: mx-installer mx-installer-dbgsym
+Architecture: source amd64
+Version: 21.01.02
+Distribution: mx
+Urgency: medium
+Maintainer: dolphinoracle <dolphinoracle@gmail.com>
+Changed-By: Dolphin Oracle <dolphinoracle@gmail.com>
+Description:
+ mx-installer - Customizable GUI installer for MX Linux and antiX Linux
+Changes:
+ gazelle-installer (21.01.02) mx; urgency=medium
+ .
+   * fix missing launcher file
+Checksums-Sha1:
+ a9d0b3f2f82cb54014d932f890cebb41c9e147f9 658 gazelle-installer_21.01.02.dsc
+ 97e573ce3d77268a1be24b754cbcf725e389d967 401608 gazelle-installer_21.01.02.tar.xz
+ 5cb367f706f107d012ced397a02f8d60c2c75a3d 10559 gazelle-installer_21.01.02_amd64.buildinfo
+ 0a06089b49cd13801135d74c57fc01a750fe0c91 1533812 mx-installer-dbgsym_21.01.02_amd64.deb
+ 02a012a3591189fff51d7cbfd2f6d51cf34b6e2d 323632 mx-installer_21.01.02_amd64.deb
+Checksums-Sha256:
+ f46861299c0c77fe0b5b9de8922b2d6b5253b53e5f190e671f3cc70cf49dd8eb 658 gazelle-installer_21.01.02.dsc
+ c75365c5748a79a408584a12c926b8fff5794a6632c11dc9b61940c7644de3df 401608 gazelle-installer_21.01.02.tar.xz
+ 84c4e73ecf3d540f31e94253f8471725914ffc19474d4842ad0469ae855f1d42 10559 gazelle-installer_21.01.02_amd64.buildinfo
+ e77bdc56da9cb8ff72ea9f40ae99e64654a8f5cd845638d3117138c25249302d 1533812 mx-installer-dbgsym_21.01.02_amd64.deb
+ 0a35e26f40d666b5116f5d311621467f48964ee03c2bbb2ccff01925a2f44e5d 323632 mx-installer_21.01.02_amd64.deb
+Files:
+ ecffdd191e7e1a341bb988ee713bdfe3 658 system optional gazelle-installer_21.01.02.dsc
+ e84f3d7ebf8d6fcacf10e60278fd62fa 401608 system optional gazelle-installer_21.01.02.tar.xz
+ 2833be08f57fb1051dc55937369a0743 10559 system optional gazelle-installer_21.01.02_amd64.buildinfo
+ abe986fa178a62a8d62f98ff42bbfc56 1533812 debug optional mx-installer-dbgsym_21.01.02_amd64.deb
+ 19468689ea9f87294510b510cde239ad 323632 system optional mx-installer_21.01.02_amd64.deb

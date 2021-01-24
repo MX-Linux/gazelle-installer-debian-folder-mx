@@ -1,6 +1,6 @@
  dpkg-buildpackage -us -uc -ui -B
 dpkg-buildpackage: info: source package gazelle-installer
-dpkg-buildpackage: info: source version 21.01
+dpkg-buildpackage: info: source version 21.01.02
 dpkg-buildpackage: info: source distribution mx
 dpkg-buildpackage: info: source changed by Dolphin Oracle <dolphinoracle@gmail.com>
  dpkg-source --before-build .
@@ -200,15 +200,15 @@ dpkg-shlibdeps: warning: package could avoid a useless dependency if debian/mx-i
    dh_gencontrol -a
    dh_md5sums -a
    dh_builddeb -a
-dpkg-deb: building package 'mx-installer-dbgsym' in '../mx-installer-dbgsym_21.01_i386.deb'.
-dpkg-deb: building package 'mx-installer' in '../mx-installer_21.01_i386.deb'.
+dpkg-deb: building package 'mx-installer-dbgsym' in '../mx-installer-dbgsym_21.01.02_i386.deb'.
+dpkg-deb: building package 'mx-installer' in '../mx-installer_21.01.02_i386.deb'.
  dpkg-genbuildinfo --build=any
- dpkg-genchanges --build=any >../gazelle-installer_21.01_i386.changes
+ dpkg-genchanges --build=any >../gazelle-installer_21.01.02_i386.changes
 dpkg-genchanges: info: binary-only arch-specific upload (source code and arch-indep packages not included)
  dpkg-source --after-build .
 dpkg-buildpackage: info: binary-only upload (no source included)
 Now signing dsc file...
- signfile dsc gazelle-installer_21.01.dsc dolphinoracle <dolphinoracle@gmail.com>
+ signfile dsc gazelle-installer_21.01.02.dsc dolphinoracle <dolphinoracle@gmail.com>
 gpg: skipped "dolphinoracle <dolphinoracle@gmail.com>": No secret key
-gpg: /tmp/debsign.tBtX6mfg/gazelle-installer_21.01.dsc: clear-sign failed: No secret key
+gpg: /tmp/debsign.08eAUuQj/gazelle-installer_21.01.02.dsc: clear-sign failed: No secret key
 debsign: gpg error occurred!  Aborting....
