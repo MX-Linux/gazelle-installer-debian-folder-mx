@@ -1,3 +1,9 @@
+gazelle-installer (21.2) mx; urgency=medium
+
+  * Fixed issue with root account setup. 
+
+ -- Adrian <adrian@mxlinux.org>  Mon, 01 Feb 2021 16:31:26 -0500
+
 gazelle-installer (21.01.03) mx; urgency=medium
 
   * Support empty user account and root passwords.
