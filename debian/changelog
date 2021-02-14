@@ -1,3 +1,9 @@
+gazelle-installer (21.2.01) mx; urgency=medium
+
+  * Added system-keyboard-qt alternative to fskbsetting
+
+ -- Adrian <adrian@mxlinux.org>  Sun, 14 Feb 2021 15:36:21 -0500
+
 gazelle-installer (21.2) mx; urgency=medium
 
   * Fixed issue with root account setup. 
