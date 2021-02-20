@@ -1,0 +1,34 @@
+Format: 1.8
+Date: Sat, 20 Feb 2021 14:46:01 -0500
+Source: gazelle-installer
+Binary: mx-installer mx-installer-dbgsym
+Architecture: source amd64
+Version: 21.2.02
+Distribution: mx
+Urgency: medium
+Maintainer: dolphinoracle <dolphinoracle@gmail.com>
+Changed-By: Adrian <adrian@mxlinux.org>
+Description:
+ mx-installer - Customizable GUI installer for MX Linux and antiX Linux
+Changes:
+ gazelle-installer (21.2.02) mx; urgency=medium
+ .
+   * Disable GParted and keyboard chooser when not running Live
+Checksums-Sha1:
+ 327a16392b6c7fd9919541a3c4cb7056910729be 654 gazelle-installer_21.2.02.dsc
+ 91c896a3b220371b1bf3dbfdc5379dd5f05c5dcf 231280 gazelle-installer_21.2.02.tar.xz
+ 610f07dba0c6f48ded0d1881c3af760f38e95bba 10504 gazelle-installer_21.2.02_amd64.buildinfo
+ bd8cc9537ae221f6fc61b79b4200ca3d436acfb1 1749968 mx-installer-dbgsym_21.2.02_amd64.deb
+ e2b117d23fc04eca8c655ecce31e8e054e719db5 322500 mx-installer_21.2.02_amd64.deb
+Checksums-Sha256:
+ 90881d731c883b48fb78bd2e5979a0b5c31483a4bd2a797813ca71a8e37cdc4f 654 gazelle-installer_21.2.02.dsc
+ 8117c76d44e40761489d5d39614f6ff3d5f537e8b37fffa98d912bcc327df6ea 231280 gazelle-installer_21.2.02.tar.xz
+ 9cf63bd22585f1620fa5e88bf6659d84da91c772e35e682fd9f304cb29186444 10504 gazelle-installer_21.2.02_amd64.buildinfo
+ d7e6e9293728ea7fc98e4857071ad17b8eb5ee2af297f22f62f15017c8727729 1749968 mx-installer-dbgsym_21.2.02_amd64.deb
+ dfb87a7e2e8dfc3bc823d39b2d2290822b7f6cefbc9d133edb43b005eae4a024 322500 mx-installer_21.2.02_amd64.deb
+Files:
+ 1d1f45fc18e837fa8b1e84a04f969ce1 654 system optional gazelle-installer_21.2.02.dsc
+ 84fbdc2fedcd45c8980d93cdfb4743e7 231280 system optional gazelle-installer_21.2.02.tar.xz
+ 866f365162d522219e5a25e754d3c2db 10504 system optional gazelle-installer_21.2.02_amd64.buildinfo
+ 3d3b9dfe4a36cba47d6e2f86fa6cdaab 1749968 debug optional mx-installer-dbgsym_21.2.02_amd64.deb
+ 3eebdb691f9a4536879ac06c5c364037 322500 system optional mx-installer_21.2.02_amd64.deb

@@ -1,3 +1,9 @@
+gazelle-installer (21.2.02) mx; urgency=medium
+
+  * Disable GParted and keyboard chooser when not running Live
+
+ -- Adrian <adrian@mxlinux.org>  Sat, 20 Feb 2021 14:46:01 -0500
+
 gazelle-installer (21.2.01) mx; urgency=medium
 
   * Added system-keyboard-qt alternative to fskbsetting
