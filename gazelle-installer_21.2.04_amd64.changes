@@ -1,0 +1,33 @@
+Format: 1.8
+Date: Wed, 24 Feb 2021 18:15:15 -0500
+Source: gazelle-installer
+Binary: mx-installer
+Architecture: source amd64
+Version: 21.2.04
+Distribution: mx
+Urgency: medium
+Maintainer: dolphinoracle <dolphinoracle@gmail.com>
+Changed-By: Adrian <adrian@mxlinux.org>
+Description:
+ mx-installer - Customizable GUI installer for MX Linux and antiX Linux
+Changes:
+ gazelle-installer (21.2.04) mx; urgency=medium
+ .
+   * Ensure graphical sudo works with password-free root.
+   * Enable/disable disk encryption settings instead of showing/hiding them.
+   * Added /live/linux to the live environment test.
+Checksums-Sha1:
+ 83c1e244aca9ecb1b58be5a9506429a7a70ce340 654 gazelle-installer_21.2.04.dsc
+ f682ec91137ac0f82d98bcf22a392f6edf24f7e8 232116 gazelle-installer_21.2.04.tar.xz
+ 8489e9fbce932eea48994b681792ee15de4aa5de 10224 gazelle-installer_21.2.04_amd64.buildinfo
+ 23f0a5560b9bf8b48cf1736a50f1b9fd31f446cb 322116 mx-installer_21.2.04_amd64.deb
+Checksums-Sha256:
+ 9b6d48872bb639689c9fdf04459bad9adeeeff58fda4eb2098b3538957d9eecb 654 gazelle-installer_21.2.04.dsc
+ 29beb1d682290e0bdad92ac33039306615845719cdb0f2023d8a3436ba926962 232116 gazelle-installer_21.2.04.tar.xz
+ 0bc8cd91b235e818ab24de00317a0170a8f81af3b50de084f0833c985ef22fe4 10224 gazelle-installer_21.2.04_amd64.buildinfo
+ 24ed683a2ed121c2d122ac0faefcc59d2f16faa2effda3c82f91cd6b5a2a3983 322116 mx-installer_21.2.04_amd64.deb
+Files:
+ f2c632637b94373053fb022ed4a5f77b 654 system optional gazelle-installer_21.2.04.dsc
+ 7dc4afabf01547d67f099d960cfac064 232116 system optional gazelle-installer_21.2.04.tar.xz
+ 7a6858f08ac7f2453e13df6aadef8d5e 10224 system optional gazelle-installer_21.2.04_amd64.buildinfo
+ a17359cf02de2f6f22f10dadfd3a005d 322116 system optional mx-installer_21.2.04_amd64.deb
