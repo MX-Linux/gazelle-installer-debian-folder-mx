@@ -1,3 +1,13 @@
+gazelle-installer (21.2.03) mx; urgency=medium
+
+  * Without --pretend or --oobe present, a live environment is now needed.
+  * No longer switch to pretend mode if the live media cannot be read.
+  * Test for multiple directories to check for a live environment.
+  * No longer warn about root access if started in pretend mode.
+  * Restore access to root tools in pretend mode, as above checks suffice.
+
+ -- Adrian <adrian@mxlinux.org>  Wed, 24 Feb 2021 11:58:07 -0500
+
 gazelle-installer (21.2.02) mx; urgency=medium
 
   * Disable GParted and keyboard chooser when not running Live
