@@ -1,0 +1,35 @@
+Format: 1.8
+Date: Wed, 24 Feb 2021 11:58:07 -0500
+Source: gazelle-installer
+Binary: mx-installer
+Architecture: source amd64
+Version: 21.2.03
+Distribution: mx
+Urgency: medium
+Maintainer: dolphinoracle <dolphinoracle@gmail.com>
+Changed-By: Adrian <adrian@mxlinux.org>
+Description:
+ mx-installer - Customizable GUI installer for MX Linux and antiX Linux
+Changes:
+ gazelle-installer (21.2.03) mx; urgency=medium
+ .
+   * Without --pretend or --oobe present, a live environment is now needed.
+   * No longer switch to pretend mode if the live media cannot be read.
+   * Test for multiple directories to check for a live environment.
+   * No longer warn about root access if started in pretend mode.
+   * Restore access to root tools in pretend mode, as above checks suffice.
+Checksums-Sha1:
+ fa38f85efaaf9b76f09b63b3e9bbdf431be8083a 654 gazelle-installer_21.2.03.dsc
+ 793b966d648dc83d0da34654664fb75a7bdd30c3 231884 gazelle-installer_21.2.03.tar.xz
+ 0e8f9c5ed3d5d0cc96c6599a00abb198689e56e9 10224 gazelle-installer_21.2.03_amd64.buildinfo
+ 091959113985c1bec154c5bf0ffd9e638525a57b 322200 mx-installer_21.2.03_amd64.deb
+Checksums-Sha256:
+ 9d151332f3258e83039bb0c740bce98a610118d79d48e0bd721f247e540a7b2c 654 gazelle-installer_21.2.03.dsc
+ b855135ccfb47cdb271938a951d02b84fa8ad99c0d22a8396ebb55f6a0133ab0 231884 gazelle-installer_21.2.03.tar.xz
+ 342a1c0986d26f9307ea0b0795d480f340e8ffba0749a8c01a0b7d3a862d0062 10224 gazelle-installer_21.2.03_amd64.buildinfo
+ 545ad3854dc0c58e5fe8d4e14e1edae3722777d013a252614454dca8d55ce725 322200 mx-installer_21.2.03_amd64.deb
+Files:
+ 6ca2ae54801e1eb834c52a737b04f598 654 system optional gazelle-installer_21.2.03.dsc
+ 4270c6c0aec7055fec261283c7ec85b3 231884 system optional gazelle-installer_21.2.03.tar.xz
+ ddefbfd1eaa156d4190940ca01508c40 10224 system optional gazelle-installer_21.2.03_amd64.buildinfo
+ cd4d94a3f168ae452a50259a5e7815b9 322200 system optional mx-installer_21.2.03_amd64.deb
