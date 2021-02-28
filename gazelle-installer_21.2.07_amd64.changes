@@ -1,0 +1,46 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+Format: 1.8
+Date: Sun, 28 Feb 2021 18:24:53 -0500
+Source: gazelle-installer
+Binary: mx-installer
+Architecture: source amd64
+Version: 21.2.07
+Distribution: mx
+Urgency: medium
+Maintainer: dolphinoracle <dolphinoracle@gmail.com>
+Changed-By: Adrian <adrian@mxlinux.org>
+Description:
+ mx-installer - Customizable GUI installer for MX Linux and antiX Linux
+Changes:
+ gazelle-installer (21.2.07) mx; urgency=medium
+ .
+   * Fixed: encryption controls shown without required tools present.
+Checksums-Sha1:
+ aac157c0047718324f7ec77acf37597f5397d03c 1216 gazelle-installer_21.2.07.dsc
+ 695547d71607866b670bb9d4432ea03ac87c1e45 246284 gazelle-installer_21.2.07.tar.xz
+ 775814c7af3da173708c9e4b4ad3b4f0b714722e 10789 gazelle-installer_21.2.07_amd64.buildinfo
+ eda06a37f24435a2c500d482802875ac4b6e4c54 333812 mx-installer_21.2.07_amd64.deb
+Checksums-Sha256:
+ 511334786c36178fd0e632c8eb6ea73879cd07adea7fe33fa70753a0ed4a0f48 1216 gazelle-installer_21.2.07.dsc
+ 4602fa6be8c753a64d58709a1d46f6af0e4b3797306c47aaed0e54829044174e 246284 gazelle-installer_21.2.07.tar.xz
+ 874817b1f620698057d9af7adfde4629689371ecace27a631865824ae021df85 10789 gazelle-installer_21.2.07_amd64.buildinfo
+ c76a469598d6e9ac4bdb17d803120c198ca0f3d9c117edad868d678feec02069 333812 mx-installer_21.2.07_amd64.deb
+Files:
+ 6d3dc268e3bed4eeb96571bcc880a3a4 1216 system optional gazelle-installer_21.2.07.dsc
+ e38fe6a77ce65c1ec86cdb3efdb8fbce 246284 system optional gazelle-installer_21.2.07.tar.xz
+ b28e6da7f455362ca9bd185f880d9f87 10789 system optional gazelle-installer_21.2.07_amd64.buildinfo
+ ffb71e9eb1b4213e70e17305534cf591 333812 system optional mx-installer_21.2.07_amd64.deb
+
+-----BEGIN PGP SIGNATURE-----
+
+iQFHBAEBCgAxFiEE8ndToY6S45N+YzXncJOMeAZ57pgFAmA8JtITHGFkcmlhbkBt
+eGxpbnV4Lm9yZwAKCRBwk4x4BnnumGZNB/4jf1cK9/qsIaTzGs0gUciZomMylak8
+Q4eElKcGaCiLt/AML+x+6e59DsWpmplueZQW5Salr9ZAE6gV8gAK9BtFw5q2h8qL
+4FJKEyDZGXNoV6HMOqgiuPhzOboWGj45oQz8RP7s6vv+Qi203Yruz8e/vs7sDKhv
+m+gZJpVl9KToXBCxIXoV96OPj5XDzDSsBnWBs+LHmaGT3gCZpK4UlB+811hAmatf
+WHPnSGTFCly6weKuXImCX1UhR4RNoFZOtWH1Rfm3z6NXzHhsE78Es6scidnv5CMK
+J8phl1e0AkA8bHF7zjTne5w6Zn0MJ2OXsZ9Ia8asxD/9jMpGITnM4AFa
+=EfHJ
+-----END PGP SIGNATURE-----
