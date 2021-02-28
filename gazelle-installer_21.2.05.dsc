@@ -13,20 +13,20 @@ Build-Depends: debhelper (>= 9.2), qtbase5-dev, qttools5-dev-tools
 Package-List:
  mx-installer deb system optional arch=any
 Checksums-Sha1:
- 8f5bd7e667e049c43c5588e827de41a63cf04f49 247704 gazelle-installer_21.2.05.tar.xz
+ 614a569a3c07c8fb67cc0798a0defe5d99977790 247696 gazelle-installer_21.2.05.tar.xz
 Checksums-Sha256:
- c4e9d4c851bddf29a539e950ca65b467c19fa05d567e5aac3c94181480932711 247704 gazelle-installer_21.2.05.tar.xz
+ 4018d637bc87d08aca579d6f0d5586f4ab8587d572c8304786e0193fad058768 247696 gazelle-installer_21.2.05.tar.xz
 Files:
- 445547e970e0d276e035400390fb7565 247704 gazelle-installer_21.2.05.tar.xz
+ dbd24501a0df3e4138ba0b1fc36d16d5 247696 gazelle-installer_21.2.05.tar.xz
 
 -----BEGIN PGP SIGNATURE-----
 
-iQFHBAEBCgAxFiEE8ndToY6S45N+YzXncJOMeAZ57pgFAmA6/TATHGFkcmlhbkBt
-eGxpbnV4Lm9yZwAKCRBwk4x4BnnumI4/CACARN2TwZTivJnSsYM/4101WoFbGaSy
-LnsUbhOpHWpIdAyoHGrH0igX8F+N4CoTlsM2+Ybp0WcVXoJNKSRny3vFQdrOdi3l
-NY78AsoIo3iU63Djx23pc2gMXbMcVGw5uawwALN5QAo4HFDgLKh/q5J5flQBLOii
-DHC/+JH2UYHeKgUeAHsftANx0nv7kRDlV87vQf0TH5j6ZM+WHzKVxtc1Mcb1G2+N
-+DQSEXGrYQ6UQeY30WP57BGwLgPk0NVnEl6Kulrxecw0JU1vvoF6JzFteDvfqI+n
-mlsfOa12znXH+o+PR64L9D3NPQQ5BMjywHk+R19BZfPQU8AkuPQ8kBx/
-=BESV
+iQFHBAEBCgAxFiEE8ndToY6S45N+YzXncJOMeAZ57pgFAmA7Si4THGFkcmlhbkBt
+eGxpbnV4Lm9yZwAKCRBwk4x4BnnumJNvB/4vqwxaULiHVT8Hv+4EPpbCwQ5hHJl0
+y2SzuGAAk1xbigwo9zXZFcv3v5BlcbYT87r4F4MQLE+sFmf5kejNmtbc0vjGOjg7
+JGyQrUDKtVj+L9PwuRQ88m95FO020RmPIFFQ58GQjzGPCUEZE2LmXzJiB2sIonY7
+Bh9Ceg4Ut4UL6si2wMFWIG/mORWDnbVwf3AdJfkBPbNsTNnes7WOk3/HVikq1Qs/
+7A2juqH6fc+92Y7TY3MrWZ/7UruUdhBgRfUARFfP9mI3rgmPC2W8weQ0/aJamHrE
+D6UX4OgrHqvvoFDd9/ey3PeTTPDK3+z3lywmslUis71kyZZcYqCmdiVK
+=ENxF
 -----END PGP SIGNATURE-----
