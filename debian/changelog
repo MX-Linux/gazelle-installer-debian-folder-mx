@@ -1,3 +1,9 @@
+gazelle-installer (21.2.07) mx; urgency=medium
+
+  * Fixed: encryption controls shown without required tools present.
+
+ -- Adrian <adrian@mxlinux.org>  Sun, 28 Feb 2021 18:24:53 -0500
+
 gazelle-installer (21.2.06) mx; urgency=medium
 
   * Account for /boot space when it is not in a separate partition.
