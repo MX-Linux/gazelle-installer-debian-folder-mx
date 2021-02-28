@@ -1,3 +1,12 @@
+gazelle-installer (21.2.06) mx; urgency=medium
+
+  * Account for /boot space when it is not in a separate partition.
+  * Fixes: slider can move too far left and choke the installation.
+  * Fixed: basic info is not read from separate /home partition.
+  * Fixed typo: gpt-overwride 
+
+ -- Adrian <adrian@mxlinux.org>  Sun, 28 Feb 2021 10:25:15 -0500
+
 gazelle-installer (21.2.05) mx; urgency=medium
 
   * Replaced partition page with a basic partition manager, allowing more control over partitions.
