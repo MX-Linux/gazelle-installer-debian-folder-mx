@@ -1,6 +1,3 @@
------BEGIN PGP SIGNED MESSAGE-----
-Hash: SHA512
-
 Format: 1.8
 Date: Sat, 27 Feb 2021 19:14:53 -0500
 Source: gazelle-installer
@@ -22,23 +19,11 @@ Changes:
    * The user can now change the boundary between the info tabs and installer pane.
    * Calculate standard install swap by 1.5xRAM, capped to 5% drive space.
 Checksums-Sha1:
- 0878c3340e67517e2e72b67cca9116d468fc1100 10482 gazelle-installer_21.2.05_i386.buildinfo
- acf62998b5e9e4aa9de1f8a125ce725d221e6bea 348700 mx-installer_21.2.05_i386.deb
+ 8192416ade17be85fda63c2597ecb95e31871e77 9920 gazelle-installer_21.2.05_i386.buildinfo
+ 7883ec4037e0199813a14cbdfc8c0820c9dcea6f 350024 mx-installer_21.2.05_i386.deb
 Checksums-Sha256:
- 6962730f927362cfa761500563b411b65e092e8edcc97639145248488fcc3bd7 10482 gazelle-installer_21.2.05_i386.buildinfo
- af423d91d048560bba9dbc4b8c15d1bfe0bd9429673286bc363f109a40ac19c6 348700 mx-installer_21.2.05_i386.deb
+ 8ed2717d8dee5cc3af41be35fccfde4f7347f4b7166f456afd7d94597e3f5f95 9920 gazelle-installer_21.2.05_i386.buildinfo
+ 542652f532e7e63ace3288f1332f121257a0b9bce530bde355e6ea0d686b584e 350024 mx-installer_21.2.05_i386.deb
 Files:
- 8e7cda15394b13e9aca339d8d17d06cf 10482 system optional gazelle-installer_21.2.05_i386.buildinfo
- eb163546ab033e6981e23ba44bae60e4 348700 system optional mx-installer_21.2.05_i386.deb
-
------BEGIN PGP SIGNATURE-----
-
-iQFHBAEBCgAxFiEE8ndToY6S45N+YzXncJOMeAZ57pgFAmA6/TATHGFkcmlhbkBt
-eGxpbnV4Lm9yZwAKCRBwk4x4BnnumO2KCADD72VLkZOZ+6NXv+e1wsQ2gey9P703
-b71CklDKhKDKtrcKj6DUKXW+4os2uuHtZeBo+XM4hTuSZPr2jiiJ4ewY7xdo2UVC
-gq6HxZpS5exLlWzwMILCFXh18N42to+TestiDeY0A4FiuXQtgMc2bsjovk77QP3/
-BG9GNKKpO4fsavWlK0gG0W4sarD0P3OV+zhfFjl0MTJx83g+bnQQbgDoR33NV2Uy
-iTT8WCYqNYwTJLGrhB3WxP4LyRpOOGScKTUaW2IdiGQM19SIA9C15tHF81KTQiD0
-506Q57iYPVL6yjKOgqBv3/Y9WwiIRVwJU9gnu9MJ4v04YBknSBp2HQ3k
-=iyFF
------END PGP SIGNATURE-----
+ e78e715868655647b71d93367b8055ef 9920 system optional gazelle-installer_21.2.05_i386.buildinfo
+ fed2afcd7c27b2573b8485e33b21cf77 350024 system optional mx-installer_21.2.05_i386.deb

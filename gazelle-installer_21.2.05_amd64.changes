@@ -22,29 +22,29 @@ Changes:
    * The user can now change the boundary between the info tabs and installer pane.
    * Calculate standard install swap by 1.5xRAM, capped to 5% drive space.
 Checksums-Sha1:
- 00d123f9b7f364997764f822715c301f712ba5d6 1216 gazelle-installer_21.2.05.dsc
- 8f5bd7e667e049c43c5588e827de41a63cf04f49 247704 gazelle-installer_21.2.05.tar.xz
- 62270081964a8324f06e1c15003ef70a2f6c36c5 10789 gazelle-installer_21.2.05_amd64.buildinfo
- 39c9f0016643f1aabbe3bff2004d65dd42d0dfb5 334424 mx-installer_21.2.05_amd64.deb
+ 58eb49907230e0cf810370595b8e37ae7e62bbff 1216 gazelle-installer_21.2.05.dsc
+ 614a569a3c07c8fb67cc0798a0defe5d99977790 247696 gazelle-installer_21.2.05.tar.xz
+ 591b5d5b34208509e3dc4240ac5168dd50bf347e 10789 gazelle-installer_21.2.05_amd64.buildinfo
+ 8f194094a943b1e05b11b91bca6391e2896a5be2 335368 mx-installer_21.2.05_amd64.deb
 Checksums-Sha256:
- 9470bbdbeb8d9118e105746616e9445a98f3ed683d1f905986865da23a8d1da3 1216 gazelle-installer_21.2.05.dsc
- c4e9d4c851bddf29a539e950ca65b467c19fa05d567e5aac3c94181480932711 247704 gazelle-installer_21.2.05.tar.xz
- 032780e576b6e86370c795049ea2f04a71f31c356012874b73e6dbea24e08e66 10789 gazelle-installer_21.2.05_amd64.buildinfo
- 1147310592d56541768cf05b98c96b857954402af552542854746da033985c83 334424 mx-installer_21.2.05_amd64.deb
+ 1cb6847dbebb62c92aa0af2042470ad5841f484c2bbd35bc7cbe7dabef73cf40 1216 gazelle-installer_21.2.05.dsc
+ 4018d637bc87d08aca579d6f0d5586f4ab8587d572c8304786e0193fad058768 247696 gazelle-installer_21.2.05.tar.xz
+ b931733c279468c6c02d7ca093d7f22f442426eca6fd300431b55ffa30ea5465 10789 gazelle-installer_21.2.05_amd64.buildinfo
+ 89425ece97e5ff4c416722db2872333716e229cc65af34f7ee97419076797884 335368 mx-installer_21.2.05_amd64.deb
 Files:
- b9a091c18996cc4a42feeb467c524c57 1216 system optional gazelle-installer_21.2.05.dsc
- 445547e970e0d276e035400390fb7565 247704 system optional gazelle-installer_21.2.05.tar.xz
- b763f90630c9033a67152f77fbbcfc04 10789 system optional gazelle-installer_21.2.05_amd64.buildinfo
- 18cccfd1e8184c8f8b432ccf8db4422f 334424 system optional mx-installer_21.2.05_amd64.deb
+ 8235d835f8fd27bf2e3ea65d6f7f929c 1216 system optional gazelle-installer_21.2.05.dsc
+ dbd24501a0df3e4138ba0b1fc36d16d5 247696 system optional gazelle-installer_21.2.05.tar.xz
+ 7906f550f879174530467589dbce3e7e 10789 system optional gazelle-installer_21.2.05_amd64.buildinfo
+ baf5680235450f7ca79bd321c7db5bd0 335368 system optional mx-installer_21.2.05_amd64.deb
 
 -----BEGIN PGP SIGNATURE-----
 
-iQFHBAEBCgAxFiEE8ndToY6S45N+YzXncJOMeAZ57pgFAmA6/TATHGFkcmlhbkBt
-eGxpbnV4Lm9yZwAKCRBwk4x4BnnumLIaB/9fg32DV7QIbmmWzwPCnoUfPqW98BmY
-VBU3E/y+bB+3/wysvpnXYSiyRIAiT/Z8v5IIOFqKAz4cbCp5c3x1B7sa6iZ8X+n9
-5Cwak9UmNv4QlMdeL/OYp227VbYy0pXnVN7u0/irX9gHfqkh4fLT7iHDSqz8nhYN
-ZpOhOu90+WLA7J9PBvDMWW9BllbNaIFnpy+YZJCUzjuPiGUJaHKwkj6a6diHSW6M
-qqizSVtFop7TNSLt1+0riDWcq0C1ZkCd5zhPKZ/SyxTibvlYPWYLL9pdMbj2GcI7
-MoP7lblcRmK56ysEzDMZ2+K5QRVKRs5LI1J6n/Fd8hKHoHE35chqNrIu
-=mSiK
+iQFHBAEBCgAxFiEE8ndToY6S45N+YzXncJOMeAZ57pgFAmA7SkMTHGFkcmlhbkBt
+eGxpbnV4Lm9yZwAKCRBwk4x4BnnumCT1B/9079Xtih+igAdlY3Ic5W7+mYrRXbO5
+vahpJRTxFIAdsN00EOTyxgZcZFEFKLikvgz321TVKXvXEW5e7L4RwijWyikDZPLN
+T3mMBOqeeVYh0qQmU1r8kmu2wPA6TdupXtrqLjXvNATKATcm85I3IO23vTIUr4WB
+mqq4nOo2F7nJdckCfP8M2oi0kPcGNZFDKZXiTJbuRp74PqgIQTYKVBa614il/vpn
+gGaQCVGZS0QtR9VL8rHSKz8aEQiDR9HZXb3TqMGf8UdCRudqgIVcyMlFcqdj7OzC
+gHiitMlNj8HGxPWmrBU7+Du8N8dWvuC57iSVYJ4s3D6D2q/pbTcjX+jj
+=+bfZ
 -----END PGP SIGNATURE-----
