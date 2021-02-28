@@ -1,3 +1,13 @@
+gazelle-installer (21.2.05) mx; urgency=medium
+
+  * Replaced partition page with a basic partition manager, allowing more control over partitions.
+  * The standard install now creates a separate /home partition by default.
+  * Added root-home space slider for standard install.
+  * The user can now change the boundary between the info tabs and installer pane.
+  * Calculate standard install swap by 1.5xRAM, capped to 5% drive space. 
+
+ -- Adrian <adrian@mxlinux.org>  Sat, 27 Feb 2021 19:14:53 -0500
+
 gazelle-installer (21.2.04) mx; urgency=medium
 
   * Ensure graphical sudo works with password-free root.
