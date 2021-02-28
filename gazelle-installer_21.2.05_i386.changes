@@ -22,23 +22,23 @@ Changes:
    * The user can now change the boundary between the info tabs and installer pane.
    * Calculate standard install swap by 1.5xRAM, capped to 5% drive space.
 Checksums-Sha1:
- 53474da0543f808a09f65bad66e2a4598baf138a 10482 gazelle-installer_21.2.05_i386.buildinfo
- 7827ed6c6c9b4bbbecf269f606d548a5f4479d4a 348072 mx-installer_21.2.05_i386.deb
+ 0878c3340e67517e2e72b67cca9116d468fc1100 10482 gazelle-installer_21.2.05_i386.buildinfo
+ acf62998b5e9e4aa9de1f8a125ce725d221e6bea 348700 mx-installer_21.2.05_i386.deb
 Checksums-Sha256:
- 3c117b7021e632c91f54174058bca6b18b58c4dc286d6ec66dba6b75bf7487fe 10482 gazelle-installer_21.2.05_i386.buildinfo
- 5133a4d308451a1a25d85e882e3d160d510ebae28b337c60ffd98cf211ed2ca0 348072 mx-installer_21.2.05_i386.deb
+ 6962730f927362cfa761500563b411b65e092e8edcc97639145248488fcc3bd7 10482 gazelle-installer_21.2.05_i386.buildinfo
+ af423d91d048560bba9dbc4b8c15d1bfe0bd9429673286bc363f109a40ac19c6 348700 mx-installer_21.2.05_i386.deb
 Files:
- 9811a0d146281af7cd5a929fe4586da2 10482 system optional gazelle-installer_21.2.05_i386.buildinfo
- 0521d14f159369d99efa7b15141e0bab 348072 system optional mx-installer_21.2.05_i386.deb
+ 8e7cda15394b13e9aca339d8d17d06cf 10482 system optional gazelle-installer_21.2.05_i386.buildinfo
+ eb163546ab033e6981e23ba44bae60e4 348700 system optional mx-installer_21.2.05_i386.deb
 
 -----BEGIN PGP SIGNATURE-----
 
-iQFHBAEBCgAxFiEE8ndToY6S45N+YzXncJOMeAZ57pgFAmA65XETHGFkcmlhbkBt
-eGxpbnV4Lm9yZwAKCRBwk4x4BnnumA5iB/oDTVQmHIIlfy6MFntpbMdwYL8/fW7P
-V7fyailIEycHk9dz+1fneJsD0wvGmWw/CaC6NxO/S5It8LzaLupABSs+fY5bCXgL
-0t0V9A7ifT+Mj3sfZl0Ec7m3WuZ3RsuMVPNwdSJ+MiYVL1UyHEFNY9GFlaY8TarH
-L+UMoKUFtUO6zN7ERkALYuwGcc8pbi0Lf+dxhmJd9OYzTXgqYCsvzhlnP1RjkyEV
-WW4w+hMhUCHQljhSzUVJAd7wBjWX7s5+3rjwnMO6Su39c1lTWloH/yz4aIJt+ZVv
-j7GO09cinkpuklh55M8iiBEIke2ELlRcfcJKguqru8+SITi04coP4EZf
-=jV4v
+iQFHBAEBCgAxFiEE8ndToY6S45N+YzXncJOMeAZ57pgFAmA6/TATHGFkcmlhbkBt
+eGxpbnV4Lm9yZwAKCRBwk4x4BnnumO2KCADD72VLkZOZ+6NXv+e1wsQ2gey9P703
+b71CklDKhKDKtrcKj6DUKXW+4os2uuHtZeBo+XM4hTuSZPr2jiiJ4ewY7xdo2UVC
+gq6HxZpS5exLlWzwMILCFXh18N42to+TestiDeY0A4FiuXQtgMc2bsjovk77QP3/
+BG9GNKKpO4fsavWlK0gG0W4sarD0P3OV+zhfFjl0MTJx83g+bnQQbgDoR33NV2Uy
+iTT8WCYqNYwTJLGrhB3WxP4LyRpOOGScKTUaW2IdiGQM19SIA9C15tHF81KTQiD0
+506Q57iYPVL6yjKOgqBv3/Y9WwiIRVwJU9gnu9MJ4v04YBknSBp2HQ3k
+=iyFF
 -----END PGP SIGNATURE-----
