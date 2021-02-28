@@ -1,0 +1,44 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+Format: 1.8
+Date: Sat, 27 Feb 2021 19:14:53 -0500
+Source: gazelle-installer
+Binary: mx-installer
+Architecture: i386
+Version: 21.2.05
+Distribution: mx
+Urgency: medium
+Maintainer: dolphinoracle <dolphinoracle@gmail.com>
+Changed-By: Adrian <adrian@mxlinux.org>
+Description:
+ mx-installer - Customizable GUI installer for MX Linux and antiX Linux
+Changes:
+ gazelle-installer (21.2.05) mx; urgency=medium
+ .
+   * Replaced partition page with a basic partition manager, allowing more control over partitions.
+   * The standard install now creates a separate /home partition by default.
+   * Added root-home space slider for standard install.
+   * The user can now change the boundary between the info tabs and installer pane.
+   * Calculate standard install swap by 1.5xRAM, capped to 5% drive space.
+Checksums-Sha1:
+ 53474da0543f808a09f65bad66e2a4598baf138a 10482 gazelle-installer_21.2.05_i386.buildinfo
+ 7827ed6c6c9b4bbbecf269f606d548a5f4479d4a 348072 mx-installer_21.2.05_i386.deb
+Checksums-Sha256:
+ 3c117b7021e632c91f54174058bca6b18b58c4dc286d6ec66dba6b75bf7487fe 10482 gazelle-installer_21.2.05_i386.buildinfo
+ 5133a4d308451a1a25d85e882e3d160d510ebae28b337c60ffd98cf211ed2ca0 348072 mx-installer_21.2.05_i386.deb
+Files:
+ 9811a0d146281af7cd5a929fe4586da2 10482 system optional gazelle-installer_21.2.05_i386.buildinfo
+ 0521d14f159369d99efa7b15141e0bab 348072 system optional mx-installer_21.2.05_i386.deb
+
+-----BEGIN PGP SIGNATURE-----
+
+iQFHBAEBCgAxFiEE8ndToY6S45N+YzXncJOMeAZ57pgFAmA65XETHGFkcmlhbkBt
+eGxpbnV4Lm9yZwAKCRBwk4x4BnnumA5iB/oDTVQmHIIlfy6MFntpbMdwYL8/fW7P
+V7fyailIEycHk9dz+1fneJsD0wvGmWw/CaC6NxO/S5It8LzaLupABSs+fY5bCXgL
+0t0V9A7ifT+Mj3sfZl0Ec7m3WuZ3RsuMVPNwdSJ+MiYVL1UyHEFNY9GFlaY8TarH
+L+UMoKUFtUO6zN7ERkALYuwGcc8pbi0Lf+dxhmJd9OYzTXgqYCsvzhlnP1RjkyEV
+WW4w+hMhUCHQljhSzUVJAd7wBjWX7s5+3rjwnMO6Su39c1lTWloH/yz4aIJt+ZVv
+j7GO09cinkpuklh55M8iiBEIke2ELlRcfcJKguqru8+SITi04coP4EZf
+=jV4v
+-----END PGP SIGNATURE-----
