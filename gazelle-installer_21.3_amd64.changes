@@ -1,0 +1,48 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+Format: 1.8
+Date: Mon, 01 Mar 2021 11:08:56 -0500
+Source: gazelle-installer
+Binary: mx-installer
+Architecture: source amd64
+Version: 21.3
+Distribution: mx
+Urgency: medium
+Maintainer: dolphinoracle <dolphinoracle@gmail.com>
+Changed-By: Adrian <adrian@mxlinux.org>
+Description:
+ mx-installer - Customizable GUI installer for MX Linux and antiX Linux
+Changes:
+ gazelle-installer (21.3) mx; urgency=medium
+ .
+   * Support for configuration file with custom partitions.
+   * Support for the space slider in configuration file.
+   * Fixed --auto installation.
+Checksums-Sha1:
+ 179338e5c81aa2629378a2d4c793a06925497ce1 1204 gazelle-installer_21.3.dsc
+ 40a6c38524f741fe0b97047e5099c506d62daecf 247568 gazelle-installer_21.3.tar.xz
+ 02c54fab8e476d100b817e7d8a996073c0a45a56 10765 gazelle-installer_21.3_amd64.buildinfo
+ 278fec52a65bc5d9abf024a7be502c94e4244ae4 334952 mx-installer_21.3_amd64.deb
+Checksums-Sha256:
+ 4918441fd8d5533e39bd32cbaeeb7949d54cc8a857d401ea7231c0f33911b4a2 1204 gazelle-installer_21.3.dsc
+ f3002d50b13e15591934e80654be6d54253c859ad2af86fd0a39fc44206617b0 247568 gazelle-installer_21.3.tar.xz
+ 64faf35ba0d3e0ba271e0a8a31ddcd682585885f818054f24ca4a07549d5bd38 10765 gazelle-installer_21.3_amd64.buildinfo
+ ddfb22db08c6496bdb587fc6cf6d0869116264ed50c077e09af3d22109fe32ef 334952 mx-installer_21.3_amd64.deb
+Files:
+ a99f17d6b0ad51c69a1c43371f738d67 1204 system optional gazelle-installer_21.3.dsc
+ b000d3a32482c304a9dfd189502825dc 247568 system optional gazelle-installer_21.3.tar.xz
+ b909af0c3ca8fd3bf55736afb32c21a5 10765 system optional gazelle-installer_21.3_amd64.buildinfo
+ 3f8ee21b15d89e7b3bf4b6cc740a36ec 334952 system optional mx-installer_21.3_amd64.deb
+
+-----BEGIN PGP SIGNATURE-----
+
+iQFHBAEBCgAxFiEE8ndToY6S45N+YzXncJOMeAZ57pgFAmA9HhMTHGFkcmlhbkBt
+eGxpbnV4Lm9yZwAKCRBwk4x4BnnumAGqCACA54WhbftHnRGjZ9inQImeaG9yA/2Z
+85RXgJpoxzutWo/5ty04TOXHKTWY88d4FPGx7qtZkx0dv8e+gT/NdAfXxeo98N2W
+ESsEc84uZDcOlDsq0geUMYEPEvmiOhdgPLQL9/cHPhTCJVgU+IvgXgtz+wsKjZBs
+sUnCLeeK8gesNLaYJTN6SOhl2Up11tDk4A0X8HfKcGodRrz58vGITNJ/hjiU9qOj
+LcNp6CsCFPCuGapD2X//f+8qo4Vu2cj4C8Gad1TJQcsJhMLIbcU9EQZ9w3oU/hTu
+2VrIVoPqX7sYo+2z100XjDfXx8JlorzLH+/JxkPGG41UGTGAM2xYZ93p
+=RgyR
+-----END PGP SIGNATURE-----
