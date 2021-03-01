@@ -1,3 +1,12 @@
+gazelle-installer (21.2.08) mx; urgency=medium
+
+  * Move tests to MInstall::startup() to improve GUI feedback.
+  * Eliminated duplicate EFI test, merged the warning message.
+  * Remove the security bodge and revert to the old install source test.
+  * Adjust script to require password when passing options or running in non-live environment 
+
+ -- Adrian <adrian@mxlinux.org>  Sun, 28 Feb 2021 22:53:00 -0500
+
 gazelle-installer (21.2.07) mx; urgency=medium
 
   * Fixed: encryption controls shown without required tools present.
