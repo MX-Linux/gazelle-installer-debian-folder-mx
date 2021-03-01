@@ -1,0 +1,46 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+Format: 1.8
+Date: Mon, 01 Mar 2021 17:38:55 -0500
+Source: gazelle-installer
+Binary: mx-installer
+Architecture: source amd64
+Version: 21.3.01
+Distribution: mx
+Urgency: medium
+Maintainer: dolphinoracle <dolphinoracle@gmail.com>
+Changed-By: Adrian <adrian@mxlinux.org>
+Description:
+ mx-installer - Customizable GUI installer for MX Linux and antiX Linux
+Changes:
+ gazelle-installer (21.3.01) mx; urgency=medium
+ .
+   * Fixed: launching installer; move checks to only if non-root user
+Checksums-Sha1:
+ a70fcf2006c8a69907d7a6b055ef833c71731b8c 1216 gazelle-installer_21.3.01.dsc
+ 836536f910076ac7812706e9bf42783a9058e15b 247592 gazelle-installer_21.3.01.tar.xz
+ 0e7be72c4cf7f6ff4304952c19b698123f02971e 10789 gazelle-installer_21.3.01_amd64.buildinfo
+ 580c2ad15388260dff712058c50511cf276c12d0 334652 mx-installer_21.3.01_amd64.deb
+Checksums-Sha256:
+ 27bf7ec20703dd0785bd9c26821a4a44cdbfc19a233226ba3036c9e2fa21fd1f 1216 gazelle-installer_21.3.01.dsc
+ 7200032cc93e50d04ad48bfd3f768197b58200e889bc806504dd19a8eab0da4f 247592 gazelle-installer_21.3.01.tar.xz
+ 6074f88e1da87d1914d95de8213ae70d44027fc39d38956eaae6b20ac342076e 10789 gazelle-installer_21.3.01_amd64.buildinfo
+ a75d77b0cb110a04ff3c08a63aa8418ca6464b3608c6e6cfed066bb61587133b 334652 mx-installer_21.3.01_amd64.deb
+Files:
+ d091fe2468232617d1334629344df6f4 1216 system optional gazelle-installer_21.3.01.dsc
+ 17590769091293f171aeafefc4efed2e 247592 system optional gazelle-installer_21.3.01.tar.xz
+ 81e5aab5d57fc4e4e8655ab34a7a7ab3 10789 system optional gazelle-installer_21.3.01_amd64.buildinfo
+ 59070ba477d4f06c24482afab1801f51 334652 system optional mx-installer_21.3.01_amd64.deb
+
+-----BEGIN PGP SIGNATURE-----
+
+iQFHBAEBCgAxFiEE8ndToY6S45N+YzXncJOMeAZ57pgFAmA9baETHGFkcmlhbkBt
+eGxpbnV4Lm9yZwAKCRBwk4x4BnnumAZFB/9SKYhUfEovf0fTRnd7BDdwQMQsq4jx
+tfOP7BMoIBX5QwIImO3lYlmNpwhnr1rjc1LIoZVBZnXVUtATBsQI7nps0cAH1fFB
+Dv5tdVY89amzQ5jN/EYtwax+5Xv1N/OSlGMHHmEW0PmB5WNGr5KchJH9Ai1KNz1L
+ggpqx4TnMHttohOjmEASgE9zcIHayqYG+LSfrcBjuzKMuy9TWBPjaKNnqPOfCfhN
+TTMGKOxYY1XO0qC/EQp+puLyoSOFwJu0vnpd+JiiwwTLac8TP7HhNGyOBNk+iuN9
+2HzGp1eq7Cy2+9enaVft6YUAtz14Z+kO5Re1eACzRRejl0B01OWPZb3T
+=MOpy
+-----END PGP SIGNATURE-----
