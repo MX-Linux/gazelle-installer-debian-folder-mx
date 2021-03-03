@@ -1,3 +1,14 @@
+gazelle-installer (21.3.04) mx; urgency=medium
+
+  * Changed default root portion from 40% to 20%.
+  * Swap space is now finally capped at 8GB.
+  * PartMan only displays boot drive in brave mode.
+  * Fixed: GRUB install setting was not obeyed.
+  * Slider label scales are now shorter.
+  * Fixed: potential divide-by-zero in slider event. 
+
+ -- Adrian <adrian@mxlinux.org>  Wed, 03 Mar 2021 10:34:05 -0500
+
 gazelle-installer (21.3.03) mx; urgency=medium
 
   * Fixed: laucher script
