@@ -1,3 +1,9 @@
+gazelle-installer (21.3.03) mx; urgency=medium
+
+  * Fixed: laucher script
+
+ -- Adrian <adrian@mxlinux.org>  Tue, 02 Mar 2021 22:08:26 -0500
+
 gazelle-installer (21.3.02) mx; urgency=medium
 
   * Revise launcher script live check
