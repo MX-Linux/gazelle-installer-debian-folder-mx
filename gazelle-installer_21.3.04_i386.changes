@@ -1,0 +1,45 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+Format: 1.8
+Date: Wed, 03 Mar 2021 10:34:05 -0500
+Source: gazelle-installer
+Binary: mx-installer
+Architecture: i386
+Version: 21.3.04
+Distribution: mx
+Urgency: medium
+Maintainer: dolphinoracle <dolphinoracle@gmail.com>
+Changed-By: Adrian <adrian@mxlinux.org>
+Description:
+ mx-installer - Customizable GUI installer for MX Linux and antiX Linux
+Changes:
+ gazelle-installer (21.3.04) mx; urgency=medium
+ .
+   * Changed default root portion from 40% to 20%.
+   * Swap space is now finally capped at 8GB.
+   * PartMan only displays boot drive in brave mode.
+   * Fixed: GRUB install setting was not obeyed.
+   * Slider label scales are now shorter.
+   * Fixed: potential divide-by-zero in slider event.
+Checksums-Sha1:
+ 51048992d7d08284e994d8496e179d4fe9bef04d 10482 gazelle-installer_21.3.04_i386.buildinfo
+ 50a392a5742e5f5ec7368cc76ee82296499598b7 350696 mx-installer_21.3.04_i386.deb
+Checksums-Sha256:
+ 59af64360a69a8195a374299c89865416997be54c4a28fec8eb92e01f7c0f65c 10482 gazelle-installer_21.3.04_i386.buildinfo
+ 909bfd7bb955ddf000118cf7a6f1a7ddd5f2a6b8c4391149b71ec08aef8f023f 350696 mx-installer_21.3.04_i386.deb
+Files:
+ 3fb09205cfff13fd1d1f177ee0dc98ed 10482 system optional gazelle-installer_21.3.04_i386.buildinfo
+ 931fa29a25b88689cf87d45e9fe8f9ff 350696 system optional mx-installer_21.3.04_i386.deb
+
+-----BEGIN PGP SIGNATURE-----
+
+iQFHBAEBCgAxFiEE8ndToY6S45N+YzXncJOMeAZ57pgFAmA/sOQTHGFkcmlhbkBt
+eGxpbnV4Lm9yZwAKCRBwk4x4BnnumPvzCACmj4prYuyo2ftTh+wpMSW83uBoflYj
+CePhGECTS9kUtBnLAdUUxHvpEWGkF0LadwiH1nrwt+iZKvDoT6ySRTKKcQqMaAQM
+z2uiajGjulcLEoLn+E1cWKyTZ0pRgzno06MQ9XUcgI5lpdRmrcVhwECVgOVJJXxQ
+14sJgEr/plSOg8H1/WW0oKGaZJTRX0118Wb8nvPp2M+kzhLVNhjXTNL6EN0aujn2
+PtGKsjbnqT3U9PT+RMIt89788B0KQf5Q8FX/tETa9ZdbIdwrWa/UinQwAbVaH+Q3
+LiF7zDxRX0SPN/wJVUS9AXvDj8bfjLdv1D4jOJ39TkqSCXmL9mRBKtaB
+=R/1r
+-----END PGP SIGNATURE-----
