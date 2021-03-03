@@ -1,0 +1,47 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+Format: 1.8
+Date: Tue, 02 Mar 2021 19:05:30 -0500
+Source: gazelle-installer
+Binary: mx-installer
+Architecture: i386
+Version: 21.3.02
+Distribution: mx
+Urgency: medium
+Maintainer: dolphinoracle <dolphinoracle@gmail.com>
+Changed-By: Adrian <adrian@mxlinux.org>
+Description:
+ mx-installer - Customizable GUI installer for MX Linux and antiX Linux
+Changes:
+ gazelle-installer (21.3.02) mx; urgency=medium
+ .
+   * Revise launcher script live check
+   * Lowered compression factors to be conservative on required space.
+   * Fixed: configuration error in space slider for large disks.
+   * Fixed: segmentation fault with custom partition configuration.
+   * Fixed: existing /etc/minstalled.conf is not overwritten.
+   * Allow unused fields to be setup with custom default values.
+   * Preserve field defaults if the corresponding setting is not present.
+   * Renamed "RootSpace" to "RootPortion" to reflect the type of value.
+Checksums-Sha1:
+ 0d57e249ed456900006803ef654b52a1ab925d51 10482 gazelle-installer_21.3.02_i386.buildinfo
+ b83e50e605d3f0b508b350f557b7178c365d4d3a 349880 mx-installer_21.3.02_i386.deb
+Checksums-Sha256:
+ d02d7368ec436fca932d904bdff16bf6273c0432cc1157cba3ea720b800ef896 10482 gazelle-installer_21.3.02_i386.buildinfo
+ 2c5d231346f78cb5620e64f8faa108680f3d3f068f4ff35fd626ee2cbc5877a3 349880 mx-installer_21.3.02_i386.deb
+Files:
+ bec122cbeeae8b624391c899a82306e3 10482 system optional gazelle-installer_21.3.02_i386.buildinfo
+ 69c59ec2e3330baa10473d3145533f32 349880 system optional mx-installer_21.3.02_i386.deb
+
+-----BEGIN PGP SIGNATURE-----
+
+iQFHBAEBCgAxFiEE8ndToY6S45N+YzXncJOMeAZ57pgFAmA+058THGFkcmlhbkBt
+eGxpbnV4Lm9yZwAKCRBwk4x4BnnumAc2B/sEVyDDP6rghPaSTMfoDNMVTyQkZt6M
+r0DWTAjaH9R6TZ/0Xop+PM2B9B2f9GY+8C80FjEoKZKCYWoEZRkGtl1G6xfO4Xsk
+aizTNRgLQy8KcH+7K9T5YXA7eoVU2ELb/Dnynf/VJ40kZjPwu+eeUwEThqhGvd1X
+Y6b8wtBX5qzmMbthmSF2dCiD7p226cKFlHEFjp+Pw6dp4OjfN9QejjQ5EKW1JQtr
+iz44rV9O2lcLW82B6h1+Eqd7lVwOlWWSCevcQ+shefOfJ0zyaWVJQ9v24C8iJqk6
+XlyfM0yxN7N6jwM+nYtCeZ49xQ6vTbdrWP5mG3gIFKIRxkO8mLHnFq7d
+=bm70
+-----END PGP SIGNATURE-----

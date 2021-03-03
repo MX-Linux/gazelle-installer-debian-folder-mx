@@ -1,0 +1,53 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+Format: 1.8
+Date: Tue, 02 Mar 2021 19:05:30 -0500
+Source: gazelle-installer
+Binary: mx-installer
+Architecture: source amd64
+Version: 21.3.02
+Distribution: mx
+Urgency: medium
+Maintainer: dolphinoracle <dolphinoracle@gmail.com>
+Changed-By: Adrian <adrian@mxlinux.org>
+Description:
+ mx-installer - Customizable GUI installer for MX Linux and antiX Linux
+Changes:
+ gazelle-installer (21.3.02) mx; urgency=medium
+ .
+   * Revise launcher script live check
+   * Lowered compression factors to be conservative on required space.
+   * Fixed: configuration error in space slider for large disks.
+   * Fixed: segmentation fault with custom partition configuration.
+   * Fixed: existing /etc/minstalled.conf is not overwritten.
+   * Allow unused fields to be setup with custom default values.
+   * Preserve field defaults if the corresponding setting is not present.
+   * Renamed "RootSpace" to "RootPortion" to reflect the type of value.
+Checksums-Sha1:
+ 46ebb2720a0aed02be9800a043f8010066cfdf33 1216 gazelle-installer_21.3.02.dsc
+ 60778aece80aac15ae971c33cb7951e6b6efcfad 247832 gazelle-installer_21.3.02.tar.xz
+ d4792d669a0a23a032383f3312f3e4f9fca75298 10789 gazelle-installer_21.3.02_amd64.buildinfo
+ 8504568c5267673bdee51b2f2556a71de9b75a01 334896 mx-installer_21.3.02_amd64.deb
+Checksums-Sha256:
+ aacf4a860c55f40945596223ac0b918b7fd72a866fbfaae29593d210835b7a51 1216 gazelle-installer_21.3.02.dsc
+ 887538a413fdb666a4558c075c5944580bd01d8476adcb12982c8387f3341c79 247832 gazelle-installer_21.3.02.tar.xz
+ 46cdf873093529e6decb6b5a22209817c145ff48d089e81a89d9dbb1659850d7 10789 gazelle-installer_21.3.02_amd64.buildinfo
+ 2f7981203e7331b4a3fd99b286490f96e98d13151ce01d756e6a80faeab03048 334896 mx-installer_21.3.02_amd64.deb
+Files:
+ 50252c543ef039d312d5c55d60f2972c 1216 system optional gazelle-installer_21.3.02.dsc
+ 4a49b67305f61abf18a52b20374281c9 247832 system optional gazelle-installer_21.3.02.tar.xz
+ b87fb797a0d849602efea45152f84d90 10789 system optional gazelle-installer_21.3.02_amd64.buildinfo
+ aab16d54b74b8bf9aa87e160e4a52e12 334896 system optional mx-installer_21.3.02_amd64.deb
+
+-----BEGIN PGP SIGNATURE-----
+
+iQFHBAEBCgAxFiEE8ndToY6S45N+YzXncJOMeAZ57pgFAmA+06ATHGFkcmlhbkBt
+eGxpbnV4Lm9yZwAKCRBwk4x4BnnumDCeCADOtI0qo8HmH0uq8kJFGj8Ct8EC82kJ
+JUkur2uvtKd15fRngcCXvBF+dnkXdCpVgAGLadLYz9O9VXSrxnFFgfSXlM4tQX0y
+tgYCesJ+aqSA2xiB1Ry7hVwm7yA+LHPZksCKlDn5N56BTRObo9xLEbH78pG3T3YR
+nUzQA5BSE+oLfg+KlIaUpnw9If1++qHrFakEHuMa/cJQ93wH79Tt/LV2EIqcWRR0
+K8xafWJ7Yw1D74l1z+seNy7cf2Nxf4ZMXb7JJ97nVuccx57q7Q3HmGGdg6+K/2Dd
+Ch1+VCwRIq36vnshvIjm0q2aHYPX/YV2rMLTUL/CxG++WtlxSG5Cgxjm
+=r44/
+-----END PGP SIGNATURE-----
