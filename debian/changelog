@@ -1,3 +1,16 @@
+gazelle-installer (21.3.02) mx; urgency=medium
+
+  * Revise launcher script live check
+  * Lowered compression factors to be conservative on required space.
+  * Fixed: configuration error in space slider for large disks.
+  * Fixed: segmentation fault with custom partition configuration.
+  * Fixed: existing /etc/minstalled.conf is not overwritten.
+  * Allow unused fields to be setup with custom default values.
+  * Preserve field defaults if the corresponding setting is not present.
+  * Renamed "RootSpace" to "RootPortion" to reflect the type of value.
+
+ -- Adrian <adrian@mxlinux.org>  Tue, 02 Mar 2021 19:05:30 -0500
+
 gazelle-installer (21.3.01) mx; urgency=medium
 
   * Fixed: launching installer; move checks to only if non-root user 
