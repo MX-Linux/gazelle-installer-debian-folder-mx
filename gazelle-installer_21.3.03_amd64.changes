@@ -1,0 +1,46 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+Format: 1.8
+Date: Tue, 02 Mar 2021 22:08:26 -0500
+Source: gazelle-installer
+Binary: mx-installer
+Architecture: source amd64
+Version: 21.3.03
+Distribution: mx
+Urgency: medium
+Maintainer: dolphinoracle <dolphinoracle@gmail.com>
+Changed-By: Adrian <adrian@mxlinux.org>
+Description:
+ mx-installer - Customizable GUI installer for MX Linux and antiX Linux
+Changes:
+ gazelle-installer (21.3.03) mx; urgency=medium
+ .
+   * Fixed: laucher script
+Checksums-Sha1:
+ be6db04393b74c6e4ab0625e1e003782b77e884f 1216 gazelle-installer_21.3.03.dsc
+ 7d773dfee0ffc77bcdfaf18cf0cc425727e20c75 247820 gazelle-installer_21.3.03.tar.xz
+ b7dba68cb70ff1fcce68c50f87183247c3637889 10789 gazelle-installer_21.3.03_amd64.buildinfo
+ 307a6270c76d4490f9b62a19c002d23662611cef 335128 mx-installer_21.3.03_amd64.deb
+Checksums-Sha256:
+ f05b5ef41a0e8c318e0bf5828704202f81a794f78211a0ad493e9a2ff153ba4c 1216 gazelle-installer_21.3.03.dsc
+ 467c7dc7e2161528a2380ebb6c6adb3af83a65b236bc67cc6686758bce15965f 247820 gazelle-installer_21.3.03.tar.xz
+ cb29c28eeca16a23442759278026236e1a429a8caef0c123ab947e563ad167ec 10789 gazelle-installer_21.3.03_amd64.buildinfo
+ 970c2c5aabd5c6ab1e5297ff0b6269ebbdd9ba8d293952781e4b8e38391e65c2 335128 mx-installer_21.3.03_amd64.deb
+Files:
+ 1e8a296d39e33fdd0d54241ced22733f 1216 system optional gazelle-installer_21.3.03.dsc
+ 52f7bfa206d8d7de5adf590e73285639 247820 system optional gazelle-installer_21.3.03.tar.xz
+ 8c191ca93aa6c0f4980d15a500f707a3 10789 system optional gazelle-installer_21.3.03_amd64.buildinfo
+ 65f9f9fb3fa1b3bb67e868ec5ac87f81 335128 system optional mx-installer_21.3.03_amd64.deb
+
+-----BEGIN PGP SIGNATURE-----
+
+iQFHBAEBCgAxFiEE8ndToY6S45N+YzXncJOMeAZ57pgFAmA+/i0THGFkcmlhbkBt
+eGxpbnV4Lm9yZwAKCRBwk4x4BnnumHn7CACs2eABZHsO5HsYySrHo+gRk8R5rs1v
+kupkhoCKiwLMZQWGdjQrmSa/IwegxXwVSnch27Zl1SsJjCXs7WG6Bqa0WHwOcvuE
+YhcMAvnfsP+YJTDs1A5q4+GjohkenmYsUZy3iOQJVGbQUF2h5YrqBnn54FMU27tX
+bj/EzzgNOK2JkQtoOF9WY70LFRSBtRKyurEXDBYRLybGx0LLya5dco/mHdheY4gd
++4mIfoDtjv0/F6w5Mt1kwXBY07K/8fbPOtH+e9N9ZPNnZXXZyyWPBaBEJoK1j1MW
+d9hAiLU+yS0YpG8oAhIaf5RLbZ//bebDkUEBaxNSfsM/KGBYciWRxjuL
+=joJ2
+-----END PGP SIGNATURE-----
