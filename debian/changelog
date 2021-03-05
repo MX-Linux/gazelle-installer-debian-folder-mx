@@ -1,3 +1,12 @@
+gazelle-installer (21.3.05) mx; urgency=medium
+
+  * Fixed: malformed ESP mount created in fstab.
+  * More user-friendly mounting point descriptions.
+  * Fixed: foreign partition warning shown on a new layout containing the name of an existing partition.
+  * Minor code improvements and cleanup.
+
+ -- Adrian <adrian@mxlinux.org>  Fri, 05 Mar 2021 09:22:06 -0500
+
 gazelle-installer (21.3.04) mx; urgency=medium
 
   * Changed default root portion from 40% to 20%.
