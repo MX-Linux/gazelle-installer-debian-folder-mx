@@ -1,0 +1,43 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+Format: 1.8
+Date: Fri, 05 Mar 2021 09:22:06 -0500
+Source: gazelle-installer
+Binary: mx-installer
+Architecture: i386
+Version: 21.3.05
+Distribution: mx
+Urgency: medium
+Maintainer: dolphinoracle <dolphinoracle@gmail.com>
+Changed-By: Adrian <adrian@mxlinux.org>
+Description:
+ mx-installer - Customizable GUI installer for MX Linux and antiX Linux
+Changes:
+ gazelle-installer (21.3.05) mx; urgency=medium
+ .
+   * Fixed: malformed ESP mount created in fstab.
+   * More user-friendly mounting point descriptions.
+   * Fixed: foreign partition warning shown on a new layout containing the name of an existing partition.
+   * Minor code improvements and cleanup.
+Checksums-Sha1:
+ c27a9f8c65b3b018c6aac94514ccd219af6097eb 10482 gazelle-installer_21.3.05_i386.buildinfo
+ 3cf6b58a7f594445a63b807cb086d89e77d3e5fb 346792 mx-installer_21.3.05_i386.deb
+Checksums-Sha256:
+ 44e6f6ce0a37851ae4d28a77dd1df0ff22313a2614aff3134cf7eb11e213243f 10482 gazelle-installer_21.3.05_i386.buildinfo
+ da4f6ae209b7b84abb8da1654e0a6b25ffc08858b0f5cf2a6b8f424ff9b1d84d 346792 mx-installer_21.3.05_i386.deb
+Files:
+ 7d9d1affe22cca3dffcef0eee6c6528c 10482 system optional gazelle-installer_21.3.05_i386.buildinfo
+ 8510a446298485eadc622aaddf5b47dc 346792 system optional mx-installer_21.3.05_i386.deb
+
+-----BEGIN PGP SIGNATURE-----
+
+iQFHBAEBCgAxFiEE8ndToY6S45N+YzXncJOMeAZ57pgFAmBCP/0THGFkcmlhbkBt
+eGxpbnV4Lm9yZwAKCRBwk4x4BnnumJb5CACc66uDSqUXeLYgGuAMRxFlBtkuJEx1
+rkOQJZWEID0zuTuH87MHUV+5ds8Y/4BI24iPAGLuAgzkHQbtiWht9dd4Pto9I+GF
+oUyB5r4g4sWJOwRsuWbW7rIlEIxaaxiwuFpzRNcOXvuRM1Wjq7mdZhbFQ/LJTgVO
+sR8v75UFw8f52OWZD5rUezvxeKOCwaCaZcAQR9Pi8PftiuMznIrIpWt9Hqyuxbn5
+/PclnCCveviGobu14Oghy9FkNvfEXNEFeB2sYiAOIm8cC/lu/TMt4AjPhb/rWXkO
+5QsxEQRzqQtoxis7/1kYyYT8jM12tr6myDq/Ub4lyA/gSxuEQ6+DLfDe
+=yMUg
+-----END PGP SIGNATURE-----
