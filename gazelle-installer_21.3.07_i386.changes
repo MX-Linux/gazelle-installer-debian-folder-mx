@@ -18,23 +18,23 @@ Changes:
  .
    * Added partition list column documentation.
 Checksums-Sha1:
- 7ef0425ebd82c61fba0717109675243d1bcd5e5c 10482 gazelle-installer_21.3.07_i386.buildinfo
- 7bbb3fdd4185e40b007f77850674ba4379dc756e 349492 mx-installer_21.3.07_i386.deb
+ a18b0f4b94f5171c7af7d8668ea01b46cd4eb644 10482 gazelle-installer_21.3.07_i386.buildinfo
+ 0ec2a0686c042546b9eda74a6e6acf997adb5558 350052 mx-installer_21.3.07_i386.deb
 Checksums-Sha256:
- 2cfa2d1f61250d2869c6632c161ffdcb61cc1fe23847028265d8cc96d8336407 10482 gazelle-installer_21.3.07_i386.buildinfo
- 737b5a6ddef21fcfeedc47fea14876336921358e6657ed9f919f6c6e66d0c2e2 349492 mx-installer_21.3.07_i386.deb
+ 031ce586a24b2ae6f92914051ab71ed90ee5334f6800b6969afc14dcd2da5d26 10482 gazelle-installer_21.3.07_i386.buildinfo
+ 0cd219d1f0b52eea807bb2d888781731ed9ba7bdef6a831e7ee1152cc490ed10 350052 mx-installer_21.3.07_i386.deb
 Files:
- 2ba71bd03c6f08023c156f7be783010b 10482 system optional gazelle-installer_21.3.07_i386.buildinfo
- 60ae3d2a7f372b575cdaf3b538f15d08 349492 system optional mx-installer_21.3.07_i386.deb
+ a4d6f26c7095d2cd8b407c5531a3853e 10482 system optional gazelle-installer_21.3.07_i386.buildinfo
+ 7cebfdf8604903a996dcdca8aa311b67 350052 system optional mx-installer_21.3.07_i386.deb
 
 -----BEGIN PGP SIGNATURE-----
 
-iQFHBAEBCgAxFiEE8ndToY6S45N+YzXncJOMeAZ57pgFAmBEP+4THGFkcmlhbkBt
-eGxpbnV4Lm9yZwAKCRBwk4x4BnnumA5aB/49HH0aV5/W0ErkxqtLb2yYU8gFOGr3
-ATwL6RB4lqhDQFCQMf141/pz46fRq8wY5svm6i/sIWgrxm/RNHnE+oqaMRp+s3Kh
-D6AsTNJc6drXUeqSvyJS5jsgHXEYUTcBEzT6T1uUv2aZRUlpxmRToLWYy18GcgVg
-r0as4k7eHIP/lY1L6DB5k3XzbnI5UI/R/Izv/IrQoNEJOz2HcWAmy4hFQpdfFi3O
-LWMK/DYCk/I7D3GLSOJXaqj05Fz0y1t1hB6Uv5V91q8VribvBOG5KsKKIMkmYDeL
-6l+h5cci8exFaUUjYyga3TsTETKTfzH5BoFo3EtNTvLkBrcMIeRgr+dR
-=pmPM
+iQFHBAEBCgAxFiEE8ndToY6S45N+YzXncJOMeAZ57pgFAmBEQK0THGFkcmlhbkBt
+eGxpbnV4Lm9yZwAKCRBwk4x4BnnumI0fB/9ou+6yPu38cD7V1et9u2NeMpbyPIh2
+sCXei4YHkvKYd5QDWeb5czLypk9AUM86heNDZ3vXReqn8SbmT+hPPSBO4RdSLglT
+4mtjHMlcvg4FNxH+mHXRSURRSzuWWfbrstpTcbUeKGoFo7ZRxBiO2WLn+R1mFZxF
+PhTgeb/7W4chFa30kbJ2kqfkAqzfqljrEnhduTWiHm4LSWw5pcoe7hS4OwnkpECB
+oZgPA2NyMcLVV9UpnAFjHfSNxmFYiPpsQJ8lApnYGyAkTG6In7z+aBxkh/Lf+WO5
+PcF6ctJqsfQCJFJp/SpdYaadjK1FHi4hRHe8SZ31NDaf0kQszbBQpB/v
+=+ak1
 -----END PGP SIGNATURE-----
