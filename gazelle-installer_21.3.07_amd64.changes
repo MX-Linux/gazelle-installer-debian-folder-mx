@@ -1,0 +1,46 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+Format: 1.8
+Date: Sat, 06 Mar 2021 21:50:27 -0500
+Source: gazelle-installer
+Binary: mx-installer
+Architecture: source amd64
+Version: 21.3.07
+Distribution: mx
+Urgency: medium
+Maintainer: dolphinoracle <dolphinoracle@gmail.com>
+Changed-By: Adrian <adrian@mxlinux.org>
+Description:
+ mx-installer - Customizable GUI installer for MX Linux and antiX Linux
+Changes:
+ gazelle-installer (21.3.07) mx; urgency=medium
+ .
+   * Added partition list column documentation.
+Checksums-Sha1:
+ 6d750bb360d0de5404181544195363c47726def7 1216 gazelle-installer_21.3.07.dsc
+ ca36abd0b833fd3ea86eb7b9140dd8c98a1c506a 249804 gazelle-installer_21.3.07.tar.xz
+ 960f5fb62a9faa49432f64e8dca4c9bc691958d1 10789 gazelle-installer_21.3.07_amd64.buildinfo
+ 458cc5e13f1bf435967cfb47f1eccafce4760611 334556 mx-installer_21.3.07_amd64.deb
+Checksums-Sha256:
+ bbb0fa2376a2cd94defa5574f721612aa1c7b5077b8d6ca5bf7ff9c85130db44 1216 gazelle-installer_21.3.07.dsc
+ c7e89b010c55f08418af31eda99bb8fb09c2a93711128e7d40f52519cf283952 249804 gazelle-installer_21.3.07.tar.xz
+ 891513714f1e6e5536fb93388e315a28d2018d4dd46aa0d39620b67663eb762c 10789 gazelle-installer_21.3.07_amd64.buildinfo
+ 098429190241d2caf0d115a5da15ad96fa7ae61698859cdf7095feaafff4104a 334556 mx-installer_21.3.07_amd64.deb
+Files:
+ 07dc18db2615838bc3d5aeca8acc3825 1216 system optional gazelle-installer_21.3.07.dsc
+ adc0bb89fcd07f3d15e498be2ff4d715 249804 system optional gazelle-installer_21.3.07.tar.xz
+ 3c7f4a20a74889272c4930829564b890 10789 system optional gazelle-installer_21.3.07_amd64.buildinfo
+ c34cc5a4aa9b0d75f6295db6896c300b 334556 system optional mx-installer_21.3.07_amd64.deb
+
+-----BEGIN PGP SIGNATURE-----
+
+iQFHBAEBCgAxFiEE8ndToY6S45N+YzXncJOMeAZ57pgFAmBEP+8THGFkcmlhbkBt
+eGxpbnV4Lm9yZwAKCRBwk4x4BnnumEfhCACs5fDBD0/JaXh75Mm8aWqhxxtHXQAP
+quZ7+9UayUh9wYNuX6ZTzWg6Pl8bL1dolEsLnTr6iUYOmsqYdcnNd61qQq4WJIUQ
+aJjbizTtqd8o4IF7r6ABXhBZtohUsehP9suLRnhZh6bxbo6MOLRaSLtsznf8BbH4
+YyYoctmBm2PtcJ7FjGUOiJB6aSiL2Z1CUjsVhpHS2vA6lNYT8IWt5M5XbOcKrOFk
+5xv5n7E7SJNDTENUst0Rp01KIgdbqjQCM+M5z85pC3RYUYZ3hIqCsq0fCxFe2U6T
+6PxgtlsCo7J8/GDpjPJMKiqoH0wAAkXB2BTKYj56WBZyLbc4m3A/AOes
+=mPOs
+-----END PGP SIGNATURE-----
