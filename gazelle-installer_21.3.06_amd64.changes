@@ -1,0 +1,55 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+Format: 1.8
+Date: Sat, 06 Mar 2021 19:17:52 -0500
+Source: gazelle-installer
+Binary: mx-installer
+Architecture: source amd64
+Version: 21.3.06
+Distribution: mx
+Urgency: medium
+Maintainer: dolphinoracle <dolphinoracle@gmail.com>
+Changed-By: Adrian <adrian@mxlinux.org>
+Description:
+ mx-installer - Customizable GUI installer for MX Linux and antiX Linux
+Changes:
+ gazelle-installer (21.3.06) mx; urgency=medium
+ .
+   * Mark desktop file as executable to satisfy XFCE
+   * Added support for runit.
+   * Some minstall-launcher improvements.
+   * Automatically resize columns when adding an entry.
+   * Improved partition manager pop-up menus.
+   * Added space slider percentage tool-tip.
+   * Partition manager documentation update.
+   * Resized partitionmanager icon to 16x16.
+   * Start the slider with recommended portions.
+   * GUI bug fixes and code improvements.
+Checksums-Sha1:
+ 6d1f958ed0116f61ddfe573edf7fd3ecc9c53655 1216 gazelle-installer_21.3.06.dsc
+ 295fc35eb172dba588b7c43ea4f0e8598c14c387 249836 gazelle-installer_21.3.06.tar.xz
+ 983faaa9141f750c2df7b7a3ea6f01cab3f18a27 10789 gazelle-installer_21.3.06_amd64.buildinfo
+ d32a135060fbeef50f51647350ed3bfc7d702234 334464 mx-installer_21.3.06_amd64.deb
+Checksums-Sha256:
+ ebbc3026a0273a32b0649a15caf1b227a5f7137c6794157c355ec61db7eb9735 1216 gazelle-installer_21.3.06.dsc
+ 481c2a05e6555d42a9ad1b375ed7dc663ec0e27ac003c12ba3513b1819ac62f8 249836 gazelle-installer_21.3.06.tar.xz
+ d1b3305a6efe5d727654c32e64fea220f5ee76d2f2e0cb72ecf2214a0ac223da 10789 gazelle-installer_21.3.06_amd64.buildinfo
+ bd588162e91ab9252570f8defb186c1dafdedfcd8e818c19eee7f56d2dfbcc00 334464 mx-installer_21.3.06_amd64.deb
+Files:
+ 3f31287c78f621b97ee217d06ccd5570 1216 system optional gazelle-installer_21.3.06.dsc
+ c3af684c29cecf833dfa1a90fe2a37e2 249836 system optional gazelle-installer_21.3.06.tar.xz
+ 2060b31e1ceadc05984757c9747694d2 10789 system optional gazelle-installer_21.3.06_amd64.buildinfo
+ 66e2068b3370839f7fe61dc3e05d50f3 334464 system optional mx-installer_21.3.06_amd64.deb
+
+-----BEGIN PGP SIGNATURE-----
+
+iQFHBAEBCgAxFiEE8ndToY6S45N+YzXncJOMeAZ57pgFAmBEHFYTHGFkcmlhbkBt
+eGxpbnV4Lm9yZwAKCRBwk4x4BnnumE11CADINgFCwjKqQwmX23p4siEUWRHQ+nK+
+aZxEEPVxDZXB5LwgFiO7gHGTHKd+Eie0pJklhuKaD50An7buJ37MrRVNiGUcOeTY
+uliG9gsvDJoj5di0I6Xqj6i6zuntnSJZvdQibyZDPIKiC+I5bEM47wIsc6hw5BEO
+fDENdnAo+M8Fa3BLIkhrR0TrhZ7wS8boMEltuhnPfpkzh0WOBZaRYv7IoM3YaHkt
+f37xptygNLVdg3pRcahZRL3jaYYpg23qvZ+B0/vMveRVocn72ykm9he9L2jtGicy
+tzB5kWpAV7eIE8trTky1CBlzIrlSVvAWFEmsg8e2G57x2tb9v+BRj+ID
+=XZSR
+-----END PGP SIGNATURE-----

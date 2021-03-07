@@ -1,3 +1,18 @@
+gazelle-installer (21.3.06) mx; urgency=medium
+
+  * Mark desktop file as executable to satisfy XFCE
+  * Added support for runit.
+  * Some minstall-launcher improvements.
+  * Automatically resize columns when adding an entry.
+  * Improved partition manager pop-up menus.
+  * Added space slider percentage tool-tip.
+  * Partition manager documentation update.
+  * Resized partitionmanager icon to 16x16.
+  * Start the slider with recommended portions.
+  * GUI bug fixes and code improvements. 
+
+ -- Adrian <adrian@mxlinux.org>  Sat, 06 Mar 2021 19:17:52 -0500
+
 gazelle-installer (21.3.05) mx; urgency=medium
 
   * Fixed: malformed ESP mount created in fstab.
