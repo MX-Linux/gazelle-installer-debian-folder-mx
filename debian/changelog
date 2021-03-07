@@ -1,3 +1,9 @@
+gazelle-installer (21.3.07) mx; urgency=medium
+
+  * Added partition list column documentation.
+
+ -- Adrian <adrian@mxlinux.org>  Sat, 06 Mar 2021 21:50:27 -0500
+
 gazelle-installer (21.3.06) mx; urgency=medium
 
   * Mark desktop file as executable to satisfy XFCE
