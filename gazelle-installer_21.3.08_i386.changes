@@ -1,0 +1,48 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+Format: 1.8
+Date: Mon, 08 Mar 2021 10:42:23 -0500
+Source: gazelle-installer
+Binary: mx-installer
+Architecture: i386
+Version: 21.3.08
+Distribution: mx
+Urgency: medium
+Maintainer: dolphinoracle <dolphinoracle@gmail.com>
+Changed-By: Adrian <adrian@mxlinux.org>
+Description:
+ mx-installer - Customizable GUI installer for MX Linux and antiX Linux
+Changes:
+ gazelle-installer (21.3.08) mx; urgency=medium
+ .
+   * Added visual indicator for new layouts.
+   * Fixed: drives without partitions modified.
+   * Preserve ESP and swap space by default.
+   * Fixed: ESP flag only set on first partition.
+   * Slider tool tip now appears when hovering over the slider.
+   * Fixed: slider tool tip appears when using the arrow keys.
+   * Labels turn red when the slider goes outside the recommended range.
+   * Some refactoring and code improvements.
+   * Fixed: backup ESP detector runs multiple times if nothing is found.
+Checksums-Sha1:
+ 96fb90a13676d51b622b7b7ba4f80343dcccefc0 10482 gazelle-installer_21.3.08_i386.buildinfo
+ eb765f545950e8d74e048ddb63dd846973251add 351368 mx-installer_21.3.08_i386.deb
+Checksums-Sha256:
+ 8e577640e6cd668cfcb45ecd9c5ca8a073365b83c0dcfa68e7bb99d4772195cd 10482 gazelle-installer_21.3.08_i386.buildinfo
+ f26ca81384fe38524cc87f4afca1d89850669c40bc15fbccc245f3fea0eae66a 351368 mx-installer_21.3.08_i386.deb
+Files:
+ 5e5bd0977e803bd21d09e8950818d168 10482 system optional gazelle-installer_21.3.08_i386.buildinfo
+ a0e2473a344bfd2f7b2fe4236cb47866 351368 system optional mx-installer_21.3.08_i386.deb
+
+-----BEGIN PGP SIGNATURE-----
+
+iQFHBAEBCgAxFiEE8ndToY6S45N+YzXncJOMeAZ57pgFAmBGRrsTHGFkcmlhbkBt
+eGxpbnV4Lm9yZwAKCRBwk4x4BnnumJSBB/9bnn01mv56y277Psi2v3tmHsTRsljo
+wFUb2HMxRLv/i2ZEnc/kSEM2kY2EWtS0K8BkDGeAfaMildI/8mD27XrPnhV/HiNP
+Q6GFIHYl8/rZwNY/i28r9MGG/y4D320aTyu0L6GbScbPYX0tQFMmrlCyBxaCqnKU
+viCtt0iJHjmCBxQU7oaQNP91JhW7XZc9L5etmBjkOalx+Y8RCYmfPqHddf2cLLP0
+lOAeI2yjateAqglKvw52ihWe2Bg+GSbjJFuBLL3dESdnZztFegyvvMsPn3Vc6Go8
+AdFRByQUlBsGw+RmPpPhsowS6si8hrtjZhdb8WpTuG9qNFGu53ditHxn
+=4kbw
+-----END PGP SIGNATURE-----
