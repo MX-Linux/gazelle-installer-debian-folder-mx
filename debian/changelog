@@ -1,3 +1,17 @@
+gazelle-installer (21.3.08) mx; urgency=medium
+
+  * Added visual indicator for new layouts.
+  * Fixed: drives without partitions modified.
+  * Preserve ESP and swap space by default.
+  * Fixed: ESP flag only set on first partition.
+  * Slider tool tip now appears when hovering over the slider.
+  * Fixed: slider tool tip appears when using the arrow keys.
+  * Labels turn red when the slider goes outside the recommended range.
+  * Some refactoring and code improvements.
+  * Fixed: backup ESP detector runs multiple times if nothing is found.
+
+ -- Adrian <adrian@mxlinux.org>  Mon, 08 Mar 2021 10:42:23 -0500
+
 gazelle-installer (21.3.07) mx; urgency=medium
 
   * Added partition list column documentation.
