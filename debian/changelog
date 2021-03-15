@@ -1,3 +1,12 @@
+gazelle-installer (21.3.09) mx; urgency=medium
+
+  * Mount EFI Variable FS before installing the loader.
+  * Fixed: initramfs not updated if GRUB is not selected.
+  * Fixed: VFAT ESPs are not recognised.
+  * Add FAT16 and FAT12 support to ESPs. 
+
+ -- Adrian <adrian@mxlinux.org>  Mon, 15 Mar 2021 11:06:03 -0400
+
 gazelle-installer (21.3.08) mx; urgency=medium
 
   * Added visual indicator for new layouts.
