@@ -1,0 +1,47 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+Format: 1.8
+Date: Tue, 16 Mar 2021 09:45:31 -0400
+Source: gazelle-installer
+Binary: mx-installer
+Architecture: source amd64
+Version: 21.3.10
+Distribution: mx
+Urgency: medium
+Maintainer: dolphinoracle <dolphinoracle@gmail.com>
+Changed-By: Adrian <adrian@mxlinux.org>
+Description:
+ mx-installer - Customizable GUI installer for MX Linux and antiX Linux
+Changes:
+ gazelle-installer (21.3.10) mx; urgency=medium
+ .
+   * Moved recommended file system help text to custom partition page.
+   * Increase the default information pane portion.
+Checksums-Sha1:
+ 4b0331916bb6c10533543d4d27910c21f17d2c23 1216 gazelle-installer_21.3.10.dsc
+ 6e1b539d292a917ee5323cbd09ab85f2e9848d2b 251356 gazelle-installer_21.3.10.tar.xz
+ ee405750ad3486e63993c71df241be961408c930 10789 gazelle-installer_21.3.10_amd64.buildinfo
+ e97f83ec5d647647253a277afd4b76a2a67563ab 337280 mx-installer_21.3.10_amd64.deb
+Checksums-Sha256:
+ 4340144bf1ffb5810a0d808d51e1e9d02b69ea6ccdb5c956127f0b9a15f28a5b 1216 gazelle-installer_21.3.10.dsc
+ c3dba311a81462963b76cad0782be814bdea92b5a5e99871c58ba8a69dc3ee24 251356 gazelle-installer_21.3.10.tar.xz
+ 3deaf3a54f16efa90e27b3c81ec9ca2e43f87bd716eb14852159f53e51732066 10789 gazelle-installer_21.3.10_amd64.buildinfo
+ 9d4680693434202c856ec7182f3877e05fa2ad811536fee68dc5ce1632aac258 337280 mx-installer_21.3.10_amd64.deb
+Files:
+ c57e70c5c65dd12e67f17cc2b15da6e5 1216 system optional gazelle-installer_21.3.10.dsc
+ b66b665cecf71abf77fa0b773e0f5597 251356 system optional gazelle-installer_21.3.10.tar.xz
+ a278e6fedd3f67fa7fb5fcf2df1a5155 10789 system optional gazelle-installer_21.3.10_amd64.buildinfo
+ 7e6bbfb261bbb89a12c875b41c8ce7a0 337280 system optional mx-installer_21.3.10_amd64.deb
+
+-----BEGIN PGP SIGNATURE-----
+
+iQFHBAEBCgAxFiEE8ndToY6S45N+YzXncJOMeAZ57pgFAmBQtxwTHGFkcmlhbkBt
+eGxpbnV4Lm9yZwAKCRBwk4x4BnnumNGhB/sE08Rw/U1NQuqquwqLwpF0f5Em4Ybs
+ZXhB/VyUVALT03Y9SWshoVahN9NcwIA94mzdKFbW4PXf5v+gxBVEX+YghSlQYitg
+rfaUChlPJUEq//DW1BKgR9BrXnzz0hJ07YyHPKjX/Ier60frmh1yPHpQQLA3nnuF
+Tnc3D3uHbiA06vid8NKBaP3rC0eDIMVj4faIzVeFs5jMtlk4OJL4LUNTozczzaSF
+ClpKnnSQGHtBlgUsBiffgsWq/L+HdQwFDbIKDte0O1bjTG9T8Op00cSQP6ptndpm
+xEnPyjg4gea3ztTHULe8U3XFo9bzSyYIV1CNOVWbtd9j2ud3gAi25Q3Q
+=FBEg
+-----END PGP SIGNATURE-----
