@@ -1,0 +1,47 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+Format: 1.8
+Date: Fri, 19 Mar 2021 09:17:23 -0400
+Source: gazelle-installer
+Binary: mx-installer
+Architecture: source amd64
+Version: 21.3.11
+Distribution: mx
+Urgency: medium
+Maintainer: dolphinoracle <dolphinoracle@gmail.com>
+Changed-By: Adrian <adrian@mxlinux.org>
+Description:
+ mx-installer - Customizable GUI installer for MX Linux and antiX Linux
+Changes:
+ gazelle-installer (21.3.11) mx; urgency=medium
+ .
+   * Fixed: malformed ESP format command.
+   * Fixed: both gparted and partitionmanager are run if present.
+Checksums-Sha1:
+ 45e42c94b7256b6601365519c09e3e4b47aaca16 1216 gazelle-installer_21.3.11.dsc
+ 5a5a546d43e0ccbdcc25291e2f734080aaf64c22 251416 gazelle-installer_21.3.11.tar.xz
+ 6b28bf3e5ec20c18346350bbd5acafe38c8e192d 10789 gazelle-installer_21.3.11_amd64.buildinfo
+ 4a10f0fa4018035dc266d4da8c4cc40593acabf0 337432 mx-installer_21.3.11_amd64.deb
+Checksums-Sha256:
+ abe7260acebd697a0cd53d2ea372453565490bc55cc9b649b4dcc5bfdc71cda9 1216 gazelle-installer_21.3.11.dsc
+ b4460948591e964d0e2afdfb810ea5d66b048af72c1c3e432bc6bc4e478d5e51 251416 gazelle-installer_21.3.11.tar.xz
+ 9ff70e0f3c17be904da4290af881cc89de991b87011f9aea6df8fbe8cc0e5a8b 10789 gazelle-installer_21.3.11_amd64.buildinfo
+ c9fe1cc7cceee8d977b7b9fef68f2cbf2569a7e6a6f24365e4bee073883a9892 337432 mx-installer_21.3.11_amd64.deb
+Files:
+ 49f11341a408a3ef0359db02ede85d83 1216 system optional gazelle-installer_21.3.11.dsc
+ acbda0a29ad74d26bcbab4ea4e7185c0 251416 system optional gazelle-installer_21.3.11.tar.xz
+ f42ea1eff83db246e20e8c39c23e0676 10789 system optional gazelle-installer_21.3.11_amd64.buildinfo
+ dc63616c5e683d59495934b7d526c7f3 337432 system optional mx-installer_21.3.11_amd64.deb
+
+-----BEGIN PGP SIGNATURE-----
+
+iQFHBAEBCgAxFiEE8ndToY6S45N+YzXncJOMeAZ57pgFAmBUpngTHGFkcmlhbkBt
+eGxpbnV4Lm9yZwAKCRBwk4x4BnnumDYCB/9Bv+DNrx3SPeAkXzhWaNsy9nAFOhP0
+sFbt0pSVnA/OokPnhworOhiwB8MdU/nBG/QTzzArlpCg7LchEOjKosNvw5tBUGBc
+kiOCiRhdUnq1wAP65f8/nEf8vsNGTjiSRcNNQKrGhQ0jNfFrQ1LU2+H0dwPcbQkv
+3cdfLcfYVOe7L6eaMHxaClLevK3r+4HCnJOHHif5KNxmR9ZVvbyW9RTnC5yYn9TF
+iI6aOQJACesMfCXXc35t87tzgYkw3VBv/j+dHzzgE/gwkyHTj9coPBszlRHZps/4
+VX1OL+iijjHz/DhTNlIaa0lI/vcH/27wjhlb6yyuY60HPoY5FVj3SQ9k
+=84/7
+-----END PGP SIGNATURE-----

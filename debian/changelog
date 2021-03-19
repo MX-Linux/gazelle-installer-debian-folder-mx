@@ -1,3 +1,10 @@
+gazelle-installer (21.3.11) mx; urgency=medium
+
+  * Fixed: malformed ESP format command.
+  * Fixed: both gparted and partitionmanager are run if present. 
+
+ -- Adrian <adrian@mxlinux.org>  Fri, 19 Mar 2021 09:17:23 -0400
+
 gazelle-installer (21.3.10) mx; urgency=medium
 
   * Moved recommended file system help text to custom partition page.
