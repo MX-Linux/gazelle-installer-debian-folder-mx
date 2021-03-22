@@ -1,3 +1,12 @@
+gazelle-installer (21.3.12) mx; urgency=medium
+
+  * Boot loader installation improvements.
+  * Use noatime during install to improve performance.
+  * Set the noatime mount option in fstab by default.
+  * Fixed: malformed fstab if options field is blank. 
+
+ -- Adrian <adrian@mxlinux.org>  Mon, 22 Mar 2021 10:57:28 -0400
+
 gazelle-installer (21.3.11) mx; urgency=medium
 
   * Fixed: malformed ESP format command.
