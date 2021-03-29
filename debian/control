@@ -3,7 +3,7 @@ Section: system
 Priority: optional
 Maintainer: dolphinoracle <dolphinoracle@gmail.com>
 Build-Depends: 
-	debhelper (>= 9.2), 
+	debhelper (>= 10), 
 	qtbase5-dev, 
 	qttools5-dev-tools
 Standards-Version: 3.9.8
