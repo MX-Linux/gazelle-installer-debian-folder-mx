@@ -1,0 +1,43 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+Format: 1.8
+Date: Tue, 06 Apr 2021 11:29:58 -0400
+Source: gazelle-installer
+Binary: mx-installer
+Architecture: i386
+Version: 21.4
+Distribution: mx
+Urgency: medium
+Maintainer: dolphinoracle <dolphinoracle@gmail.com>
+Changed-By: Adrian <adrian@mxlinux.org>
+Description:
+ mx-installer - Customizable GUI installer for MX Linux and antiX Linux
+Changes:
+ gazelle-installer (21.4) mx; urgency=medium
+ .
+   * Fixed: /etc/skel is not always copied to the user directory.
+   * Fixed: bad indexing when a partition is removed from the layout.
+   * Fixed: Preserve option not presented in some cases.
+   * Adjusted virtualbox detection
+Checksums-Sha1:
+ e59f5235bcc954f5d515c00093bae70dea3f573d 10467 gazelle-installer_21.4_i386.buildinfo
+ f826bb5dc78c61b78e056cf85e378e0f0c7ce6b7 351832 mx-installer_21.4_i386.deb
+Checksums-Sha256:
+ 6aa185494b565de2f9042d312a5395c8e8e8a7e1d86758f21a881f2d2864a482 10467 gazelle-installer_21.4_i386.buildinfo
+ 381a41aa1cee15d8317ec4f578c61bae6be3427ca900b3826d6cbcc0e6a0776d 351832 mx-installer_21.4_i386.deb
+Files:
+ 95a3b2138507d6f23c04e5887c4ea790 10467 system optional gazelle-installer_21.4_i386.buildinfo
+ 0f501017914ba0a62c3a40c4599d9362 351832 system optional mx-installer_21.4_i386.deb
+
+-----BEGIN PGP SIGNATURE-----
+
+iQFHBAEBCgAxFiEE8ndToY6S45N+YzXncJOMeAZ57pgFAmBsf9YTHGFkcmlhbkBt
+eGxpbnV4Lm9yZwAKCRBwk4x4BnnumCPNB/4/z0ue6mzzgqocEzE9BmAMbdjjs4IN
+oZb1JhsqubeazCuh8fcgSGmCn616CfjiDQVJBasGpl6X4BUUePHvc3gKpMTsja1p
+3l1RDoWGQDxRM9XChZm7gnNJ+lYjcLAtQs12lqYaNRbOUcbHRcOVctoULDdF40gu
+WkFJB+dRDVh7T5ApdlJTn4YNlYRlUWu2uoK+IgX32BopedLoA05qyVNWA8tlsI8Z
+K1BVxnwLAiNTxrEXxu22R59zJLj9nHxVybcqPeMQUFvNWmFrGeTI4wBXfWxTIr2U
+gQeCe7eVuuhiO76kXueqOr3wuwOx74DRaJhOgU6AUNSwYSZ5m3c1Ymqi
+=26id
+-----END PGP SIGNATURE-----

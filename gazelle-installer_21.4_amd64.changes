@@ -1,0 +1,49 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+Format: 1.8
+Date: Tue, 06 Apr 2021 11:29:58 -0400
+Source: gazelle-installer
+Binary: mx-installer
+Architecture: source amd64
+Version: 21.4
+Distribution: mx
+Urgency: medium
+Maintainer: dolphinoracle <dolphinoracle@gmail.com>
+Changed-By: Adrian <adrian@mxlinux.org>
+Description:
+ mx-installer - Customizable GUI installer for MX Linux and antiX Linux
+Changes:
+ gazelle-installer (21.4) mx; urgency=medium
+ .
+   * Fixed: /etc/skel is not always copied to the user directory.
+   * Fixed: bad indexing when a partition is removed from the layout.
+   * Fixed: Preserve option not presented in some cases.
+   * Adjusted virtualbox detection
+Checksums-Sha1:
+ 6aea789ae62201a8bce341a2994bb492bdbb0987 1203 gazelle-installer_21.4.dsc
+ 30ba6c670b9a732e6e0d3257a19b08736af7a157 251000 gazelle-installer_21.4.tar.xz
+ 26bb8aaaa501b610f977abc56d18fef93992470e 10765 gazelle-installer_21.4_amd64.buildinfo
+ 37a943bab9075d315ded86914d8c4933863bf965 336876 mx-installer_21.4_amd64.deb
+Checksums-Sha256:
+ 25dd10fbe7d2489cecb8ecc10a39ef0ee7fb9acc8952eefd12239e636961e343 1203 gazelle-installer_21.4.dsc
+ 2c9413a83388e45b7ad02f9c8618117b49ddcc27d298da74c516b4d3e4764abc 251000 gazelle-installer_21.4.tar.xz
+ 31dbf14952428a2f6c8170f17981395bc97fae21ae35495d52071c9b2473c033 10765 gazelle-installer_21.4_amd64.buildinfo
+ b3389a73558c4bd22be0d2b2d170732944fe90fdb82d8d86aebddb0e09137cef 336876 mx-installer_21.4_amd64.deb
+Files:
+ 77420f8d32447d027a9b0d7c40f31199 1203 system optional gazelle-installer_21.4.dsc
+ 6570f284425e823a7223ca36d211d08c 251000 system optional gazelle-installer_21.4.tar.xz
+ 2f3e6811e305abdfc472f0371813ab79 10765 system optional gazelle-installer_21.4_amd64.buildinfo
+ a5af01e1d661e23bd46fa4d3948226c0 336876 system optional mx-installer_21.4_amd64.deb
+
+-----BEGIN PGP SIGNATURE-----
+
+iQFHBAEBCgAxFiEE8ndToY6S45N+YzXncJOMeAZ57pgFAmBsf9YTHGFkcmlhbkBt
+eGxpbnV4Lm9yZwAKCRBwk4x4BnnumFJyCADU35tP2Cbh/6g/7JelYsKGy6CQps2C
+hrRtHghbDflaA8CiQxd5Mha7aHiXxlKFgF/wM/6Z5c7vZuMCbz9n0wqY/yjBe1hA
+a0DUe4HX2YcdZAMkZeiB3y61jCpoMJXvb10vno7M91o2CbCEOhgfj0583WI2Jaqp
+y+D80GsYghsd5nrA9R4ie90vExtzTxKVaoIvalvkSO20+nwfAv8sWFGF/3y3aQTh
+qlLeYPmKCz/1WHqOA7QRQ1Rvebxtc47OZx/TwUKEvMp+yQ4sIoOmDSWgoOygneu/
+F6nmsD5xOlwI2jOpCsmHqqRbkl0GeWz8c2/TZM6HIrM0ipV1dRzXIkWR
+=8rLL
+-----END PGP SIGNATURE-----
