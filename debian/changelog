@@ -1,3 +1,12 @@
+gazelle-installer (21.4) mx; urgency=medium
+
+  * Fixed: /etc/skel is not always copied to the user directory.
+  * Fixed: bad indexing when a partition is removed from the layout.
+  * Fixed: Preserve option not presented in some cases.
+  * Adjusted virtualbox detection
+
+ -- Adrian <adrian@mxlinux.org>  Tue, 06 Apr 2021 11:29:58 -0400
+
 gazelle-installer (21.3.12) mx; urgency=medium
 
   * Boot loader installation improvements.
