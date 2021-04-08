@@ -1,3 +1,9 @@
+gazelle-installer (21.4mx21) mx; urgency=medium
+
+  * add mx21 to version string to ensure it upgrades over Buster version
+
+ -- Adrian <adrian@mxlinux.org>  Thu, 08 Apr 2021 17:55:03 -0400
+
 gazelle-installer (21.4) mx; urgency=medium
 
   * Fixed: /etc/skel is not always copied to the user directory.

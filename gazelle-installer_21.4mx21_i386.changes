@@ -1,0 +1,40 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+Format: 1.8
+Date: Thu, 08 Apr 2021 17:55:03 -0400
+Source: gazelle-installer
+Binary: mx-installer
+Architecture: i386
+Version: 21.4mx21
+Distribution: mx
+Urgency: medium
+Maintainer: dolphinoracle <dolphinoracle@gmail.com>
+Changed-By: Adrian <adrian@mxlinux.org>
+Description:
+ mx-installer - Customizable GUI installer for MX Linux and antiX Linux
+Changes:
+ gazelle-installer (21.4mx21) mx; urgency=medium
+ .
+   * add mx21 to version string to ensure it upgrades over Buster version
+Checksums-Sha1:
+ 525aa5ec49616290cd23c21b72d76cbddb0899fa 10487 gazelle-installer_21.4mx21_i386.buildinfo
+ 11a1f1417d0695e21de949e3138b1da2074d99d6 351912 mx-installer_21.4mx21_i386.deb
+Checksums-Sha256:
+ 571690a6e451d6e2920e28e126a5ddebea2dcf9b5091c1f9839e2c4416fdf577 10487 gazelle-installer_21.4mx21_i386.buildinfo
+ fbed16747aa2ace4354ae9436be83d89acf7e54e5850f20ff6e9aa258583a3d9 351912 mx-installer_21.4mx21_i386.deb
+Files:
+ 2063e9a1d411c115472d377dad133848 10487 system optional gazelle-installer_21.4mx21_i386.buildinfo
+ 63094862470cf634fd2dd467feb6dcc5 351912 system optional mx-installer_21.4mx21_i386.deb
+
+-----BEGIN PGP SIGNATURE-----
+
+iQFHBAEBCgAxFiEE8ndToY6S45N+YzXncJOMeAZ57pgFAmBvfO4THGFkcmlhbkBt
+eGxpbnV4Lm9yZwAKCRBwk4x4BnnumKktB/93LnTIoomXdkFORdivGVBXmwXNN0s4
+QfKP3FGnu4SsizUVLZpregHWJrOU9E4vxlLXGj2L6IQUOvwfbFcN+ra4NLAOjD8P
+n+tazNed8WtnJiiZp0VMor4XLwKRDgqeqkSNM+9HObYW51W3cwp3OGv+RKjhCMCq
+z16EfigGC/O+BnLXYNDIvAq0y8UqxYKV/u8gL7eNmRpvM/uKHVH97sbRZgxzS5BL
+497TeOupL1x2lGqLnbps2B3Hhu4lQw3+MTsgei6ZZmkFo7D7KYNvN6T9sOFibGJp
+SHGovESxoVY3rc2KgQ3XtW1qgIb+Ax1K9HTbyMRi0oPNUlqmw12aA1Fy
+=pzun
+-----END PGP SIGNATURE-----
