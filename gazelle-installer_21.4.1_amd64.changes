@@ -1,0 +1,46 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+Format: 1.8
+Date: Fri, 09 Apr 2021 11:35:31 -0400
+Source: gazelle-installer
+Binary: mx-installer
+Architecture: source amd64
+Version: 21.4.1
+Distribution: mx
+Urgency: medium
+Maintainer: dolphinoracle <dolphinoracle@gmail.com>
+Changed-By: Adrian <adrian@mxlinux.org>
+Description:
+ mx-installer - Customizable GUI installer for MX Linux and antiX Linux
+Changes:
+ gazelle-installer (21.4.1) mx; urgency=medium
+ .
+   * Updated translations
+Checksums-Sha1:
+ 2dbb25d56d622d42f32c5548159c2e59b71564a1 1211 gazelle-installer_21.4.1.dsc
+ 98e4c452be6cf51dd3dd1cddc0618ce1b8eae180 285568 gazelle-installer_21.4.1.tar.xz
+ b845782f4564fa794e2af2762e2bc6c1e12cb71c 10546 gazelle-installer_21.4.1_amd64.buildinfo
+ 955a9659e8038ead14c8513709fcd865b18d29c2 399772 mx-installer_21.4.1_amd64.deb
+Checksums-Sha256:
+ 79842127a299dd62fadeb8c17b0fad6d17ce5974e735eb650b1e974cbaa1213b 1211 gazelle-installer_21.4.1.dsc
+ 0869f601282b60e08716419d17a51097d459287b1143872702736b301197487f 285568 gazelle-installer_21.4.1.tar.xz
+ f0909c7ae8ad177e2aded0d233cee3a86f3590df2c38049a5a9f1b762ea2ff12 10546 gazelle-installer_21.4.1_amd64.buildinfo
+ 52847d54af43b6be3d970eb4fc6c71504cfb6eb5a3c0ad3c9998d2978438706d 399772 mx-installer_21.4.1_amd64.deb
+Files:
+ 5dc528eddb05c6fa14f54b612c8ea87a 1211 system optional gazelle-installer_21.4.1.dsc
+ 515b19f6562dceb4afc774da381c2a29 285568 system optional gazelle-installer_21.4.1.tar.xz
+ da2597e3cfddfd0685d974a622869e46 10546 system optional gazelle-installer_21.4.1_amd64.buildinfo
+ 179d8bc013a43366906e0598245f932e 399772 system optional mx-installer_21.4.1_amd64.deb
+
+-----BEGIN PGP SIGNATURE-----
+
+iQFHBAEBCgAxFiEE8ndToY6S45N+YzXncJOMeAZ57pgFAmBwdNETHGFkcmlhbkBt
+eGxpbnV4Lm9yZwAKCRBwk4x4BnnumJBTCAC9TfpwCqweQyz2/2TbULcR5z6gMVfF
+Oh5fYtT+b1rgbv1QTnsliZWooHlcpmu4bShlgQd96Qrnb/rggUQOQGAwtJekmSQl
+ZpooCAUTBJrctGnTUZzt8upLIqZZ9igyMzh2X1vbFiEtsVkR4w9GsI5Bos4PtZuO
+VI5//ETwXzzG0PdfLguhN2lVCABOtyOeb82a/ylpV3z9JTvQvbivlg3yeavePYeX
+KZnIDtI+1EFGOVMb2//YX9ybKH1Ha6Bg3X+6Vl8xr/au8goXheUImJcLi7AH3eJB
+k3NonyuKujxUyDgCYFB9uZ8GWTB19XyjKbYKOdePb56EOzrShQVMj6M/
+=2dIA
+-----END PGP SIGNATURE-----
