@@ -1,0 +1,47 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+Format: 1.8
+Date: Sat, 08 May 2021 18:44:40 -0400
+Source: gazelle-installer
+Binary: mx-installer
+Architecture: source amd64
+Version: 21.5
+Distribution: mx
+Urgency: medium
+Maintainer: dolphinoracle <dolphinoracle@gmail.com>
+Changed-By: Adrian <adrian@mxlinux.org>
+Description:
+ mx-installer - Customizable GUI installer for MX Linux and antiX Linux
+Changes:
+ gazelle-installer (21.5) mx; urgency=medium
+ .
+   * Virtual devices (such as LVM or software RAID volumes) can now be chosen.
+   * Added mount-keep command-line option to keep mount points open when the installer is finished.
+Checksums-Sha1:
+ f35d55107f3a49775a3e1f55d801e771393f4624 1203 gazelle-installer_21.5.dsc
+ 1c52a96985d47dfe8f8cfa26ed374c296ac90709 286552 gazelle-installer_21.5.tar.xz
+ b0bd8f9fb53cfcd9f0d90ae10c442cd17216a71c 10765 gazelle-installer_21.5_amd64.buildinfo
+ d1cf1ad17389e33b39e001e9dd0a612532246a73 402124 mx-installer_21.5_amd64.deb
+Checksums-Sha256:
+ db3d95dc8f55aae3e33841e3e8a96b88257a9fc2b403c8c286b5f8e99710ba45 1203 gazelle-installer_21.5.dsc
+ 12f1ed901bb6bb4e6b71d1e38b36599f16fc42b399d83b0b4002d181d780ad33 286552 gazelle-installer_21.5.tar.xz
+ 03e60cfa176eea8773869d4d741430eaddabc6100b2d238569fa58c890f9ee3c 10765 gazelle-installer_21.5_amd64.buildinfo
+ 646279496ff21b1038d4affd550406b916cc5effc7d4c7c094db6cc805668a38 402124 mx-installer_21.5_amd64.deb
+Files:
+ 1a928309af87fc28746d73e9731c7273 1203 system optional gazelle-installer_21.5.dsc
+ 358eaf63a674ef8982fe0851207cc3d6 286552 system optional gazelle-installer_21.5.tar.xz
+ bb8a67f0955dee7dfe2d7e19e884ffcc 10765 system optional gazelle-installer_21.5_amd64.buildinfo
+ b0c2eb34c36577ca601fc97628619a60 402124 system optional mx-installer_21.5_amd64.deb
+
+-----BEGIN PGP SIGNATURE-----
+
+iQFHBAEBCgAxFiEE8ndToY6S45N+YzXncJOMeAZ57pgFAmCXFQYTHGFkcmlhbkBt
+eGxpbnV4Lm9yZwAKCRBwk4x4BnnumHArB/9vhsexN38CKp3pV4TvNIl4uifcAvR7
+e0ItI3HkX6bEzWnY96EE6p/R1GWRRBQf7xzYS308RRT3g91Fcw7RFQjv8HlttKWi
+8CjotZiS6jUUUiwocQx/mlFkURyvFDEzk0DwVoYhA/s0fPGCZor0Ojl6Gi1n/7ip
+Hbvm77sDLPK108kxwk4y1Ex3en6jA2peFbgC5yu0WwVaMWUGr4IsbFD+LYYOPjhN
+oBOEtSssd2Z5a2aAQY8xKiKETfsRMaUbV+MoOW8gqapEPYGG2ffP6XmafjiKhheM
+3bpMWo18JNsj1vZwkka3h5lXi/L/OaxGP3t9DH1atPsN9LtLbwoNtxJ6
+=q7Hz
+-----END PGP SIGNATURE-----
