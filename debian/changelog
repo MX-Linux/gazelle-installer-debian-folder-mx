@@ -1,3 +1,10 @@
+gazelle-installer (21.5) mx; urgency=medium
+
+  * Virtual devices (such as LVM or software RAID volumes) can now be chosen.
+  * Added mount-keep command-line option to keep mount points open when the installer is finished.
+
+ -- Adrian <adrian@mxlinux.org>  Sat, 08 May 2021 18:44:40 -0400
+
 gazelle-installer (21.4.1) mx; urgency=medium
 
   * Updated translations
