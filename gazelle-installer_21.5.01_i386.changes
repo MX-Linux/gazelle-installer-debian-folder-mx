@@ -1,0 +1,44 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+Format: 1.8
+Date: Sun, 09 May 2021 16:34:04 -0400
+Source: gazelle-installer
+Binary: mx-installer
+Architecture: i386
+Version: 21.5.01
+Distribution: mx
+Urgency: medium
+Maintainer: dolphinoracle <dolphinoracle@gmail.com>
+Changed-By: Adrian <adrian@mxlinux.org>
+Description:
+ mx-installer - Customizable GUI installer for MX Linux and antiX Linux
+Changes:
+ gazelle-installer (21.5.01) mx; urgency=medium
+ .
+   * Preserving LUKS partitions now relies on virtual devices.
+   * Added options to select LUKS partitions that need corresponding crypttab entries.
+   * Fixed: some options unavailable if icons are not on the system.
+   * Removed italic font for the "Virtual Devices" list item title.
+   * Fixed list button icons.
+Checksums-Sha1:
+ 20738639aa4364a9dee12fb2448abf1444ed61c4 10482 gazelle-installer_21.5.01_i386.buildinfo
+ 638beb0f6c89c6685cc13816faab33c1bc7872c7 422364 mx-installer_21.5.01_i386.deb
+Checksums-Sha256:
+ a068450ad3019e0f820d7489aaa34382e2f62ea7e56ef0fc56b0c968ed50ad17 10482 gazelle-installer_21.5.01_i386.buildinfo
+ df3db67a12be247734b21ab520c34aaffffc033fc49b91c81152f9e802b9800d 422364 mx-installer_21.5.01_i386.deb
+Files:
+ 816df918df67d6ccfe4bd2ad095697f2 10482 system optional gazelle-installer_21.5.01_i386.buildinfo
+ 2e373400b199e3a2d55ae63b5e457a09 422364 system optional mx-installer_21.5.01_i386.deb
+
+-----BEGIN PGP SIGNATURE-----
+
+iQFHBAEBCgAxFiEE8ndToY6S45N+YzXncJOMeAZ57pgFAmCYR84THGFkcmlhbkBt
+eGxpbnV4Lm9yZwAKCRBwk4x4BnnumH+EB/9mHRa9gd+av+yOCilAJ2rYKbrkvfXB
+GxRLIJF1cLeHlxB9CtrihcYJf8hoXOfaedEWDuBmEXaeVz2pcLxf4sP0J8Mlm60C
+sw3l8fe1PXC3mvYPt6CmtcuzqrXF1SkmxD9dBiQFdXdM4esOVgYZFLfh235bTIdP
+NVxBaLkiJl3CJiQAVW6Brx97OkSDOeJxsNmWG5oYBtwezJEVfDdZE/UnLjh/Qnc2
+xC/eaxhPXYwe6l+fL6y/EObhwJIKI2W0kBxp68qc9iZ/aAT47wq8irWZ8d3GScxw
+6fhyZP8CIdWo69FVZWFU2PXWr5kvvJEsZXsfhxnKiEY8BeQOoGYetxS9
+=50ud
+-----END PGP SIGNATURE-----
