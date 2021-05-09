@@ -1,0 +1,50 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+Format: 1.8
+Date: Sun, 09 May 2021 16:34:04 -0400
+Source: gazelle-installer
+Binary: mx-installer
+Architecture: source amd64
+Version: 21.5.01
+Distribution: mx
+Urgency: medium
+Maintainer: dolphinoracle <dolphinoracle@gmail.com>
+Changed-By: Adrian <adrian@mxlinux.org>
+Description:
+ mx-installer - Customizable GUI installer for MX Linux and antiX Linux
+Changes:
+ gazelle-installer (21.5.01) mx; urgency=medium
+ .
+   * Preserving LUKS partitions now relies on virtual devices.
+   * Added options to select LUKS partitions that need corresponding crypttab entries.
+   * Fixed: some options unavailable if icons are not on the system.
+   * Removed italic font for the "Virtual Devices" list item title.
+   * Fixed list button icons.
+Checksums-Sha1:
+ 66af0a9f9ba4f6491ffa8bec5c1ff5c047054a1e 1215 gazelle-installer_21.5.01.dsc
+ 08a2fcc0cd8816311d4ee0646e68c3caf3572e8a 289332 gazelle-installer_21.5.01.tar.xz
+ 96e2d0fe6782d449b726d96b5422729958c5d501 10789 gazelle-installer_21.5.01_amd64.buildinfo
+ 9cb04a031100ff4887ffca9b245289f3184381de 407220 mx-installer_21.5.01_amd64.deb
+Checksums-Sha256:
+ 5c41d0569384249694ff6ab145413c4c3d7a83647342e04a405c3ce0b6d52af0 1215 gazelle-installer_21.5.01.dsc
+ 31f05af2541ea35279202d4269e174f6e93cc4f592f0b4d0526dff9fc770990d 289332 gazelle-installer_21.5.01.tar.xz
+ 3f082594a6a6a52016113893981aa6403cc4970dee82eba5a2abb3bf79542c48 10789 gazelle-installer_21.5.01_amd64.buildinfo
+ 658dcad54b61e4dfda7ca2296c95d6b6cfa3fc2ca63995748b7c4f20ea195c78 407220 mx-installer_21.5.01_amd64.deb
+Files:
+ 222c7610e5578ee9eff84c442468815e 1215 system optional gazelle-installer_21.5.01.dsc
+ 5c653a0e10f3318c1126f2e5c7f4052a 289332 system optional gazelle-installer_21.5.01.tar.xz
+ e7d82c0619aad9bd4fde934aa54a2637 10789 system optional gazelle-installer_21.5.01_amd64.buildinfo
+ 038eb871fe122ffcf8efce6659b6b11e 407220 system optional mx-installer_21.5.01_amd64.deb
+
+-----BEGIN PGP SIGNATURE-----
+
+iQFHBAEBCgAxFiEE8ndToY6S45N+YzXncJOMeAZ57pgFAmCYR88THGFkcmlhbkBt
+eGxpbnV4Lm9yZwAKCRBwk4x4BnnumGm0B/9e0SBLdMNHB/qNCsBNGiWomjluSktO
+AH6+u6g4AXrG1g8B0tmnNhA9OaPfdzVLmF6hQS7+9hLw8Tlqypcgx6YSyvufGRv0
+jaXq95ef/+UjQ2FJTrcgUnwmxAKQ3DoQcXoBFcIyc9MJQQyq5xH+UjkFnUD/bt+f
+jxcwAHAXSvh9IHEpdoZVpL5gQ6ba7rw3mXntaEkkDoFw0gRV1tNxfiW1L+Um8obY
+s5pRx9+HSFUNtdrZXJ5rgfDvExt0TNmGQavlxS2Kh5ez67DhYKmjDxJ1aRZ/aRVl
+t1KKbgHOFER8QbkSNW9eQSKua/NfpcinpU5tjEImxMuQo+/4pz8kBfgH
+=27KF
+-----END PGP SIGNATURE-----

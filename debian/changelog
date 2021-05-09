@@ -1,3 +1,13 @@
+gazelle-installer (21.5.01) mx; urgency=medium
+
+  * Preserving LUKS partitions now relies on virtual devices.
+  * Added options to select LUKS partitions that need corresponding crypttab entries.
+  * Fixed: some options unavailable if icons are not on the system.
+  * Removed italic font for the "Virtual Devices" list item title.
+  * Fixed list button icons.
+
+ -- Adrian <adrian@mxlinux.org>  Sun, 09 May 2021 16:34:04 -0400
+
 gazelle-installer (21.5) mx; urgency=medium
 
   * Virtual devices (such as LVM or software RAID volumes) can now be chosen.
