@@ -1,3 +1,13 @@
+gazelle-installer (21.5.02) mx; urgency=medium
+
+  * Updated partition manager preservation documentation.
+  * Partition manager bug fixes and GUI usability improvements.
+  * Improved validation to disallow system partitions on virtual devices.
+  * Fixed: attempt to preserve home on a virtual device fails.
+  * Removed reiser4 support.
+
+ -- Adrian <adrian@mxlinux.org>  Fri, 14 May 2021 10:19:20 -0400
+
 gazelle-installer (21.5.01) mx; urgency=medium
 
   * Preserving LUKS partitions now relies on virtual devices.
