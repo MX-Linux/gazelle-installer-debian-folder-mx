@@ -1,3 +1,11 @@
+gazelle-installer (21.5.03) mx; urgency=medium
+
+  * Added support for BTRFS subvolumes.
+  * Fixed: incorrect names used for swap spaces.
+  * Simplified detection of various partition types. 
+
+ -- Adrian <adrian@mxlinux.org>  Sun, 16 May 2021 10:38:50 -0400
+
 gazelle-installer (21.5.02) mx; urgency=medium
 
   * Updated partition manager preservation documentation.
