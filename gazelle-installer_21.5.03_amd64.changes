@@ -1,0 +1,48 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+Format: 1.8
+Date: Sun, 16 May 2021 10:38:50 -0400
+Source: gazelle-installer
+Binary: mx-installer
+Architecture: source amd64
+Version: 21.5.03
+Distribution: mx
+Urgency: medium
+Maintainer: dolphinoracle <dolphinoracle@gmail.com>
+Changed-By: Adrian <adrian@mxlinux.org>
+Description:
+ mx-installer - Customizable GUI installer for MX Linux and antiX Linux
+Changes:
+ gazelle-installer (21.5.03) mx; urgency=medium
+ .
+   * Added support for BTRFS subvolumes.
+   * Fixed: incorrect names used for swap spaces.
+   * Simplified detection of various partition types.
+Checksums-Sha1:
+ ec7e9396d2361beaa9597c13481210e55984c10e 1215 gazelle-installer_21.5.03.dsc
+ b8a4566f58b68e1c29dba69d9f71651d4c031246 290360 gazelle-installer_21.5.03.tar.xz
+ e2c3a63dd44317c7347c5739ed4954aaca6c3ead 10789 gazelle-installer_21.5.03_amd64.buildinfo
+ 573e57777f23a124d95d80ff3c9e22d72e9795d8 407712 mx-installer_21.5.03_amd64.deb
+Checksums-Sha256:
+ a020543c5040abbdcc5199b0194d814cc5fb0e5230e81131f80f889e80bebbf4 1215 gazelle-installer_21.5.03.dsc
+ f791949783fb255a246271e8727207226378158521c285165e7595b13692f146 290360 gazelle-installer_21.5.03.tar.xz
+ f0e198c52070ef47cf1915410a1269bbd7ed2162fc3eb42294850adbe792ef70 10789 gazelle-installer_21.5.03_amd64.buildinfo
+ 6c298aa46f3ff2094a93d3cca1a2908de4923fa730b769a183e0d8372ca70dec 407712 mx-installer_21.5.03_amd64.deb
+Files:
+ 89804e520e0b0e060bfb4f1e727ab7d9 1215 system optional gazelle-installer_21.5.03.dsc
+ 1bd1a9add7efd5ccd6bd7662a0ecca57 290360 system optional gazelle-installer_21.5.03.tar.xz
+ 13a9efb0960aec397a4f01b11ede6e2e 10789 system optional gazelle-installer_21.5.03_amd64.buildinfo
+ f55147795d7381ad2a5c1365d8cb52b4 407712 system optional mx-installer_21.5.03_amd64.deb
+
+-----BEGIN PGP SIGNATURE-----
+
+iQFHBAEBCgAxFiEE8ndToY6S45N+YzXncJOMeAZ57pgFAmChLwITHGFkcmlhbkBt
+eGxpbnV4Lm9yZwAKCRBwk4x4BnnumExbCAC5V66G4jna/ja0Pw6mLrPu+SA/hh04
+ilcxy4zvrlStdZ3HpLgOIuUHT+ubhYPCh5AOIbx1waCO3shxecf+Y0iPOztRbPDr
+OTyvp1FF33GlP6zNeGPF8bUfWC377YeEn/IzEjhqtFAsEY+ESLPS7AusUinsbHdD
+hDAFfOFYv0vkK0aLHJ/XFg9Za4PEwJ2FjbBYDnNNWnyWImPl4vxWXXcmEvBt7kGV
+kozOJjWlX3/07SADRPPbVhGuiitJbPhxdWs8MNB32nHnDUv+DPCtR+go1MY3JLoN
+26OCQ8+IQAh7JelgIHxw15pelP54PPLiX2o8SPSHQlKJjIQE9uoYMqvT
+=aoxP
+-----END PGP SIGNATURE-----
