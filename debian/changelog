@@ -1,3 +1,9 @@
+gazelle-installer (21.5.04) mx; urgency=medium
+
+  * Fixed: using Buster version of lsblk
+
+ -- Adrian <adrian@mxlinux.org>  Mon, 17 May 2021 08:13:51 -0400
+
 gazelle-installer (21.5.03) mx; urgency=medium
 
   * Added support for BTRFS subvolumes.
