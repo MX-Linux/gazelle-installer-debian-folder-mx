@@ -1,0 +1,44 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+Format: 1.8
+Date: Wed, 19 May 2021 10:49:27 -0400
+Source: gazelle-installer
+Binary: mx-installer
+Architecture: i386
+Version: 21.5.06
+Distribution: mx
+Urgency: medium
+Maintainer: dolphinoracle <dolphinoracle@gmail.com>
+Changed-By: Adrian <adrian@mxlinux.org>
+Description:
+ mx-installer - Customizable GUI installer for MX Linux and antiX Linux
+Changes:
+ gazelle-installer (21.5.06) mx; urgency=medium
+ .
+   * New subvolume naming convention.
+   * Various BTRFS subvolume bug fixes.
+   * Fixed some GUI deadlocks that occur when a process fails.
+   * Various GUI and menu enhancements.
+   * FDE key material can now be specified in the configuration file.
+Checksums-Sha1:
+ da6bf95d836ffe1ea611240ddff1b095827fbe33 10482 gazelle-installer_21.5.06_i386.buildinfo
+ f78df6d7ff26bbe1ff69045e2a10f3fc7c484f12 430540 mx-installer_21.5.06_i386.deb
+Checksums-Sha256:
+ 2627ab724f42c0a584f394490812c67a844e2c7af7082e83c61016f5f46e025a 10482 gazelle-installer_21.5.06_i386.buildinfo
+ e3cb34683ca34d26014be36d830636d59aeda1e8df0779c9d35aafb2eef4807b 430540 mx-installer_21.5.06_i386.deb
+Files:
+ 2737e1759d52f6a159fd85c098629f4a 10482 system optional gazelle-installer_21.5.06_i386.buildinfo
+ 191d9864787bb71da082882cd765c123 430540 system optional mx-installer_21.5.06_i386.deb
+
+-----BEGIN PGP SIGNATURE-----
+
+iQFHBAEBCgAxFiEE8ndToY6S45N+YzXncJOMeAZ57pgFAmClJf8THGFkcmlhbkBt
+eGxpbnV4Lm9yZwAKCRBwk4x4BnnumFbEB/4i0kJrtHMNr+rJJ9p3bD8PQI31nVB2
+PZdIqX1MlGqjUilqMfavUYm1qKGqsGwNkT1cqrS70dMK9Q+l0RpOsHOvHVmKW7uj
+gGaBZfdW7TTxfONAo6BM4CGnv//Cp+x5yQ2I5kMmXkR4xsqWQEgQRw1TYbjkoKFY
+jeFiGI9oqrhH262NQDd/mRdGJiXyZIinHJeat135zdKxTvJNmKE/9xNG9oyMAuhx
+uwYgBzevN0KG9yKjUJGh2b4ddEui5Nzk+F4od15DIDpty4uSK3INDKXF1dVkCjT5
+sIgfO+SbsrSZBaW/gZalR8+L7EFtpH/QkJ0B+ssC91IAQgDqScRTRqPh
+=2/D9
+-----END PGP SIGNATURE-----
