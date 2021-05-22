@@ -1,3 +1,10 @@
+gazelle-installer (21.5.07) mx; urgency=medium
+
+  * The partition boot flag can now be specified manually.
+  * Updated partition manager documentation.
+
+ -- Adrian <adrian@mxlinux.org>  Fri, 21 May 2021 23:12:35 -0400
+
 gazelle-installer (21.5.06) mx; urgency=medium
 
   * New subvolume naming convention.
