@@ -1,0 +1,41 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+Format: 1.8
+Date: Fri, 21 May 2021 23:12:35 -0400
+Source: gazelle-installer
+Binary: mx-installer
+Architecture: i386
+Version: 21.5.07
+Distribution: mx
+Urgency: medium
+Maintainer: dolphinoracle <dolphinoracle@gmail.com>
+Changed-By: Adrian <adrian@mxlinux.org>
+Description:
+ mx-installer - Customizable GUI installer for MX Linux and antiX Linux
+Changes:
+ gazelle-installer (21.5.07) mx; urgency=medium
+ .
+   * The partition boot flag can now be specified manually.
+   * Updated partition manager documentation.
+Checksums-Sha1:
+ 663e34da6013e8dce71d65e1a2c72b7fe225f459 10482 gazelle-installer_21.5.07_i386.buildinfo
+ 43d535dd85275827b190e9280a38f55361d020fe 432628 mx-installer_21.5.07_i386.deb
+Checksums-Sha256:
+ 1c330704256d23bc39a76f9ed601f7dbc232c8a00bcee484ac71b91523d686c8 10482 gazelle-installer_21.5.07_i386.buildinfo
+ eaba33b5bcd3a4cdde86605ba188b7c7a3c16aee0288b640ede68c2f1140a894 432628 mx-installer_21.5.07_i386.deb
+Files:
+ f61007d2cc24e7822d76d64170dd47de 10482 system optional gazelle-installer_21.5.07_i386.buildinfo
+ 2e8581cf47d0d88979f79fd3d33e266b 432628 system optional mx-installer_21.5.07_i386.deb
+
+-----BEGIN PGP SIGNATURE-----
+
+iQFHBAEBCgAxFiEE8ndToY6S45N+YzXncJOMeAZ57pgFAmCod0kTHGFkcmlhbkBt
+eGxpbnV4Lm9yZwAKCRBwk4x4BnnumJzbCACaR40LIlD0pdCRZmGJ0RUWz+wyihQG
+0XnyERd7v6oHOvsuashKf6Sf4mEICRPVKcBOa8gOAqUqFfKAdB1J1Zx/hbThNMWm
+Dmtl14Fye4IDhBdkiUtyuK+ob4J7nY8jMz4lQNIKfQ7Ehq4l7BHnS2sS9eIUFOin
+N9kORqcj1umCGc67ZRF/AD2t3HDeaUWmzR6SEXLO9Aq6Spq287LKU0rL8vj263fJ
+921qCP95jCREVpOPv8Z0q0Vx+BC6TQWJi1g4OflXW1Xf917J8R9tQl1j/+I/JVV8
+UXtsrl0iNdRlnEUBI+ZSr9Pgxs/oV5LibIjpJC7jCKE6mKHe2/IxI28u
+=z1au
+-----END PGP SIGNATURE-----
