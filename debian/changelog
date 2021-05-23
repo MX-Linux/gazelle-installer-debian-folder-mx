@@ -1,3 +1,17 @@
+gazelle-installer (21.5.08) mx; urgency=medium
+
+  * Reduced process spawning to obtain GPT vs MBR info.
+  * Improved overall progress bar accuracy and range.
+  * Fixed: progress bar not updating when copying to Btrfs partition.
+  * Make BIOS-GRUB partition selection work again.
+  * Overwrite a new BIOS-GRUB partition with zeros before using it.
+  * Fixed: subvolumes are not shown in confirmation messages.
+  * Simplified partition table clearing routine.
+  * Preserve home partition by default if selected and possible.
+  * Various other fixes and improvements.
+ 
+ -- Adrian <adrian@mxlinux.org>  Sun, 23 May 2021 09:16:17 -0400
+
 gazelle-installer (21.5.07) mx; urgency=medium
 
   * The partition boot flag can now be specified manually.
