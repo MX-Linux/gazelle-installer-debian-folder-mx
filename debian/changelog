@@ -1,3 +1,17 @@
+gazelle-installer (21.6) mx; urgency=medium
+
+  * Fixed: slider value can change when the desktop theme changes.
+  * Prevent the slider from setting an undersized home partition.
+  * Be generous with recommended root size.
+  * Simplified handling of Samba daemons.
+  * Fixed subvolume label validation for special characters.
+  * Fixed: no subvolume validation for non-mount subvolumes.
+  * Slider now defaults to 100% (home in root) regardless of drive size.
+  * Fixed: cannot add partitions to a drive with zero partitions.
+  * New partitions no longer default to the maximum possible size.
+
+ -- Adrian <adrian@mxlinux.org>  Sat, 12 Jun 2021 08:33:07 -0400
+
 gazelle-installer (21.5.08) mx; urgency=medium
 
   * Reduced process spawning to obtain GPT vs MBR info.
