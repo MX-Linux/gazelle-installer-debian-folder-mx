@@ -1,3 +1,10 @@
+gazelle-installer (21.6.01) mx; urgency=medium
+
+  * Improved slider and partition management help text.
+  * Reflect the effect of 100% in the slider tool tip. 
+
+ -- Adrian <adrian@mxlinux.org>  Sun, 13 Jun 2021 00:37:14 -0400
+
 gazelle-installer (21.6) mx; urgency=medium
 
   * Fixed: slider value can change when the desktop theme changes.
