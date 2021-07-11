@@ -1,0 +1,40 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+Format: 1.8
+Date: Sat, 10 Jul 2021 21:39:46 -0400
+Source: gazelle-installer
+Binary: mx-installer
+Architecture: i386
+Version: 21.7
+Distribution: mx
+Urgency: medium
+Maintainer: dolphinoracle <dolphinoracle@gmail.com>
+Changed-By: Adrian <adrian@mxlinux.org>
+Description:
+ mx-installer - Customizable GUI installer for MX Linux and antiX Linux
+Changes:
+ gazelle-installer (21.7) mx; urgency=medium
+ .
+   * Build for Bullseye
+Checksums-Sha1:
+ 5886b9db5dca40d430436f039b0ee63c34664e49 9665 gazelle-installer_21.7_i386.buildinfo
+ 5205e022a357431865edbccc43dc3b6d6f95be5e 438500 mx-installer_21.7_i386.deb
+Checksums-Sha256:
+ d4223df42e14c03d63bce0d7d3f1cf4eb85f585ae503d705619047e793edddea 9665 gazelle-installer_21.7_i386.buildinfo
+ 6490a924ca915dff985d910b86b2ff87278d3463bd3948a72c73a824797fb0ab 438500 mx-installer_21.7_i386.deb
+Files:
+ ef6a0940f172483c9dd52a2891d2ec4f 9665 system optional gazelle-installer_21.7_i386.buildinfo
+ 717f70e99820cc1f507e78ecf5e5a2fd 438500 system optional mx-installer_21.7_i386.deb
+
+-----BEGIN PGP SIGNATURE-----
+
+iQFHBAEBCgAxFiEE8ndToY6S45N+YzXncJOMeAZ57pgFAmDqTJkTHGFkcmlhbkBt
+eGxpbnV4Lm9yZwAKCRBwk4x4BnnumGMuB/4ootCBgZ3aPEm/sp1JumeyIXQGyoj+
+zSrQPZ4qNxgTL9m7fHqvQ6/4FRhYwdT6i5SjgSH0gwuHiUH/wNqi4pdmZoUNTdKg
+t5e7HhwIFT+VzNnfWuLcqI/e4Kean44ss/tutm3v36IzPAy3457sC9zhFp4StvIz
+SjMk5WhBWkxNhWJSuN5jnTqk0lvWB0I6VVBMgcP110JAU5Rn0qgz7tKXwSBlUssb
+Xj2Iidf9ZztUEk3wnwLgpBynO5NiPPkjPSfirA7rzROMzBnXEdLWwh5HYGIDYHmG
+jrp2XwKbnb+uUhKIWmhUu1n8ukM7Gj29XhnRxpSLjGE97XC9EA/UzzXP
+=AfjZ
+-----END PGP SIGNATURE-----

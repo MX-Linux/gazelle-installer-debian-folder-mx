@@ -1,0 +1,46 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+Format: 1.8
+Date: Sat, 10 Jul 2021 21:39:46 -0400
+Source: gazelle-installer
+Binary: mx-installer
+Architecture: source amd64
+Version: 21.7
+Distribution: mx
+Urgency: medium
+Maintainer: dolphinoracle <dolphinoracle@gmail.com>
+Changed-By: Adrian <adrian@mxlinux.org>
+Description:
+ mx-installer - Customizable GUI installer for MX Linux and antiX Linux
+Changes:
+ gazelle-installer (21.7) mx; urgency=medium
+ .
+   * Build for Bullseye
+Checksums-Sha1:
+ 9337ecb08b2eb37ab5ef176c90f576c6067c6b2e 1203 gazelle-installer_21.7.dsc
+ 6384c65776213c33210d8fce7dfafd7ae331680f 288192 gazelle-installer_21.7.tar.xz
+ 16d0653d84b95190c28e94dd549edcb2aa7b455c 9968 gazelle-installer_21.7_amd64.buildinfo
+ 1fb85658b56a6242c67c6310140f06ba8f15c051 421748 mx-installer_21.7_amd64.deb
+Checksums-Sha256:
+ ac7ac35bc3cb59f9194d6f07cee00fd4fe1a67a249161be9e6b25247cfc621fc 1203 gazelle-installer_21.7.dsc
+ 838f6f30b10e7053b3fc8872707f925cb0760d4e16528a673870d6717e0f0046 288192 gazelle-installer_21.7.tar.xz
+ 17867af07450bddf94a4420ff1d670e188fddded6346f515bfc2f2e357a09602 9968 gazelle-installer_21.7_amd64.buildinfo
+ d5ea8221b91fc9ad4aa4992f3c9b14c35e8cac80353e89bad968042e6c9aa528 421748 mx-installer_21.7_amd64.deb
+Files:
+ 8284228adbee76dbed08e9feb2aeca46 1203 system optional gazelle-installer_21.7.dsc
+ 559a1f799bc49da72d9ad7caa5a62f82 288192 system optional gazelle-installer_21.7.tar.xz
+ fe81a98e63c39b89dd248ed2d80b7429 9968 system optional gazelle-installer_21.7_amd64.buildinfo
+ cae9f39c7a940042e46005d622003644 421748 system optional mx-installer_21.7_amd64.deb
+
+-----BEGIN PGP SIGNATURE-----
+
+iQFHBAEBCgAxFiEE8ndToY6S45N+YzXncJOMeAZ57pgFAmDqTJkTHGFkcmlhbkBt
+eGxpbnV4Lm9yZwAKCRBwk4x4BnnumLavB/98kamF3Ziv5zlszcdreVqltBWTcDmg
+6GXmwJFUuo2K/sxnk8fFrXwlGLsCJQ8YNCNCyvHcimrSkoNJ2RByIiVVFxwhu+9s
+0XB9eTxC9wi1Vj87d/cHWXSuIZRMMqtSnzCW+4zQ/Eh+UTxLtsF1ztPB/Q3ShG1Q
+ipVW82Ko1lPvAlb5vcf0npbkn2ktj+9LpcsY+nzkFQam5C3F0fcJhmrwalM+YZ8Z
+lKYksyEQ8ByhNXFG0hMmWeKkT57pfwnPfi2egAhC6qtmjouLi2v3Q6VHzodabdi+
+NU1/nr9cmTeMHlfsb7RDDiM9Xs+eIxl3bYAMKhe2KlJ1IsYi/aWxDBnx
+=jyQn
+-----END PGP SIGNATURE-----
