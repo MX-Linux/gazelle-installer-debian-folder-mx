@@ -1,3 +1,6 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
 Format: 1.8
 Date: Wed, 14 Jul 2021 10:05:29 -0400
 Source: gazelle-installer
@@ -15,17 +18,29 @@ Changes:
  .
    * Fixed: stale layout selections used for entire-disk install.
 Checksums-Sha1:
- 39179a9a59de7f56f4f9358718ee7cf02f002d72 653 gazelle-installer_21.7.01.dsc
- d3effaf20447acad39329b4b247ad0e215114918 288360 gazelle-installer_21.7.01.tar.xz
- cef644e276370fa01fafca03242e5c9c92dccba2 9427 gazelle-installer_21.7.01_amd64.buildinfo
- 6309e92cf51dd49db42e7d8283a35a56ea833c37 422148 mx-installer_21.7.01_amd64.deb
+ dcac34deaeaad0988c13e7d4f7be0e91b91da5ec 1215 gazelle-installer_21.7.01.dsc
+ 6ebabe913828211707305982c5aff3abd954e4f3 288980 gazelle-installer_21.7.01.tar.xz
+ b9a37e8d0f6ffcb0a3f5e8e7b7a35ca29b1ddb5a 10789 gazelle-installer_21.7.01_amd64.buildinfo
+ 6b31b828abc964608fc13f68b74eba9118a7e423 417128 mx-installer_21.7.01_amd64.deb
 Checksums-Sha256:
- 3ac7dee464097835cc961bfc43a3c3435a25e56953336193d1887c218fced3f0 653 gazelle-installer_21.7.01.dsc
- 0ef35492703df9596b5d1e89d338ca06f5b6854933d24ab272d7b39c99b85173 288360 gazelle-installer_21.7.01.tar.xz
- 4ec424ce4d5fed85706938665bd887e8e7ef840ed35769a4603fd3dc84d84816 9427 gazelle-installer_21.7.01_amd64.buildinfo
- b2295e578039a1b78d87ac343d42b5d20a5d7cf575f055a44d57bd4519ca44b8 422148 mx-installer_21.7.01_amd64.deb
+ 02716297a67780192e27bde270ebcc06beb70c1a802955ea7683fd6b45dc768a 1215 gazelle-installer_21.7.01.dsc
+ f67742e981b90632e584d9ee10f5e56f88f1272e86158ee6efb7f25a9c781b21 288980 gazelle-installer_21.7.01.tar.xz
+ b9202b0d3c1639e6141f95da1ef755aea9cb81b505d96e5b3f5c0e8681f25c49 10789 gazelle-installer_21.7.01_amd64.buildinfo
+ aa74753bec92a69be0ce62aece48189648fdf1fc7315e6b7d8bca548f1da074e 417128 mx-installer_21.7.01_amd64.deb
 Files:
- b492f61ff7cf737d5e298431e16fdccb 653 system optional gazelle-installer_21.7.01.dsc
- 5265df34c67185cdea0304e626c98b19 288360 system optional gazelle-installer_21.7.01.tar.xz
- 8f22da0406cd15d19ced2deb887b9494 9427 system optional gazelle-installer_21.7.01_amd64.buildinfo
- b976fc149075d42ca82802933f839f7a 422148 system optional mx-installer_21.7.01_amd64.deb
+ 4e4a6ce92c8eef8f1e267eb231a021b1 1215 system optional gazelle-installer_21.7.01.dsc
+ 9c620e40a8c3e82867a531deec11e906 288980 system optional gazelle-installer_21.7.01.tar.xz
+ 66cf609bbdb56b25bc23e71ed4e4ec73 10789 system optional gazelle-installer_21.7.01_amd64.buildinfo
+ 09fa820187ba2e070562c7c2479aaf65 417128 system optional mx-installer_21.7.01_amd64.deb
+
+-----BEGIN PGP SIGNATURE-----
+
+iQFHBAEBCgAxFiEE8ndToY6S45N+YzXncJOMeAZ57pgFAmDvAckTHGFkcmlhbkBt
+eGxpbnV4Lm9yZwAKCRBwk4x4BnnumCrzCACib7/HEJ6Os9MMogLLn0JF/TMBuU/w
+CWtbXOotznLb4AxtxB4RFkaHwojhxNc2PTqVNJhrT1bPzwh40Klz223DsV3lDvmN
+6ZDLDquu9BBKvmI6PYHvpJ91LpQ7kFxLBy6FwahMV2O8k5B/5mjcBboqulwsDOen
+MlKP1d68j0FJ5TSQWfAA6JOp3pjGil7fd6ejaHcNEz16DPbC437JZL1JXOr2GdRh
+cLKUxHduOIJcPQYc+RKuk6c9YxWa9mFKWp1mpQIrxhCRWUVU1P0be7ZrCnj6bhDC
+1c24ASoKFw/mt9YH7vdxFp1Qs/8f6W11cciJEEuttr8/3//tmAtbrbfK
+=al3/
+-----END PGP SIGNATURE-----

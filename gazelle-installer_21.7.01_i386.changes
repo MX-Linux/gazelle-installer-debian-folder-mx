@@ -1,3 +1,6 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
 Format: 1.8
 Date: Wed, 14 Jul 2021 10:05:29 -0400
 Source: gazelle-installer
@@ -15,11 +18,23 @@ Changes:
  .
    * Fixed: stale layout selections used for entire-disk install.
 Checksums-Sha1:
- 5232535d6cbb2122f936d53e23e1cc330a964d35 9118 gazelle-installer_21.7.01_i386.buildinfo
- 2045d3d526f7584f981b404d69d37d38bc41b64e 438708 mx-installer_21.7.01_i386.deb
+ 79b03e3819567c602ecf155ca90ecd895eb51742 10562 gazelle-installer_21.7.01_i386.buildinfo
+ 9b4281e0740cd4df2d9f46984fff9193ec4e4390 433352 mx-installer_21.7.01_i386.deb
 Checksums-Sha256:
- 74234a1593a4db0f269af69b4c8a371e870513551d16775924ca743dce38a2c4 9118 gazelle-installer_21.7.01_i386.buildinfo
- 15cb9ee02c6cc30a926c9dcb97870669ca29c77485d7cc8b2a0e602b8f9cea92 438708 mx-installer_21.7.01_i386.deb
+ cd0e525d9429f90aecdfc9da4775e766d5a13292d21aee62762720c8e53fc673 10562 gazelle-installer_21.7.01_i386.buildinfo
+ e8886da7d85416c8ff00507d892818435bc5fc6345ec8572cb2d258246e68129 433352 mx-installer_21.7.01_i386.deb
 Files:
- 88a23c0d4ca0dfa02d89ddfbd5b644e0 9118 system optional gazelle-installer_21.7.01_i386.buildinfo
- 9c27d79250799326bcf347bad12ce87f 438708 system optional mx-installer_21.7.01_i386.deb
+ 255f837cd3e066c93119b57a03eb837b 10562 system optional gazelle-installer_21.7.01_i386.buildinfo
+ 885eb4ce7fdd1e4a8a8ad82e87727ea9 433352 system optional mx-installer_21.7.01_i386.deb
+
+-----BEGIN PGP SIGNATURE-----
+
+iQFHBAEBCgAxFiEE8ndToY6S45N+YzXncJOMeAZ57pgFAmDvAcoTHGFkcmlhbkBt
+eGxpbnV4Lm9yZwAKCRBwk4x4BnnumMXPCACIrb9Xsubk0gTQyxaHOBRu64JHTdlD
+OoGCIQ99qs+22iXvApj2iETu1Ky6pvkQafe+wdb6Xd+DJnvEnbXG6FTtnqIr/AVj
+fWEwBK1SH4odqo0ztPXh4zRienRm8Uj1Ausy/e6h9RDud1MjjoG/XIWtEP5GAtXC
+Vi2NMMQg8EIX2NrRp4WQWGaUjaLEeQKhAo+rZ1dKWK/7odRiGAgPCWmYWE+9omKl
+jxOZaW0QjuKknjPJX65FlkNbUJwsPJjyP2hwJTP2WZJrYWWX+/gxG3oFPlTCfgwt
+IQd9F+Xe0sfNYSsa4yhZOzqUJDBsS+eulha++AMsWP5TLgL4NVizli2Y
+=1uCg
+-----END PGP SIGNATURE-----
