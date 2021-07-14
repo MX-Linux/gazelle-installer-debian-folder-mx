@@ -4,12 +4,6 @@ gazelle-installer (21.7.01) mx; urgency=medium
 
  -- Adrian <adrian@mxlinux.org>  Wed, 14 Jul 2021 10:05:29 -0400
 
-gazelle-installer (21.7) mx; urgency=medium
-
-  * Build for Bullseye
-
- -- Adrian <adrian@mxlinux.org>  Sat, 10 Jul 2021 21:39:46 -0400
-
 gazelle-installer (21.6.01) mx; urgency=medium
 
   * Improved slider and partition management help text.
