@@ -1,4 +1,4 @@
-gazelle-installer (21.7.01) mx; urgency=medium
+gazelle-installer (21.7.01mx19) mx; urgency=medium
 
   * Fixed: stale layout selections used for entire-disk install. 
 
