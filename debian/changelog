@@ -1,3 +1,10 @@
+gazelle-installer (21.7.02mx19) mx; urgency=medium
+
+  * Fixed: ESP flag was removed from pre-selected EFI System Partition.
+  * Fixed: bad command for new EFI System Partition on MBR disk.
+
+ -- Adrian <adrian@mxlinux.org>  Thu, 15 Jul 2021 09:31:30 -0400
+
 gazelle-installer (21.7.01mx19) mx; urgency=medium
 
   * Fixed: stale layout selections used for entire-disk install. 
