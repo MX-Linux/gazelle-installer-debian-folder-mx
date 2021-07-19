@@ -1,3 +1,10 @@
+gazelle-installer (21.7.03) mx; urgency=medium
+
+  * New LUKS volumes now work better on Advanced Format drives.
+  * New settings so LUKS can be set up on low-memory systems, with lower security.
+
+ -- Adrian <adrian@mxlinux.org>  Sun, 18 Jul 2021 18:08:38 -0400
+
 gazelle-installer (21.7.02) mx; urgency=medium
 
   * Fixed: ESP flag was removed from pre-selected EFI System Partition.
