@@ -1,0 +1,26 @@
+Format: 1.8
+Date: Sun, 18 Jul 2021 18:08:38 -0400
+Source: gazelle-installer
+Binary: mx-installer
+Architecture: i386
+Version: 21.7.03
+Distribution: mx
+Urgency: medium
+Maintainer: dolphinoracle <dolphinoracle@gmail.com>
+Changed-By: Adrian <adrian@mxlinux.org>
+Description:
+ mx-installer - Customizable GUI installer for MX Linux and antiX Linux
+Changes:
+ gazelle-installer (21.7.03) mx; urgency=medium
+ .
+   * New LUKS volumes now work better on Advanced Format drives.
+   * New settings so LUKS can be set up on low-memory systems, with lower security.
+Checksums-Sha1:
+ b05ecabbd72538458e6186a44f75ad45fc5c5bcb 9118 gazelle-installer_21.7.03_i386.buildinfo
+ 7d7e645989a10c1309fa2331280eb019e8aae4f1 441088 mx-installer_21.7.03_i386.deb
+Checksums-Sha256:
+ a6b6d8f70952e5dbcaceafb11a86e984fe6036a741a6dfe392c70110553f4416 9118 gazelle-installer_21.7.03_i386.buildinfo
+ e44b07e8ca030a7b0ed53a56a770c0fffccf70b305a343415e9fc6229daa616d 441088 mx-installer_21.7.03_i386.deb
+Files:
+ 411abe590e03ac9dd82571f20344f4ea 9118 system optional gazelle-installer_21.7.03_i386.buildinfo
+ 4533b3879a1884667dcd91f832265652 441088 system optional mx-installer_21.7.03_i386.deb
