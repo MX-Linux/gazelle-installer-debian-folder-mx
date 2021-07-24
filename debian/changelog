@@ -1,3 +1,10 @@
+gazelle-installer (21.7.04mx19) mx; urgency=medium
+
+  * Advanced Encryption Settings is now disabled while its future is being reviewed.
+  * Log the failUI() message box.
+
+ -- Adrian <adrian@mxlinux.org>  Sat, 24 Jul 2021 18:26:44 -0400
+
 gazelle-installer (21.7.02mx19) mx; urgency=medium
 
   * Fixed: ESP flag was removed from pre-selected EFI System Partition.

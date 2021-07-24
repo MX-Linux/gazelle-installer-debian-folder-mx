@@ -1,0 +1,47 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+Format: 1.8
+Date: Sat, 24 Jul 2021 18:26:44 -0400
+Source: gazelle-installer
+Binary: mx-installer
+Architecture: source amd64
+Version: 21.7.04mx19
+Distribution: mx
+Urgency: medium
+Maintainer: dolphinoracle <dolphinoracle@gmail.com>
+Changed-By: Adrian <adrian@mxlinux.org>
+Description:
+ mx-installer - Customizable GUI installer for MX Linux and antiX Linux
+Changes:
+ gazelle-installer (21.7.04mx19) mx; urgency=medium
+ .
+   * Advanced Encryption Settings is now disabled while its future is being reviewed.
+   * Log the failUI() message box.
+Checksums-Sha1:
+ d7853423b8a58c8ec5cf019e5fd5d13ca807722d 1231 gazelle-installer_21.7.04mx19.dsc
+ d71497bc33290ed7dba007b269e924bab7732ad2 289088 gazelle-installer_21.7.04mx19.tar.xz
+ faf55a14c93d26a878b543f1c4dc5d2f5cd8d773 10821 gazelle-installer_21.7.04mx19_amd64.buildinfo
+ 4f8f99ca7eacc4ff568f36aed1031d65aedc067c 417464 mx-installer_21.7.04mx19_amd64.deb
+Checksums-Sha256:
+ 50382d38a58cb57f909ae3c7d829b292f3239dbff3e863f403f449a114e16683 1231 gazelle-installer_21.7.04mx19.dsc
+ 7a7da5dfc8cfa6597086b9bf47b8c39e5539636a5f3c2565825e75b7e343500f 289088 gazelle-installer_21.7.04mx19.tar.xz
+ 060dacd2361edec17e58b3a6e24410fdc26c036aea9e1a00db56af630acf11a0 10821 gazelle-installer_21.7.04mx19_amd64.buildinfo
+ 9d9e02264a75b14911b7cd40b672858222584fe8a8617c52a2bb14573ca65aa1 417464 mx-installer_21.7.04mx19_amd64.deb
+Files:
+ 56377ccf5ce455f599305920c059354b 1231 system optional gazelle-installer_21.7.04mx19.dsc
+ 9a4f5a9cd3fa06c0d033f359d66bd025 289088 system optional gazelle-installer_21.7.04mx19.tar.xz
+ 787a65e75caa823b930969e4325ad531 10821 system optional gazelle-installer_21.7.04mx19_amd64.buildinfo
+ 013df2f2cc304c6a9dc22f941a61d5c4 417464 system optional mx-installer_21.7.04mx19_amd64.deb
+
+-----BEGIN PGP SIGNATURE-----
+
+iQFHBAEBCgAxFiEE8ndToY6S45N+YzXncJOMeAZ57pgFAmD8lCsTHGFkcmlhbkBt
+eGxpbnV4Lm9yZwAKCRBwk4x4BnnumOmBB/sE3X3ze/qaHSTv7YeVtVy7dfotfPTp
+P9a5ZWg9clax1ZOA+3402h7cqVXxgXj9vGWkSjfA1h7Y/XG3JLxx6ZehIW435lmA
+E5ko1k6S+j8KZn/+nYBnt5cPnf2LP2psHaQjkMNv2m3XQTlvvGa9PSKIcW9l0fQO
+dzo7UAlWrIOQ5wgLFHMFZ9rPZaJ6XE0sKpVgf63mYCyXtrMHGBJRb6DckvF15P47
+Tt9RXxgPFh2vRNquFs6GDYByZgUqos8wA6trlnCTGEJaDRVvCR/YUudO8gJpyhRd
+0rCC4hn1WykZHoJ5w25v3mDcsKmuNE3av23jIOc6VegWUMMqN607ZX6Z
+=BTfO
+-----END PGP SIGNATURE-----

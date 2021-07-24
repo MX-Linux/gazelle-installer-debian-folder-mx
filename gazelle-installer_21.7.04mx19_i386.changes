@@ -1,0 +1,41 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+Format: 1.8
+Date: Sat, 24 Jul 2021 18:26:44 -0400
+Source: gazelle-installer
+Binary: mx-installer
+Architecture: i386
+Version: 21.7.04mx19
+Distribution: mx
+Urgency: medium
+Maintainer: dolphinoracle <dolphinoracle@gmail.com>
+Changed-By: Adrian <adrian@mxlinux.org>
+Description:
+ mx-installer - Customizable GUI installer for MX Linux and antiX Linux
+Changes:
+ gazelle-installer (21.7.04mx19) mx; urgency=medium
+ .
+   * Advanced Encryption Settings is now disabled while its future is being reviewed.
+   * Log the failUI() message box.
+Checksums-Sha1:
+ 3b5e8b1c958d4e70315e51cb182829df92601b7e 10582 gazelle-installer_21.7.04mx19_i386.buildinfo
+ 6f4be2f837f1699ee2e15ffc00ac04e0b98d8418 433372 mx-installer_21.7.04mx19_i386.deb
+Checksums-Sha256:
+ da2e320133ade33c706025a74f2a79b96cb8b680b13c77d6efad8ebdfaf5350a 10582 gazelle-installer_21.7.04mx19_i386.buildinfo
+ 896bf0f6db73770d182df289c7f8c3852281802cd4e248ce9cab855b8d757a75 433372 mx-installer_21.7.04mx19_i386.deb
+Files:
+ 394a88f580598b7c61d41261b6d438cb 10582 system optional gazelle-installer_21.7.04mx19_i386.buildinfo
+ 46b796855ea9c56242ae6b9838d041e9 433372 system optional mx-installer_21.7.04mx19_i386.deb
+
+-----BEGIN PGP SIGNATURE-----
+
+iQFHBAEBCgAxFiEE8ndToY6S45N+YzXncJOMeAZ57pgFAmD8lCsTHGFkcmlhbkBt
+eGxpbnV4Lm9yZwAKCRBwk4x4BnnumBmqCACmU+dFQuBmXEVKUHxkaG5CBeZ95ZFG
+8HPgmToK6VkOGoB1OHNq0gVwG6mPV5Am64uOcNyR6J3/Z5AMNoUb1WUTjyvLJm2P
++HgykZgx4Wcyk8P2FoKQz1xc7wBlh9pfs3Pl/40SmxQ7IJzALimhAGqoeUh6s8yP
+CvPhp+D3U2rT0QvAzeCKQEJ5JbLDLdqvnXqBTMQij7B1uSM59GyCil5Ox6a3cKKr
+cPYdRFEbb293ShTtwhddaCRXwOIGCDHxr5V0YO5fsUvr18PfXLqKnBVtVxeMhSc9
+gFqFhXmgDa2+rIw/kkKO38CB8fj+QeJs9qveXUIpNp62LVtp9Q5bJ76w
+=KlyI
+-----END PGP SIGNATURE-----
