@@ -1,3 +1,10 @@
+gazelle-installer (21.7.04) mx; urgency=medium
+
+  * Advanced Encryption Settings is now disabled while its future is being reviewed.
+  * Log the failUI() message box.
+
+ -- Adrian <adrian@mxlinux.org>  Sat, 24 Jul 2021 18:23:17 -0400
+
 gazelle-installer (21.7.03) mx; urgency=medium
 
   * New LUKS volumes now work better on Advanced Format drives.
