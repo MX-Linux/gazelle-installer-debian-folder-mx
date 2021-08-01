@@ -2,7 +2,7 @@
 Hash: SHA512
 
 Format: 1.8
-Date: Sat, 24 Jul 2021 18:26:44 -0400
+Date: Sat, 31 Jul 2021 23:22:39 -0400
 Source: gazelle-installer
 Binary: mx-installer
 Architecture: i386
@@ -16,26 +16,27 @@ Description:
 Changes:
  gazelle-installer (21.7.04mx19) mx; urgency=medium
  .
-   * Advanced Encryption Settings is now disabled while its future is being reviewed.
-   * Log the failUI() message box.
+   * Removed all Advanced Encryption Settings code.
+   * Fixed: "Preserve /home" and "Preserve" text out of sync.
+   * Disable label fields on partitions that are being preserved.
 Checksums-Sha1:
- 3b5e8b1c958d4e70315e51cb182829df92601b7e 10582 gazelle-installer_21.7.04mx19_i386.buildinfo
- 6f4be2f837f1699ee2e15ffc00ac04e0b98d8418 433372 mx-installer_21.7.04mx19_i386.deb
+ 665f65a12d0bbcdbac26a4cbbc155596e779af5f 10582 gazelle-installer_21.7.04mx19_i386.buildinfo
+ c71fd6fd5e5083a01d1e6792599b587927a91f22 423200 mx-installer_21.7.04mx19_i386.deb
 Checksums-Sha256:
- da2e320133ade33c706025a74f2a79b96cb8b680b13c77d6efad8ebdfaf5350a 10582 gazelle-installer_21.7.04mx19_i386.buildinfo
- 896bf0f6db73770d182df289c7f8c3852281802cd4e248ce9cab855b8d757a75 433372 mx-installer_21.7.04mx19_i386.deb
+ be86feaccf84e09f5a59a5c05ef3d66499ceafc85cf54b19851b919f388296ac 10582 gazelle-installer_21.7.04mx19_i386.buildinfo
+ 274f9289b53f755aacca2e05d4ee3f287f898055d70df7b0ff1928b8b5ce84eb 423200 mx-installer_21.7.04mx19_i386.deb
 Files:
- 394a88f580598b7c61d41261b6d438cb 10582 system optional gazelle-installer_21.7.04mx19_i386.buildinfo
- 46b796855ea9c56242ae6b9838d041e9 433372 system optional mx-installer_21.7.04mx19_i386.deb
+ 17cad66146f37269ecc0f577d4b00975 10582 system optional gazelle-installer_21.7.04mx19_i386.buildinfo
+ 8654b6470a3ef826b348ebf5cfe0f4c2 423200 system optional mx-installer_21.7.04mx19_i386.deb
 
 -----BEGIN PGP SIGNATURE-----
 
-iQFHBAEBCgAxFiEE8ndToY6S45N+YzXncJOMeAZ57pgFAmD8lCsTHGFkcmlhbkBt
-eGxpbnV4Lm9yZwAKCRBwk4x4BnnumBmqCACmU+dFQuBmXEVKUHxkaG5CBeZ95ZFG
-8HPgmToK6VkOGoB1OHNq0gVwG6mPV5Am64uOcNyR6J3/Z5AMNoUb1WUTjyvLJm2P
-+HgykZgx4Wcyk8P2FoKQz1xc7wBlh9pfs3Pl/40SmxQ7IJzALimhAGqoeUh6s8yP
-CvPhp+D3U2rT0QvAzeCKQEJ5JbLDLdqvnXqBTMQij7B1uSM59GyCil5Ox6a3cKKr
-cPYdRFEbb293ShTtwhddaCRXwOIGCDHxr5V0YO5fsUvr18PfXLqKnBVtVxeMhSc9
-gFqFhXmgDa2+rIw/kkKO38CB8fj+QeJs9qveXUIpNp62LVtp9Q5bJ76w
-=KlyI
+iQFHBAEBCgAxFiEE8ndToY6S45N+YzXncJOMeAZ57pgFAmEGFBsTHGFkcmlhbkBt
+eGxpbnV4Lm9yZwAKCRBwk4x4BnnumCOjB/0TtEaSMGHCSnNVZz6c0Quy3bC1jzHD
+GzBfE4DvOEYPkfEEuqx1jg+QpBB4bhu2rWdWhqsCpfT2zI93ObkZ9VtrlTMztkLW
+7FAGPaDMjP7uJJWbqvV9vNC0UsSbkB0e1w0UhHV4VFyvUcXMu+19m8Vr/n7IeN+S
+uYOist9IMAQHb67t0UiA94ThRUvFnAa1ssrd8eHx3FYJ3hfT7pB9Sl9dipCz4hyl
+uxAuyxpkuJEyPmPz95SmnnDZ9tHOYskAnD9crkMF93+K72p8ZIkDpBbu0nUhuLke
+LB21WKqvsojvMS3qN6KJ6diCya+Ehtx8KjHZPCVIgfq6s6uIiyDrh+r2
+=OkSn
 -----END PGP SIGNATURE-----
