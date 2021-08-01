@@ -1,4 +1,4 @@
-gazelle-installer (21.7.04mx19) mx; urgency=medium
+gazelle-installer (21.7.05mx19) mx; urgency=medium
 
   * Removed all Advanced Encryption Settings code.
   * Fixed: "Preserve /home" and "Preserve" text out of sync.
