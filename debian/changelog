@@ -1,3 +1,11 @@
+gazelle-installer (21.7.05) mx; urgency=medium
+
+  * Removed all Advanced Encryption Settings code.
+  * Fixed: "Preserve /home" and "Preserve" text out of sync.
+  * Disable label fields on partitions that are being preserved.
+
+ -- Adrian <adrian@mxlinux.org>  Sat, 31 Jul 2021 23:30:55 -0400
+
 gazelle-installer (21.7.04) mx; urgency=medium
 
   * Advanced Encryption Settings is now disabled while its future is being reviewed.
