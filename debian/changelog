@@ -1,3 +1,11 @@
+gazelle-installer (21.8mx19) mx; urgency=medium
+
+  * Improved duplicate process check using a lock file.
+  * Enhanced password revealer.
+  * Process lock covers more of the execution. 
+
+ -- Adrian <adrian@mxlinux.org>  Sat, 07 Aug 2021 18:48:53 -0400
+
 gazelle-installer (21.7.05mx19) mx; urgency=medium
 
   * Removed all Advanced Encryption Settings code.

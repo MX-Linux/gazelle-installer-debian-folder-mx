@@ -1,0 +1,42 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+Format: 1.8
+Date: Sat, 07 Aug 2021 18:48:53 -0400
+Source: gazelle-installer
+Binary: mx-installer
+Architecture: i386
+Version: 21.8mx19
+Distribution: mx
+Urgency: medium
+Maintainer: dolphinoracle <dolphinoracle@gmail.com>
+Changed-By: Adrian <adrian@mxlinux.org>
+Description:
+ mx-installer - Customizable GUI installer for MX Linux and antiX Linux
+Changes:
+ gazelle-installer (21.8mx19) mx; urgency=medium
+ .
+   * Improved duplicate process check using a lock file.
+   * Enhanced password revealer.
+   * Process lock covers more of the execution.
+Checksums-Sha1:
+ e55486248a9ff4969fc29b609031c101bea84b63 10567 gazelle-installer_21.8mx19_i386.buildinfo
+ 01d7e564d07c70034a8163e5c2e9a406c88ef2d4 423740 mx-installer_21.8mx19_i386.deb
+Checksums-Sha256:
+ 9d8593d67e81c9e9c594b435369f9420f5b5a699466f7ffac3ccae88ba3f4bc4 10567 gazelle-installer_21.8mx19_i386.buildinfo
+ 40226cd8928810caa231abdccfb062a6bf974e7dd8fed4f25f68ffd2271b561f 423740 mx-installer_21.8mx19_i386.deb
+Files:
+ 72970e12402bd3b54a44f5f9d869a44e 10567 system optional gazelle-installer_21.8mx19_i386.buildinfo
+ 3f3c6432b8e72d38fe21d9c0f425a3ea 423740 system optional mx-installer_21.8mx19_i386.deb
+
+-----BEGIN PGP SIGNATURE-----
+
+iQFHBAEBCgAxFiEE8ndToY6S45N+YzXncJOMeAZ57pgFAmEPDmETHGFkcmlhbkBt
+eGxpbnV4Lm9yZwAKCRBwk4x4BnnumHUvB/9FTf0JsAcnTdZvykGi3VwosWUcleLZ
+qqWb47Uufpmj3ZVxuKy0O6VW2BlIUoTFF4gVDSaGuhkBILJ/NH/Irk4CTlb09KVM
+6aC3SyzOLM7O2H4X8N8oNtHucgUtLpcnBTxKDkvDiAq/NqqMAisF4tVLIdJxkjQM
+kZZrkGnex33VcXuxEeAaLvwnjKZuDxXlHYsxoD11DoE/GXEbbfwldm7BbkZLFyAf
+Pzq+Rq91TL0cOnDZC9WXLOTJ/sryn8tdoPOzy3+OYatVQ8IF1jB07+6N/Jn0K7W7
+NvX5mgrLRGRgB0+fMvisNiKw7elWo8klvh+603EayQh3OynGxbqUEhMy
+=sfTY
+-----END PGP SIGNATURE-----

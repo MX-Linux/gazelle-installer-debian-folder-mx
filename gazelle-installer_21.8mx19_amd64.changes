@@ -1,0 +1,48 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+Format: 1.8
+Date: Sat, 07 Aug 2021 18:48:53 -0400
+Source: gazelle-installer
+Binary: mx-installer
+Architecture: source amd64
+Version: 21.8mx19
+Distribution: mx
+Urgency: medium
+Maintainer: dolphinoracle <dolphinoracle@gmail.com>
+Changed-By: Adrian <adrian@mxlinux.org>
+Description:
+ mx-installer - Customizable GUI installer for MX Linux and antiX Linux
+Changes:
+ gazelle-installer (21.8mx19) mx; urgency=medium
+ .
+   * Improved duplicate process check using a lock file.
+   * Enhanced password revealer.
+   * Process lock covers more of the execution.
+Checksums-Sha1:
+ bcdc8bf99966b4a0b546a4168e2ab5ab1b41d1c9 1219 gazelle-installer_21.8mx19.dsc
+ 0814a1ab3fc75f786d4756f36148752ab44870fd 286968 gazelle-installer_21.8mx19.tar.xz
+ 689ec4957412ed9b21c642175121cd70727b4da7 10797 gazelle-installer_21.8mx19_amd64.buildinfo
+ 5ef33c6c5088d51a3fe56f6add6112b4b631b54a 408136 mx-installer_21.8mx19_amd64.deb
+Checksums-Sha256:
+ 68c0f3f83d0bc52a7d783d8d38e80dedce0eea19b35633a4f5dcd1425c9b915f 1219 gazelle-installer_21.8mx19.dsc
+ 56e5d2d49d8eaab0e71f5878bb1d7e146747778cc67117192674514aac08a0e0 286968 gazelle-installer_21.8mx19.tar.xz
+ 0eefec16f7b17c1d4a09065f2f27855280c3d0a1746d621209d9ab741897048e 10797 gazelle-installer_21.8mx19_amd64.buildinfo
+ 7acfff5f0d4107072f27061bf2d6677907651dbe84545afd5ae385ff7f0b05ab 408136 mx-installer_21.8mx19_amd64.deb
+Files:
+ b7ea31ae8e86a5685d7fbd432ea9b894 1219 system optional gazelle-installer_21.8mx19.dsc
+ 312470494960b1388056d55c21e6f9ad 286968 system optional gazelle-installer_21.8mx19.tar.xz
+ b69f2c1466d304c0c2f2c1e116b1770f 10797 system optional gazelle-installer_21.8mx19_amd64.buildinfo
+ b60c39844c5b1789e2c3747a9f58fae9 408136 system optional mx-installer_21.8mx19_amd64.deb
+
+-----BEGIN PGP SIGNATURE-----
+
+iQFHBAEBCgAxFiEE8ndToY6S45N+YzXncJOMeAZ57pgFAmEPDmETHGFkcmlhbkBt
+eGxpbnV4Lm9yZwAKCRBwk4x4BnnumInEB/9sdlDwiyGsGlgtVn+c8znLZLWE2LrY
+o4VYz8p5E0BHi+eaPtRQqm6ekaZto6ryEUelht6Cea0VQJ4dpjgTGN7WyAIdujqV
+D38RjA0Sb6fh0wHVyNr/qcl/C7dbwlpPZQDShCU0RkR/5zFDPTufJBLuLEgxuG3G
+pL2ex1ktL1HNH6Xyhf6SgxdMTHUMGNUVJi1ubMe6AsO2lHwRcLXuXKTUmEM0aQOE
+OIpi8NZCAzmNXBEgMPsgtll0NaMazdYUqeaQg4TJiPeym8vI4N6KBryqGaFkNF/t
+YEqBGyym3Nk40N+AGuqFF8pc/L+H1qZcuI8+ulBb8u/7xqUVmix0D7GU
+=iwfh
+-----END PGP SIGNATURE-----
