@@ -1,3 +1,14 @@
+gazelle-installer (21.8.01mx19) mx; urgency=medium
+
+  * Fail the install if disk encryption final step fails.
+  * Do not show zram devices in the partition tree.
+  * Expand the Virtual Devices section by default.
+  * Fixed default mount options for various conditions.
+  * Use Argon2id instead of the default Argon2i KDF.
+  * Reduced process execution log character noise. 
+  
+ -- Adrian <adrian@mxlinux.org>  Sun, 08 Aug 2021 10:32:07 -0400
+
 gazelle-installer (21.8mx19) mx; urgency=medium
 
   * Improved duplicate process check using a lock file.
