@@ -1,0 +1,46 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+Format: 1.8
+Date: Sun, 08 Aug 2021 10:26:17 -0400
+Source: gazelle-installer
+Binary: mx-installer
+Architecture: i386
+Version: 21.8.01
+Distribution: mx
+Urgency: medium
+Maintainer: dolphinoracle <dolphinoracle@gmail.com>
+Changed-By: Adrian <adrian@mxlinux.org>
+Description:
+ mx-installer - Customizable GUI installer for MX Linux and antiX Linux
+Changes:
+ gazelle-installer (21.8.01) mx; urgency=medium
+ .
+   * Fail the install if disk encryption final step fails.
+   * Do not show zram devices in the partition tree.
+   * Expand the Virtual Devices section by default.
+   * Fixed default mount options for various conditions.
+   * Use Argon2id instead of the default Argon2i KDF.
+   * Avoid using obsolete QProcess::start() overload
+   * Reduced process execution log character noise.
+Checksums-Sha1:
+ 0b22c6e12cfb5904a5905a5634dc5cf0974022cb 9680 gazelle-installer_21.8.01_i386.buildinfo
+ 1b55e6ec18003716cce0ec5ac08a60d5d1ab50a4 430104 mx-installer_21.8.01_i386.deb
+Checksums-Sha256:
+ 7f0e0b59f3894789dca2d13f7810f73b5427b8e07597cbfc4440c8f3df2fd3be 9680 gazelle-installer_21.8.01_i386.buildinfo
+ bc92ef3fd2006eb0d7aa86ce4c44ef2b9e8a5375d7ed3a91ca50821fe27c8d91 430104 mx-installer_21.8.01_i386.deb
+Files:
+ aba5a01906cf0d04238b4fb04537cee1 9680 system optional gazelle-installer_21.8.01_i386.buildinfo
+ 22934efa57ea67e224a96e64c480be1d 430104 system optional mx-installer_21.8.01_i386.deb
+
+-----BEGIN PGP SIGNATURE-----
+
+iQFHBAEBCgAxFiEE8ndToY6S45N+YzXncJOMeAZ57pgFAmEP6igTHGFkcmlhbkBt
+eGxpbnV4Lm9yZwAKCRBwk4x4BnnumOXkB/99wCm/h4kYf2Kf0jjkMSVg0J8HdEoM
+bVpPG6av/1DJncO9rkSy/MW8dIEgPonbl5tjDb0AplfBEz9q81o1ar1BaANCV+ND
+ik8qE0ZegYIKNB/lKvIc8+acBnhWy7Lhd6C9UuDkLEoZWJep2KhH5e/h1z1DJ3Qb
+LDBUkBBallTKaNPXu9bPkoz3A1L7mEsVzffkLBiTBcLxqxV9zwMRPD91jKtg8d7+
+a13XeTkMrUDYllNw6BEgn1tgyJiyMItEJqh5Vyn5DjeZ8eC+JaAZkQNXLPznlJWb
+ECt5m1kScVpPJV773D9FNaGeyzzrFAlIbANwdZBE/sFu69Wecks2MPH9
+=ZuaH
+-----END PGP SIGNATURE-----
