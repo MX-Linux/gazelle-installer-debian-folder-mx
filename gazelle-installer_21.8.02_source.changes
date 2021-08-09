@@ -1,0 +1,40 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+Format: 1.8
+Date: Mon, 09 Aug 2021 09:14:37 -0400
+Source: gazelle-installer
+Architecture: source
+Version: 21.8.02
+Distribution: mx
+Urgency: medium
+Maintainer: dolphinoracle <dolphinoracle@gmail.com>
+Changed-By: Adrian <adrian@mxlinux.org>
+Changes:
+ gazelle-installer (21.8.02) mx; urgency=medium
+ .
+   * Confirm potentially unbootable GPT drives before continuing.
+Checksums-Sha1:
+ 4a28ca10ff365611b07ed103010fd067f0692a42 653 gazelle-installer_21.8.02.dsc
+ 526c649285bdb4ef00937e1253ee3015a0f07fb2 287276 gazelle-installer_21.8.02.tar.xz
+ 7d1a076bf4e6018758de66a5362deb588b829ee0 9682 gazelle-installer_21.8.02_i386.buildinfo
+Checksums-Sha256:
+ 646ea15e601ab5bcf7a92654b72add3b67b64e402e17c9e2dc7e4e58b11c25f1 653 gazelle-installer_21.8.02.dsc
+ 7e732ebe7390423b066989b6597868b21ca26890046e82a6196e66fd8ad6691f 287276 gazelle-installer_21.8.02.tar.xz
+ 463262a89c878f6549aa96015e038e924063eda8f352800b60d649c70803f292 9682 gazelle-installer_21.8.02_i386.buildinfo
+Files:
+ 1bb3b27f7ce2f30e3f51958e37f68c39 653 system optional gazelle-installer_21.8.02.dsc
+ cfd1c844ab4084e740345e2520a7b161 287276 system optional gazelle-installer_21.8.02.tar.xz
+ 8f5f4b30df328d77d14844cd1f6505d8 9682 system optional gazelle-installer_21.8.02_i386.buildinfo
+
+-----BEGIN PGP SIGNATURE-----
+
+iQFHBAEBCgAxFiEE8ndToY6S45N+YzXncJOMeAZ57pgFAmERcBETHGFkcmlhbkBt
+eGxpbnV4Lm9yZwAKCRBwk4x4BnnumBmRB/9NbQ35qDrye4/8vhHNSEAvlL4hCygY
+avzBZweJNJehHrlAcboEAfsxCKnsU6hOOu3303UgVNksECppTYhP1ntEOpZqnz3R
+Rc5SdtiYflFOgwR9ILhOE1xYhvoCcaUnH1YpOHayQJH0Alqti5f6nWB1kEUYk7Is
+ootdZRK+OSst1T5qiZ2Gp6sX5JkKabHaD0jeOePDx0VNSf/koE6JFlwkxP27kwoQ
++XmVpxjlpZ4eKTufGdCJxT2bG5eCCwRXxsB3Z/S/stR0gGv2CQLfKO9gjYfm7MCl
+W80Fh1HZZHWZQtTf4XW/gf7zvZ2jX4G/XyLzgi+y1yhwLT4px5EY2TIG
+=Nimi
+-----END PGP SIGNATURE-----

@@ -1,0 +1,46 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+Format: 1.8
+Date: Mon, 09 Aug 2021 09:14:37 -0400
+Source: gazelle-installer
+Binary: mx-installer
+Architecture: source amd64
+Version: 21.8.02
+Distribution: mx
+Urgency: medium
+Maintainer: dolphinoracle <dolphinoracle@gmail.com>
+Changed-By: Adrian <adrian@mxlinux.org>
+Description:
+ mx-installer - Customizable GUI installer for MX Linux and antiX Linux
+Changes:
+ gazelle-installer (21.8.02) mx; urgency=medium
+ .
+   * Confirm potentially unbootable GPT drives before continuing.
+Checksums-Sha1:
+ 93dbc887c3f3538a49d8fea7a39cd277f03ab9f4 1215 gazelle-installer_21.8.02.dsc
+ 7826abd804228c52dc5b956741a953fcd24a3a8e 287200 gazelle-installer_21.8.02.tar.xz
+ 4dadd66ac8a65f0f96ce6bfbbe4ce872832ed924 9994 gazelle-installer_21.8.02_amd64.buildinfo
+ 598ccc66f4a9aff2254413b34a349c0d83fbd9c7 416228 mx-installer_21.8.02_amd64.deb
+Checksums-Sha256:
+ acf411308c3dbb9c03239e1a87c32d0f64155a0de724a29ff0f57790a5f500d7 1215 gazelle-installer_21.8.02.dsc
+ 1d2cd8229e6039fd211874233e8f3929bf4a23903ee1408a39cd46058f1b757a 287200 gazelle-installer_21.8.02.tar.xz
+ 69a6c7488614585e3b665ed2c457193fa843b72732132e3f5efa83ce6641d077 9994 gazelle-installer_21.8.02_amd64.buildinfo
+ 9057d081bfea96d31470652b6b10cd71c4dd4c59467a5ff709b2be2e5f4a575f 416228 mx-installer_21.8.02_amd64.deb
+Files:
+ ef2b4e26a85ff9fc38e1e2a93cce67dc 1215 system optional gazelle-installer_21.8.02.dsc
+ 1d5d2a9fdbc18eb3f1b40a83c0458026 287200 system optional gazelle-installer_21.8.02.tar.xz
+ 73946f802497df9512a99f807442fc92 9994 system optional gazelle-installer_21.8.02_amd64.buildinfo
+ 81580bf98f15a8762786d3cb0435cf94 416228 system optional mx-installer_21.8.02_amd64.deb
+
+-----BEGIN PGP SIGNATURE-----
+
+iQFHBAEBCgAxFiEE8ndToY6S45N+YzXncJOMeAZ57pgFAmERb/QTHGFkcmlhbkBt
+eGxpbnV4Lm9yZwAKCRBwk4x4BnnumEcqCAC+SW8LsYiTeLzcIeTQLgjtC1FxEwTT
+28XVgk1zoS0t8BfNd1y0Cn9L26fGVOMkysdOSYrvj5pcvF48bz3hoe7Bv9Od8vB+
+jzAVXZNkJz7egfUIXy+fzGgI4V+6mnElJ8YlR0+4ocF7pIKYPm13u5+0pI7kOK3x
+X/H7OsrIWU/YLlVmktTp7TFIKgstkGPeXlrudNuluzlOnX6A+1SNVa7zGWpfnBxb
+jy01tYhGe1Ba8fYh9+n38QAFFougCjHKvYtJc3NZi19cf+4sq0gJmCqJh/i6XipY
+Bh6VyVjmhUrYEFF7gsH3xgHUFJ99x0pf9ay0aDlMMFKJrWMZZrPLh2P8
+=085x
+-----END PGP SIGNATURE-----
