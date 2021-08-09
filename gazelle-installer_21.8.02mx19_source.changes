@@ -1,0 +1,40 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+Format: 1.8
+Date: Mon, 09 Aug 2021 14:13:52 -0400
+Source: gazelle-installer
+Architecture: source
+Version: 21.8.02mx19
+Distribution: mx
+Urgency: medium
+Maintainer: dolphinoracle <dolphinoracle@gmail.com>
+Changed-By: Adrian <adrian@mxlinux.org>
+Changes:
+ gazelle-installer (21.8.02mx19) mx; urgency=medium
+ .
+   * Confirm potentially unbootable GPT drives before continuing.
+Checksums-Sha1:
+ f8b316a8546e015a9093948949e8305c0493e611 669 gazelle-installer_21.8.02mx19.dsc
+ def518764e7b2379cfffc3fc28964d816aeeb0a9 287504 gazelle-installer_21.8.02mx19.tar.xz
+ 7aaea89b3641baebb1771194adc5f6bd57071469 10267 gazelle-installer_21.8.02mx19_i386.buildinfo
+Checksums-Sha256:
+ 04926488d92724de2a4bdd7f79b6d4336504fe25150c0e693d49cf4a23c12afa 669 gazelle-installer_21.8.02mx19.dsc
+ 64dcc13f84c63cb0a5dcb26f4a86fe7ebda673212404b4a915d33f91919b11b5 287504 gazelle-installer_21.8.02mx19.tar.xz
+ 4ed96f8829016108dbe78be9ac2d79cf56fd429b4ceab005b11db54fcb80abe1 10267 gazelle-installer_21.8.02mx19_i386.buildinfo
+Files:
+ 91068231d2aefae604ce16a0f05ecb1d 669 system optional gazelle-installer_21.8.02mx19.dsc
+ 18a0fc162894b55d5db258e0701680ab 287504 system optional gazelle-installer_21.8.02mx19.tar.xz
+ c9c693ce425847ff9dd76484380cba10 10267 system optional gazelle-installer_21.8.02mx19_i386.buildinfo
+
+-----BEGIN PGP SIGNATURE-----
+
+iQFHBAEBCgAxFiEE8ndToY6S45N+YzXncJOMeAZ57pgFAmERcQ0THGFkcmlhbkBt
+eGxpbnV4Lm9yZwAKCRBwk4x4BnnumCm9B/9qrqoDxmurbW9kgOGDAYou8cy1PkxS
+7U2tNJew+ND2lT8Iyxo8ACPD64DjekXeE40gmDqqKSLHpRie8FmMLon4pFnM7odu
+wJ8XlE+R+V0xLuQJ3aT8TB52UM3G8PwlFm/6j0X/+NPogB/JW5asoyRHTmkTzq5u
+hFXGct2VHdT7tDHENPTfDd4DrjST2MF74HnCrAPPJbBTcGv0ZSI9XV6YX3YaBC7h
+DYYHpiWJNYIpqYg3Y0+N9qYkQNl5fdrf+U8Ej2N5OreCSFSLUVv/fjeCZBMIThBp
+gigxSg+BJlHmvwy84IWTD4dyZNkCyt1aKv8JrfhYMHzYeT5WeZn+jd/n
+=iB3b
+-----END PGP SIGNATURE-----

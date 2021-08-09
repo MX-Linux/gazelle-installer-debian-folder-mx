@@ -1,0 +1,46 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+Format: 1.8
+Date: Mon, 09 Aug 2021 14:13:52 -0400
+Source: gazelle-installer
+Binary: mx-installer
+Architecture: source amd64
+Version: 21.8.02mx19
+Distribution: mx
+Urgency: medium
+Maintainer: dolphinoracle <dolphinoracle@gmail.com>
+Changed-By: Adrian <adrian@mxlinux.org>
+Description:
+ mx-installer - Customizable GUI installer for MX Linux and antiX Linux
+Changes:
+ gazelle-installer (21.8.02mx19) mx; urgency=medium
+ .
+   * Confirm potentially unbootable GPT drives before continuing.
+Checksums-Sha1:
+ 3b5a0fecf67395c729e021f236e5b2496a8f64e9 1231 gazelle-installer_21.8.02mx19.dsc
+ fb847675a7b60812df7a5f3e16bbbd708959da58 287476 gazelle-installer_21.8.02mx19.tar.xz
+ 9895f6879ed146af19e7417b1648f90c518f029c 10586 gazelle-installer_21.8.02mx19_amd64.buildinfo
+ 6f68054f75eef133307f11d6d69bb6a299f639d8 409136 mx-installer_21.8.02mx19_amd64.deb
+Checksums-Sha256:
+ 247b7273452a043a4bd25225ffc280a1dff8e957d93aa66ecf809abfaad17bdd 1231 gazelle-installer_21.8.02mx19.dsc
+ 4f9023e2fc001cdb53243c06bc775fd97a0d6b4111e33751a2a759a6f80ca77a 287476 gazelle-installer_21.8.02mx19.tar.xz
+ e927e12d7581c21af1d432cf00dedbd44fff6eb27ae1d462465e71628be306d9 10586 gazelle-installer_21.8.02mx19_amd64.buildinfo
+ a5755cd1abf18418e910f834aa872b0831b492c0a2b01772f20fe9c3ccb238f6 409136 mx-installer_21.8.02mx19_amd64.deb
+Files:
+ 93b4e65601aa24b38b2c7c2116f73a24 1231 system optional gazelle-installer_21.8.02mx19.dsc
+ bd4135b7c4072a33242a6a882ad844af 287476 system optional gazelle-installer_21.8.02mx19.tar.xz
+ 8e734fa5fc257443be754c237e872fc9 10586 system optional gazelle-installer_21.8.02mx19_amd64.buildinfo
+ 72699294a9733f3630578d581ac4109c 409136 system optional mx-installer_21.8.02mx19_amd64.deb
+
+-----BEGIN PGP SIGNATURE-----
+
+iQFHBAEBCgAxFiEE8ndToY6S45N+YzXncJOMeAZ57pgFAmERcPUTHGFkcmlhbkBt
+eGxpbnV4Lm9yZwAKCRBwk4x4BnnumMxfCADRqF2rs8jDQkV8j5RZxWSAhcJmJKG3
+nA0wkf7BciVBm3SNsdtCF9qnx8HqxhJDja3gKvD9fF9Y/OjANkBOsFYq6ZL21mNX
+pMqhtvRUHpmEWOg4364169XvdsZZG1/FPO2J8qI8t42mwfLtDRd9rCvr9vramZdT
+UCQdTWBoa2lOuCO5O3W+owxF9cGn1bNbhB1501qr1d5vTToSjlJSjwapoIoIrgoE
+CmdYUIi5ZxaoDrpx7t4KevzoJhGnyKPctZGD6LNE/vrsjsUXpWoxEySAQ8/ujNQH
+9JN8kWxZKmHSH7vih9KQBkNl0SBk1iZ20pqSke0ES0ZvzF08siwFTmX7
+=V0SM
+-----END PGP SIGNATURE-----

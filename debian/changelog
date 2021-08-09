@@ -1,3 +1,9 @@
+gazelle-installer (21.8.02mx19) mx; urgency=medium
+
+  * Confirm potentially unbootable GPT drives before continuing.
+
+ -- Adrian <adrian@mxlinux.org>  Mon, 09 Aug 2021 14:13:52 -0400
+
 gazelle-installer (21.8.01mx19) mx; urgency=medium
 
   * Fail the install if disk encryption final step fails.
