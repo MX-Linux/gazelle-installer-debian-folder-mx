@@ -1,3 +1,11 @@
+gazelle-installer (21.8.03mx19) mx; urgency=medium
+
+  * Combine LUKS steps into format loop.
+  * Fixed LUKS volume progress feedback.
+  * Reduce superfluous differences from master.
+
+ -- Adrian <adrian@mxlinux.org>  Tue, 10 Aug 2021 09:46:17 -0400
+
 gazelle-installer (21.8.02mx19) mx; urgency=medium
 
   * Confirm potentially unbootable GPT drives before continuing.
