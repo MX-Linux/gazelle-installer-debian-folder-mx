@@ -1,0 +1,41 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+Format: 1.8
+Date: Fri, 13 Aug 2021 13:48:39 -0400
+Source: gazelle-installer
+Architecture: source
+Version: 21.8.04mx19
+Distribution: mx
+Urgency: medium
+Maintainer: dolphinoracle <dolphinoracle@gmail.com>
+Changed-By: Adrian <adrian@mxlinux.org>
+Changes:
+ gazelle-installer (21.8.04mx19) mx; urgency=medium
+ .
+   * Avoid automatically determining a boot flag if one already exists.
+   * Fixed: no boot flag determined again if the boot partition is deleted.
+Checksums-Sha1:
+ 30867e458488864d5038c3ab73e1035c2a589179 669 gazelle-installer_21.8.04mx19.dsc
+ 56064f5058153b8ef0c280604cfcdcc4317cd04c 287708 gazelle-installer_21.8.04mx19.tar.xz
+ 5df2d030d3a03df8385b729ced42018a02e5d265 10267 gazelle-installer_21.8.04mx19_i386.buildinfo
+Checksums-Sha256:
+ 654aefc7ab866600ba407b479469bb39f71a4d94937586ddcb0a8a6116afbb86 669 gazelle-installer_21.8.04mx19.dsc
+ 5cf76338058c013167479088f95a24471290848d55f9f650f1d487e71e549f5b 287708 gazelle-installer_21.8.04mx19.tar.xz
+ 42b9d8b5290d7f72cd0e3dee74b81b2dd1de675e049c94a2cad96da61b90bd73 10267 gazelle-installer_21.8.04mx19_i386.buildinfo
+Files:
+ 1d93b8037bdd02fada2ee6d71c0772b2 669 system optional gazelle-installer_21.8.04mx19.dsc
+ 95b29019d6e6798d3d01395b9b512adb 287708 system optional gazelle-installer_21.8.04mx19.tar.xz
+ 7973622ee16e3890d9723a872148a4be 10267 system optional gazelle-installer_21.8.04mx19_i386.buildinfo
+
+-----BEGIN PGP SIGNATURE-----
+
+iQFHBAEBCgAxFiEE8ndToY6S45N+YzXncJOMeAZ57pgFAmEWsRITHGFkcmlhbkBt
+eGxpbnV4Lm9yZwAKCRBwk4x4BnnumCdbB/9TNk60zbKuDa3MEBopDzx0YeJuoB9k
+ykm8eqfRoi629fKTcybpA/uE/Ph65MfPXpTXP4+sWIu7/F4lY1/7zYdT9KeA9x8X
+AZfWZ9AFXxx4obwxT1HkUlgEnuOl/aKR4fWwgWXkY3hQ2M0LUBXI8BayFYa5ZotW
+XyGvWrkfnlg1b35nIah/vqr9ZAa5qNqDoboDMPK2sC13uGhl7dXQ1oNk4C1lZok+
+rRgpA00Di5L4E/b19wWxNC1ur5vP5TohD7oy9WcLDNjrJGaY+P0SUQS3/cz9omdq
+T+276zxTjDbCeslpU28dbGGp/i7RbP6JFOY1PjYoBk+J3LT9VxNca486
+=WnMn
+-----END PGP SIGNATURE-----

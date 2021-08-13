@@ -1,3 +1,10 @@
+gazelle-installer (21.8.04mx19) mx; urgency=medium
+
+  * Avoid automatically determining a boot flag if one already exists.
+  * Fixed: no boot flag determined again if the boot partition is deleted.
+
+ -- Adrian <adrian@mxlinux.org>  Fri, 13 Aug 2021 13:48:39 -0400
+
 gazelle-installer (21.8.03mx19) mx; urgency=medium
 
   * Combine LUKS steps into format loop.
