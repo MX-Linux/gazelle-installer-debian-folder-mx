@@ -1,0 +1,47 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+Format: 1.8
+Date: Fri, 13 Aug 2021 12:37:41 -0400
+Source: gazelle-installer
+Binary: mx-installer
+Architecture: source amd64
+Version: 21.8.05
+Distribution: mx
+Urgency: medium
+Maintainer: dolphinoracle <dolphinoracle@gmail.com>
+Changed-By: Adrian <adrian@mxlinux.org>
+Description:
+ mx-installer - Customizable GUI installer for MX Linux and antiX Linux
+Changes:
+ gazelle-installer (21.8.05) mx; urgency=medium
+ .
+   * Avoid automatically determining a boot flag if one already exists.
+   * Fixed: no boot flag determined again if the boot partition is deleted.
+Checksums-Sha1:
+ 540da3223fc14a8108152b0799cc8932ae0c8c65 1215 gazelle-installer_21.8.05.dsc
+ 8a565fc92bbd750ff91e214366d1e7727d18dc97 287428 gazelle-installer_21.8.05.tar.xz
+ 057aa26a4ea30d57f1c601ff1e36c6a566bd2313 9994 gazelle-installer_21.8.05_amd64.buildinfo
+ b5b8abbb32ef17bdca51cf4f48a939be03354175 416428 mx-installer_21.8.05_amd64.deb
+Checksums-Sha256:
+ 9f7cea7eb576f373fbb5a9eaae62b259963366b53c1a59a1bcfc144bc98319b7 1215 gazelle-installer_21.8.05.dsc
+ 0d4b57880c258dd456bf67aa5caf46054e65e497c780690168c46a5712bd9833 287428 gazelle-installer_21.8.05.tar.xz
+ d72ca3d6829ccccafddcf1fd67ab43cf7c43086bdf176bc068d18cccb5c0e044 9994 gazelle-installer_21.8.05_amd64.buildinfo
+ b4f96fcd10a2d565ea585538874e9e5953d9691eae93939c749e2985242ff3ed 416428 mx-installer_21.8.05_amd64.deb
+Files:
+ b94bc656cd796c28853cabecedd2f709 1215 system optional gazelle-installer_21.8.05.dsc
+ c6ab3be07d969f6d36c85bf011b7633f 287428 system optional gazelle-installer_21.8.05.tar.xz
+ f3c8015a5406e0efaff0a6901436d9a6 9994 system optional gazelle-installer_21.8.05_amd64.buildinfo
+ 15cbe27fa2ff05255061ba1e055ab93a 416428 system optional mx-installer_21.8.05_amd64.deb
+
+-----BEGIN PGP SIGNATURE-----
+
+iQFHBAEBCgAxFiEE8ndToY6S45N+YzXncJOMeAZ57pgFAmEWoF0THGFkcmlhbkBt
+eGxpbnV4Lm9yZwAKCRBwk4x4BnnumDR4CACWAOM/544GGYZnFqRc8wMcLqom6ezx
+0JEV6NKRL09Ubd6m5rG9ZioJe+iNigFnprJEZ5AsR626YiW0LVhgGQKMI6VuTLgj
+9lxrkCl6XAv7sE7NlEbmnbM6anw7EWxJ08/vrgAztuqLwGVqfHz0So+bJeG+MV2O
+Io9iQ+jRj3CyzTLdxAQ6HoBBEhqolvvG6g/RFNhE9KQLGLO/zOLInQovqNKEZivM
+HAHsunKWFORzpBhnPnF+IxiXASDKZs+/ap0H77OJgdiQest76S00EePLg6o3EPwL
+eQEQayfXt6TBF2Br+p24fFBs6MXQzri1lVIJQYPtMkzQCGPMgglyO/gz
+=yGUp
+-----END PGP SIGNATURE-----

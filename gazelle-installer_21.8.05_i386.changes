@@ -1,0 +1,41 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+Format: 1.8
+Date: Fri, 13 Aug 2021 12:37:41 -0400
+Source: gazelle-installer
+Binary: mx-installer
+Architecture: i386
+Version: 21.8.05
+Distribution: mx
+Urgency: medium
+Maintainer: dolphinoracle <dolphinoracle@gmail.com>
+Changed-By: Adrian <adrian@mxlinux.org>
+Description:
+ mx-installer - Customizable GUI installer for MX Linux and antiX Linux
+Changes:
+ gazelle-installer (21.8.05) mx; urgency=medium
+ .
+   * Avoid automatically determining a boot flag if one already exists.
+   * Fixed: no boot flag determined again if the boot partition is deleted.
+Checksums-Sha1:
+ 8ab8590ff14ba7f6e866867b11f05de63d5961df 9682 gazelle-installer_21.8.05_i386.buildinfo
+ 2ed23ef1013bd91935a3649dc6141db6e5fa6faf 431448 mx-installer_21.8.05_i386.deb
+Checksums-Sha256:
+ 146f2dc0a7c16039e5e7803a9a36a1f2c606d26d6756bc67cf20e2ef82b5db6c 9682 gazelle-installer_21.8.05_i386.buildinfo
+ cb6bdea709e09f7ca1966cafd9f6315065e1f988c46f46a20a502e8ed358636c 431448 mx-installer_21.8.05_i386.deb
+Files:
+ 237f5b362b26e1615e70f2239813e95a 9682 system optional gazelle-installer_21.8.05_i386.buildinfo
+ b973f330cf196b326788e0d53ddb8203 431448 system optional mx-installer_21.8.05_i386.deb
+
+-----BEGIN PGP SIGNATURE-----
+
+iQFHBAEBCgAxFiEE8ndToY6S45N+YzXncJOMeAZ57pgFAmEWsBcTHGFkcmlhbkBt
+eGxpbnV4Lm9yZwAKCRBwk4x4BnnumH/mCADRzsk2GkdHloEmoS2UruyLAkzu5rws
+4OoPzEn2A4LoteLPyqCzjSEzsicOgMzPrFegJ6NqPrMefFJsvxcrM2gbrW7P6Wkq
+WiGNcuTEVVFKn2tXWHBj+eczd3p5WzSyoCbIZOQi5ZJESYbQm2iGLK4RrtUDxN//
+4F+gor+aay0kzC9o4vFepRfq9YgGssGijF7LMrdfa70hUjo7I78IZBxgZskL7WLX
+V5u9Juxj2PC/F0+m0kiR+J4OYXEGKFTGR2PJbGxEKcFuh7sp+tfWkLQasglSGade
+AsFK+h9QbcIgZK+VHQnukJhja/sIBy1S7dxUqrqVCHeJpCawyfSbUyyz
+=1vhI
+-----END PGP SIGNATURE-----
