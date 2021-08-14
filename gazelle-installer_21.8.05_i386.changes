@@ -19,23 +19,23 @@ Changes:
    * Avoid automatically determining a boot flag if one already exists.
    * Fixed: no boot flag determined again if the boot partition is deleted.
 Checksums-Sha1:
- 8ab8590ff14ba7f6e866867b11f05de63d5961df 9682 gazelle-installer_21.8.05_i386.buildinfo
- 2ed23ef1013bd91935a3649dc6141db6e5fa6faf 431448 mx-installer_21.8.05_i386.deb
+ dfd084f0fb6aea4cf18ed8271c0f6853a225ecae 9680 gazelle-installer_21.8.05_i386.buildinfo
+ 9b853bb86bd577a22d72c6190c96b1e17b5d42c0 431508 mx-installer_21.8.05_i386.deb
 Checksums-Sha256:
- 146f2dc0a7c16039e5e7803a9a36a1f2c606d26d6756bc67cf20e2ef82b5db6c 9682 gazelle-installer_21.8.05_i386.buildinfo
- cb6bdea709e09f7ca1966cafd9f6315065e1f988c46f46a20a502e8ed358636c 431448 mx-installer_21.8.05_i386.deb
+ 7a4c36cce257a022f93401b60eb27f3e042e71ce505a6bbae800eaa18616de82 9680 gazelle-installer_21.8.05_i386.buildinfo
+ a885fad3f3981d518b69ec457e457c26ded7fe6122fb61b2c8ba2d97b09b145a 431508 mx-installer_21.8.05_i386.deb
 Files:
- 237f5b362b26e1615e70f2239813e95a 9682 system optional gazelle-installer_21.8.05_i386.buildinfo
- b973f330cf196b326788e0d53ddb8203 431448 system optional mx-installer_21.8.05_i386.deb
+ a6d409ce13bcec2997d8631be105b136 9680 system optional gazelle-installer_21.8.05_i386.buildinfo
+ 92c12baed3a757b1b1e7bc0f707a83d8 431508 system optional mx-installer_21.8.05_i386.deb
 
 -----BEGIN PGP SIGNATURE-----
 
-iQFHBAEBCgAxFiEE8ndToY6S45N+YzXncJOMeAZ57pgFAmEWsBcTHGFkcmlhbkBt
-eGxpbnV4Lm9yZwAKCRBwk4x4BnnumH/mCADRzsk2GkdHloEmoS2UruyLAkzu5rws
-4OoPzEn2A4LoteLPyqCzjSEzsicOgMzPrFegJ6NqPrMefFJsvxcrM2gbrW7P6Wkq
-WiGNcuTEVVFKn2tXWHBj+eczd3p5WzSyoCbIZOQi5ZJESYbQm2iGLK4RrtUDxN//
-4F+gor+aay0kzC9o4vFepRfq9YgGssGijF7LMrdfa70hUjo7I78IZBxgZskL7WLX
-V5u9Juxj2PC/F0+m0kiR+J4OYXEGKFTGR2PJbGxEKcFuh7sp+tfWkLQasglSGade
-AsFK+h9QbcIgZK+VHQnukJhja/sIBy1S7dxUqrqVCHeJpCawyfSbUyyz
-=1vhI
+iQFHBAEBCgAxFiEE8ndToY6S45N+YzXncJOMeAZ57pgFAmEXHpQTHGFkcmlhbkBt
+eGxpbnV4Lm9yZwAKCRBwk4x4BnnumAvpB/wM4Jt0KqHxk5BQLa7BsdhxMQa3lLsg
+PapFYA5DDmjiI06vtcjwwRAxaEvonj7+9OEPPTN1XXPogi+p/h0/DMfskon9mrfV
+cTHrRbYkx01mbFfK7/gxwMeaWfRsw9MTn/4bBFe6g6meMVYqN7GlsE7nla2vDTij
+ol+b8du877GsTVc2DHFxt4HeQQPX5cQ1/VtJQ7QvyvnZtdL8Z+jaPNM/LG0E0cK/
+3PR7CMTa+R0+ELceP3ydKJiI+buxpQKbigl1eOZLZkiYqHxZxl9VXlPYT0hsoTBC
+zcUj2DJ1geOSPC/gvy25WeU0/pjXMS+Nrqq+AA8tgbHjbHV867fm3kbO
+=i5G0
 -----END PGP SIGNATURE-----
