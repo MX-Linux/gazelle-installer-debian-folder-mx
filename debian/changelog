@@ -1,3 +1,9 @@
+gazelle-installer (21.8.06) mx; urgency=medium
+
+  * Fixed: validation segmentation fault if there are virtual devices. 
+
+ -- Adrian <adrian@mxlinux.org>  Fri, 13 Aug 2021 22:20:32 -0400
+
 gazelle-installer (21.8.05) mx; urgency=medium
 
   * Avoid automatically determining a boot flag if one already exists.
