@@ -19,23 +19,23 @@ Changes:
    * Fixed: wrong actions and options enabled if the layout is reset.
    * Stop generating unknown "nofail" option for crypttab.
 Checksums-Sha1:
- f58d24daf4714b141beb0639644248140d05f828 10582 gazelle-installer_21.8.08mx19_i386.buildinfo
- 9c3a975af040a4bd3d9a5f73416954b4dfd86d23 427284 mx-installer_21.8.08mx19_i386.deb
+ 07c24a73661db9c3700ab1420c23650109f0db37 10582 gazelle-installer_21.8.08mx19_i386.buildinfo
+ 7680fb34098ed6e35b6186de895ba1fbc742680a 427292 mx-installer_21.8.08mx19_i386.deb
 Checksums-Sha256:
- 0a3c61e220c5f814f86220cd33a3d4615d2250decdffa88cc086d7443d2512af 10582 gazelle-installer_21.8.08mx19_i386.buildinfo
- 95ec83f20ab023f8beff32b5a535e968f86b5891f15c62cc20b29aec294e3311 427284 mx-installer_21.8.08mx19_i386.deb
+ 1cf6f4902816bc68345e5cab6d037fafaa12360602f12a5b7b33ed5cc9379d8b 10582 gazelle-installer_21.8.08mx19_i386.buildinfo
+ 694193413ff25a0a0508c7c4e2da8fb1dffa7ddba3d4ef27780f545eaf0ac075 427292 mx-installer_21.8.08mx19_i386.deb
 Files:
- f8ca23d180531727a1555e7d2a958792 10582 system optional gazelle-installer_21.8.08mx19_i386.buildinfo
- 7f0c2890293be00e9c65aafb3387b30b 427284 system optional mx-installer_21.8.08mx19_i386.deb
+ 3d989bf52835ae6f546dc5956232bc4b 10582 system optional gazelle-installer_21.8.08mx19_i386.buildinfo
+ 635cb69617f175d7d40e9d4d23e341aa 427292 system optional mx-installer_21.8.08mx19_i386.deb
 
 -----BEGIN PGP SIGNATURE-----
 
-iQFHBAEBCgAxFiEE8ndToY6S45N+YzXncJOMeAZ57pgFAmEZEuQTHGFkcmlhbkBt
-eGxpbnV4Lm9yZwAKCRBwk4x4BnnumJVyB/95a1ebnq47H8SHaFeld4rhlUG8eWEu
-S6LccAG98J3XW/HWndSZzV03L9IaDu9aQQ7lLkLP7mefzjfVuHtfRFNk4IDhwipi
-8dZjzjgtVOMb/FM3n+oAZQigkvJvk3AjJTQGR49MHpru/RGiSlHVdeqK21hdHob4
-mZCLTxx50178n6cIqnFBeJ6sLAPjco/UeL3c6tJlTfFtBGwLe+DWvOAqsAqUqwdG
-8BA8sspV0fuIfKE+gSOZ4volxL5s2Wp8tORWo5gOKj6Fy7ivJTsHW5JgR0J79yfP
-8h/X8GKpi5BbSSn6pjYYf8TVLrt7cgSnk9Op8Gan/8pI+GN/Z8JTXPwr
-=5vpP
+iQFHBAEBCgAxFiEE8ndToY6S45N+YzXncJOMeAZ57pgFAmEZHXsTHGFkcmlhbkBt
+eGxpbnV4Lm9yZwAKCRBwk4x4BnnumD2wB/9GIf50rmZUQeJdqqguF/yjcvW6MLVA
+QAevmRURRTCEer/9QtaJsvFrEunszHJ7IbN/1D9ouf1Idq4P7/dSWVE6nsis/ADh
+Cr98nvp9f1kTY6eq0PLcU3/Q1cfsnimji/KDJnznG9unY8CY+dqVcJNmEIOKcHUX
+6oxuknJb+KI3XUequxuMXHoX6znu4cRLM284EmP/Z6QbcQh6CuGWfmc06kf7ZnDJ
+Mm87NIAUQ3/izaW7zdfqNGIpTX9brPURJ3Ao+VsSv/P2zsJ7chxBRb3aj2kYtKfW
+36X0DfKVtp8rSVcAW+lFgjPuj3mIHNrCeo+ZCoIXEtwquBAYls7tPJT7
+=u9qd
 -----END PGP SIGNATURE-----

@@ -16,26 +16,26 @@ Changes:
    * Fixed: wrong actions and options enabled if the layout is reset.
    * Stop generating unknown "nofail" option for crypttab.
 Checksums-Sha1:
- 53a56cf2b46ac05a7873d46507334ce231e1763e 669 gazelle-installer_21.8.08mx19.dsc
- 9baab34d438f6491af13eb302d5104355c5a734b 288432 gazelle-installer_21.8.08mx19.tar.xz
- f58d24daf4714b141beb0639644248140d05f828 10582 gazelle-installer_21.8.08mx19_i386.buildinfo
+ f649782d15329b733d7bf25c65ea9db1f5e59531 669 gazelle-installer_21.8.08mx19.dsc
+ 9d96b01c2eb70d40c2bcff7dce7e305af252ae66 288540 gazelle-installer_21.8.08mx19.tar.xz
+ 07c24a73661db9c3700ab1420c23650109f0db37 10582 gazelle-installer_21.8.08mx19_i386.buildinfo
 Checksums-Sha256:
- 1593d3aa65f4a15ea1a5cddec839ba21209ad9efb690d0cdc5fb270e18998cbe 669 gazelle-installer_21.8.08mx19.dsc
- 18d6111e3a474f6ed0bded76d0c6e9f30e6de9fe5cd08a15c98d245085a5a5df 288432 gazelle-installer_21.8.08mx19.tar.xz
- 0a3c61e220c5f814f86220cd33a3d4615d2250decdffa88cc086d7443d2512af 10582 gazelle-installer_21.8.08mx19_i386.buildinfo
+ 1cefaeeae4a16f747935c40db2a75873819f968f646a72006102e2e69e08e92b 669 gazelle-installer_21.8.08mx19.dsc
+ 912ed73e54d6647b44297a6da18bf2d47f5cf772abdc4ce3d2e0616070241381 288540 gazelle-installer_21.8.08mx19.tar.xz
+ 1cf6f4902816bc68345e5cab6d037fafaa12360602f12a5b7b33ed5cc9379d8b 10582 gazelle-installer_21.8.08mx19_i386.buildinfo
 Files:
- f62e2641a2185edf7c5e228477b08d59 669 system optional gazelle-installer_21.8.08mx19.dsc
- a08d8f02441559c03b2434c79bc90e14 288432 system optional gazelle-installer_21.8.08mx19.tar.xz
- f8ca23d180531727a1555e7d2a958792 10582 system optional gazelle-installer_21.8.08mx19_i386.buildinfo
+ 245f040c7eb77e684ff68ea627a88f39 669 system optional gazelle-installer_21.8.08mx19.dsc
+ d24f0e7699305cfc32dc34ee6f5bb10b 288540 system optional gazelle-installer_21.8.08mx19.tar.xz
+ 3d989bf52835ae6f546dc5956232bc4b 10582 system optional gazelle-installer_21.8.08mx19_i386.buildinfo
 
 -----BEGIN PGP SIGNATURE-----
 
-iQFHBAEBCgAxFiEE8ndToY6S45N+YzXncJOMeAZ57pgFAmEZEuUTHGFkcmlhbkBt
-eGxpbnV4Lm9yZwAKCRBwk4x4BnnumGkFB/0TEUkQV8hAMYuk7/t0SneQ21fKNiX0
-eio2vE8B+XvvQqsZuzIRpJyvC54M7Dv3qxNV8GhM6OhUcRehhh4H6NFNC3pT8fkz
-FEGuoX0O11qDmzG430cw5NiQ9OcgYpMu5clboNHlsHc3Ytd/q5NfqeeI1eElwu0h
-2mw7hZ3Tmr3OqHV7GKNZAAytMixwJ0dvWuxT0yKOPpLSqWSfH3kUN0Ev3WRB2Atu
-1ypLc7jdQgNd4eq6zufpcBBy589UPj/kySEQYF3803SC7iq8qEe6df/uANbMDT3w
-TgwU3ZjSO6h+/NmdiZ+Fk+VB0s+tnO+xYH5S9CsPOrGwihHZtKTN7hUg
-=JDL9
+iQFHBAEBCgAxFiEE8ndToY6S45N+YzXncJOMeAZ57pgFAmEZHXsTHGFkcmlhbkBt
+eGxpbnV4Lm9yZwAKCRBwk4x4BnnumMszB/9RiLD7VZiI1pvs9iN6sBojVLNv93uw
+nyy+452JcInDnVWRZ342Put9msz2nmRkYLZuGPm+fDdHVZucgwxspSV7IIvuHnJL
+sJPoeyZRANH+nBknDAABbz0sazySysQ/0hasBgAhN2p8KAu2CbX4Rs5qd0qRoO2u
+slRlcTeiT0e83AbKCdBJnvj/2KJImVgGXpnGqGLqhrs08ATvssrWJL5KGSx9jMyY
+Rz2RuVB2ExBBxa1Vg7XIN2BIeMGWR4zGssKzm2GdLr1pujtePaXnSFIv9I5XDXyW
+81Ju7I57qLCwTcLHn3zoW7LGvu2LBtqkp6TRsGpifcZvMEO5wMhvTqEk
+=cF1n
 -----END PGP SIGNATURE-----
