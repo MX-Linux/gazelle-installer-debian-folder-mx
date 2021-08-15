@@ -1,0 +1,45 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+Format: 1.8
+Date: Sun, 15 Aug 2021 03:34:06 -0400
+Source: gazelle-installer
+Binary: mx-installer
+Architecture: i386
+Version: 21.8.07mx19
+Distribution: mx
+Urgency: medium
+Maintainer: dolphinoracle <dolphinoracle@gmail.com>
+Changed-By: Adrian <adrian@mxlinux.org>
+Description:
+ mx-installer - Customizable GUI installer for MX Linux and antiX Linux
+Changes:
+ gazelle-installer (21.8.07mx19) mx; urgency=medium
+ .
+   * Allow user to configure dump and pass options.
+   * Updated partition manger help pane text.
+   * Fixed: swap causes umount to be executed twice.
+   * Updated media source list.
+   * Dump the stderr from the copy into the log.
+   * Minor GUI improvements.
+Checksums-Sha1:
+ be36fffff7271862af2ea296062458023cce6ec8 10582 gazelle-installer_21.8.07mx19_i386.buildinfo
+ 8b2e4211f3de8a64f8eb26518f5f295474ec04d0 427432 mx-installer_21.8.07mx19_i386.deb
+Checksums-Sha256:
+ c4a4e959391c5119c011cb688a54b68f2aa3616f63223db1f28f6a214108a39f 10582 gazelle-installer_21.8.07mx19_i386.buildinfo
+ 77053e22d71aecada593488ded36c198e2af805dc5d4bd172a3b1c73c85873aa 427432 mx-installer_21.8.07mx19_i386.deb
+Files:
+ df4f9a7ec7c5ba5c9f9e8e85299e69b2 10582 system optional gazelle-installer_21.8.07mx19_i386.buildinfo
+ a6c73a4c98f71e3871ce35918b591628 427432 system optional mx-installer_21.8.07mx19_i386.deb
+
+-----BEGIN PGP SIGNATURE-----
+
+iQFHBAEBCgAxFiEE8ndToY6S45N+YzXncJOMeAZ57pgFAmEYxDITHGFkcmlhbkBt
+eGxpbnV4Lm9yZwAKCRBwk4x4BnnumGPcB/4k9OZUJrlgLI9OxmX1pdEXFMrBA60I
+NlahCY9je7nqJwM0kQ9WEP3s++JXNoNjeboBvDGM6iILLNGfirMEmgkzlCtIv33Y
+bewoZgkYbrMR5MyiLErUXhS1fK/gOnvtNG2K9suCBKW52WgBQP4CBttwX7ev2R3x
+tAElmIh7Dwg5BaFABuRBGizdWqnx93RBeZnLXLlIxZ7uJ+vJcM3uf2P6PDuCOPQ5
+4vz5iSnVo4FrqW81FfdyRcrYAqZ/tPl8lQg9UPLnSm2yVdn/rRD14HYQKslAxOIo
+CJbCv/uZPOyb2lWHZrZupnkD/qEPXu/a5zAHwxJuHW9Ixh45F6ANFLxQ
+=Ko0p
+-----END PGP SIGNATURE-----

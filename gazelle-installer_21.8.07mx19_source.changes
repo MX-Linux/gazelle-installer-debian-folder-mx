@@ -1,0 +1,45 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+Format: 1.8
+Date: Sun, 15 Aug 2021 03:34:06 -0400
+Source: gazelle-installer
+Architecture: source
+Version: 21.8.07mx19
+Distribution: mx
+Urgency: medium
+Maintainer: dolphinoracle <dolphinoracle@gmail.com>
+Changed-By: Adrian <adrian@mxlinux.org>
+Changes:
+ gazelle-installer (21.8.07mx19) mx; urgency=medium
+ .
+   * Allow user to configure dump and pass options.
+   * Updated partition manger help pane text.
+   * Fixed: swap causes umount to be executed twice.
+   * Updated media source list.
+   * Dump the stderr from the copy into the log.
+   * Minor GUI improvements.
+Checksums-Sha1:
+ 733878ed5f369b90fd695da8e54ce21b05118204 669 gazelle-installer_21.8.07mx19.dsc
+ 9f4ccb9078f859d01c9d7fe10621dd65bc59c846 288452 gazelle-installer_21.8.07mx19.tar.xz
+ be36fffff7271862af2ea296062458023cce6ec8 10582 gazelle-installer_21.8.07mx19_i386.buildinfo
+Checksums-Sha256:
+ 439aff51ca48287dec778a68a10448692f3eb1932f468ae30c3933ea5e4b1c27 669 gazelle-installer_21.8.07mx19.dsc
+ 47f4f67e96f839426751dd0bc068d9cc64c0fd1d4b8794f5b013bb8e0bdd98a9 288452 gazelle-installer_21.8.07mx19.tar.xz
+ c4a4e959391c5119c011cb688a54b68f2aa3616f63223db1f28f6a214108a39f 10582 gazelle-installer_21.8.07mx19_i386.buildinfo
+Files:
+ 74b4135cae5fb18ab3e6bffcfa47eb9c 669 system optional gazelle-installer_21.8.07mx19.dsc
+ aa1c19f0be211ee40810f92a58619d9c 288452 system optional gazelle-installer_21.8.07mx19.tar.xz
+ df4f9a7ec7c5ba5c9f9e8e85299e69b2 10582 system optional gazelle-installer_21.8.07mx19_i386.buildinfo
+
+-----BEGIN PGP SIGNATURE-----
+
+iQFHBAEBCgAxFiEE8ndToY6S45N+YzXncJOMeAZ57pgFAmEYxDITHGFkcmlhbkBt
+eGxpbnV4Lm9yZwAKCRBwk4x4BnnumDzMCAC07wi/AGPjNbeMiF9hBwmF+C9ZBd4L
+z3x7kXkKojxpfsGbA3KhTtETN/WyiNYTS4eZl9/YIQ5zPeU1pV2ZDFRmhNTVfmWT
+J4SL2xof8xkzImWF0m3H0fo0mZVBzYVEPA0PXIlfyVCn1tLrQoi/tEePtxOfHvXx
+mCozGCYZEM7RjGKffsPb1NF6VWYaTYQlWlLI4N2fK3uLI42/QmF8//9Ngn+W4B52
+s1wQ67Dzi9yBCKBv0fh/Plx2UC2diPuFmk+kTeit1SLZi4NQp8nASqLz4klUjTPH
+E1wLxoKhnYzPGtsu637+d7zp6k1ler0PQd+bDNKMCjeEPTkdmHJVOFqw
+=B3tL
+-----END PGP SIGNATURE-----

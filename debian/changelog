@@ -1,3 +1,14 @@
+gazelle-installer (21.8.07mx19) mx; urgency=medium
+
+  * Allow user to configure dump and pass options.
+  * Updated partition manger help pane text.
+  * Fixed: swap causes umount to be executed twice.
+  * Updated media source list.
+  * Dump the stderr from the copy into the log.
+  * Minor GUI improvements.
+
+ -- Adrian <adrian@mxlinux.org>  Sun, 15 Aug 2021 03:34:06 -0400
+
 gazelle-installer (21.8.06mx19) mx; urgency=medium
 
   * Exclude gazelle.lnk for idesktop desktops.
