@@ -1,0 +1,41 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+Format: 1.8
+Date: Sun, 15 Aug 2021 09:10:45 -0400
+Source: gazelle-installer
+Binary: mx-installer
+Architecture: i386
+Version: 21.8.08mx19
+Distribution: mx
+Urgency: medium
+Maintainer: dolphinoracle <dolphinoracle@gmail.com>
+Changed-By: Adrian <adrian@mxlinux.org>
+Description:
+ mx-installer - Customizable GUI installer for MX Linux and antiX Linux
+Changes:
+ gazelle-installer (21.8.08mx19) mx; urgency=medium
+ .
+   * Fixed: wrong actions and options enabled if the layout is reset.
+   * Stop generating unknown "nofail" option for crypttab.
+Checksums-Sha1:
+ f58d24daf4714b141beb0639644248140d05f828 10582 gazelle-installer_21.8.08mx19_i386.buildinfo
+ 9c3a975af040a4bd3d9a5f73416954b4dfd86d23 427284 mx-installer_21.8.08mx19_i386.deb
+Checksums-Sha256:
+ 0a3c61e220c5f814f86220cd33a3d4615d2250decdffa88cc086d7443d2512af 10582 gazelle-installer_21.8.08mx19_i386.buildinfo
+ 95ec83f20ab023f8beff32b5a535e968f86b5891f15c62cc20b29aec294e3311 427284 mx-installer_21.8.08mx19_i386.deb
+Files:
+ f8ca23d180531727a1555e7d2a958792 10582 system optional gazelle-installer_21.8.08mx19_i386.buildinfo
+ 7f0c2890293be00e9c65aafb3387b30b 427284 system optional mx-installer_21.8.08mx19_i386.deb
+
+-----BEGIN PGP SIGNATURE-----
+
+iQFHBAEBCgAxFiEE8ndToY6S45N+YzXncJOMeAZ57pgFAmEZEuQTHGFkcmlhbkBt
+eGxpbnV4Lm9yZwAKCRBwk4x4BnnumJVyB/95a1ebnq47H8SHaFeld4rhlUG8eWEu
+S6LccAG98J3XW/HWndSZzV03L9IaDu9aQQ7lLkLP7mefzjfVuHtfRFNk4IDhwipi
+8dZjzjgtVOMb/FM3n+oAZQigkvJvk3AjJTQGR49MHpru/RGiSlHVdeqK21hdHob4
+mZCLTxx50178n6cIqnFBeJ6sLAPjco/UeL3c6tJlTfFtBGwLe+DWvOAqsAqUqwdG
+8BA8sspV0fuIfKE+gSOZ4volxL5s2Wp8tORWo5gOKj6Fy7ivJTsHW5JgR0J79yfP
+8h/X8GKpi5BbSSn6pjYYf8TVLrt7cgSnk9Op8Gan/8pI+GN/Z8JTXPwr
+=5vpP
+-----END PGP SIGNATURE-----

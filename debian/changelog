@@ -1,3 +1,10 @@
+gazelle-installer (21.8.08mx19) mx; urgency=medium
+
+  * Fixed: wrong actions and options enabled if the layout is reset.
+  * Stop generating unknown "nofail" option for crypttab.
+
+ -- Adrian <adrian@mxlinux.org>  Sun, 15 Aug 2021 09:10:45 -0400
+
 gazelle-installer (21.8.07mx19) mx; urgency=medium
 
   * Allow user to configure dump and pass options.

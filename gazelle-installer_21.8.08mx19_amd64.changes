@@ -1,0 +1,47 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+Format: 1.8
+Date: Sun, 15 Aug 2021 09:10:45 -0400
+Source: gazelle-installer
+Binary: mx-installer
+Architecture: source amd64
+Version: 21.8.08mx19
+Distribution: mx
+Urgency: medium
+Maintainer: dolphinoracle <dolphinoracle@gmail.com>
+Changed-By: Adrian <adrian@mxlinux.org>
+Description:
+ mx-installer - Customizable GUI installer for MX Linux and antiX Linux
+Changes:
+ gazelle-installer (21.8.08mx19) mx; urgency=medium
+ .
+   * Fixed: wrong actions and options enabled if the layout is reset.
+   * Stop generating unknown "nofail" option for crypttab.
+Checksums-Sha1:
+ 2570b19ebd900cd25468890ad88720e8226c0bfd 1231 gazelle-installer_21.8.08mx19.dsc
+ 1b468ffbee8cd5cb614002c815e7a79aff5d2dbd 288524 gazelle-installer_21.8.08mx19.tar.xz
+ 08ee4a49e870c8d24d1911ad2227a6fd90cf8fae 10821 gazelle-installer_21.8.08mx19_amd64.buildinfo
+ 6c8a042aca8a258bff567c09f0eaa8dc429cc8ed 412028 mx-installer_21.8.08mx19_amd64.deb
+Checksums-Sha256:
+ e5045e6bf62ef91cf3071783b3cfa5c38815870ca7b55265cdf3f13adf7c917b 1231 gazelle-installer_21.8.08mx19.dsc
+ 7f691603d53bc7dc3c2a9ad9494de619e523d40ec295980804c79b613c7a26b9 288524 gazelle-installer_21.8.08mx19.tar.xz
+ 64b2012ce560de0720069418239d41f7962696e20c8466ad487156f43795dc14 10821 gazelle-installer_21.8.08mx19_amd64.buildinfo
+ ac8c7f62d03e81cf85f880cbc6dfd4203c899cd94f5d9195a2b64ac16976ca31 412028 mx-installer_21.8.08mx19_amd64.deb
+Files:
+ d9006dd1da5af36dd52c7832db312df7 1231 system optional gazelle-installer_21.8.08mx19.dsc
+ be60728094b54b33a04267b547aa1494 288524 system optional gazelle-installer_21.8.08mx19.tar.xz
+ d112596e808a7f470c42047b92ef091d 10821 system optional gazelle-installer_21.8.08mx19_amd64.buildinfo
+ cfd8e47460f176540372157f6032a96c 412028 system optional mx-installer_21.8.08mx19_amd64.deb
+
+-----BEGIN PGP SIGNATURE-----
+
+iQFHBAEBCgAxFiEE8ndToY6S45N+YzXncJOMeAZ57pgFAmEZEtgTHGFkcmlhbkBt
+eGxpbnV4Lm9yZwAKCRBwk4x4BnnumMbtB/0dUiKiwyWnlVTUpPoEeid3VaWduhGc
+gSvhEmq2X8YAUtUVwkF68E5YxHkpnXJ2vsiphbDgOj6c5IUPQ7yNrNkuLGF6TKM8
+gB/nkPc+wjcZy936RasM+hmpvGA6pIgtCggt+EqfOSflsa2is8NgasTEVNvUnYRC
+SHZAYZz+Al0NSyCPn5zPB9WlxubkGpUnFQ4pWpW1uq7vcuVz51v3cPNSP2MTgJq1
+yo3hpN8dIgYYZTHWHYImLSGOLEeszTvpTuNzA7ls+c9r3FY5Z9KyRKsFOAxHs300
+1JH530GnNOen9+ztIYEwLnOrXgr1Gbyayf378ELupsNxQJHXWD6sHW9D
+=Xi72
+-----END PGP SIGNATURE-----
