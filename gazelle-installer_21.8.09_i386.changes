@@ -19,23 +19,23 @@ Changes:
    * Fixed: wrong actions and options enabled if the layout is reset.
    * Stop generating unknown "nofail" option for crypttab.
 Checksums-Sha1:
- c6e2dafc46bb512e8a922323f10db80548b1e1c8 9680 gazelle-installer_21.8.09_i386.buildinfo
- 54160fae3510f67e89326221ca7276286dbf36d0 434600 mx-installer_21.8.09_i386.deb
+ 2d12baea7930117f3b3a288de6851f54c0c1ec93 9680 gazelle-installer_21.8.09_i386.buildinfo
+ 730df8d9fbec9a390d9bd9ec5d4de9c57d497059 434596 mx-installer_21.8.09_i386.deb
 Checksums-Sha256:
- 88ba5d72845782b92dcc4d69238f62057fc695bbc6eafda20e2d4d60fdb47dd6 9680 gazelle-installer_21.8.09_i386.buildinfo
- 88cf8329b04b050cae10005a8476ec473fed721f80646c8a7e1b700aea1db9a8 434600 mx-installer_21.8.09_i386.deb
+ 357ccaab95de3c19902a86d0fc1d5f4b96d393b8044010f2c37702789274a25e 9680 gazelle-installer_21.8.09_i386.buildinfo
+ b515eba4a31574667ccb54873969f36f100dd4f54d67d5e588a91327218df55c 434596 mx-installer_21.8.09_i386.deb
 Files:
- a6311c983d045cc9bca40256f49c09f0 9680 system optional gazelle-installer_21.8.09_i386.buildinfo
- 5a4089afa654df64bed3dab461e77344 434600 system optional mx-installer_21.8.09_i386.deb
+ 5e7aac79d47b472fda10a5b6d84c02d4 9680 system optional gazelle-installer_21.8.09_i386.buildinfo
+ 04e491645a2e44f8dd57d5de2295315d 434596 system optional mx-installer_21.8.09_i386.deb
 
 -----BEGIN PGP SIGNATURE-----
 
-iQFHBAEBCgAxFiEE8ndToY6S45N+YzXncJOMeAZ57pgFAmEZG2ITHGFkcmlhbkBt
-eGxpbnV4Lm9yZwAKCRBwk4x4BnnumCsPB/9eYqt3bwLlabjzkrmRNBP8CwIAZh4d
-jZmfki0fhNN1S1es1Ur+201YqA2ZQfNigLqwYe7Ha4WMRVZirempSUcjh94x9QQk
-VHy/cbY+mOXo6LExy1XqpVqn9LwdZjciYxzq4gqZ+RLNW/abhk4VySMVqIzqO05P
-k93ThXwxuAFE5ObntYmZvEuZnLu0i7WxX+a1AKR5wazlopDUevwVZleH2kmq7iyj
-dOmtgpFZYBJuDZP+H9zSAoJ0vQgIgnhHHnCxAFz4I4vHNZ9+HxJMtVlptiRRyI6A
-oaBV/ON3FRVomOP6n9SnJU0fw/TIcCZUwYaDQMZngbvWbMDOBzpG+WDg
-=vWof
+iQFHBAEBCgAxFiEE8ndToY6S45N+YzXncJOMeAZ57pgFAmEZH78THGFkcmlhbkBt
+eGxpbnV4Lm9yZwAKCRBwk4x4BnnumBEzCACwh7rX/U+QrFUFO1Dj6Mi7JoBU8mYu
+t20Vk/sBH0zuSviyQDETau8XJNy3a3sWa7BvAUiQFWUjWAbwtYT8u8Ghkn3nBQoE
+Hwbi+ulCMD7WLgxHwVDwVxcc3Zex1ntr1QaOrEBDPASJH8AHd8CnY+KabtXYDQQ+
+hLI/P6P2ottlvdmcy/weTj4RwDFS6gmpIqK4EFjeNXopjwrbhmCjSDIY4PQRUdgk
+7SRJC7N2UEUDnJ1VMQq477l2u8t2sIqbuL2ZEqHVzDPBRwC89/aVff1nkffzw63p
+JEdzmQVQ/+fC/eHnM2eRG5iRXVHv0BhYbSWiAjViyXShH+sRbe1ROu5d
+=Z8zZ
 -----END PGP SIGNATURE-----
