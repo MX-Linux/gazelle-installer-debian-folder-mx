@@ -13,7 +13,7 @@ Package: mx-installer
 Architecture: any
 Depends: antix-libs,
          system-keyboard-qt | fskbsetting,
-         gazelle-installer-data-mx (>>19.09.02),
+         gazelle-installer-data-mx (>>21.07.01),
          gdisk,
          grub-efi-amd64-bin [amd64],
          grub-efi-ia32-bin,
