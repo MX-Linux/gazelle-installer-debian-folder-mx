@@ -1,0 +1,42 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+Format: 1.8
+Date: Sat, 14 Aug 2021 20:44:55 -0400
+Source: gazelle-installer
+Binary: mx-installer
+Architecture: i386
+Version: 21.8.07
+Distribution: mx
+Urgency: medium
+Maintainer: dolphinoracle <dolphinoracle@gmail.com>
+Changed-By: Adrian <adrian@mxlinux.org>
+Description:
+ mx-installer - Customizable GUI installer for MX Linux and antiX Linux
+Changes:
+ gazelle-installer (21.8.07) mx; urgency=medium
+ .
+   * Exclude gazelle.lnk for idesktop desktops.
+   * Fixed: /var/log/minstall.log not written.
+   * Prevent some potential crash situations.
+Checksums-Sha1:
+ 36ebe735330b558ecef0c8fb6f83f55070cc71a0 9680 gazelle-installer_21.8.07_i386.buildinfo
+ 5bfbde2d052d47d8b404836104a9904c65e47d9e 431456 mx-installer_21.8.07_i386.deb
+Checksums-Sha256:
+ 4cc96e09e6fa28121ceed8ebb93d14629b7dfd592055237236a82e5c9df3b78a 9680 gazelle-installer_21.8.07_i386.buildinfo
+ d638a82d76a9a52538a4bb739d0420757fb5da63d0fd22e28050a150f9a199b8 431456 mx-installer_21.8.07_i386.deb
+Files:
+ df695f2885036e630dac4f332b3b2609 9680 system optional gazelle-installer_21.8.07_i386.buildinfo
+ bea624ea1a1058b9dfbfbc4afd85bb98 431456 system optional mx-installer_21.8.07_i386.deb
+
+-----BEGIN PGP SIGNATURE-----
+
+iQFHBAEBCgAxFiEE8ndToY6S45N+YzXncJOMeAZ57pgFAmEYZCMTHGFkcmlhbkBt
+eGxpbnV4Lm9yZwAKCRBwk4x4BnnumEmvCACUe7cUiEKAYJOZy+dVtPmnIILqHDwR
+6/ZbMKuPXwgxHj0tr3vVeQrmgptNTDZ12BAGpjdy+obHnXs0gQQvY0G6OuX/9JiC
+xJr7GBjrWy4Z9sHoS8/ngUobUVPRxT6/NAankc6I2689ydSmWrc4cIgDAPaEEldW
+PhQEexrle98yodsqYP0lWM9VTsbBhRg3R5v4plmGFmhITbZTh7eoB7Ey85/uOMvn
+R5+HQq+w+vzmP/SW6tFSoexSB22f0HT5sWjSxOd0P04vukzahwnpsK/NWhg796fP
+HvOaFhy3mB7s1j1hBBY1JbQHmOHrdK++Xdu2wMimcm1p3RfCGak6jqul
+=tdO5
+-----END PGP SIGNATURE-----

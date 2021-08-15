@@ -1,3 +1,11 @@
+gazelle-installer (21.8.07) mx; urgency=medium
+
+  * Exclude gazelle.lnk for idesktop desktops.
+  * Fixed: /var/log/minstall.log not written.
+  * Prevent some potential crash situations.
+
+ -- Adrian <adrian@mxlinux.org>  Sat, 14 Aug 2021 20:44:55 -0400
+
 gazelle-installer (21.8.06) mx; urgency=medium
 
   * Fixed: validation segmentation fault if there are virtual devices. 
