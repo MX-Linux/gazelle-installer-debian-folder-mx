@@ -1,0 +1,47 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+Format: 1.8
+Date: Sun, 15 Aug 2021 08:56:07 -0400
+Source: gazelle-installer
+Binary: mx-installer
+Architecture: source amd64
+Version: 21.8.09
+Distribution: mx
+Urgency: medium
+Maintainer: dolphinoracle <dolphinoracle@gmail.com>
+Changed-By: Adrian <adrian@mxlinux.org>
+Description:
+ mx-installer - Customizable GUI installer for MX Linux and antiX Linux
+Changes:
+ gazelle-installer (21.8.09) mx; urgency=medium
+ .
+   * Fixed: wrong actions and options enabled if the layout is reset.
+   * Stop generating unknown "nofail" option for crypttab.
+Checksums-Sha1:
+ 3173d4242147d564d0521613235fc562ee64634c 1215 gazelle-installer_21.8.09.dsc
+ bcc6113b25583751042f4942a3c7d2f5bab7d5c8 288204 gazelle-installer_21.8.09.tar.xz
+ 53fb13fe3820d8fe191dd5d09335e74854c901ae 9992 gazelle-installer_21.8.09_amd64.buildinfo
+ 2be2ffdda38d4e7d287552ffb3904060d73750fc 419000 mx-installer_21.8.09_amd64.deb
+Checksums-Sha256:
+ a3361b8c26fb1c69618b1e73ebf7ccfd71222fcf576066e27cba053f7a76a502 1215 gazelle-installer_21.8.09.dsc
+ 5ba50e03c7548361c50af8dc7c1562c0f5b5566d5cae288a603905e8fab10ec7 288204 gazelle-installer_21.8.09.tar.xz
+ f9323acaeec383bb620e12eec98efdba8ce5990bc17d8ba63668da194cd67a4e 9992 gazelle-installer_21.8.09_amd64.buildinfo
+ 80a160411c61a6b79354f4210a2854eda7a0532067a40f6dfb7251d420bad3d1 419000 mx-installer_21.8.09_amd64.deb
+Files:
+ 1fb26ce1790677bc339029ad291d27f5 1215 system optional gazelle-installer_21.8.09.dsc
+ 85550ec3a63af8fc7a5f23f9d72dbefd 288204 system optional gazelle-installer_21.8.09.tar.xz
+ eab60249c28a13d238ce0f1aff118b28 9992 system optional gazelle-installer_21.8.09_amd64.buildinfo
+ 1eee5c7e56925e99e789764834534b49 419000 system optional mx-installer_21.8.09_amd64.deb
+
+-----BEGIN PGP SIGNATURE-----
+
+iQFHBAEBCgAxFiEE8ndToY6S45N+YzXncJOMeAZ57pgFAmEZEQ0THGFkcmlhbkBt
+eGxpbnV4Lm9yZwAKCRBwk4x4BnnumGaSB/9e/vY50BVJimskOAMkdQQA/mwkj8gk
+Hr5DqLw3IrlwRoFGBcWraPe4crQCMFD00/FOojI2gqh9lXyFnWxntpGgSV9B+WPV
+j9F/jsOtSvvqu/YYx2QgAO60BuIXemZAyd6RbhQbEizqCNWfK/MMD/YAln/ASrBu
+LXR6lqOJgwxIvv62f5HQxfYtqiYXqS4ZZcGNK1589yK9GrGKxE0uQ4dI9ukBWF64
+MAiakVWatsj5REy1AJSWvm+R29pAxILELioxemt9eV18FG7p8uBkndm46eijQqIh
+9AzfQelXqRTp9uVdlEbkfm3Y4/IwkQo+fg5nGxOnIPmoE4CU9P3hEAq/
+=Elsz
+-----END PGP SIGNATURE-----
