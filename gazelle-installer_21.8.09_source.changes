@@ -1,0 +1,41 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+Format: 1.8
+Date: Sun, 15 Aug 2021 08:56:07 -0400
+Source: gazelle-installer
+Architecture: source
+Version: 21.8.09
+Distribution: mx
+Urgency: medium
+Maintainer: dolphinoracle <dolphinoracle@gmail.com>
+Changed-By: Adrian <adrian@mxlinux.org>
+Changes:
+ gazelle-installer (21.8.09) mx; urgency=medium
+ .
+   * Fixed: wrong actions and options enabled if the layout is reset.
+   * Stop generating unknown "nofail" option for crypttab.
+Checksums-Sha1:
+ 734d68bdb6e45e30dddb9cedf14bcfc7503c74e5 653 gazelle-installer_21.8.09.dsc
+ 54ba321b72a74c30647bd0becf94b5adc4c40319 288252 gazelle-installer_21.8.09.tar.xz
+ 9dfe7f53d9da70e24059b0e4ef1c819f479b1e61 9680 gazelle-installer_21.8.09_i386.buildinfo
+Checksums-Sha256:
+ 31b23903e9fccfb447441d5d2d227794b3c0e2fa218ccab70166be9964c02738 653 gazelle-installer_21.8.09.dsc
+ 9bd94cb44b87a9a8a9ab9fcf715f2941b5b47ad31d4b269ba992590fa3b7551d 288252 gazelle-installer_21.8.09.tar.xz
+ 11d09f12f13248168ca16c1a70663f80926cde623c9b1e74ad37b8469d37fc28 9680 gazelle-installer_21.8.09_i386.buildinfo
+Files:
+ e07fac94287da17cfcacffef7a1b75db 653 system optional gazelle-installer_21.8.09.dsc
+ df8dd0fb6ae462f8876e989f8475bc11 288252 system optional gazelle-installer_21.8.09.tar.xz
+ afd47cf7e011ac4866a1b7fa1ca57691 9680 system optional gazelle-installer_21.8.09_i386.buildinfo
+
+-----BEGIN PGP SIGNATURE-----
+
+iQFHBAEBCgAxFiEE8ndToY6S45N+YzXncJOMeAZ57pgFAmEZERATHGFkcmlhbkBt
+eGxpbnV4Lm9yZwAKCRBwk4x4BnnumPqbB/wIuE6s48wIy6p+Q5Vlv/rnezsAG9dF
+Y8wYLAm64UZLCvkc4X71wwurJCcXIiRAr7jXH+HrXHYiP8h4Kc8S7LCvxQR3Xct8
+Ey2te76vcA2fvCtqWtdbs/iWNCQnrUE+F5uow+6HGNAc8H7+PqQerSPSlfwylskh
+dSwZlGpvu1Dm+Xt13HxmRqXQlThBAsb2I6fsSKlI0WntqIrXORhMZu5L/8deXhDG
+jQZo1OgMNjm9dwxsbs0jZfDnU9VyRwdpJvXK8ch+JEsMnuDOh83R2+vqINsPHwcb
+yEN99YQFWuDjuLxqC3NhfwwU+SXvx1uvBbA+xYCVRSGbwyXul5jQEGG4
+=4Q2N
+-----END PGP SIGNATURE-----
