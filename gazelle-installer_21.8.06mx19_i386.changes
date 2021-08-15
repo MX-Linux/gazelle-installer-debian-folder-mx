@@ -1,0 +1,42 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+Format: 1.8
+Date: Sat, 14 Aug 2021 20:48:09 -0400
+Source: gazelle-installer
+Binary: mx-installer
+Architecture: i386
+Version: 21.8.06mx19
+Distribution: mx
+Urgency: medium
+Maintainer: dolphinoracle <dolphinoracle@gmail.com>
+Changed-By: Adrian <adrian@mxlinux.org>
+Description:
+ mx-installer - Customizable GUI installer for MX Linux and antiX Linux
+Changes:
+ gazelle-installer (21.8.06mx19) mx; urgency=medium
+ .
+   * Exclude gazelle.lnk for idesktop desktops.
+   * Fixed: /var/log/minstall.log not written.
+   * Prevent some potential crash situations.
+Checksums-Sha1:
+ 9b2d08d226024163619fbc4c335a4e216c1b7897 10582 gazelle-installer_21.8.06mx19_i386.buildinfo
+ 7ff1a128d8b02a7547d7b5a706498078f7dc56ea 424780 mx-installer_21.8.06mx19_i386.deb
+Checksums-Sha256:
+ f7e45c6fca8987087db495a606883779b40c74d5f49c95662f8370813c605dfa 10582 gazelle-installer_21.8.06mx19_i386.buildinfo
+ 64e8db811ee3b8ba33060b127f9d26617838e01e02f7149ceb84f8f50452e32f 424780 mx-installer_21.8.06mx19_i386.deb
+Files:
+ 6ea54c3383f940fd549fd2eca497b694 10582 system optional gazelle-installer_21.8.06mx19_i386.buildinfo
+ 1fccadc4c32e4c1591369c6be14a20ec 424780 system optional mx-installer_21.8.06mx19_i386.deb
+
+-----BEGIN PGP SIGNATURE-----
+
+iQFHBAEBCgAxFiEE8ndToY6S45N+YzXncJOMeAZ57pgFAmEYZM0THGFkcmlhbkBt
+eGxpbnV4Lm9yZwAKCRBwk4x4BnnumBk3B/9AUsoQWriCvU7V9FzZbVKkIzOprnRx
+SV5nQxeJd8undJl58HHRQGFNamxxcz+Q6aOTzJ73oEf/C/s3xxlnxJoPPVDCTuzj
+9/+VKATAuhxZ3m/KjFrUCJPLApZi1Ys7B+zUz1wDcHgvTOnll31xQO1TbiV2JYgM
+v/hFHYBlMpaSrNR+YwzQ00qj6zBSkXI5aRAeqloAk/Vj3TFi5nCvj2OhehXThwjw
+Ht0Tcwj25t8QeZ+GUy1Wnb1hIz0D0VP2c98qcOjXdpXhQcX/pMd935itn8xJcXWT
+7yamz0q1RIxwXweINCo0ZfCMCtspaTAdXLI/O4KiHDG+UDa9Rl83c85O
+=3GQE
+-----END PGP SIGNATURE-----
