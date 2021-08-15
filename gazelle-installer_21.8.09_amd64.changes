@@ -19,29 +19,29 @@ Changes:
    * Fixed: wrong actions and options enabled if the layout is reset.
    * Stop generating unknown "nofail" option for crypttab.
 Checksums-Sha1:
- 68d6be43baea4521de6399f63745bcd055db0abc 1215 gazelle-installer_21.8.09.dsc
- 80e08e2bbd4a70ec3fc35aa644b6b3d0a5d65741 288252 gazelle-installer_21.8.09.tar.xz
- b3609793cb5b2d0391831f721e03115abccd3766 9992 gazelle-installer_21.8.09_amd64.buildinfo
- c152ae3ca5c54e1ee3bad3a471ac87d3d3ea4285 419004 mx-installer_21.8.09_amd64.deb
+ fd1cfe76b1e27032370078a277c1e2e41d40265d 1215 gazelle-installer_21.8.09.dsc
+ 9c1bc5bc5d604959e2cb1717dcf02215e2c66950 288216 gazelle-installer_21.8.09.tar.xz
+ 83f76dead13a281da0c7981a2967cc8520d38803 9992 gazelle-installer_21.8.09_amd64.buildinfo
+ 6e31fb1a8cc6add107d871dc42d34f809dd05876 419004 mx-installer_21.8.09_amd64.deb
 Checksums-Sha256:
- 6bc6b54021fe3bc5fa14e1b6c9a3c6323d0aa651e267031bb47b5c165185dc45 1215 gazelle-installer_21.8.09.dsc
- 777fff24222adbbeb54c37d1ef4401456fe4d63e8e8ef9c92557da1dabc4b069 288252 gazelle-installer_21.8.09.tar.xz
- 2732710e930028dbd9294aa7de0f32d4d0853b33a432575489583b1b54f1ba6a 9992 gazelle-installer_21.8.09_amd64.buildinfo
- b447247308a41e469e8df6a8cd8ada6cb585b45ff97fef7ee63e1c54247d2318 419004 mx-installer_21.8.09_amd64.deb
+ 17b03476b7a7adc7e1527237867ee114a458fff4983d00fad1dafc98f9041fe7 1215 gazelle-installer_21.8.09.dsc
+ dcf28a5b9f544761124339be9af7da4d35a3b7c78f9943e0ea87fee01ba768b4 288216 gazelle-installer_21.8.09.tar.xz
+ 9aa555fe3a8a2751cfe6bc88d8e12814a47ac1b5d2ed5d563376891d418954b6 9992 gazelle-installer_21.8.09_amd64.buildinfo
+ a21783b558f87c80b9ec3305c174aabda038b3b6a68213f126d6a21333772f2f 419004 mx-installer_21.8.09_amd64.deb
 Files:
- 83ca6970c76345a0c286a1551107cbca 1215 system optional gazelle-installer_21.8.09.dsc
- 42c6031c520b39e43e30fe4822b41b5c 288252 system optional gazelle-installer_21.8.09.tar.xz
- 57bb73248204f63f17f4d9df0c2dbb7a 9992 system optional gazelle-installer_21.8.09_amd64.buildinfo
- 03a6754ff6795d88791f15e202c056a7 419004 system optional mx-installer_21.8.09_amd64.deb
+ a8722253c3865ec47fc20dd0506ff712 1215 system optional gazelle-installer_21.8.09.dsc
+ b69fb6abd75026726cfb83eb8376af3a 288216 system optional gazelle-installer_21.8.09.tar.xz
+ 7b40719475330504ae05c55153d4eb0d 9992 system optional gazelle-installer_21.8.09_amd64.buildinfo
+ 60f5cefe6b42bb5556898669749f4c7a 419004 system optional mx-installer_21.8.09_amd64.deb
 
 -----BEGIN PGP SIGNATURE-----
 
-iQFHBAEBCgAxFiEE8ndToY6S45N+YzXncJOMeAZ57pgFAmEZG2ETHGFkcmlhbkBt
-eGxpbnV4Lm9yZwAKCRBwk4x4BnnumKbkB/9nu8jMMvJPUYw+0Uh8CutFWed8FTkO
-d8WeaNtSgOSo4HPt2zU1HsgeWDm26aMzswHQPLdnecOmLMNJW+ZIGnIjg1h1rY2k
-wa0i7XmDwy0WKcnY2aMK7PNkH0Ba9XomsJFwjk6DZHAZ/x+EWtXBlnpuhae/VyZu
-Rm/8w5RhJl2GG+rXQIEFjV1BG2R3L+KtSVWCYGDrPl000OnZP+cONYlG8qMoUp6h
-10CEGnPWYvn9+jQQYcIPMCo61LJu7ilvRbhjfzJ84sL4G9kptPQ/f7iFcZzD3hB+
-sb2ao9Lzd1v5KOCkiVHBUITs/BRx/seqpI93JTt+qiUKmnpRJ9oHPa4O
-=QzyU
+iQFHBAEBCgAxFiEE8ndToY6S45N+YzXncJOMeAZ57pgFAmEZH6YTHGFkcmlhbkBt
+eGxpbnV4Lm9yZwAKCRBwk4x4BnnumFMvCACpLFCFwV5/pDTFIyGylB3hmL3vy8uE
+EkJpU+d53VYzlPxl2nQSMADagTdtIC2Xt+CXjj7uyMuWjH1RYs1OMPimwpoXxylX
+DWzeN+1pArVUpDsuWAcrG2V0YSKYLN+XvsHYy9pnjb5w267qvCgc5icOwf4ZQmCp
+WW/Yxk1W9h1Saw0qUYAzSJ2otUY5iDYSyBP236zJ+66Z5k0L6pZ+82cJvjVnDyBW
+apZb5+RtcnbyH+0bCEbym9UUquSAnECr9lW10eLZ7U1wm+XcPV/cS16PVvmbQZk7
+T5/FQwX571weQI943LYdYfXWd4jtLvjE6sdEvXJyVCafAHLGqSPI6CvP
+=Zk/I
 -----END PGP SIGNATURE-----
