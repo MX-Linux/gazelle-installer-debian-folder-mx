@@ -1,3 +1,9 @@
+gazelle-installer (21.8.10) mx; urgency=medium
+
+  * Exclude .config/session when saving /home/demo
+
+ -- Adrian <adrian@mxlinux.org>  Wed, 25 Aug 2021 07:40:07 -0400
+
 gazelle-installer (21.8.09) mx; urgency=medium
 
   * Fixed: wrong actions and options enabled if the layout is reset.
