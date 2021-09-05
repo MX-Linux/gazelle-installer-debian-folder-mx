@@ -1,0 +1,25 @@
+Format: 1.8
+Date: Sun, 05 Sep 2021 15:22:04 -0400
+Source: gazelle-installer
+Binary: mx-installer
+Architecture: i386
+Version: 21.9
+Distribution: mx
+Urgency: medium
+Maintainer: dolphinoracle <dolphinoracle@gmail.com>
+Changed-By: Adrian <adrian@mxlinux.org>
+Description:
+ mx-installer - Customizable GUI installer for MX Linux and antiX Linux
+Changes:
+ gazelle-installer (21.9) mx; urgency=medium
+ .
+   * Create /etc/machine-id for systems that use systemd
+Checksums-Sha1:
+ 9414b295bf8179b0e7d69cfe99764c38bd2b9a2a 9103 gazelle-installer_21.9_i386.buildinfo
+ b485aa59568736a9426ea61efec11faf93d7d78c 384208 mx-installer_21.9_i386.deb
+Checksums-Sha256:
+ d5793798688fba5c48039370bb053e52d33c51b78dd8d121a853a26a524da05c 9103 gazelle-installer_21.9_i386.buildinfo
+ 96782ae07d0a473578ffc38fe9e3dd148d3d3e812f7b7e2711e0602814928682 384208 mx-installer_21.9_i386.deb
+Files:
+ f375384976791eff90d39ba6bbdd5cf9 9103 system optional gazelle-installer_21.9_i386.buildinfo
+ 57834f842af249921966f38342c432b3 384208 system optional mx-installer_21.9_i386.deb

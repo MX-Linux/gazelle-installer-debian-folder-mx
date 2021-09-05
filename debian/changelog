@@ -1,3 +1,9 @@
+gazelle-installer (21.9) mx; urgency=medium
+
+  * Create /etc/machine-id for systems that use systemd
+
+ -- Adrian <adrian@mxlinux.org>  Sun, 05 Sep 2021 15:22:04 -0400
+
 gazelle-installer (21.8.10) mx; urgency=medium
 
   * Exclude .config/session when saving /home/demo
