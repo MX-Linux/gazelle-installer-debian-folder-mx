@@ -1,0 +1,46 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+Format: 1.8
+Date: Sun, 05 Sep 2021 15:22:04 -0400
+Source: gazelle-installer
+Binary: mx-installer
+Architecture: source amd64
+Version: 21.9
+Distribution: mx
+Urgency: medium
+Maintainer: dolphinoracle <dolphinoracle@gmail.com>
+Changed-By: Adrian <adrian@mxlinux.org>
+Description:
+ mx-installer - Customizable GUI installer for MX Linux and antiX Linux
+Changes:
+ gazelle-installer (21.9) mx; urgency=medium
+ .
+   * Create /etc/machine-id for systems that use systemd
+Checksums-Sha1:
+ 932d222f7427ab4597ee6737c58fdd4086d3f8e1 1203 gazelle-installer_21.9.dsc
+ baa489b0ef5b9f9053ba80c8dfaad392514952a9 403932 gazelle-installer_21.9.tar.xz
+ cd4a573ae05eef9b982181c2a7b658c49a35f6ab 9968 gazelle-installer_21.9_amd64.buildinfo
+ 8c7d04a2a3a6b5b54ed6000187ed0f755aa2f8e7 370012 mx-installer_21.9_amd64.deb
+Checksums-Sha256:
+ 8a5ccf125b9c4cfbcbe7660f5557d0b65062404d405cbc4a2a43c69ab7778d91 1203 gazelle-installer_21.9.dsc
+ 43d190aa6d9bfc2228736ff102a0686bdd1f9c0c3a470f1c48f71b50ad54cb8e 403932 gazelle-installer_21.9.tar.xz
+ a97ca4b38921657fc0289a6811379e0b65bcb9c1088f67e735d255bbfbd1a92e 9968 gazelle-installer_21.9_amd64.buildinfo
+ 81f942700087170a9407e0febbe088a3ea1afdc886606f11bfeb05245662150e 370012 mx-installer_21.9_amd64.deb
+Files:
+ d17e51e6f7712552c0cd2260c076449e 1203 system optional gazelle-installer_21.9.dsc
+ 7e89dcd3da063d42205ad81f649af5b2 403932 system optional gazelle-installer_21.9.tar.xz
+ d9d0e4e961fb00796a77f1e7669d5e43 9968 system optional gazelle-installer_21.9_amd64.buildinfo
+ e9cba87863e7985b342a9968c8a277ef 370012 system optional mx-installer_21.9_amd64.deb
+
+-----BEGIN PGP SIGNATURE-----
+
+iQFHBAEBCgAxFiEE8ndToY6S45N+YzXncJOMeAZ57pgFAmE1KVETHGFkcmlhbkBt
+eGxpbnV4Lm9yZwAKCRBwk4x4BnnumBI3B/9gUG+KsBNNfrAWhR5kQmjJf42cnwi3
+aKaF9NFoJTbXkvLQxwRpkgJOnH0i4ZIvZbYMww+HXa+JJJ126LidKfWoZnVv11Ym
+T1lP4A6hzVL8zrtICXR02fd+zs2fsrTfbwEzsOBhTB/Ydtxdm0wwl87YGdrLaaFT
+ZPbadLDyXaDkOFGmsm8lH/8FCVzZTnSmHc2MlxV4Omtv/cQ1pLo8l138uezJ9EYK
+98iHc64Jer9AQ2YUeoYV5Gu1LuxlVI7uInw+htWUF4SS0v08bFDEL8ueBmBYkwQd
+Tc2Pp3kMVoB6nBFUEKRF5gbcg3KhB1/XlL1FqSRAtHiXqxfdQYnT3YEJ
+=Ydy5
+-----END PGP SIGNATURE-----
