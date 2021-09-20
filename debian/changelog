@@ -1,3 +1,13 @@
+gazelle-installer (21.9.01mx19) mx; urgency=medium
+
+  * Allow multiple EFI System Partitions to be created.
+  * Removed native partition warning.
+  * Model-View-Controller partition manager architecture.
+  * Usability improvements and bug fixes.
+  * Translations updated.
+
+ -- Adrian <adrian@mxlinux.org>  Mon, 20 Sep 2021 13:29:12 -0400
+
 gazelle-installer (21.8.08mx19) mx; urgency=medium
 
   * Fixed: wrong actions and options enabled if the layout is reset.

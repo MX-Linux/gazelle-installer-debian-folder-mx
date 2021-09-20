@@ -1,0 +1,29 @@
+Format: 1.8
+Date: Mon, 20 Sep 2021 13:29:12 -0400
+Source: gazelle-installer
+Binary: mx-installer
+Architecture: i386
+Version: 21.9.01mx19
+Distribution: mx
+Urgency: medium
+Maintainer: dolphinoracle <dolphinoracle@gmail.com>
+Changed-By: Adrian <adrian@mxlinux.org>
+Description:
+ mx-installer - Customizable GUI installer for MX Linux and antiX Linux
+Changes:
+ gazelle-installer (21.9.01mx19) mx; urgency=medium
+ .
+   * Allow multiple EFI System Partitions to be created.
+   * Removed native partition warning.
+   * Model-View-Controller partition manager architecture.
+   * Usability improvements and bug fixes.
+   * Translations updated.
+Checksums-Sha1:
+ e85d581349813f66bd3118e738c58f7ab8588c97 9705 gazelle-installer_21.9.01mx19_i386.buildinfo
+ 0513e42efcc7fe6cda63aac91d1fca81ed603832 448316 mx-installer_21.9.01mx19_i386.deb
+Checksums-Sha256:
+ 963f5eee0d838089a33b143c2b39cb7616d799c85d6513f13c25d1358a2ccb97 9705 gazelle-installer_21.9.01mx19_i386.buildinfo
+ 37455607c260cccb0b0d85d2b7b496e32174b9a997c3fda0c62d07e51a8700b4 448316 mx-installer_21.9.01mx19_i386.deb
+Files:
+ a578c185926a09221655461700fbde0f 9705 system optional gazelle-installer_21.9.01mx19_i386.buildinfo
+ 09be9c648371853d4cdf57fe5dac7d63 448316 system optional mx-installer_21.9.01mx19_i386.deb
