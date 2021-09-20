@@ -1,0 +1,29 @@
+Format: 1.8
+Date: Mon, 20 Sep 2021 13:22:52 -0400
+Source: gazelle-installer
+Architecture: source
+Version: 21.9.01
+Distribution: mx
+Urgency: medium
+Maintainer: dolphinoracle <dolphinoracle@gmail.com>
+Changed-By: Adrian <adrian@mxlinux.org>
+Changes:
+ gazelle-installer (21.9.01) mx; urgency=medium
+ .
+   * Allow multiple EFI System Partitions to be created.
+   * Removed native partition warning.
+   * Model-View-Controller partition manager architecture.
+   * Usability improvements and bug fixes.
+   * Translations updated.
+Checksums-Sha1:
+ c4b90ee3a3dd0d5705bb6c75536d6d3d4bf82603 653 gazelle-installer_21.9.01.dsc
+ 7db1d13a88915fa84d733bc7dc0efdaa5c763ca5 308044 gazelle-installer_21.9.01.tar.xz
+ b6866a2ca1f9b71e227a34ff9b3f884debf0f5cd 9120 gazelle-installer_21.9.01_i386.buildinfo
+Checksums-Sha256:
+ e427b930353390b44bd00b996448025418012f43c29a6909991501d4ecdb2456 653 gazelle-installer_21.9.01.dsc
+ 9ad4181a88222dfd170c562fe90727f35c8c5bc6235e9042913a7481d143d485 308044 gazelle-installer_21.9.01.tar.xz
+ 92f7e1c57785ab235857dded1eff3a040571bb7e8ff4f8dcb6971684cad90713 9120 gazelle-installer_21.9.01_i386.buildinfo
+Files:
+ 0700342bce436feb3bf9b2d863db7cf1 653 system optional gazelle-installer_21.9.01.dsc
+ 0dd5bda2584b84e52ad18303022a82c1 308044 system optional gazelle-installer_21.9.01.tar.xz
+ b138c20c1164d0cb0a87e88b98e6b8a5 9120 system optional gazelle-installer_21.9.01_i386.buildinfo
