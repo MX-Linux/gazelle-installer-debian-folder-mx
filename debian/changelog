@@ -1,3 +1,12 @@
+gazelle-installer (21.9.02) mx; urgency=medium
+
+  * Partition manager UX improvements.
+  * Fixed: can edit "Virtual Devices" header columns.
+  * Main lock file no longer needed for pretend mode.
+  * Translator setup moved further back to the start. 
+
+ -- Adrian <adrian@mxlinux.org>  Wed, 22 Sep 2021 18:28:56 -0400
+
 gazelle-installer (21.9.01) mx; urgency=medium
 
   * Allow multiple EFI System Partitions to be created.
