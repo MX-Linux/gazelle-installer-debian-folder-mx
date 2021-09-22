@@ -1,0 +1,28 @@
+Format: 1.8
+Date: Wed, 22 Sep 2021 18:28:56 -0400
+Source: gazelle-installer
+Architecture: source
+Version: 21.9.02
+Distribution: mx
+Urgency: medium
+Maintainer: dolphinoracle <dolphinoracle@gmail.com>
+Changed-By: Adrian <adrian@mxlinux.org>
+Changes:
+ gazelle-installer (21.9.02) mx; urgency=medium
+ .
+   * Partition manager UX improvements.
+   * Fixed: can edit "Virtual Devices" header columns.
+   * Main lock file no longer needed for pretend mode.
+   * Translator setup moved further back to the start.
+Checksums-Sha1:
+ 34f769ebeccdb204afc8d72d66e44fd3970d6778 653 gazelle-installer_21.9.02.dsc
+ 711143af88d741decbc0e4a275b87566579ec9b7 308528 gazelle-installer_21.9.02.tar.xz
+ 2b92b32579fadccbcfed045294fd6abf392fef14 9118 gazelle-installer_21.9.02_i386.buildinfo
+Checksums-Sha256:
+ 6a5f775a1f5f62421fdd2934365dfaeeec3ea6405ed48ddab8e91e9a32b2d267 653 gazelle-installer_21.9.02.dsc
+ da0b9ab2f1f34b5f72bf2b79a85a2175524d395be52f1357f8a9d4b488ed1eff 308528 gazelle-installer_21.9.02.tar.xz
+ b78dd1f6244d6515a8ffa211edffedae8f6d13b8d76de47dfc551b91fb88b861 9118 gazelle-installer_21.9.02_i386.buildinfo
+Files:
+ 441c484a99e6e069a4a375091d4f1a2d 653 system optional gazelle-installer_21.9.02.dsc
+ d8d57cb96e7feafe2e779fdd69a2bd21 308528 system optional gazelle-installer_21.9.02.tar.xz
+ 01a5dccb3e2cb6834da4081c8241612d 9118 system optional gazelle-installer_21.9.02_i386.buildinfo

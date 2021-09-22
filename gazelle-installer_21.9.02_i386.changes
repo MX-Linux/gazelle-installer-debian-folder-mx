@@ -1,0 +1,28 @@
+Format: 1.8
+Date: Wed, 22 Sep 2021 18:28:56 -0400
+Source: gazelle-installer
+Binary: mx-installer
+Architecture: i386
+Version: 21.9.02
+Distribution: mx
+Urgency: medium
+Maintainer: dolphinoracle <dolphinoracle@gmail.com>
+Changed-By: Adrian <adrian@mxlinux.org>
+Description:
+ mx-installer - Customizable GUI installer for MX Linux and antiX Linux
+Changes:
+ gazelle-installer (21.9.02) mx; urgency=medium
+ .
+   * Partition manager UX improvements.
+   * Fixed: can edit "Virtual Devices" header columns.
+   * Main lock file no longer needed for pretend mode.
+   * Translator setup moved further back to the start.
+Checksums-Sha1:
+ 2b92b32579fadccbcfed045294fd6abf392fef14 9118 gazelle-installer_21.9.02_i386.buildinfo
+ b02bb9695c2a63aa66570fc192cfeebff0aa6f28 453076 mx-installer_21.9.02_i386.deb
+Checksums-Sha256:
+ b78dd1f6244d6515a8ffa211edffedae8f6d13b8d76de47dfc551b91fb88b861 9118 gazelle-installer_21.9.02_i386.buildinfo
+ 1171196dae0b3aa2fa5151c7513041af91b593bfc17044db136d795b90ff826e 453076 mx-installer_21.9.02_i386.deb
+Files:
+ 01a5dccb3e2cb6834da4081c8241612d 9118 system optional gazelle-installer_21.9.02_i386.buildinfo
+ 67bd38f53ca3a467540b5106dbe80729 453076 system optional mx-installer_21.9.02_i386.deb

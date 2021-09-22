@@ -1,0 +1,49 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+Format: 1.8
+Date: Wed, 22 Sep 2021 18:28:56 -0400
+Source: gazelle-installer
+Binary: mx-installer
+Architecture: source amd64
+Version: 21.9.02
+Distribution: mx
+Urgency: medium
+Maintainer: dolphinoracle <dolphinoracle@gmail.com>
+Changed-By: Adrian <adrian@mxlinux.org>
+Description:
+ mx-installer - Customizable GUI installer for MX Linux and antiX Linux
+Changes:
+ gazelle-installer (21.9.02) mx; urgency=medium
+ .
+   * Partition manager UX improvements.
+   * Fixed: can edit "Virtual Devices" header columns.
+   * Main lock file no longer needed for pretend mode.
+   * Translator setup moved further back to the start.
+Checksums-Sha1:
+ cab6976ef79771cf43e5e3459e4155646dbce0bf 1215 gazelle-installer_21.9.02.dsc
+ ec9caeb65e7ef6fce1d612b5993c54974ee1e4f5 308488 gazelle-installer_21.9.02.tar.xz
+ e90539b2a8cf9c0903d815cdd9f544a293cb25e7 9992 gazelle-installer_21.9.02_amd64.buildinfo
+ abc7e8ef8ae31f48eb65b6b3fcc9f0777a82520b 436700 mx-installer_21.9.02_amd64.deb
+Checksums-Sha256:
+ 732eec767c38f98b2a49afefee1cb878727ad7bbe9e048e0f6bdefdd984e24fb 1215 gazelle-installer_21.9.02.dsc
+ 4c7f9da35544cc71ff2db75b31aa4a62d6bf51100a768d5babfa9dcec35f875c 308488 gazelle-installer_21.9.02.tar.xz
+ 6a61bfeaea9a18d6dcfe6a02f7acc03d7285a47d8f012cc60f935c28dbf78df2 9992 gazelle-installer_21.9.02_amd64.buildinfo
+ 49e616f62dc5b9c4a94b37371332a79d6224ced7375e4d7286adccece93fd548 436700 mx-installer_21.9.02_amd64.deb
+Files:
+ 45b3ad87f53200482e1a259cd4d6dc2f 1215 system optional gazelle-installer_21.9.02.dsc
+ 94feb0d7bffefc0e157229c1a6e5c09d 308488 system optional gazelle-installer_21.9.02.tar.xz
+ ab7a9bb04611cf35b8cd827dbf47fb28 9992 system optional gazelle-installer_21.9.02_amd64.buildinfo
+ 8b6af992d06ef59a08ffb575b9e903dc 436700 system optional mx-installer_21.9.02_amd64.deb
+
+-----BEGIN PGP SIGNATURE-----
+
+iQFHBAEBCgAxFiEE8ndToY6S45N+YzXncJOMeAZ57pgFAmFLrogTHGFkcmlhbkBt
+eGxpbnV4Lm9yZwAKCRBwk4x4BnnumHePCACG8NjGS0DBlJb5y0HMWggRk4q2/oER
+oRW2CEm5AHHs6BNwvG73eZmFIeVa3e3AEGDNe3mRDVw6FlO9mqXpV59b83mIF6mI
+oZ9YdDQFHJm7BHVpZoc5to7hkmpdGOonM62I3EiuQWoHkKyyBSLYX2mbxwzH+PiH
+S+hcitNPi5CEJOpn9jA4AiVuAme+x7lf1/60hPJcNhbFMYuTxLd6kKFWTQKU/u88
+16kZ4THgCHWbarYal8NjbiGSKwrB2avPhF89rVecITnYpc8ola0sfXNEilq8jO/i
+rE//hQZ9YGPLJzEo4/EToGG0+Gx35NySDtNqjP9xkubVYh1H4a1GuxSz
+=KCo6
+-----END PGP SIGNATURE-----
