@@ -1,0 +1,28 @@
+Format: 1.8
+Date: Fri, 24 Sep 2021 22:42:18 -0400
+Source: gazelle-installer
+Binary: mx-installer
+Architecture: i386
+Version: 21.9.03mx19
+Distribution: mx
+Urgency: medium
+Maintainer: dolphinoracle <dolphinoracle@gmail.com>
+Changed-By: Adrian <adrian@mxlinux.org>
+Description:
+ mx-installer - Customizable GUI installer for MX Linux and antiX Linux
+Changes:
+ gazelle-installer (21.9.03mx19) mx; urgency=medium
+ .
+   * Consolidated model code and disk detection into partition manager.
+   * Fix row heights and increase indicator frame thickness to 2.
+   * Fixed various segmentation fault conditions.
+   * New LUKS volumes now work better on Advanced Format drives.
+Checksums-Sha1:
+ f4047333d4bed4fc428a170cfafb01dd06c35dfe 10020 gazelle-installer_21.9.03mx19_i386.buildinfo
+ cdf6a198d4f331c2cf29dcefd816a1eeae22efa9 444768 mx-installer_21.9.03mx19_i386.deb
+Checksums-Sha256:
+ 25f7358ec97269918a47d115b22f38ee1d1aa0ed183516307218377ca31a0475 10020 gazelle-installer_21.9.03mx19_i386.buildinfo
+ bb9cbbf1000e60a5bc84fa493d221d9e0ad832057de87fb8c04e122a1ea74554 444768 mx-installer_21.9.03mx19_i386.deb
+Files:
+ 236b68874d01d10917eac1e716b55834 10020 system optional gazelle-installer_21.9.03mx19_i386.buildinfo
+ f36e99e0e2c853250ace4982bea14b2a 444768 system optional mx-installer_21.9.03mx19_i386.deb

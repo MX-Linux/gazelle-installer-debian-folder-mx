@@ -1,3 +1,12 @@
+gazelle-installer (21.9.03mx19) mx; urgency=medium
+
+  * Consolidated model code and disk detection into partition manager.
+  * Fix row heights and increase indicator frame thickness to 2.
+  * Fixed various segmentation fault conditions.
+  * New LUKS volumes now work better on Advanced Format drives.
+
+ -- Adrian <adrian@mxlinux.org>  Fri, 24 Sep 2021 22:42:18 -0400
+
 gazelle-installer (21.9.02mx19) mx; urgency=medium
 
   * Partition manager UX improvements.
