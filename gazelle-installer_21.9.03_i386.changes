@@ -16,12 +16,15 @@ Changes:
    * Consolidated model code and disk detection into partition manager.
    * Fix row heights and increase indicator frame thickness to 2.
    * Fixed various segmentation fault conditions.
+   * Do not show root in Use For combo if the partition is too small.
+   * Fixed: swap partitions and some LUKS volumes appear in PBR list.
+   * Fixed incorrect preservation/format logic.
 Checksums-Sha1:
- 267f44869f1a626353f6576fa3ab9691aeee7a85 9118 gazelle-installer_21.9.03_i386.buildinfo
- a35f7d9e471291d1921a50587a4a521cde14b159 448408 mx-installer_21.9.03_i386.deb
+ 20ac3bad0d511ca76517b251b0660db2dbe6500d 9118 gazelle-installer_21.9.03_i386.buildinfo
+ 853b0bc64e61482a2e81c9396bf49e01b1832011 448616 mx-installer_21.9.03_i386.deb
 Checksums-Sha256:
- 254e484c058da5e1285009da56fa75f46532fcd56968d23b486d71fe320d3193 9118 gazelle-installer_21.9.03_i386.buildinfo
- 809a45cbd88fee25e10c1b8c5677ec6e8db8f9a0f9a374074e5a1a45c4d82af2 448408 mx-installer_21.9.03_i386.deb
+ 1087cd14b4a6e45fa673c7f74be67b2ca99d3ecf82d2e5d954c9756a514dfffb 9118 gazelle-installer_21.9.03_i386.buildinfo
+ 68c38b7ec04b142ae599c11265da0fc23d02d224cdc3accbe548c10e7790586c 448616 mx-installer_21.9.03_i386.deb
 Files:
- f6cfd38cae63999bc1ecda5d7f269195 9118 system optional gazelle-installer_21.9.03_i386.buildinfo
- 57cfece9de376e976a068ffd346587d1 448408 system optional mx-installer_21.9.03_i386.deb
+ 236301c9bbbb6490d44a5b2c4e35a4c0 9118 system optional gazelle-installer_21.9.03_i386.buildinfo
+ 6f1736f338b51396ee80aafe12daf985 448616 system optional mx-installer_21.9.03_i386.deb
