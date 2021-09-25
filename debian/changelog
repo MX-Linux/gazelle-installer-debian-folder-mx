@@ -6,6 +6,7 @@ gazelle-installer (21.9.03) mx; urgency=medium
   * Do not show root in Use For combo if the partition is too small.
   * Fixed: swap partitions and some LUKS volumes appear in PBR list.
   * Fixed incorrect preservation/format logic.
+  * Fixed: "Format" item not at the top of the list.
 
  -- Adrian <adrian@mxlinux.org>  Fri, 24 Sep 2021 22:46:15 -0400
 

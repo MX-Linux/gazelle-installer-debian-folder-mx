@@ -19,12 +19,13 @@ Changes:
    * Do not show root in Use For combo if the partition is too small.
    * Fixed: swap partitions and some LUKS volumes appear in PBR list.
    * Fixed incorrect preservation/format logic.
+   * Fixed: "Format" item not at the top of the list.
 Checksums-Sha1:
- 20ac3bad0d511ca76517b251b0660db2dbe6500d 9118 gazelle-installer_21.9.03_i386.buildinfo
- 853b0bc64e61482a2e81c9396bf49e01b1832011 448616 mx-installer_21.9.03_i386.deb
+ 99d48a3af467fab966041511a1328ffddeb20ba1 9118 gazelle-installer_21.9.03_i386.buildinfo
+ 49534a8e84f83b1f418f530fb262a0e420e4d75b 448828 mx-installer_21.9.03_i386.deb
 Checksums-Sha256:
- 1087cd14b4a6e45fa673c7f74be67b2ca99d3ecf82d2e5d954c9756a514dfffb 9118 gazelle-installer_21.9.03_i386.buildinfo
- 68c38b7ec04b142ae599c11265da0fc23d02d224cdc3accbe548c10e7790586c 448616 mx-installer_21.9.03_i386.deb
+ dfb2b764660a96d9ba4f0b3b5df223a61464f67419b4bd3c42c1edaf507643ba 9118 gazelle-installer_21.9.03_i386.buildinfo
+ 6d57cb11110b74f8bc3ec6a5bd8263a41d337c395072e596065dbbd38b50b079 448828 mx-installer_21.9.03_i386.deb
 Files:
- 236301c9bbbb6490d44a5b2c4e35a4c0 9118 system optional gazelle-installer_21.9.03_i386.buildinfo
- 6f1736f338b51396ee80aafe12daf985 448616 system optional mx-installer_21.9.03_i386.deb
+ 8ba754eb4146cd4b2437a00553635198 9118 system optional gazelle-installer_21.9.03_i386.buildinfo
+ dea089f462056061a847ca4acf143c0e 448828 system optional mx-installer_21.9.03_i386.deb
