@@ -17,12 +17,16 @@ Changes:
    * Fix row heights and increase indicator frame thickness to 2.
    * Fixed various segmentation fault conditions.
    * New LUKS volumes now work better on Advanced Format drives.
+   * Do not show root in Use For combo if the partition is too small.
+   * Fixed: swap partitions and some LUKS volumes appear in PBR list.
+   * Fixed incorrect preservation/format logic.
+   * Fixed: "Format" item not at the top of the list.
 Checksums-Sha1:
- 74be414945255806569cc37d67c62ee15ed62309 10020 gazelle-installer_21.9.03mx19_i386.buildinfo
- d2ad03ba0d4f299287f05d488419d2c37805834d 445228 mx-installer_21.9.03mx19_i386.deb
+ 861f6cf576c34adbf4ca8cf5ad296b0b600d2fe0 10020 gazelle-installer_21.9.03mx19_i386.buildinfo
+ 70bfc4a229d604562f97624a6d6f463d72fc13e8 445600 mx-installer_21.9.03mx19_i386.deb
 Checksums-Sha256:
- f65de26c6ff3ea8fd7dda2df947aaf073dce2adbd517d3e03071fa55dac91b25 10020 gazelle-installer_21.9.03mx19_i386.buildinfo
- b3e26da80f75208cf2de2af105f23597e80c7a44f18034fb434665b6be907786 445228 mx-installer_21.9.03mx19_i386.deb
+ dc093f7278639e3c97e69a25e20c16d0ed1b354f5585e6ee3e86e67653ebe010 10020 gazelle-installer_21.9.03mx19_i386.buildinfo
+ 670b6d5860aa106b105370e2a9fc396bd90ebe5376f1bd41d584896e6911bf12 445600 mx-installer_21.9.03mx19_i386.deb
 Files:
- 2ae22792b8db546555de5258db35050e 10020 system optional gazelle-installer_21.9.03mx19_i386.buildinfo
- d4eff18cb4ebda9654f96ab7fb948eaf 445228 system optional mx-installer_21.9.03mx19_i386.deb
+ 33115b376bf9be4277f363a699ff1942 10020 system optional gazelle-installer_21.9.03mx19_i386.buildinfo
+ 6514c2bd91ebb71a44dc86eb11c177b8 445600 system optional mx-installer_21.9.03mx19_i386.deb

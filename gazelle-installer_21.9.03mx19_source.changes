@@ -14,15 +14,19 @@ Changes:
    * Fix row heights and increase indicator frame thickness to 2.
    * Fixed various segmentation fault conditions.
    * New LUKS volumes now work better on Advanced Format drives.
+   * Do not show root in Use For combo if the partition is too small.
+   * Fixed: swap partitions and some LUKS volumes appear in PBR list.
+   * Fixed incorrect preservation/format logic.
+   * Fixed: "Format" item not at the top of the list.
 Checksums-Sha1:
- 1b2f17275dd8f81fee51e360e2efc16fee27f999 669 gazelle-installer_21.9.03mx19.dsc
- 58a2088fdb7a8bc856068a830dcb90159621d09c 307504 gazelle-installer_21.9.03mx19.tar.xz
- 74be414945255806569cc37d67c62ee15ed62309 10020 gazelle-installer_21.9.03mx19_i386.buildinfo
+ b9b44225069e4be517ea26f9e7a3bf150c438766 669 gazelle-installer_21.9.03mx19.dsc
+ f0cc6a80a9d33d357d8e22da8c4c557ccfea4ba9 307596 gazelle-installer_21.9.03mx19.tar.xz
+ 861f6cf576c34adbf4ca8cf5ad296b0b600d2fe0 10020 gazelle-installer_21.9.03mx19_i386.buildinfo
 Checksums-Sha256:
- bab85b9463c3ced6525273ec5aa132b7d2881693561df768a0f6c961e431cb0e 669 gazelle-installer_21.9.03mx19.dsc
- ccdfba5153b9df7ce5873c8cd3e2792ce4d74544c35eb4452167ba4e05676600 307504 gazelle-installer_21.9.03mx19.tar.xz
- f65de26c6ff3ea8fd7dda2df947aaf073dce2adbd517d3e03071fa55dac91b25 10020 gazelle-installer_21.9.03mx19_i386.buildinfo
+ dadd988895fff4f2bc8852db6184c798196f5747882da66b63bba1de10dd7374 669 gazelle-installer_21.9.03mx19.dsc
+ c16745a1797b3ff551214eb153658c8068d05d3c5668b1c35330797bb8acc9df 307596 gazelle-installer_21.9.03mx19.tar.xz
+ dc093f7278639e3c97e69a25e20c16d0ed1b354f5585e6ee3e86e67653ebe010 10020 gazelle-installer_21.9.03mx19_i386.buildinfo
 Files:
- ea3b7abe3afa2364453686f76e5573a3 669 system optional gazelle-installer_21.9.03mx19.dsc
- 9f3eca0dac74bf0ef3586c79802e73d9 307504 system optional gazelle-installer_21.9.03mx19.tar.xz
- 2ae22792b8db546555de5258db35050e 10020 system optional gazelle-installer_21.9.03mx19_i386.buildinfo
+ 8f1f8fe1ef37cf45584ec4da553f4647 669 system optional gazelle-installer_21.9.03mx19.dsc
+ ae133826aec368293925c15408f42bf3 307596 system optional gazelle-installer_21.9.03mx19.tar.xz
+ 33115b376bf9be4277f363a699ff1942 10020 system optional gazelle-installer_21.9.03mx19_i386.buildinfo

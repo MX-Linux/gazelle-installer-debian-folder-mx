@@ -4,6 +4,10 @@ gazelle-installer (21.9.03mx19) mx; urgency=medium
   * Fix row heights and increase indicator frame thickness to 2.
   * Fixed various segmentation fault conditions.
   * New LUKS volumes now work better on Advanced Format drives.
+  * Do not show root in Use For combo if the partition is too small.
+  * Fixed: swap partitions and some LUKS volumes appear in PBR list.
+  * Fixed incorrect preservation/format logic.
+  * Fixed: "Format" item not at the top of the list.
 
  -- Adrian <adrian@mxlinux.org>  Fri, 24 Sep 2021 22:42:18 -0400
 
