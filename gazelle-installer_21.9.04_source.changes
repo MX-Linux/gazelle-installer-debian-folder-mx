@@ -1,0 +1,26 @@
+Format: 1.8
+Date: Sat, 25 Sep 2021 07:58:10 -0400
+Source: gazelle-installer
+Architecture: source
+Version: 21.9.04
+Distribution: mx
+Urgency: medium
+Maintainer: dolphinoracle <dolphinoracle@gmail.com>
+Changed-By: Adrian <adrian@mxlinux.org>
+Changes:
+ gazelle-installer (21.9.04) mx; urgency=medium
+ .
+   * Fixed: only swap partitions displayed in PBR combo box.
+   * Consider all combo options for partition manager cell sizes.
+Checksums-Sha1:
+ 1fef65b027020adc94151728ea4d4da93ec746db 653 gazelle-installer_21.9.04.dsc
+ 76c6f22bb56e18985989099a4f869e9144b054b9 307620 gazelle-installer_21.9.04.tar.xz
+ 126a8a5ac7e3a77387246ce3aebb86b37dd3f829 9118 gazelle-installer_21.9.04_i386.buildinfo
+Checksums-Sha256:
+ 9f0297d17be20e9a3a365023e1ab13d1dfc0f95c7f9e320d9003f5b90383487d 653 gazelle-installer_21.9.04.dsc
+ 5bbdd833465e59f07c702e0bdd270e1b6025e92256ece787d25647810313d117 307620 gazelle-installer_21.9.04.tar.xz
+ 582951a5ee233f1ee5ee42e32c02a3830b26666b40d34df3cd2deab07074d41a 9118 gazelle-installer_21.9.04_i386.buildinfo
+Files:
+ 20665b0a2ae2033747dc4916bebb0737 653 system optional gazelle-installer_21.9.04.dsc
+ 48088a46378dcda45d53149766ee6dd8 307620 system optional gazelle-installer_21.9.04.tar.xz
+ 3959c2bc01b9351053539ea15b86138d 9118 system optional gazelle-installer_21.9.04_i386.buildinfo
