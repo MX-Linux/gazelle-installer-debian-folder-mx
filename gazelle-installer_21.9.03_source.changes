@@ -16,15 +16,16 @@ Changes:
    * Do not show root in Use For combo if the partition is too small.
    * Fixed: swap partitions and some LUKS volumes appear in PBR list.
    * Fixed incorrect preservation/format logic.
+   * Fixed: "Format" item not at the top of the list.
 Checksums-Sha1:
- 08a1536549d4992e5c7c795d89af969e60067163 653 gazelle-installer_21.9.03.dsc
- f630019d8a3a6e4d1abc0575277525df72f38dd8 307388 gazelle-installer_21.9.03.tar.xz
- 20ac3bad0d511ca76517b251b0660db2dbe6500d 9118 gazelle-installer_21.9.03_i386.buildinfo
+ 162d2467ce55594df9e5cbfa287eab6d435e35b5 653 gazelle-installer_21.9.03.dsc
+ a7a948ee06585baf85cf9458277ab2424e824071 307472 gazelle-installer_21.9.03.tar.xz
+ 99d48a3af467fab966041511a1328ffddeb20ba1 9118 gazelle-installer_21.9.03_i386.buildinfo
 Checksums-Sha256:
- 1203d79378d5af3aff6ccae89e7708d4475f710bf437c60cc2a1793aa05eb7ea 653 gazelle-installer_21.9.03.dsc
- b8b74cde28a4ae6ac77cde2fa1b28fdb8ba572f8a2a5464952bb9fb884402986 307388 gazelle-installer_21.9.03.tar.xz
- 1087cd14b4a6e45fa673c7f74be67b2ca99d3ecf82d2e5d954c9756a514dfffb 9118 gazelle-installer_21.9.03_i386.buildinfo
+ 777b5df21e374a3f45782fb302b06661b616310eecb047ac629874ae441fdf81 653 gazelle-installer_21.9.03.dsc
+ a26ef800c4fb9a7aab0acba67d344b68d0055d3281b67a7b28f595c38c0351e0 307472 gazelle-installer_21.9.03.tar.xz
+ dfb2b764660a96d9ba4f0b3b5df223a61464f67419b4bd3c42c1edaf507643ba 9118 gazelle-installer_21.9.03_i386.buildinfo
 Files:
- 1b9e7ba65beb909113fa7dc1b1ee4245 653 system optional gazelle-installer_21.9.03.dsc
- ca9a3c3d7327b03f021424102f080104 307388 system optional gazelle-installer_21.9.03.tar.xz
- 236301c9bbbb6490d44a5b2c4e35a4c0 9118 system optional gazelle-installer_21.9.03_i386.buildinfo
+ 36fea0559672e9d2e2c525e15e6f280a 653 system optional gazelle-installer_21.9.03.dsc
+ 7f7a9bcdaed9fbc2e45e1f1ccab29a60 307472 system optional gazelle-installer_21.9.03.tar.xz
+ 8ba754eb4146cd4b2437a00553635198 9118 system optional gazelle-installer_21.9.03_i386.buildinfo

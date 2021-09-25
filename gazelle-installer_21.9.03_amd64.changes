@@ -19,18 +19,19 @@ Changes:
    * Do not show root in Use For combo if the partition is too small.
    * Fixed: swap partitions and some LUKS volumes appear in PBR list.
    * Fixed incorrect preservation/format logic.
+   * Fixed: "Format" item not at the top of the list.
 Checksums-Sha1:
- 023fff280db8982777e10422a98ecda72c1e09ef 653 gazelle-installer_21.9.03.dsc
- 63630da1d8c33c9267b0ec8e92b2a4cb5ed92fca 307388 gazelle-installer_21.9.03.tar.xz
- 517c9e0749f3962f7df1bd46efd16b71e9e17390 9427 gazelle-installer_21.9.03_amd64.buildinfo
- a5b1a13f45372fa0591d847a321d0b3cbf91832a 432888 mx-installer_21.9.03_amd64.deb
+ 2bf1bffc82de47b8c86f10a8879a66be3fc905c3 653 gazelle-installer_21.9.03.dsc
+ 9c9020cdf2862bac96a7a03f25e937c7c9a4b883 307328 gazelle-installer_21.9.03.tar.xz
+ ae326d6b372075a9ca3530d7666e576022737663 9427 gazelle-installer_21.9.03_amd64.buildinfo
+ ce5279976ff604498869f40b13a8af772424c611 432840 mx-installer_21.9.03_amd64.deb
 Checksums-Sha256:
- ae8e55ab23910bcfc33a82b9461b7bd253d54cfb33e7d8c3b9a58c7f5fd1b367 653 gazelle-installer_21.9.03.dsc
- 3fab8754307f68445ab628c92ec4ddd61d1954bfe7ffa60de4a02bc113d268b3 307388 gazelle-installer_21.9.03.tar.xz
- cc0bcc6c91f996e46a3e6939a357d470c32351f0f214ba3e603563b9f1d90c5b 9427 gazelle-installer_21.9.03_amd64.buildinfo
- 2887aa039f39033531f3f54e245a5ddb4276fdcf78957f0749e56103e6ddd55d 432888 mx-installer_21.9.03_amd64.deb
+ e7af852d730509f6a743437c946e35bc1e9d8ef11274a7d0798d6c0510c71525 653 gazelle-installer_21.9.03.dsc
+ 1663ebe67bea17dc580ce6099dedd28b962da91d2976cf5beb281e940bf79c7b 307328 gazelle-installer_21.9.03.tar.xz
+ 79aada88d245efce0a76ec22bee4fdb0974e5a9a7a4bf86a5577a96fe1f185f9 9427 gazelle-installer_21.9.03_amd64.buildinfo
+ 540d39c69e0ff51c81074802081331ac7b32c9b587a01ef78a5921f0ab01de65 432840 mx-installer_21.9.03_amd64.deb
 Files:
- 769a9be9e14aea5e9a36c70cd2e6fc82 653 system optional gazelle-installer_21.9.03.dsc
- af6acca5377bb55c74d67d5a94316de9 307388 system optional gazelle-installer_21.9.03.tar.xz
- 072db7a4dd24404a982ee9f6d6cd8b76 9427 system optional gazelle-installer_21.9.03_amd64.buildinfo
- 577fe7d2e113fe43d2e79bf9f52c74f0 432888 system optional mx-installer_21.9.03_amd64.deb
+ 9e0d2eccede260674cd127a9ad4ca877 653 system optional gazelle-installer_21.9.03.dsc
+ c0a1c1b76769eb7e782bf6b84fd39cc8 307328 system optional gazelle-installer_21.9.03.tar.xz
+ 48a43c9aa6c850f7a12dad6fc18c45f5 9427 system optional gazelle-installer_21.9.03_amd64.buildinfo
+ d7bd45ef0cd8fa855ce3aa912bd90de8 432840 system optional mx-installer_21.9.03_amd64.deb
