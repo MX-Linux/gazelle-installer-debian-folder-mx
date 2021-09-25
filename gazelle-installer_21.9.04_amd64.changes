@@ -1,0 +1,32 @@
+Format: 1.8
+Date: Sat, 25 Sep 2021 07:58:10 -0400
+Source: gazelle-installer
+Binary: mx-installer
+Architecture: source amd64
+Version: 21.9.04
+Distribution: mx
+Urgency: medium
+Maintainer: dolphinoracle <dolphinoracle@gmail.com>
+Changed-By: Adrian <adrian@mxlinux.org>
+Description:
+ mx-installer - Customizable GUI installer for MX Linux and antiX Linux
+Changes:
+ gazelle-installer (21.9.04) mx; urgency=medium
+ .
+   * Fixed: only swap partitions displayed in PBR combo box.
+   * Consider all combo options for partition manager cell sizes.
+Checksums-Sha1:
+ 3a3c9b222d27df3641dcbfabc4432661b5ba3426 653 gazelle-installer_21.9.04.dsc
+ 0f67bd130e9a162624802b9f538956f6b7231e41 307652 gazelle-installer_21.9.04.tar.xz
+ 2af274aacda729f07c5e9bd88935b0ed08ca7af6 9427 gazelle-installer_21.9.04_amd64.buildinfo
+ 7e3f7f542fb470ec20c01b4b5b3b507563c9565e 433624 mx-installer_21.9.04_amd64.deb
+Checksums-Sha256:
+ 01b5fdf7dd601975f562026bbc5509b33d0422cbd7d28c965edb793bde19d9d5 653 gazelle-installer_21.9.04.dsc
+ ef418e8417b274b3c698caefe8eba683d8a088ab9df380781d156093b64866bb 307652 gazelle-installer_21.9.04.tar.xz
+ bb780237030f1aadb27a0297b0992157a57940671fb6b2c64df28aba9793f978 9427 gazelle-installer_21.9.04_amd64.buildinfo
+ d5cb0934b1838439827a68eac50cfdb808e939c7d3373bff14efb8d290d1ed57 433624 mx-installer_21.9.04_amd64.deb
+Files:
+ 27feb7bcc6767284846eb9cd5c6ef4ea 653 system optional gazelle-installer_21.9.04.dsc
+ a547000b50e2d1c8f24ff565b91f26a6 307652 system optional gazelle-installer_21.9.04.tar.xz
+ 5389c758d9519a932976fd3ec9630b52 9427 system optional gazelle-installer_21.9.04_amd64.buildinfo
+ 6208cd09df272493744105cd7e4519a8 433624 system optional mx-installer_21.9.04_amd64.deb
