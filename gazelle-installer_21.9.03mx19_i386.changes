@@ -18,11 +18,11 @@ Changes:
    * Fixed various segmentation fault conditions.
    * New LUKS volumes now work better on Advanced Format drives.
 Checksums-Sha1:
- f4047333d4bed4fc428a170cfafb01dd06c35dfe 10020 gazelle-installer_21.9.03mx19_i386.buildinfo
- cdf6a198d4f331c2cf29dcefd816a1eeae22efa9 444768 mx-installer_21.9.03mx19_i386.deb
+ 74be414945255806569cc37d67c62ee15ed62309 10020 gazelle-installer_21.9.03mx19_i386.buildinfo
+ d2ad03ba0d4f299287f05d488419d2c37805834d 445228 mx-installer_21.9.03mx19_i386.deb
 Checksums-Sha256:
- 25f7358ec97269918a47d115b22f38ee1d1aa0ed183516307218377ca31a0475 10020 gazelle-installer_21.9.03mx19_i386.buildinfo
- bb9cbbf1000e60a5bc84fa493d221d9e0ad832057de87fb8c04e122a1ea74554 444768 mx-installer_21.9.03mx19_i386.deb
+ f65de26c6ff3ea8fd7dda2df947aaf073dce2adbd517d3e03071fa55dac91b25 10020 gazelle-installer_21.9.03mx19_i386.buildinfo
+ b3e26da80f75208cf2de2af105f23597e80c7a44f18034fb434665b6be907786 445228 mx-installer_21.9.03mx19_i386.deb
 Files:
- 236b68874d01d10917eac1e716b55834 10020 system optional gazelle-installer_21.9.03mx19_i386.buildinfo
- f36e99e0e2c853250ace4982bea14b2a 444768 system optional mx-installer_21.9.03mx19_i386.deb
+ 2ae22792b8db546555de5258db35050e 10020 system optional gazelle-installer_21.9.03mx19_i386.buildinfo
+ d4eff18cb4ebda9654f96ab7fb948eaf 445228 system optional mx-installer_21.9.03mx19_i386.deb
