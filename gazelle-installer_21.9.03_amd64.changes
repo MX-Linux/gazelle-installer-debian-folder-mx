@@ -1,6 +1,3 @@
------BEGIN PGP SIGNED MESSAGE-----
-Hash: SHA512
-
 Format: 1.8
 Date: Fri, 24 Sep 2021 22:46:15 -0400
 Source: gazelle-installer
@@ -19,30 +16,21 @@ Changes:
    * Consolidated model code and disk detection into partition manager.
    * Fix row heights and increase indicator frame thickness to 2.
    * Fixed various segmentation fault conditions.
+   * Do not show root in Use For combo if the partition is too small.
+   * Fixed: swap partitions and some LUKS volumes appear in PBR list.
+   * Fixed incorrect preservation/format logic.
 Checksums-Sha1:
- cb221540eb5cc6929615d32803128276618cac7d 1215 gazelle-installer_21.9.03.dsc
- e3ba45f0a186310234cebb790aadc4f54af76a4c 307356 gazelle-installer_21.9.03.tar.xz
- 5be5e91d40a5fef21ed078ddfbb30826cbc0ff49 9992 gazelle-installer_21.9.03_amd64.buildinfo
- 0a89012333e7c21a9287ad8ed2593735361b002b 432640 mx-installer_21.9.03_amd64.deb
+ 023fff280db8982777e10422a98ecda72c1e09ef 653 gazelle-installer_21.9.03.dsc
+ 63630da1d8c33c9267b0ec8e92b2a4cb5ed92fca 307388 gazelle-installer_21.9.03.tar.xz
+ 517c9e0749f3962f7df1bd46efd16b71e9e17390 9427 gazelle-installer_21.9.03_amd64.buildinfo
+ a5b1a13f45372fa0591d847a321d0b3cbf91832a 432888 mx-installer_21.9.03_amd64.deb
 Checksums-Sha256:
- 548b1d07177666b3d75174f7b67979f95eb8ef9e8a607a157010a75f9592cdd2 1215 gazelle-installer_21.9.03.dsc
- 904198cfcfc8a0a85935eb2ee545fd23793c70393273d9d5977337d57e1007c3 307356 gazelle-installer_21.9.03.tar.xz
- b3fdb074cc9524488a33ec32dbdc6dc8b710adf9e90aab55f5b40fd1b08f1dec 9992 gazelle-installer_21.9.03_amd64.buildinfo
- bd0f6499658048114558b3a72df781d918efc315c32bfe713431fba529f23383 432640 mx-installer_21.9.03_amd64.deb
+ ae8e55ab23910bcfc33a82b9461b7bd253d54cfb33e7d8c3b9a58c7f5fd1b367 653 gazelle-installer_21.9.03.dsc
+ 3fab8754307f68445ab628c92ec4ddd61d1954bfe7ffa60de4a02bc113d268b3 307388 gazelle-installer_21.9.03.tar.xz
+ cc0bcc6c91f996e46a3e6939a357d470c32351f0f214ba3e603563b9f1d90c5b 9427 gazelle-installer_21.9.03_amd64.buildinfo
+ 2887aa039f39033531f3f54e245a5ddb4276fdcf78957f0749e56103e6ddd55d 432888 mx-installer_21.9.03_amd64.deb
 Files:
- 686147130e7080a42f1b924f56b5054f 1215 system optional gazelle-installer_21.9.03.dsc
- 86b8abea185ddaed70d4132ab652a1cb 307356 system optional gazelle-installer_21.9.03.tar.xz
- 31a3cefaafa94975021284761ee8fc5b 9992 system optional gazelle-installer_21.9.03_amd64.buildinfo
- 9b4f247d198d96dccde42403c9ac3db2 432640 system optional mx-installer_21.9.03_amd64.deb
-
------BEGIN PGP SIGNATURE-----
-
-iQFHBAEBCgAxFiEE8ndToY6S45N+YzXncJOMeAZ57pgFAmFOjcETHGFkcmlhbkBt
-eGxpbnV4Lm9yZwAKCRBwk4x4BnnumB8kB/9IU2zhPlm1nq6QR+pHOH5E2hDH7GNw
-kjyopPkAZjUJPKOLypxEG+6Np5UhBMncujwg5LSNfV7KhuanvzLClGdLly6hnMPx
-pywyIWRGuZar3SQacztQuLXvfSVif1zpeD3GzV1qF1VVd9WwQGnvWGCuceRsAfkk
-2UTRG73r3YVrc2/ZdP4i5jyvBFqaM9/wfiqb5T4EyTTxFBgI7zMbim+bs/HNVOs5
-7ZtvkP7YLRRAsGtumqFZ/cDlGRIEq8JcIuRX8vrwh4AkO6isCtY+sBK0PPNSnYcg
-gKMYP69lfJzSozqx8LIHwmF3y2aebQl4sQwXhhNE46UWhJkoIvw3vLqN
-=EIt0
------END PGP SIGNATURE-----
+ 769a9be9e14aea5e9a36c70cd2e6fc82 653 system optional gazelle-installer_21.9.03.dsc
+ af6acca5377bb55c74d67d5a94316de9 307388 system optional gazelle-installer_21.9.03.tar.xz
+ 072db7a4dd24404a982ee9f6d6cd8b76 9427 system optional gazelle-installer_21.9.03_amd64.buildinfo
+ 577fe7d2e113fe43d2e79bf9f52c74f0 432888 system optional mx-installer_21.9.03_amd64.deb

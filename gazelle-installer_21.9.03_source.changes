@@ -13,15 +13,18 @@ Changes:
    * Consolidated model code and disk detection into partition manager.
    * Fix row heights and increase indicator frame thickness to 2.
    * Fixed various segmentation fault conditions.
+   * Do not show root in Use For combo if the partition is too small.
+   * Fixed: swap partitions and some LUKS volumes appear in PBR list.
+   * Fixed incorrect preservation/format logic.
 Checksums-Sha1:
- 417c5a0101ab81c9a157ddc8900cac4264d3be28 653 gazelle-installer_21.9.03.dsc
- 28452b9766768221d99f17e5627b8250bf4bb4db 307356 gazelle-installer_21.9.03.tar.xz
- 267f44869f1a626353f6576fa3ab9691aeee7a85 9118 gazelle-installer_21.9.03_i386.buildinfo
+ 08a1536549d4992e5c7c795d89af969e60067163 653 gazelle-installer_21.9.03.dsc
+ f630019d8a3a6e4d1abc0575277525df72f38dd8 307388 gazelle-installer_21.9.03.tar.xz
+ 20ac3bad0d511ca76517b251b0660db2dbe6500d 9118 gazelle-installer_21.9.03_i386.buildinfo
 Checksums-Sha256:
- df67fffa3c702a91a06556437752b0c1e2c9765b9c1d8f14838bafece5a4371e 653 gazelle-installer_21.9.03.dsc
- 753fbf256e02f121b0ad271d0a17d21b593956c3e949e02e614c26cd7a50d069 307356 gazelle-installer_21.9.03.tar.xz
- 254e484c058da5e1285009da56fa75f46532fcd56968d23b486d71fe320d3193 9118 gazelle-installer_21.9.03_i386.buildinfo
+ 1203d79378d5af3aff6ccae89e7708d4475f710bf437c60cc2a1793aa05eb7ea 653 gazelle-installer_21.9.03.dsc
+ b8b74cde28a4ae6ac77cde2fa1b28fdb8ba572f8a2a5464952bb9fb884402986 307388 gazelle-installer_21.9.03.tar.xz
+ 1087cd14b4a6e45fa673c7f74be67b2ca99d3ecf82d2e5d954c9756a514dfffb 9118 gazelle-installer_21.9.03_i386.buildinfo
 Files:
- d5ae4a2896b8ef100670104b16e3b4bb 653 system optional gazelle-installer_21.9.03.dsc
- 9d5503d71172e0527f8b8c9f29b4322a 307356 system optional gazelle-installer_21.9.03.tar.xz
- f6cfd38cae63999bc1ecda5d7f269195 9118 system optional gazelle-installer_21.9.03_i386.buildinfo
+ 1b9e7ba65beb909113fa7dc1b1ee4245 653 system optional gazelle-installer_21.9.03.dsc
+ ca9a3c3d7327b03f021424102f080104 307388 system optional gazelle-installer_21.9.03.tar.xz
+ 236301c9bbbb6490d44a5b2c4e35a4c0 9118 system optional gazelle-installer_21.9.03_i386.buildinfo
