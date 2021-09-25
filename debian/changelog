@@ -1,3 +1,10 @@
+gazelle-installer (21.9.05) mx; urgency=medium
+
+  * Mention the use for the volume in the confirmation details.
+  * Fixed incorrect active flag status check. 
+
+ -- Adrian <adrian@mxlinux.org>  Sat, 25 Sep 2021 19:54:16 -0400
+
 gazelle-installer (21.9.04) mx; urgency=medium
 
   * Fixed: only swap partitions displayed in PBR combo box.
