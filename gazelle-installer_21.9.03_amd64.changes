@@ -1,0 +1,48 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+Format: 1.8
+Date: Fri, 24 Sep 2021 22:46:15 -0400
+Source: gazelle-installer
+Binary: mx-installer
+Architecture: source amd64
+Version: 21.9.03
+Distribution: mx
+Urgency: medium
+Maintainer: dolphinoracle <dolphinoracle@gmail.com>
+Changed-By: Adrian <adrian@mxlinux.org>
+Description:
+ mx-installer - Customizable GUI installer for MX Linux and antiX Linux
+Changes:
+ gazelle-installer (21.9.03) mx; urgency=medium
+ .
+   * Consolidated model code and disk detection into partition manager.
+   * Fix row heights and increase indicator frame thickness to 2.
+   * Fixed various segmentation fault conditions.
+Checksums-Sha1:
+ cb221540eb5cc6929615d32803128276618cac7d 1215 gazelle-installer_21.9.03.dsc
+ e3ba45f0a186310234cebb790aadc4f54af76a4c 307356 gazelle-installer_21.9.03.tar.xz
+ 5be5e91d40a5fef21ed078ddfbb30826cbc0ff49 9992 gazelle-installer_21.9.03_amd64.buildinfo
+ 0a89012333e7c21a9287ad8ed2593735361b002b 432640 mx-installer_21.9.03_amd64.deb
+Checksums-Sha256:
+ 548b1d07177666b3d75174f7b67979f95eb8ef9e8a607a157010a75f9592cdd2 1215 gazelle-installer_21.9.03.dsc
+ 904198cfcfc8a0a85935eb2ee545fd23793c70393273d9d5977337d57e1007c3 307356 gazelle-installer_21.9.03.tar.xz
+ b3fdb074cc9524488a33ec32dbdc6dc8b710adf9e90aab55f5b40fd1b08f1dec 9992 gazelle-installer_21.9.03_amd64.buildinfo
+ bd0f6499658048114558b3a72df781d918efc315c32bfe713431fba529f23383 432640 mx-installer_21.9.03_amd64.deb
+Files:
+ 686147130e7080a42f1b924f56b5054f 1215 system optional gazelle-installer_21.9.03.dsc
+ 86b8abea185ddaed70d4132ab652a1cb 307356 system optional gazelle-installer_21.9.03.tar.xz
+ 31a3cefaafa94975021284761ee8fc5b 9992 system optional gazelle-installer_21.9.03_amd64.buildinfo
+ 9b4f247d198d96dccde42403c9ac3db2 432640 system optional mx-installer_21.9.03_amd64.deb
+
+-----BEGIN PGP SIGNATURE-----
+
+iQFHBAEBCgAxFiEE8ndToY6S45N+YzXncJOMeAZ57pgFAmFOjcETHGFkcmlhbkBt
+eGxpbnV4Lm9yZwAKCRBwk4x4BnnumB8kB/9IU2zhPlm1nq6QR+pHOH5E2hDH7GNw
+kjyopPkAZjUJPKOLypxEG+6Np5UhBMncujwg5LSNfV7KhuanvzLClGdLly6hnMPx
+pywyIWRGuZar3SQacztQuLXvfSVif1zpeD3GzV1qF1VVd9WwQGnvWGCuceRsAfkk
+2UTRG73r3YVrc2/ZdP4i5jyvBFqaM9/wfiqb5T4EyTTxFBgI7zMbim+bs/HNVOs5
+7ZtvkP7YLRRAsGtumqFZ/cDlGRIEq8JcIuRX8vrwh4AkO6isCtY+sBK0PPNSnYcg
+gKMYP69lfJzSozqx8LIHwmF3y2aebQl4sQwXhhNE46UWhJkoIvw3vLqN
+=EIt0
+-----END PGP SIGNATURE-----
