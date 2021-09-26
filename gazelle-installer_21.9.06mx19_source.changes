@@ -16,15 +16,16 @@ Changes:
    * Display drive model and free space in tool tip instead of the Label field.
    * Only allow up to 128 partitions (Linux GPT limit).
    * Fixed: preserving of /home can fail if encryption is de-selected.
+   * List partitions that will be created without formatting.
 Checksums-Sha1:
- 60211b018af1bc130ddb7d978c7078d57d549885 669 gazelle-installer_21.9.06mx19.dsc
- 0c583c64b5b12e783f970b22fd2f714630d3c05e 308140 gazelle-installer_21.9.06mx19.tar.xz
- 0243bd4cbde050eea73abee3d469d089923f1653 10020 gazelle-installer_21.9.06mx19_i386.buildinfo
+ 4ac5f9db393a5c48042dbac3fda88c269f1ef091 669 gazelle-installer_21.9.06mx19.dsc
+ 347460c59390e21db7526150719f69261907e0c9 308148 gazelle-installer_21.9.06mx19.tar.xz
+ 8e5daefb43a3d29f3923f4c31a3512922fdd5fcb 10020 gazelle-installer_21.9.06mx19_i386.buildinfo
 Checksums-Sha256:
- 365242033086fed94073921c7256d26a74e7c8a9d3e99fd886500697359a3dc6 669 gazelle-installer_21.9.06mx19.dsc
- 6fe2ad78dbff89ada153c367f3461b27a08de2c0b5adf521c1ca562f157c6ab8 308140 gazelle-installer_21.9.06mx19.tar.xz
- 27f57a02fd322b5e9445cc96ec5893d5bfe15613e27b3a3404e65c84ed59d89f 10020 gazelle-installer_21.9.06mx19_i386.buildinfo
+ 5766251b54a9b356b7a421874b38a2381916d3cb797afe1915546b41a48e283a 669 gazelle-installer_21.9.06mx19.dsc
+ f80860f754a8513d5eb236b9170b295c12dbb357b84f2048a5a118b7167eba63 308148 gazelle-installer_21.9.06mx19.tar.xz
+ 822141c6f9031f0120a5d97d645eea0cdc03f4813b34758c6430cb5bb8e7292f 10020 gazelle-installer_21.9.06mx19_i386.buildinfo
 Files:
- 9fced291aa5472d8ae9a2dfabc630cf8 669 system optional gazelle-installer_21.9.06mx19.dsc
- 7992d8adb6301419b09694299f374854 308140 system optional gazelle-installer_21.9.06mx19.tar.xz
- cb251d275976cafb3b70828fa32f4e65 10020 system optional gazelle-installer_21.9.06mx19_i386.buildinfo
+ ca13ff8e0cfac79d81ae3f64456c43aa 669 system optional gazelle-installer_21.9.06mx19.dsc
+ cedbe560cd2fa23f8077977a5ff6825a 308148 system optional gazelle-installer_21.9.06mx19.tar.xz
+ 025d89bea709c8b3cabbc8871942a8d2 10020 system optional gazelle-installer_21.9.06mx19_i386.buildinfo

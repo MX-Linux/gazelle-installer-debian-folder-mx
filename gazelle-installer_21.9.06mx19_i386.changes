@@ -19,12 +19,13 @@ Changes:
    * Display drive model and free space in tool tip instead of the Label field.
    * Only allow up to 128 partitions (Linux GPT limit).
    * Fixed: preserving of /home can fail if encryption is de-selected.
+   * List partitions that will be created without formatting.
 Checksums-Sha1:
- 0243bd4cbde050eea73abee3d469d089923f1653 10020 gazelle-installer_21.9.06mx19_i386.buildinfo
- 78038293a1a6314ff9edaae86206a3105dff7873 446216 mx-installer_21.9.06mx19_i386.deb
+ 8e5daefb43a3d29f3923f4c31a3512922fdd5fcb 10020 gazelle-installer_21.9.06mx19_i386.buildinfo
+ 9358f939a769c3bda2b58dde23484da058fd5a42 446268 mx-installer_21.9.06mx19_i386.deb
 Checksums-Sha256:
- 27f57a02fd322b5e9445cc96ec5893d5bfe15613e27b3a3404e65c84ed59d89f 10020 gazelle-installer_21.9.06mx19_i386.buildinfo
- 895a3736fb8a625dc6d16fde026f611fa434fe0de86edb35cb9e282770bdbb34 446216 mx-installer_21.9.06mx19_i386.deb
+ 822141c6f9031f0120a5d97d645eea0cdc03f4813b34758c6430cb5bb8e7292f 10020 gazelle-installer_21.9.06mx19_i386.buildinfo
+ 54ebf54af5bf6dd2bb2c4da8fa3518e043afdfc8a02b1eb81f2dac758c3ea980 446268 mx-installer_21.9.06mx19_i386.deb
 Files:
- cb251d275976cafb3b70828fa32f4e65 10020 system optional gazelle-installer_21.9.06mx19_i386.buildinfo
- 421cd37ccbb7827a3c23981e9d629a26 446216 system optional mx-installer_21.9.06mx19_i386.deb
+ 025d89bea709c8b3cabbc8871942a8d2 10020 system optional gazelle-installer_21.9.06mx19_i386.buildinfo
+ 7e13ab3825afd08a77693065a1b676ab 446268 system optional mx-installer_21.9.06mx19_i386.deb
