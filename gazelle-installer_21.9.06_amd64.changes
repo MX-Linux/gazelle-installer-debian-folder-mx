@@ -22,30 +22,31 @@ Changes:
    * Display drive model and free space in tool tip instead of the Label field.
    * Only allow up to 128 partitions (Linux GPT limit).
    * Fixed: preserving of /home can fail if encryption is de-selected.
+   * List partitions that will be created without formatting.
 Checksums-Sha1:
- ecb55de864d08eb8e0e3adef69718de7ba52d89b 1215 gazelle-installer_21.9.06.dsc
- 4f8337b263414fe4681f2d2bbda079cc3cdb4858 307992 gazelle-installer_21.9.06.tar.xz
- 2df805633e416afb087aa298004d5c6878ccf7fd 9992 gazelle-installer_21.9.06_amd64.buildinfo
- 7aef4eae66150eb71314eacbf06ec8ece849429e 433740 mx-installer_21.9.06_amd64.deb
+ 310f46444c9cc0b21deb016c6cb069b6e8710104 1215 gazelle-installer_21.9.06.dsc
+ 1326b9e4d20c704396d0b6ab3d95cb4f6e5edb41 308024 gazelle-installer_21.9.06.tar.xz
+ 214d59b43ee0f0423afbb0a873c174f8db4fb791 9992 gazelle-installer_21.9.06_amd64.buildinfo
+ e27999288dd0eb706cbbf45e560fd93bb4c898fd 434360 mx-installer_21.9.06_amd64.deb
 Checksums-Sha256:
- be3f86906e19a97d29a1dc33461c18ad6bcce32f0498afe1283ee08543110480 1215 gazelle-installer_21.9.06.dsc
- 3405988e190ccbe7d3a7eea1fd0807ffb2f926df969496e4350f4c69d6677cd0 307992 gazelle-installer_21.9.06.tar.xz
- b7982613b901e187cb337e967a4c28d63fcf45a87c0236ec89238bf4b687b617 9992 gazelle-installer_21.9.06_amd64.buildinfo
- ddf49c3c36695139e92c9766483e54a2d5a992c07d8e69e475e44f9a1baa4a40 433740 mx-installer_21.9.06_amd64.deb
+ 0bd626559a6ad56573bd77ba493559a837857074017deb452a3b8e0b108d7a76 1215 gazelle-installer_21.9.06.dsc
+ 24da3be75a087732ed5decc319d150eff0ef6cb2795de3076d3e01767125a954 308024 gazelle-installer_21.9.06.tar.xz
+ 3f6598add7bff9c9eba881234467c5f346370d96998d3ddc8714bc1f71a96c0e 9992 gazelle-installer_21.9.06_amd64.buildinfo
+ 9f087c20ebaad21ef4e4d06fac171ef3a6297d3b267170b07ac9d33340cb477a 434360 mx-installer_21.9.06_amd64.deb
 Files:
- 971809b9c01e962caf084e5736991f95 1215 system optional gazelle-installer_21.9.06.dsc
- 3887ff52d32daf157add1a3e11034f08 307992 system optional gazelle-installer_21.9.06.tar.xz
- 5a1ee04ae699cecce90bcb44d8c26054 9992 system optional gazelle-installer_21.9.06_amd64.buildinfo
- 07579c6cb211e77d38392abcdce89f60 433740 system optional mx-installer_21.9.06_amd64.deb
+ f7afccb74b819dcf5afa4025b26f4f4a 1215 system optional gazelle-installer_21.9.06.dsc
+ 4ddb83870cefb01324f4050aa0f47c2b 308024 system optional gazelle-installer_21.9.06.tar.xz
+ 4499bf5f050101f9ba016ffa50764b01 9992 system optional gazelle-installer_21.9.06_amd64.buildinfo
+ f522ad190bd361e61de41306be0b31ef 434360 system optional mx-installer_21.9.06_amd64.deb
 
 -----BEGIN PGP SIGNATURE-----
 
-iQFHBAEBCgAxFiEE8ndToY6S45N+YzXncJOMeAZ57pgFAmFP9f8THGFkcmlhbkBt
-eGxpbnV4Lm9yZwAKCRBwk4x4BnnumNIdB/48RoJjrnz9akDUFEo5nq4yjpb8sGJF
-qDxlG6ixZv0ZrF8GK68nIlvJdrxQ/Yrw5IEqnT5w6f5UfgyPWAFRm8a7YROKeemL
-GcsN4P6gLoIwoe1a0Y4zwikmlp00GtiEoJAkAfDyjT72r19kUiOqmt2vSOAv2D7g
-yoM9QLq41oNVHcaTnudPlAOWK2LInSRm2chUWz1xTCJq5zbE8IvMEa6nkKC8j6a5
-JpcDZZho+LhgL1gr+uzcQzomqoT1JGOhLxBJS1wznJ/m4KVBlfjxKAj9UlBRgeZ6
-74MOqT8a6NpgyusPnE/ZYX+/cHwinBq/Uy8MzsuKfq1mtnamLpV/Iqwk
-=1sul
+iQFHBAEBCgAxFiEE8ndToY6S45N+YzXncJOMeAZ57pgFAmFQCpcTHGFkcmlhbkBt
+eGxpbnV4Lm9yZwAKCRBwk4x4BnnumBgBB/9UyL767sU6QM9VjmdcBSRpFEIQSbm/
+nd2lDSzmkkHTeXcDTnVUTFxlh9lf+vgsJ7lU2lkHXmthSpQClczAspJcZuo6v8X2
+PVzWQrmHGZZcqaovXo7wGe69wI+kJOoWSp00imEWOsrrsYpPp4rVtsyyRN+nqa2v
+fju+AOUzQgljCOO13QMwozhNkTBRLYQSyAM43WB9r0wdxrm0aSqMNVytrzuwFXbg
+32g7BQCKUMF6T2bwPcipR8RCABYAfVUrtYiUl6ievjF1jpvyPGzJnteP0JQQFxsp
+xZdgWLbejwueWseKMz21rtF4Uy1Oy2KIpQOGHmFJOcQFs+2D/TZFFPXw
+=FpGc
 -----END PGP SIGNATURE-----

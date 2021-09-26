@@ -16,15 +16,16 @@ Changes:
    * Display drive model and free space in tool tip instead of the Label field.
    * Only allow up to 128 partitions (Linux GPT limit).
    * Fixed: preserving of /home can fail if encryption is de-selected.
+   * List partitions that will be created without formatting.
 Checksums-Sha1:
- 3fd82e954ce3758306e8e54a7c36d348419ec2e1 653 gazelle-installer_21.9.06.dsc
- 2920caa35df00efe7820a732c8a8b6bc0367edbf 307992 gazelle-installer_21.9.06.tar.xz
- 5d37ab1999772b0615071691f210e4a1a3091998 9118 gazelle-installer_21.9.06_i386.buildinfo
+ 0cc21652e86780a25b4e4497f244c95fcc315991 653 gazelle-installer_21.9.06.dsc
+ b12389e8075f4addd0da1ea3545bba1b79ba1995 308004 gazelle-installer_21.9.06.tar.xz
+ fc06ab7a21a6eef86a4eee808b0c6259bdc43c82 9118 gazelle-installer_21.9.06_i386.buildinfo
 Checksums-Sha256:
- dd05c49c6f8e528657c07d45318f38e8ce0046b636e4064a8a799b46dcf8f05a 653 gazelle-installer_21.9.06.dsc
- 1e75fce53e4edbd7467650df7591c707560bf28237b889d9ffee7cda59f1b25c 307992 gazelle-installer_21.9.06.tar.xz
- 2a325c474b8b37670e92afe969a2a2a9d30ac918a2ef36a9a7f631402e75dd55 9118 gazelle-installer_21.9.06_i386.buildinfo
+ d8dce0acf2404fd886668b334b85520247b273a90ad309a31654cef1bab581f0 653 gazelle-installer_21.9.06.dsc
+ 6e6809760d4985921fe783a00fd7f4d3eeed086d151149d4bb61e7aaeaa86c6a 308004 gazelle-installer_21.9.06.tar.xz
+ 61862ec884375d57b978c59c172477558543dd643a3264e85c0e961e925bcb1c 9118 gazelle-installer_21.9.06_i386.buildinfo
 Files:
- a04212d346dadf49b1f3aad2144c756c 653 system optional gazelle-installer_21.9.06.dsc
- 911c989a84af62dde5ab90b9905f7920 307992 system optional gazelle-installer_21.9.06.tar.xz
- 5b1a80c6bce65221e35926acf16babc1 9118 system optional gazelle-installer_21.9.06_i386.buildinfo
+ 1e852514b061c2656ffaae03e376013e 653 system optional gazelle-installer_21.9.06.dsc
+ e2e55b6aab702e9df35fe19d00d38ecc 308004 system optional gazelle-installer_21.9.06.tar.xz
+ 1950e9c5524c02fe54c9e4e38a02a76c 9118 system optional gazelle-installer_21.9.06_i386.buildinfo

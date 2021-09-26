@@ -6,6 +6,7 @@ gazelle-installer (21.9.06) mx; urgency=medium
   * Display drive model and free space in tool tip instead of the Label field.
   * Only allow up to 128 partitions (Linux GPT limit).
   * Fixed: preserving of /home can fail if encryption is de-selected.
+  * List partitions that will be created without formatting.
 
  -- Adrian <adrian@mxlinux.org>  Sat, 25 Sep 2021 22:21:30 -0400
 
