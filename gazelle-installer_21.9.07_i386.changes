@@ -1,0 +1,27 @@
+Format: 1.8
+Date: Sun, 26 Sep 2021 09:43:53 -0400
+Source: gazelle-installer
+Binary: mx-installer
+Architecture: i386
+Version: 21.9.07
+Distribution: mx
+Urgency: medium
+Maintainer: dolphinoracle <dolphinoracle@gmail.com>
+Changed-By: Adrian <adrian@mxlinux.org>
+Description:
+ mx-installer - Customizable GUI installer for MX Linux and antiX Linux
+Changes:
+ gazelle-installer (21.9.07) mx; urgency=medium
+ .
+   * Select the whole row when adding the partition.
+   * Correct the device when selecting a combo box item, without Enter.
+   * Eliminate Hobson's combo boxes.
+Checksums-Sha1:
+ b8c9ed33c33e626534e93edf17cda655d3caf619 9118 gazelle-installer_21.9.07_i386.buildinfo
+ 1ad135aff36f655e82f032e91246637b89d4770d 450800 mx-installer_21.9.07_i386.deb
+Checksums-Sha256:
+ 9ab7d4c544c9edcec9a4d894197ec56fdd601059819054650f296eabcd7fd4f1 9118 gazelle-installer_21.9.07_i386.buildinfo
+ cd075136cc003f744310ad9bf6f687431f414fa14c3f39f6fdb65aa4054386d3 450800 mx-installer_21.9.07_i386.deb
+Files:
+ 7f66cd4614ca6cfd0c762f74fad1418e 9118 system optional gazelle-installer_21.9.07_i386.buildinfo
+ f8ae1a204403f6a1bb5cecc597981304 450800 system optional mx-installer_21.9.07_i386.deb
