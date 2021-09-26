@@ -1,0 +1,27 @@
+Format: 1.8
+Date: Sun, 26 Sep 2021 09:46:57 -0400
+Source: gazelle-installer
+Architecture: source
+Version: 21.9.07mx19
+Distribution: mx
+Urgency: medium
+Maintainer: dolphinoracle <dolphinoracle@gmail.com>
+Changed-By: Adrian <adrian@mxlinux.org>
+Changes:
+ gazelle-installer (21.9.07mx19) mx; urgency=medium
+ .
+   * Select the whole row when adding the partition.
+   * Correct the device when selecting a combo box item, without Enter.
+   * Eliminate Hobson's combo boxes.
+Checksums-Sha1:
+ b49581c5dc1368ff5b350452932dd6091a90d57d 669 gazelle-installer_21.9.07mx19.dsc
+ 042d09e378a32c2ee4c367ead4ff1f9a58f51f1e 308308 gazelle-installer_21.9.07mx19.tar.xz
+ f9fa148879020b0544e291590f13f919342ce54c 10020 gazelle-installer_21.9.07mx19_i386.buildinfo
+Checksums-Sha256:
+ 5b19ec76172f46b25354161eb203ce026c3c9f5985682be1fdf3dfc31f5959ba 669 gazelle-installer_21.9.07mx19.dsc
+ 77deaada8489ba4782053f8ec008602f78664304bf227ddcb915bf908f526e2a 308308 gazelle-installer_21.9.07mx19.tar.xz
+ fcc240b1d50d5b499962dd52d9318a13946cca4140a4c35ea0c06e4a85ce3e78 10020 gazelle-installer_21.9.07mx19_i386.buildinfo
+Files:
+ 2ea714b4c72d82d63e0062ffca2f93f0 669 system optional gazelle-installer_21.9.07mx19.dsc
+ 6b081e2abcb17a1705d8a53c70dc767b 308308 system optional gazelle-installer_21.9.07mx19.tar.xz
+ bd53575ffb32e39e4c1dcd9adb1a62b3 10020 system optional gazelle-installer_21.9.07mx19_i386.buildinfo

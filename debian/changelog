@@ -1,3 +1,11 @@
+gazelle-installer (21.9.07mx19) mx; urgency=medium
+
+  * Select the whole row when adding the partition.
+  * Correct the device when selecting a combo box item, without Enter.
+  * Eliminate Hobson's combo boxes.
+
+ -- Adrian <adrian@mxlinux.org>  Sun, 26 Sep 2021 09:46:57 -0400
+
 gazelle-installer (21.9.06mx19) mx; urgency=medium
 
   * Fixed: cannot add partitions to new layout.
