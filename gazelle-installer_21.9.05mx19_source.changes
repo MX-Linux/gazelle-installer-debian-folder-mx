@@ -1,0 +1,26 @@
+Format: 1.8
+Date: Sat, 25 Sep 2021 19:59:23 -0400
+Source: gazelle-installer
+Architecture: source
+Version: 21.9.05mx19
+Distribution: mx
+Urgency: medium
+Maintainer: dolphinoracle <dolphinoracle@gmail.com>
+Changed-By: Adrian <adrian@mxlinux.org>
+Changes:
+ gazelle-installer (21.9.05mx19) mx; urgency=medium
+ .
+   * Mention the use for the volume in the confirmation details.
+   * Fixed incorrect active flag status check.
+Checksums-Sha1:
+ 220a184c5285ebee095c94abbf1ea60175bd893a 669 gazelle-installer_21.9.05mx19.dsc
+ 4d094fdbb94ebdc8a7557c0468a7ea27dfb302e8 307828 gazelle-installer_21.9.05mx19.tar.xz
+ a2915f2ad0e1d7fe31a02d7a76840756dba13043 10020 gazelle-installer_21.9.05mx19_i386.buildinfo
+Checksums-Sha256:
+ 5b5af03563f3636265d02ef12d90902bb87941a3239db14b32936bee2e8f82dc 669 gazelle-installer_21.9.05mx19.dsc
+ 67036ad7ba69713345ebd52eb7f09774c92a1983b6049feabc0cce9d76d557b1 307828 gazelle-installer_21.9.05mx19.tar.xz
+ 0d1ec126ac9559c33d8dfa0affdf4888210b32012bf64631401d2f01ac9d10b8 10020 gazelle-installer_21.9.05mx19_i386.buildinfo
+Files:
+ 563c028b069767f34989adc4c2bee31b 669 system optional gazelle-installer_21.9.05mx19.dsc
+ c538a9cc24a32264f638a97b186cb4c1 307828 system optional gazelle-installer_21.9.05mx19.tar.xz
+ 2129940edb2c8b10fde2460349e73fed 10020 system optional gazelle-installer_21.9.05mx19_i386.buildinfo
