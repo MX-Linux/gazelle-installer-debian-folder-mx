@@ -1,0 +1,27 @@
+Format: 1.8
+Date: Sat, 25 Sep 2021 22:16:53 -0400
+Source: gazelle-installer
+Binary: mx-installer
+Architecture: i386
+Version: 21.9.06mx19
+Distribution: mx
+Urgency: medium
+Maintainer: dolphinoracle <dolphinoracle@gmail.com>
+Changed-By: Adrian <adrian@mxlinux.org>
+Description:
+ mx-installer - Customizable GUI installer for MX Linux and antiX Linux
+Changes:
+ gazelle-installer (21.9.06mx19) mx; urgency=medium
+ .
+   * Fixed: cannot add partitions to new layout.
+   * Fixed: default size of 0MB for new partitions.
+   * Do not start the install if the root partition is too small.
+Checksums-Sha1:
+ 796c0da384e5b17280244221479a5cfca993f834 10020 gazelle-installer_21.9.06mx19_i386.buildinfo
+ d18a611019098917b36c6f2715d2a27c674641f9 445896 mx-installer_21.9.06mx19_i386.deb
+Checksums-Sha256:
+ 1fc4fb496e4d85cd885261c548b28ba3872f76207c64e8c50a22ece54f4b0a9f 10020 gazelle-installer_21.9.06mx19_i386.buildinfo
+ f2580f28f2ccfe48f8c6381d39362d2649c6cebb282b813bd647cb40ce516203 445896 mx-installer_21.9.06mx19_i386.deb
+Files:
+ 2d251be737dc3313335d39fc1b341159 10020 system optional gazelle-installer_21.9.06mx19_i386.buildinfo
+ 8b696ee6cacac88b4ed3a9ad24cad4b8 445896 system optional mx-installer_21.9.06mx19_i386.deb
