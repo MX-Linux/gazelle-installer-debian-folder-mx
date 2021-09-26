@@ -1,3 +1,11 @@
+gazelle-installer (21.9.06) mx; urgency=medium
+
+  * Fixed: cannot add partitions to new layout.
+  * Fixed: default size of 0MB for new partitions.
+  * Do not start the install if the root partition is too small.
+
+ -- Adrian <adrian@mxlinux.org>  Sat, 25 Sep 2021 22:21:30 -0400
+
 gazelle-installer (21.9.05) mx; urgency=medium
 
   * Mention the use for the volume in the confirmation details.
