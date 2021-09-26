@@ -13,15 +13,18 @@ Changes:
    * Fixed: cannot add partitions to new layout.
    * Fixed: default size of 0MB for new partitions.
    * Do not start the install if the root partition is too small.
+   * Display drive model and free space in tool tip instead of the Label field.
+   * Only allow up to 128 partitions (Linux GPT limit).
+   * Fixed: preserving of /home can fail if encryption is de-selected.
 Checksums-Sha1:
- 6c7d1d1247492e5e4e829908956a3e26e870f244 653 gazelle-installer_21.9.06.dsc
- 4c2b5c2e1a1ed2dcb3dd5055e80bdbe329f0ac29 307792 gazelle-installer_21.9.06.tar.xz
- b00af1c5a9f4f88d393f863221240d89879bacf2 9118 gazelle-installer_21.9.06_i386.buildinfo
+ 3fd82e954ce3758306e8e54a7c36d348419ec2e1 653 gazelle-installer_21.9.06.dsc
+ 2920caa35df00efe7820a732c8a8b6bc0367edbf 307992 gazelle-installer_21.9.06.tar.xz
+ 5d37ab1999772b0615071691f210e4a1a3091998 9118 gazelle-installer_21.9.06_i386.buildinfo
 Checksums-Sha256:
- 8e7f30e3f2d31e79cba323d781574a9ef3a98afd30b2235636cde447ae68b42f 653 gazelle-installer_21.9.06.dsc
- 521ccc4398e0a3256580eba9d257f8693148e1de16669fc52289fb589bf222e6 307792 gazelle-installer_21.9.06.tar.xz
- 1644e83b7692f412d5c744738a820c3f24e0bf47f6cb899201a056f8173492f1 9118 gazelle-installer_21.9.06_i386.buildinfo
+ dd05c49c6f8e528657c07d45318f38e8ce0046b636e4064a8a799b46dcf8f05a 653 gazelle-installer_21.9.06.dsc
+ 1e75fce53e4edbd7467650df7591c707560bf28237b889d9ffee7cda59f1b25c 307992 gazelle-installer_21.9.06.tar.xz
+ 2a325c474b8b37670e92afe969a2a2a9d30ac918a2ef36a9a7f631402e75dd55 9118 gazelle-installer_21.9.06_i386.buildinfo
 Files:
- ab7a7b385e350caffae40830d6eb7602 653 system optional gazelle-installer_21.9.06.dsc
- 1ff2e90882a1baba6c39c0ee3ff2f8d5 307792 system optional gazelle-installer_21.9.06.tar.xz
- fda5be454e2da68b289c8113aac59c7f 9118 system optional gazelle-installer_21.9.06_i386.buildinfo
+ a04212d346dadf49b1f3aad2144c756c 653 system optional gazelle-installer_21.9.06.dsc
+ 911c989a84af62dde5ab90b9905f7920 307992 system optional gazelle-installer_21.9.06.tar.xz
+ 5b1a80c6bce65221e35926acf16babc1 9118 system optional gazelle-installer_21.9.06_i386.buildinfo

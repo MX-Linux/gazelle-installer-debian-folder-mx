@@ -16,12 +16,15 @@ Changes:
    * Fixed: cannot add partitions to new layout.
    * Fixed: default size of 0MB for new partitions.
    * Do not start the install if the root partition is too small.
+   * Display drive model and free space in tool tip instead of the Label field.
+   * Only allow up to 128 partitions (Linux GPT limit).
+   * Fixed: preserving of /home can fail if encryption is de-selected.
 Checksums-Sha1:
- b00af1c5a9f4f88d393f863221240d89879bacf2 9118 gazelle-installer_21.9.06_i386.buildinfo
- d7a4abdb5d77010d703f0d2cbb727f6041b4bf46 449820 mx-installer_21.9.06_i386.deb
+ 5d37ab1999772b0615071691f210e4a1a3091998 9118 gazelle-installer_21.9.06_i386.buildinfo
+ ff301d742ec879e0e2ff44de22a19e2caa750f47 450240 mx-installer_21.9.06_i386.deb
 Checksums-Sha256:
- 1644e83b7692f412d5c744738a820c3f24e0bf47f6cb899201a056f8173492f1 9118 gazelle-installer_21.9.06_i386.buildinfo
- 0d7756ee5a885f6cdf383d1123090a9b0a48d3f0cabdeb1d89d3c3980a803a05 449820 mx-installer_21.9.06_i386.deb
+ 2a325c474b8b37670e92afe969a2a2a9d30ac918a2ef36a9a7f631402e75dd55 9118 gazelle-installer_21.9.06_i386.buildinfo
+ d6bc90304bb40203562446302329a7375bd18e253bacf9b28e3305193e8f19f9 450240 mx-installer_21.9.06_i386.deb
 Files:
- fda5be454e2da68b289c8113aac59c7f 9118 system optional gazelle-installer_21.9.06_i386.buildinfo
- a1a7c8199c509bf938a3f29709c2d74f 449820 system optional mx-installer_21.9.06_i386.deb
+ 5b1a80c6bce65221e35926acf16babc1 9118 system optional gazelle-installer_21.9.06_i386.buildinfo
+ 10c6b01e467e9b2268eee45b8170ab12 450240 system optional mx-installer_21.9.06_i386.deb
