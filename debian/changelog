@@ -3,6 +3,9 @@ gazelle-installer (21.9.06mx19) mx; urgency=medium
   * Fixed: cannot add partitions to new layout.
   * Fixed: default size of 0MB for new partitions.
   * Do not start the install if the root partition is too small.
+  * Display drive model and free space in tool tip instead of the Label field.
+  * Only allow up to 128 partitions (Linux GPT limit).
+  * Fixed: preserving of /home can fail if encryption is de-selected.
 
  -- Adrian <adrian@mxlinux.org>  Sat, 25 Sep 2021 22:16:53 -0400
 

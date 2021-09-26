@@ -13,15 +13,18 @@ Changes:
    * Fixed: cannot add partitions to new layout.
    * Fixed: default size of 0MB for new partitions.
    * Do not start the install if the root partition is too small.
+   * Display drive model and free space in tool tip instead of the Label field.
+   * Only allow up to 128 partitions (Linux GPT limit).
+   * Fixed: preserving of /home can fail if encryption is de-selected.
 Checksums-Sha1:
- f4e3f1d05b9df43119fce874f4029f61b51814f3 669 gazelle-installer_21.9.06mx19.dsc
- c897dc1090fbe9972e2ce7cd8e9aa90101199365 307944 gazelle-installer_21.9.06mx19.tar.xz
- 796c0da384e5b17280244221479a5cfca993f834 10020 gazelle-installer_21.9.06mx19_i386.buildinfo
+ 60211b018af1bc130ddb7d978c7078d57d549885 669 gazelle-installer_21.9.06mx19.dsc
+ 0c583c64b5b12e783f970b22fd2f714630d3c05e 308140 gazelle-installer_21.9.06mx19.tar.xz
+ 0243bd4cbde050eea73abee3d469d089923f1653 10020 gazelle-installer_21.9.06mx19_i386.buildinfo
 Checksums-Sha256:
- 28a9eac435745c1d7e2888b0e439b20f2d8244716438269f6ef0994079590b60 669 gazelle-installer_21.9.06mx19.dsc
- 6a6abe60d14b42f913df642d173e2589305599e083391f2d342f56f1a476946e 307944 gazelle-installer_21.9.06mx19.tar.xz
- 1fc4fb496e4d85cd885261c548b28ba3872f76207c64e8c50a22ece54f4b0a9f 10020 gazelle-installer_21.9.06mx19_i386.buildinfo
+ 365242033086fed94073921c7256d26a74e7c8a9d3e99fd886500697359a3dc6 669 gazelle-installer_21.9.06mx19.dsc
+ 6fe2ad78dbff89ada153c367f3461b27a08de2c0b5adf521c1ca562f157c6ab8 308140 gazelle-installer_21.9.06mx19.tar.xz
+ 27f57a02fd322b5e9445cc96ec5893d5bfe15613e27b3a3404e65c84ed59d89f 10020 gazelle-installer_21.9.06mx19_i386.buildinfo
 Files:
- 9032707cac9f635133273bbb38a2e049 669 system optional gazelle-installer_21.9.06mx19.dsc
- e75b017a9330c5b7fc94519ff7edf4eb 307944 system optional gazelle-installer_21.9.06mx19.tar.xz
- 2d251be737dc3313335d39fc1b341159 10020 system optional gazelle-installer_21.9.06mx19_i386.buildinfo
+ 9fced291aa5472d8ae9a2dfabc630cf8 669 system optional gazelle-installer_21.9.06mx19.dsc
+ 7992d8adb6301419b09694299f374854 308140 system optional gazelle-installer_21.9.06mx19.tar.xz
+ cb251d275976cafb3b70828fa32f4e65 10020 system optional gazelle-installer_21.9.06mx19_i386.buildinfo
