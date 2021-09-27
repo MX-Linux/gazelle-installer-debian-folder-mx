@@ -1,0 +1,25 @@
+Format: 1.8
+Date: Mon, 27 Sep 2021 17:27:11 -0400
+Source: gazelle-installer
+Binary: mx-installer
+Architecture: i386
+Version: 21.9.08
+Distribution: mx
+Urgency: medium
+Maintainer: dolphinoracle <dolphinoracle@gmail.com>
+Changed-By: Adrian <adrian@mxlinux.org>
+Description:
+ mx-installer - Customizable GUI installer for MX Linux and antiX Linux
+Changes:
+ gazelle-installer (21.9.08) mx; urgency=medium
+ .
+   * Allow bad block checks to be setup per partition instead of everything.
+Checksums-Sha1:
+ 25c0bb7905cc15d7255db26de3ef129ea8ea666e 9118 gazelle-installer_21.9.08_i386.buildinfo
+ 225318a90c845cb1117eba49379fd50404d01a98 450096 mx-installer_21.9.08_i386.deb
+Checksums-Sha256:
+ cd2bba780bcffea6741319a0109df3570ab5a229bac33da9349eb106b52911ff 9118 gazelle-installer_21.9.08_i386.buildinfo
+ 109cd7db67cdf54855b5f4410ac6d7d9bd48c8d5b47a1a760a8c924c77488ffa 450096 mx-installer_21.9.08_i386.deb
+Files:
+ f7bcf430961a98898cbd33b0ed5903f9 9118 system optional gazelle-installer_21.9.08_i386.buildinfo
+ 57865f7eabbeddc6a26b6f12f3c57c39 450096 system optional mx-installer_21.9.08_i386.deb
