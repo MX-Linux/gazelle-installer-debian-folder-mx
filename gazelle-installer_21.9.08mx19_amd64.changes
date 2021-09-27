@@ -1,0 +1,46 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+Format: 1.8
+Date: Mon, 27 Sep 2021 17:22:33 -0400
+Source: gazelle-installer
+Binary: mx-installer
+Architecture: source amd64
+Version: 21.9.08mx19
+Distribution: mx
+Urgency: medium
+Maintainer: dolphinoracle <dolphinoracle@gmail.com>
+Changed-By: Adrian <adrian@mxlinux.org>
+Description:
+ mx-installer - Customizable GUI installer for MX Linux and antiX Linux
+Changes:
+ gazelle-installer (21.9.08mx19) mx; urgency=medium
+ .
+   * Allow bad block checks to be setup per partition instead of everything.
+Checksums-Sha1:
+ 99fba9b3a3588354405435fe22c1ff20ed40678b 1231 gazelle-installer_21.9.08mx19.dsc
+ 6496951a62518a8e2bc2e02c9bf936ec18f123c4 308108 gazelle-installer_21.9.08mx19.tar.xz
+ 8570df1ad181d094fe89d006bc8f8ee08b22032f 10821 gazelle-installer_21.9.08mx19_amd64.buildinfo
+ ab915fe43f9598edf99245bb9181a922448e0903 430260 mx-installer_21.9.08mx19_amd64.deb
+Checksums-Sha256:
+ 743998274fdb9defda94732d4a1751a2750a13e461e57889f99575b6ab2fe444 1231 gazelle-installer_21.9.08mx19.dsc
+ 119e884ed935a4620eed5d739f30d8187d45bf8c80cd5de089cc958e15989cec 308108 gazelle-installer_21.9.08mx19.tar.xz
+ 7bd74c19baea9f8e6dab428d45e84c8112620b9d16f10dd7c8bf31c31c16a52f 10821 gazelle-installer_21.9.08mx19_amd64.buildinfo
+ 336e512bce1bfd71d7e2408fd8f61202eb4af6fffd9476e2b96a913002e65911 430260 mx-installer_21.9.08mx19_amd64.deb
+Files:
+ e54af3cb89703c8b3a9d95fe73f2ac0f 1231 system optional gazelle-installer_21.9.08mx19.dsc
+ d72339d8f2e764eb7433eb2f6d391e01 308108 system optional gazelle-installer_21.9.08mx19.tar.xz
+ 87a015cc6a6452c15e12fb3790e03ecf 10821 system optional gazelle-installer_21.9.08mx19_amd64.buildinfo
+ 32df3ab4d1f953ea98e2da43112f6a66 430260 system optional mx-installer_21.9.08mx19_amd64.deb
+
+-----BEGIN PGP SIGNATURE-----
+
+iQFHBAEBCgAxFiEE8ndToY6S45N+YzXncJOMeAZ57pgFAmFSNrMTHGFkcmlhbkBt
+eGxpbnV4Lm9yZwAKCRBwk4x4BnnumO25B/4v0ZhyjCSi04R1ihjdmxgHDa5ITN85
+MoT09VO0DbwdZ6rM8n+SbkwdyrdqeCA9E9zF9zZu/x+FARCM6236WRWkthQhh30E
+JAJEno9CmS7e3ijb8Br7BVW0HxdAyxPG2UH2NWHqZCmtzPRWCTD9bWK832lZYHSb
+XVi1SYN9GOycZtNjesUoeGFDmnLP4V59OFuX6EBu9dHM3q9bkC5AfdWI6nMyOq2y
+JwnhEADUWhsI2QDQbz11eypUyKOF6H0NKXC7BRtuxNHcYYdVhWPPI3a3RUH+1dZd
+2ZWUOu2jcoj+DfGYeGPlpnEARAy3/Wq6iEIO9ZM0wuKzbwK/EeqIKn5Z
+=v85t
+-----END PGP SIGNATURE-----

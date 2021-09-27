@@ -1,3 +1,9 @@
+gazelle-installer (21.9.08mx19) mx; urgency=medium
+
+  * Allow bad block checks to be setup per partition instead of everything.
+
+ -- Adrian <adrian@mxlinux.org>  Mon, 27 Sep 2021 17:22:33 -0400
+
 gazelle-installer (21.9.07mx19) mx; urgency=medium
 
   * Select the whole row when adding the partition.

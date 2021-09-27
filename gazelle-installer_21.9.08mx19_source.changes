@@ -1,0 +1,25 @@
+Format: 1.8
+Date: Mon, 27 Sep 2021 17:22:33 -0400
+Source: gazelle-installer
+Architecture: source
+Version: 21.9.08mx19
+Distribution: mx
+Urgency: medium
+Maintainer: dolphinoracle <dolphinoracle@gmail.com>
+Changed-By: Adrian <adrian@mxlinux.org>
+Changes:
+ gazelle-installer (21.9.08mx19) mx; urgency=medium
+ .
+   * Allow bad block checks to be setup per partition instead of everything.
+Checksums-Sha1:
+ 72465198d91cfd90402698faaccf91434273c80e 669 gazelle-installer_21.9.08mx19.dsc
+ b7f883740adc2991845ff3edaf8ecbf3ad373d26 308288 gazelle-installer_21.9.08mx19.tar.xz
+ db8a2693e65b57bc8d4db84a239b415191020a49 10020 gazelle-installer_21.9.08mx19_i386.buildinfo
+Checksums-Sha256:
+ 7631de395a4479e3b29236b8ac8cce40b6628208f2eb70b09373d0821681d656 669 gazelle-installer_21.9.08mx19.dsc
+ 184f35e20e3cceaf46b19d15914d919fc1722a986c92835b57509d99e1d85c01 308288 gazelle-installer_21.9.08mx19.tar.xz
+ e51eac9f8840f99617dea1f0fb0674dd02273c739834decbe9f93a3d99820d22 10020 gazelle-installer_21.9.08mx19_i386.buildinfo
+Files:
+ bd35b4dca762ce07f1ca673a780cf509 669 system optional gazelle-installer_21.9.08mx19.dsc
+ 15f00707da5e641cecb2164e32293977 308288 system optional gazelle-installer_21.9.08mx19.tar.xz
+ eeb5bd2904a315740e4c024eceeeddec 10020 system optional gazelle-installer_21.9.08mx19_i386.buildinfo
