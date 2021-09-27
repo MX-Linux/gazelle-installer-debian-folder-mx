@@ -1,0 +1,46 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+Format: 1.8
+Date: Mon, 27 Sep 2021 17:27:11 -0400
+Source: gazelle-installer
+Binary: mx-installer
+Architecture: source amd64
+Version: 21.9.08
+Distribution: mx
+Urgency: medium
+Maintainer: dolphinoracle <dolphinoracle@gmail.com>
+Changed-By: Adrian <adrian@mxlinux.org>
+Description:
+ mx-installer - Customizable GUI installer for MX Linux and antiX Linux
+Changes:
+ gazelle-installer (21.9.08) mx; urgency=medium
+ .
+   * Allow bad block checks to be setup per partition instead of everything.
+Checksums-Sha1:
+ 013273fe2d54f4c215e431f59f06c952d3da80bc 1215 gazelle-installer_21.9.08.dsc
+ 2c31c85c011896c8790baf63f40da6c6b79340e4 308148 gazelle-installer_21.9.08.tar.xz
+ 68ca81294e9d6888dcc17e05aae1cfb8e7bdb8bf 9992 gazelle-installer_21.9.08_amd64.buildinfo
+ b0d9b821af60f5329ca2bc0465263f7c28cbc501 434452 mx-installer_21.9.08_amd64.deb
+Checksums-Sha256:
+ 8c2dd9a99a7217e988a2d1288019b13688790dd3f867fb3fdf3e84507ec56f1a 1215 gazelle-installer_21.9.08.dsc
+ 17501e574b3c609d72319c11184deac10dc7114c9d3478b1b1a01bdad42a028b 308148 gazelle-installer_21.9.08.tar.xz
+ c87431c743e1ad5baa719f3cae436e665c29d359d789620d370a5c3d7e1e3deb 9992 gazelle-installer_21.9.08_amd64.buildinfo
+ eed50d2bb02a659d3266c2bebbb395725076fd701522c270b469745aadd5d472 434452 mx-installer_21.9.08_amd64.deb
+Files:
+ 1f462da1073ef09a008dedfd542cfb4b 1215 system optional gazelle-installer_21.9.08.dsc
+ cbe64a600f5a34bf795bc109431c40e6 308148 system optional gazelle-installer_21.9.08.tar.xz
+ a2a28f36896243603dd7825d6d909b57 9992 system optional gazelle-installer_21.9.08_amd64.buildinfo
+ 51f6c3fe9994019e1af4be737433c7cf 434452 system optional mx-installer_21.9.08_amd64.deb
+
+-----BEGIN PGP SIGNATURE-----
+
+iQFHBAEBCgAxFiEE8ndToY6S45N+YzXncJOMeAZ57pgFAmFSN6QTHGFkcmlhbkBt
+eGxpbnV4Lm9yZwAKCRBwk4x4BnnumNfcB/0UsI14FV6KlrAUBlkyshNb7fZ3C6Dt
+q4l1YNUjo4y345JTEB4iiHA9/4a0EHBhMU5AJhEpCm+Edz0lRkhNDfgNjnqfky2t
+RntbI5imBqzMOsdM1Z1aS6p7IOdIGB79kbFlAhBu228RBphw16UrXwgNzijtd1y5
+owWKaZwEfQ8sefpNL5wlxtehcFwivJ/mK461pWaKou1lT6jUCnf/eUm5ARV6VBlE
+X0FAh4O+w3lyd+tf9PkEQUeXSmqH6vVYauN/ih+jZs4T667byz7yJgB51rmK5lCx
++Qh6rJVcuCbD9Ek6cc9AJPkmD8b14yUK/GDWS2Gutfcb2nXlSRvNkv09
+=c1rI
+-----END PGP SIGNATURE-----
