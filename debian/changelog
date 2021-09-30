@@ -1,3 +1,11 @@
+gazelle-installer (21.9.09mx19) mx; urgency=medium
+
+  * Fixed: combo box drop-down list gets duplicated when an entry is chosen.
+  * Use the maximum available space when zero is entered.
+  * Lowered the likely excessive safety margin to 8MB. 
+
+ -- Adrian <adrian@mxlinux.org>  Thu, 30 Sep 2021 08:24:17 -0400
+
 gazelle-installer (21.9.08mx19) mx; urgency=medium
 
   * Allow bad block checks to be setup per partition instead of everything.

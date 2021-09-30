@@ -1,0 +1,27 @@
+Format: 1.8
+Date: Thu, 30 Sep 2021 08:24:17 -0400
+Source: gazelle-installer
+Architecture: source
+Version: 21.9.09mx19
+Distribution: mx
+Urgency: medium
+Maintainer: dolphinoracle <dolphinoracle@gmail.com>
+Changed-By: Adrian <adrian@mxlinux.org>
+Changes:
+ gazelle-installer (21.9.09mx19) mx; urgency=medium
+ .
+   * Fixed: combo box drop-down list gets duplicated when an entry is chosen.
+   * Use the maximum available space when zero is entered.
+   * Lowered the likely excessive safety margin to 8MB.
+Checksums-Sha1:
+ 202372b19851d182a36c916f9f883b16ae35bc25 669 gazelle-installer_21.9.09mx19.dsc
+ d37b7bc0c90e724ba65921e8edd223c79c441c52 308292 gazelle-installer_21.9.09mx19.tar.xz
+ bae48a17b5249b8a6f47bbcfc20ca3c6c217d640 10020 gazelle-installer_21.9.09mx19_i386.buildinfo
+Checksums-Sha256:
+ 125ed9383fdee10e7bde606dda607353925c442ec67df782119e1cc5f93907ed 669 gazelle-installer_21.9.09mx19.dsc
+ e6cb90e9056ea5fa88b9cf4596bcb4c3745dc3bc3e7907ff0dea010e0a8ebd91 308292 gazelle-installer_21.9.09mx19.tar.xz
+ 1946d010a833ed082715911fe7e4644f6c5557b1ae3ba999517c3d24c7a57c3b 10020 gazelle-installer_21.9.09mx19_i386.buildinfo
+Files:
+ 89d5ff14b3d0e1339c510d99ad0b62c4 669 system optional gazelle-installer_21.9.09mx19.dsc
+ 04d5b6c92bb62cce83969a3d19c7e342 308292 system optional gazelle-installer_21.9.09mx19.tar.xz
+ 1037b33cb9ab88e8b152b54fbaef663f 10020 system optional gazelle-installer_21.9.09mx19_i386.buildinfo
