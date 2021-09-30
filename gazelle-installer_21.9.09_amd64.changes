@@ -1,0 +1,48 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+Format: 1.8
+Date: Thu, 30 Sep 2021 08:21:11 -0400
+Source: gazelle-installer
+Binary: mx-installer
+Architecture: source amd64
+Version: 21.9.09
+Distribution: mx
+Urgency: medium
+Maintainer: dolphinoracle <dolphinoracle@gmail.com>
+Changed-By: Adrian <adrian@mxlinux.org>
+Description:
+ mx-installer - Customizable GUI installer for MX Linux and antiX Linux
+Changes:
+ gazelle-installer (21.9.09) mx; urgency=medium
+ .
+   * Fixed: combo box drop-down list gets duplicated when an entry is chosen.
+   * Use the maximum available space when zero is entered.
+   * Lowered the likely excessive safety margin to 8MB.
+Checksums-Sha1:
+ 0c10d85a9a6ee9b25dfb816c8e826c2480bd7e1a 1215 gazelle-installer_21.9.09.dsc
+ 2d38a247c7b9ccb041ce24297dcae533f356ad4d 308240 gazelle-installer_21.9.09.tar.xz
+ 0724bebb75128a22d8b2ce6a13db867b9c12efe0 9992 gazelle-installer_21.9.09_amd64.buildinfo
+ 00c7d2aa07f9479e180f9bbdf32650ac0f76d9fb 434444 mx-installer_21.9.09_amd64.deb
+Checksums-Sha256:
+ e3748a6e2850553700b0966b9c33158d427af3c5d49c310aa0485ee35c703e71 1215 gazelle-installer_21.9.09.dsc
+ 3523bd52a807bca8d75c722e397b064a85f3d8ff31c860530c0b1c0472222643 308240 gazelle-installer_21.9.09.tar.xz
+ 408b3abf21178213274dc1605d3514961704b25d982bc83fb24a320c88ad6c44 9992 gazelle-installer_21.9.09_amd64.buildinfo
+ 0500fd33063a5cd1f3d323779cfc41b1f7b473f3bc48eab675eca4ee51fc4379 434444 mx-installer_21.9.09_amd64.deb
+Files:
+ 4d223ab9d42f8051e503925563670a95 1215 system optional gazelle-installer_21.9.09.dsc
+ c0d7148d29207a1aef85e07262798e64 308240 system optional gazelle-installer_21.9.09.tar.xz
+ 4702888c1357de607a61e0508c735020 9992 system optional gazelle-installer_21.9.09_amd64.buildinfo
+ 7b6d0568e03bd02b91f4f2869265d37e 434444 system optional mx-installer_21.9.09_amd64.deb
+
+-----BEGIN PGP SIGNATURE-----
+
+iQFHBAEBCgAxFiEE8ndToY6S45N+YzXncJOMeAZ57pgFAmFVrAoTHGFkcmlhbkBt
+eGxpbnV4Lm9yZwAKCRBwk4x4BnnumMuYCACXAw8u7LvtsGqM5r8p8NazfHgMF7Eg
+RbitActgVfBtspYiDrf9/PVGj8oh0hQLmQdTYbe0R7qp/0S/hKC4eVL/ntg5NONr
+b3QPv7WZv/s2pBZ1ux67b7N+HJeD6JnzlXdyyMzPq3oLENuLIxQs5uPodxQM2/uP
+FVIt5xjMutpPjsGllzLH8fqAsAH7a5l7IK8MwpJqh6zGAMdDncynvAQLfpra/LYV
+x3U0P3W6vR9ucgkcyrnd/DzQkmKHl8Bcx8A4zLdzIFsrPESWBAFRE9az6ax/qheS
+sVN5qVcGDEQF5LrE+4BdhqYVinN8gy2mnwhMaAD7vPrgMjyaSieen2Mw
+=BN7A
+-----END PGP SIGNATURE-----
