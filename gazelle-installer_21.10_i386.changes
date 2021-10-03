@@ -1,0 +1,25 @@
+Format: 1.8
+Date: Sun, 03 Oct 2021 09:10:12 -0400
+Source: gazelle-installer
+Binary: mx-installer
+Architecture: i386
+Version: 21.10
+Distribution: mx
+Urgency: medium
+Maintainer: dolphinoracle <dolphinoracle@gmail.com>
+Changed-By: Adrian <adrian@mxlinux.org>
+Description:
+ mx-installer - Customizable GUI installer for MX Linux and antiX Linux
+Changes:
+ gazelle-installer (21.10) mx; urgency=medium
+ .
+   * Fixed: old partitions not detached before clearing the drive.
+Checksums-Sha1:
+ ddcb4d5180aac081c210cefab0aaad5709e9b732 9108 gazelle-installer_21.10_i386.buildinfo
+ 535068d88811be8cc738f9bced26d0ce11bed8ca 450260 mx-installer_21.10_i386.deb
+Checksums-Sha256:
+ 96c2df3c42769ce347f7e41e2b9563e2109f386f059432cb2460c2a73f21dc53 9108 gazelle-installer_21.10_i386.buildinfo
+ 403651b0a817d6110749ae87a17dcfd28857d3f4334ba9257a880686ca05d083 450260 mx-installer_21.10_i386.deb
+Files:
+ c8bf41961c3ddfb7aa10d8654f62c84d 9108 system optional gazelle-installer_21.10_i386.buildinfo
+ 7c95f7fbfb2190a3905138443ace521a 450260 system optional mx-installer_21.10_i386.deb

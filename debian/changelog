@@ -1,3 +1,9 @@
+gazelle-installer (21.10) mx; urgency=medium
+
+  * Fixed: old partitions not detached before clearing the drive. 
+
+ -- Adrian <adrian@mxlinux.org>  Sun, 03 Oct 2021 09:10:12 -0400
+
 gazelle-installer (21.9.10) mx; urgency=medium
 
   * Fixed: blank drive considered an old, locked layout.
