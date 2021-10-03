@@ -1,0 +1,26 @@
+Format: 1.8
+Date: Sat, 02 Oct 2021 20:32:59 -0400
+Source: gazelle-installer
+Binary: mx-installer
+Architecture: i386
+Version: 21.10mx19
+Distribution: mx
+Urgency: medium
+Maintainer: dolphinoracle <dolphinoracle@gmail.com>
+Changed-By: Adrian <adrian@mxlinux.org>
+Description:
+ mx-installer - Customizable GUI installer for MX Linux and antiX Linux
+Changes:
+ gazelle-installer (21.10mx19) mx; urgency=medium
+ .
+   * Fixed: blank drive considered an old, locked layout.
+   * Fixed: blank drives formatted as MBR on EFI systems.
+Checksums-Sha1:
+ c6eb3db98e82a37c7e93543443c7305e8e52d1a1 10010 gazelle-installer_21.10mx19_i386.buildinfo
+ 20408355130d0513e5e890c1fa099ed7aa46088f 446564 mx-installer_21.10mx19_i386.deb
+Checksums-Sha256:
+ 03d625590d86a3888a8a5da559e72d4ea145f424edb36eb76a45a13034e771e9 10010 gazelle-installer_21.10mx19_i386.buildinfo
+ 48e3d6bf859268a0bb9a68a9c4baf8f4dcf7f8e159710b62665f548912e02c5b 446564 mx-installer_21.10mx19_i386.deb
+Files:
+ c6867f5abdc8aa782d0c82743e5b32fd 10010 system optional gazelle-installer_21.10mx19_i386.buildinfo
+ a80e3043cc9dd9be98a36c8fbae0ed52 446564 system optional mx-installer_21.10mx19_i386.deb
