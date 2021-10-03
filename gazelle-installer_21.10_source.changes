@@ -1,0 +1,25 @@
+Format: 1.8
+Date: Sun, 03 Oct 2021 09:10:12 -0400
+Source: gazelle-installer
+Architecture: source
+Version: 21.10
+Distribution: mx
+Urgency: medium
+Maintainer: dolphinoracle <dolphinoracle@gmail.com>
+Changed-By: Adrian <adrian@mxlinux.org>
+Changes:
+ gazelle-installer (21.10) mx; urgency=medium
+ .
+   * Fixed: old partitions not detached before clearing the drive.
+Checksums-Sha1:
+ 96a3986bedc706dada98967b177f925e6d0e6216 645 gazelle-installer_21.10.dsc
+ ca0366a97b5c1f819b903493b86cff7dfdaa9c21 308332 gazelle-installer_21.10.tar.xz
+ ddcb4d5180aac081c210cefab0aaad5709e9b732 9108 gazelle-installer_21.10_i386.buildinfo
+Checksums-Sha256:
+ ec5e2764d85df44857af530816f666160b3beb90b5f0922cb1806bb52cbb5d90 645 gazelle-installer_21.10.dsc
+ bf27f4657df50a98e4799565ea1316fb76b213ab6dc6f52a745a971a5852602a 308332 gazelle-installer_21.10.tar.xz
+ 96c2df3c42769ce347f7e41e2b9563e2109f386f059432cb2460c2a73f21dc53 9108 gazelle-installer_21.10_i386.buildinfo
+Files:
+ aa3a87447542aaf14c974827d81cc693 645 system optional gazelle-installer_21.10.dsc
+ c0f6e55084ef42ee27a745220be24fbc 308332 system optional gazelle-installer_21.10.tar.xz
+ c8bf41961c3ddfb7aa10d8654f62c84d 9108 system optional gazelle-installer_21.10_i386.buildinfo
