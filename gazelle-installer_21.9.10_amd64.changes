@@ -1,0 +1,47 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+Format: 1.8
+Date: Sat, 02 Oct 2021 20:39:11 -0400
+Source: gazelle-installer
+Binary: mx-installer
+Architecture: source amd64
+Version: 21.9.10
+Distribution: mx
+Urgency: medium
+Maintainer: dolphinoracle <dolphinoracle@gmail.com>
+Changed-By: Adrian <adrian@mxlinux.org>
+Description:
+ mx-installer - Customizable GUI installer for MX Linux and antiX Linux
+Changes:
+ gazelle-installer (21.9.10) mx; urgency=medium
+ .
+   * Fixed: blank drive considered an old, locked layout.
+   * Fixed: blank drives formatted as MBR on EFI systems.
+Checksums-Sha1:
+ 5637b273ee3b2c12c781876a8f50a82616854dfb 1215 gazelle-installer_21.9.10.dsc
+ 7eb6082cfa4caacc705a8a1b271d2a40fe2845c1 308340 gazelle-installer_21.9.10.tar.xz
+ a2a01023599c76ebfbe776521547a3a560564e13 9992 gazelle-installer_21.9.10_amd64.buildinfo
+ 376af904f8a7d7ae7ebeca8bec72f7ac128931c4 434656 mx-installer_21.9.10_amd64.deb
+Checksums-Sha256:
+ 6fa910e1c5d85c59ae8e21a7b8ca2d9ad478a9b18759fc7526c8f4007532e0c6 1215 gazelle-installer_21.9.10.dsc
+ 5499aaa52f1e4a8de20d09e8ded72058a5995d3fd435083da20b7089dddc3899 308340 gazelle-installer_21.9.10.tar.xz
+ 233b1d4206d10eefd058415298c9cffbf91e292a255dbf990a448945c8552411 9992 gazelle-installer_21.9.10_amd64.buildinfo
+ e30ebbea0f89517bdced16e4a1a867db46c85591dbdf370d81c204b0bf6208c7 434656 mx-installer_21.9.10_amd64.deb
+Files:
+ 7280cf611d93cc1d0abeae7456214102 1215 system optional gazelle-installer_21.9.10.dsc
+ 5343fae82ce065da6086410db2bb8bef 308340 system optional gazelle-installer_21.9.10.tar.xz
+ 6f8bca8b2d85bf8c20e5eebaa03942fd 9992 system optional gazelle-installer_21.9.10_amd64.buildinfo
+ 5661e3bf8b64e04054268d276e232d10 434656 system optional mx-installer_21.9.10_amd64.deb
+
+-----BEGIN PGP SIGNATURE-----
+
+iQFHBAEBCgAxFiEE8ndToY6S45N+YzXncJOMeAZ57pgFAmFY/EATHGFkcmlhbkBt
+eGxpbnV4Lm9yZwAKCRBwk4x4BnnumJBwCAC0cUrnX+gdlKhEXhpMBpiiBTedit/R
+I/ZiNnKAb+qNdGutcpVLFmZsnxrSaIPmH64sEfJw3l4URX9Tz07vINa+ovAuRucj
+e7v0ov+ztDveTN5iUjJEDxW8344A1XESNBta4bLr9NVGe2EoBrHP/qjotSIRyYeh
+wE6IYueOai+TcVVx0sTIfy1ZA30F/SDHbzUWviCfg/6OTqNfU0w45xzWduEoqkS3
+NWd10C4EZoR63tA0Nh9nW9sK5vmUqtrXFkAy5EouST9D5snfsp5k9uNgHYQ1ciFi
+5H94YElDWJHUoLIiIQJGY3Frp1dLgIEzGYUV9kq02pNEYSNyl2tIWzLk
+=8psS
+-----END PGP SIGNATURE-----
