@@ -1,0 +1,26 @@
+Format: 1.8
+Date: Mon, 04 Oct 2021 01:51:03 -0400
+Source: gazelle-installer
+Binary: mx-installer
+Architecture: i386
+Version: 21.10.03mx19
+Distribution: mx
+Urgency: medium
+Maintainer: dolphinoracle <dolphinoracle@gmail.com>
+Changed-By: Adrian <adrian@mxlinux.org>
+Description:
+ mx-installer - Customizable GUI installer for MX Linux and antiX Linux
+Changes:
+ gazelle-installer (21.10.03mx19) mx; urgency=medium
+ .
+   * Fixed: ESP not automatically selected the first time.
+   * Fixed: Auto-selected ESP format not set to PRESERVE.
+Checksums-Sha1:
+ e4fe2cea86bccd0c5ae5e0fc9dafbf891a0da4de 10025 gazelle-installer_21.10.03mx19_i386.buildinfo
+ d06737492507f47f124853f4c0047ce6c2e25e0d 446640 mx-installer_21.10.03mx19_i386.deb
+Checksums-Sha256:
+ b13420d94b5f763033754793a9f3010233a8857c49507a6ecb4f039b98a724d0 10025 gazelle-installer_21.10.03mx19_i386.buildinfo
+ 4ece3903d8d83702557b16f7e039515b329a41d99734ed6dbf93530e8374956d 446640 mx-installer_21.10.03mx19_i386.deb
+Files:
+ 504aa827ba09d9a84a2437ce888cb12e 10025 system optional gazelle-installer_21.10.03mx19_i386.buildinfo
+ ca3398b7994d84ddd084191f9a7c8eb3 446640 system optional mx-installer_21.10.03mx19_i386.deb

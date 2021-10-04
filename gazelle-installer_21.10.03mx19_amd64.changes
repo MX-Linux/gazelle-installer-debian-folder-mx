@@ -1,0 +1,47 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+Format: 1.8
+Date: Mon, 04 Oct 2021 01:51:03 -0400
+Source: gazelle-installer
+Binary: mx-installer
+Architecture: source amd64
+Version: 21.10.03mx19
+Distribution: mx
+Urgency: medium
+Maintainer: dolphinoracle <dolphinoracle@gmail.com>
+Changed-By: Adrian <adrian@mxlinux.org>
+Description:
+ mx-installer - Customizable GUI installer for MX Linux and antiX Linux
+Changes:
+ gazelle-installer (21.10.03mx19) mx; urgency=medium
+ .
+   * Fixed: ESP not automatically selected the first time.
+   * Fixed: Auto-selected ESP format not set to PRESERVE.
+Checksums-Sha1:
+ ebf43bb0328262b1d12262aed03cf7dab12be9c6 1235 gazelle-installer_21.10.03mx19.dsc
+ c8598c7dbc4b5501c0520799b7bedcb9e382ea39 308476 gazelle-installer_21.10.03mx19.tar.xz
+ 9e5093c59e6cab7c3ba3a1101ea4042ebe7fd0b9 10829 gazelle-installer_21.10.03mx19_amd64.buildinfo
+ eeb8fcbe326597220c4b538ff44418a82e6fdece 430860 mx-installer_21.10.03mx19_amd64.deb
+Checksums-Sha256:
+ edec9fe83d9d8786d2f9df4aacd6fbbd5ade7d68fa3b6c3284ce0b46146e0141 1235 gazelle-installer_21.10.03mx19.dsc
+ dde80e7d92249ba3a79d1bfafe627706393def9ee8e3bdcc76a60310fb583d01 308476 gazelle-installer_21.10.03mx19.tar.xz
+ 479ffe4b343e8dc0bd1fe0bfcbbe5a6ce215043d37e853799f3889dc4cd68e65 10829 gazelle-installer_21.10.03mx19_amd64.buildinfo
+ b55ec68d9dbf2174c3db836776c0887d2344cb4efe483aeda46189dd7c19e113 430860 mx-installer_21.10.03mx19_amd64.deb
+Files:
+ 749afb16ef030ea939ab55dfce662ec4 1235 system optional gazelle-installer_21.10.03mx19.dsc
+ 0431d1e810ca4fe8f417adaca377e04b 308476 system optional gazelle-installer_21.10.03mx19.tar.xz
+ da6096982f706ce28015a3791a1cc429 10829 system optional gazelle-installer_21.10.03mx19_amd64.buildinfo
+ 0e4b10ea53b4be80eda7cca760e49bec 430860 system optional mx-installer_21.10.03mx19_amd64.deb
+
+-----BEGIN PGP SIGNATURE-----
+
+iQFHBAEBCgAxFiEE8ndToY6S45N+YzXncJOMeAZ57pgFAmFalpETHGFkcmlhbkBt
+eGxpbnV4Lm9yZwAKCRBwk4x4BnnumHOIB/wKjZhuJHIrQmlGQ7vv3DymJx6+7Gl7
+S6kWUoK61Z41aB10PY0I/QKhyocIpzYS22LD0Zx+sCvZUlCdw8idDnMxrG2jllPR
+eEgqChtP8ZRHNHJ/Qp3zX13IwOcSBTT2/ePcH4FkG4i02iviEajd/izPl7qLensx
+J1njBtWwjVm0gW9T6JmVu1jCJOLhWUkxi9PGBtJcRqVluiI6vu+sJ0DwtaSu6sU8
+7XYTx+R4W3kLUy1u3uP0Qxv53joX8/CgzAht0auNWgPlQ95ZmXknQ1poElqSaRs9
+wr2P8s/7SMi0L2g4mDxAQKux3lkP25716UOxaBGCe5ketTo+mSkXvmwd
+=Y0gF
+-----END PGP SIGNATURE-----

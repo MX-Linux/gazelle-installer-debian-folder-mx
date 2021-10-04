@@ -1,3 +1,10 @@
+gazelle-installer (21.10.03mx19) mx; urgency=medium
+
+  * Fixed: ESP not automatically selected the first time.
+  * Fixed: Auto-selected ESP format not set to PRESERVE. 
+
+ -- Adrian <adrian@mxlinux.org>  Mon, 04 Oct 2021 01:51:03 -0400
+
 gazelle-installer (21.10.02mx19) mx; urgency=medium
 
   * Fixed: unselected drives without partitions are wiped.
