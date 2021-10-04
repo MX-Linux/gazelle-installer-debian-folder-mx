@@ -1,3 +1,9 @@
+gazelle-installer (21.10.02mx19) mx; urgency=medium
+
+  * Fixed: unselected drives without partitions are wiped.
+
+ -- Adrian <adrian@mxlinux.org>  Sun, 03 Oct 2021 20:54:34 -0400
+
 gazelle-installer (21.10.01mx19) mx; urgency=medium
 
   * Fixed: old partitions not detached before clearing the drive. 
