@@ -1,3 +1,14 @@
+gazelle-installer (21.10.03) mx; urgency=medium
+
+  * Fixed: duplicate boot partition in configuration.
+  * List partitions in order of physical location on the disk.
+  * EFI System Partition formatting and validation fixes.
+  * Increase size limit of boot and EFI System partition to 8GB.
+  * Virtual device detection, listing and editing fixes.
+  * Minor partition manager GUI bug fixes.
+
+ -- Adrian <adrian@mxlinux.org>  Mon, 04 Oct 2021 11:21:21 -0400
+
 gazelle-installer (21.10.02) mx; urgency=medium
 
   * Fixed: ESP not automatically selected the first time.
