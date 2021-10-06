@@ -1,0 +1,31 @@
+Format: 1.8
+Date: Wed, 06 Oct 2021 11:15:52 -0400
+Source: gazelle-installer
+Binary: mx-installer
+Architecture: source amd64
+Version: 21.10.04
+Distribution: mx
+Urgency: medium
+Maintainer: dolphinoracle <dolphinoracle@gmail.com>
+Changed-By: Adrian <adrian@mxlinux.org>
+Description:
+ mx-installer - Customizable GUI installer for MX Linux and antiX Linux
+Changes:
+ gazelle-installer (21.10.04) mx; urgency=medium
+ .
+   * Fixed: setting up machine-id
+Checksums-Sha1:
+ 432f1acc327f56dd24ebb2f2fe5af8aa7b2d464c 657 gazelle-installer_21.10.04.dsc
+ 165cef8355c931dd574ab5d7753752fffb78f4b8 308616 gazelle-installer_21.10.04.tar.xz
+ 9ac8be07c2535949b6e051850f0e3b6fdea273bb 9437 gazelle-installer_21.10.04_amd64.buildinfo
+ ac3f416de455872922ae0280b8ef8070735b83f1 435728 mx-installer_21.10.04_amd64.deb
+Checksums-Sha256:
+ d9afaf81c9095904f80dd1fd1138ca022ae309d774d317261fdd4e4bbf3b7c61 657 gazelle-installer_21.10.04.dsc
+ 2c1740650d5d31fe0f1ac37d5155742371194d89154ae7a3413a61c07eb5e262 308616 gazelle-installer_21.10.04.tar.xz
+ 722f49acb54ef2535bcc04965600c2c9d82e4f98887780f4b769255dfa25910a 9437 gazelle-installer_21.10.04_amd64.buildinfo
+ 405ce36036faad02f24a63c03fa1470ec9f3273f3dc429c9d989effcb459cd30 435728 mx-installer_21.10.04_amd64.deb
+Files:
+ a8a04a390e69ea75ce5f14f52559b63c 657 system optional gazelle-installer_21.10.04.dsc
+ bc5f11577aa0180ae5b2090dd98cfc34 308616 system optional gazelle-installer_21.10.04.tar.xz
+ c0d2423aadc39195c8d78a589ce94e92 9437 system optional gazelle-installer_21.10.04_amd64.buildinfo
+ 822953189a05d341d2d9e9774fe7133c 435728 system optional mx-installer_21.10.04_amd64.deb
