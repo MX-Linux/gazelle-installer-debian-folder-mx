@@ -1,0 +1,25 @@
+Format: 1.8
+Date: Thu, 07 Oct 2021 16:36:48 -0400
+Source: gazelle-installer
+Architecture: source
+Version: 21.10.05
+Distribution: mx
+Urgency: medium
+Maintainer: dolphinoracle <dolphinoracle@gmail.com>
+Changed-By: Adrian <adrian@mxlinux.org>
+Changes:
+ gazelle-installer (21.10.05) mx; urgency=medium
+ .
+   * Fixed: incorrect sector size on new layouts.
+Checksums-Sha1:
+ e1f093430871bd65dc73cc23a6f2a9ee61c24fb9 657 gazelle-installer_21.10.05.dsc
+ 7bf63d258fb24fb68f74957f967122d555d1dc3b 308656 gazelle-installer_21.10.05.tar.xz
+ 7326e3f85e94051a0a3c03114c3a9d4b3cd0ff9d 9123 gazelle-installer_21.10.05_i386.buildinfo
+Checksums-Sha256:
+ 4d7359f69aad708768a34fec4ce0b60ed7a2bafc60e3419a7adf2c3a67635cef 657 gazelle-installer_21.10.05.dsc
+ 041a4aceb56f9e35b70282bff29cd21d704edeb39f96785ea0579c11126bebe9 308656 gazelle-installer_21.10.05.tar.xz
+ 5aabba0f63097427eb9dcf94579a915d7abe4c0189da85789f3aaf9e6689b108 9123 gazelle-installer_21.10.05_i386.buildinfo
+Files:
+ 663006f1bdc91b7e539bacefb102511d 657 system optional gazelle-installer_21.10.05.dsc
+ 6c62d27c8dc35f39c29bf3407ade3226 308656 system optional gazelle-installer_21.10.05.tar.xz
+ 9c1fd0b2d03097a49f2e288657688d20 9123 system optional gazelle-installer_21.10.05_i386.buildinfo
