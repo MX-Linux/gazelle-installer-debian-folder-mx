@@ -1,3 +1,9 @@
+gazelle-installer (21.10.05) mx; urgency=medium
+
+  * Fixed: incorrect sector size on new layouts. 
+
+ -- Adrian <adrian@mxlinux.org>  Thu, 07 Oct 2021 16:36:48 -0400
+
 gazelle-installer (21.10.04) mx; urgency=medium
 
   * Fixed: setting up machine-id
