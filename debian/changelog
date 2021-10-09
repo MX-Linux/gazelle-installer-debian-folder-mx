@@ -1,3 +1,10 @@
+gazelle-installer (21.10.06) mx; urgency=medium
+
+  * Fixed: some extended partition types appear in the list.
+  * Fixed: ESPs on MBR (type 0xEF) are not selected for ESP. 
+
+ -- Adrian <adrian@mxlinux.org>  Sat, 09 Oct 2021 08:22:55 -0400
+
 gazelle-installer (21.10.05) mx; urgency=medium
 
   * Fixed: incorrect sector size on new layouts. 
