@@ -1,3 +1,9 @@
+gazelle-installer (21.10.07) mx; urgency=medium
+
+  * Fixed: Label field editable when preserving format.
+
+ -- Adrian <adrian@mxlinux.org>  Sat, 09 Oct 2021 20:56:47 -0400
+
 gazelle-installer (21.10.06) mx; urgency=medium
 
   * Fixed: some extended partition types appear in the list.

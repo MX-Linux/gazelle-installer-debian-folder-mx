@@ -1,0 +1,25 @@
+Format: 1.8
+Date: Sat, 09 Oct 2021 20:56:47 -0400
+Source: gazelle-installer
+Architecture: source
+Version: 21.10.07
+Distribution: mx
+Urgency: medium
+Maintainer: dolphinoracle <dolphinoracle@gmail.com>
+Changed-By: Adrian <adrian@mxlinux.org>
+Changes:
+ gazelle-installer (21.10.07) mx; urgency=medium
+ .
+   * Fixed: Label field editable when preserving format.
+Checksums-Sha1:
+ 998270d730b0d4f3727cd86912a4af9f7fe631ab 657 gazelle-installer_21.10.07.dsc
+ 03f2ad727dd01f2527ba0504bfb3294c581405f0 308816 gazelle-installer_21.10.07.tar.xz
+ 80a53ec7fa562a16d109829d6a374efb333ffd81 9123 gazelle-installer_21.10.07_i386.buildinfo
+Checksums-Sha256:
+ 3c9e57673341173c61bf11f2ed66b879827b84d478bb4a817176cde848c0d428 657 gazelle-installer_21.10.07.dsc
+ 36021ef3cad62180099f2724b88b0deda2e8012e994bd44820eeafd9988f36d3 308816 gazelle-installer_21.10.07.tar.xz
+ 69bb45eb2a0e22b8cbe94049b1fb63f78bfaf1b22510dd90519cb78c66074a33 9123 gazelle-installer_21.10.07_i386.buildinfo
+Files:
+ 5624f8ca299e46146d7bf34d3f20c895 657 system optional gazelle-installer_21.10.07.dsc
+ b66a1bbc87c6264936fa8c393e89f863 308816 system optional gazelle-installer_21.10.07.tar.xz
+ 446e8050ad7076050b9b87e405d45086 9123 system optional gazelle-installer_21.10.07_i386.buildinfo
