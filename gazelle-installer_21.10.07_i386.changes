@@ -1,0 +1,25 @@
+Format: 1.8
+Date: Sat, 09 Oct 2021 20:56:47 -0400
+Source: gazelle-installer
+Binary: mx-installer
+Architecture: i386
+Version: 21.10.07
+Distribution: mx
+Urgency: medium
+Maintainer: dolphinoracle <dolphinoracle@gmail.com>
+Changed-By: Adrian <adrian@mxlinux.org>
+Description:
+ mx-installer - Customizable GUI installer for MX Linux and antiX Linux
+Changes:
+ gazelle-installer (21.10.07) mx; urgency=medium
+ .
+   * Fixed: Label field editable when preserving format.
+Checksums-Sha1:
+ 80a53ec7fa562a16d109829d6a374efb333ffd81 9123 gazelle-installer_21.10.07_i386.buildinfo
+ e40349ad63f37ede6d7351eeaa5ada2f8c01057e 451764 mx-installer_21.10.07_i386.deb
+Checksums-Sha256:
+ 69bb45eb2a0e22b8cbe94049b1fb63f78bfaf1b22510dd90519cb78c66074a33 9123 gazelle-installer_21.10.07_i386.buildinfo
+ cc8bfd9faf4b269297a07904a61e9eba7ff326778a0f44bb82fa32c345ff65ef 451764 mx-installer_21.10.07_i386.deb
+Files:
+ 446e8050ad7076050b9b87e405d45086 9123 system optional gazelle-installer_21.10.07_i386.buildinfo
+ b87cfcf08a67a06b4f123ddccbee64d3 451764 system optional mx-installer_21.10.07_i386.deb
