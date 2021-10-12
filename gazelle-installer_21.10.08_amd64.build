@@ -1,0 +1,215 @@
+ dpkg-buildpackage -us -uc -ui
+dpkg-buildpackage: info: source package gazelle-installer
+dpkg-buildpackage: info: source version 21.10.08
+dpkg-buildpackage: info: source distribution mx
+dpkg-buildpackage: info: source changed by Dolphin Oracle <dolphinoracle@gmail.com>
+ dpkg-source --before-build .
+dpkg-buildpackage: info: host architecture amd64
+ fakeroot debian/rules clean
+dh clean --no-automatic-dbgsym --parallel
+   debian/rules override_dh_auto_clean
+make[1]: Entering directory '/media/dataext/development/working/gazelle-installer/64'
+dh_auto_clean
+rm -f src/translations/*.qm
+make[1]: Leaving directory '/media/dataext/development/working/gazelle-installer/64'
+   dh_autoreconf_clean -O--no-automatic-dbgsym -O--parallel
+   dh_clean -O--no-automatic-dbgsym -O--parallel
+ dpkg-source -b .
+dpkg-source: info: using source format '3.0 (native)'
+dpkg-source: info: building gazelle-installer in gazelle-installer_21.10.08.tar.xz
+dpkg-source: info: building gazelle-installer in gazelle-installer_21.10.08.dsc
+ debian/rules build
+dh build --no-automatic-dbgsym --parallel
+   dh_update_autotools_config -O--no-automatic-dbgsym -O--parallel
+   dh_autoreconf -O--no-automatic-dbgsym -O--parallel
+   dh_auto_configure -O--no-automatic-dbgsym -O--parallel
+	qmake -makefile "QMAKE_CFLAGS_RELEASE=-g -O2 -ffile-prefix-map=/media/dataext/development/working/gazelle-installer/64=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2" "QMAKE_CFLAGS_DEBUG=-g -O2 -ffile-prefix-map=/media/dataext/development/working/gazelle-installer/64=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2" "QMAKE_CXXFLAGS_RELEASE=-g -O2 -ffile-prefix-map=/media/dataext/development/working/gazelle-installer/64=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2" "QMAKE_CXXFLAGS_DEBUG=-g -O2 -ffile-prefix-map=/media/dataext/development/working/gazelle-installer/64=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2" QMAKE_LFLAGS_RELEASE=-Wl,-z,relro QMAKE_LFLAGS_DEBUG=-Wl,-z,relro QMAKE_STRIP=: PREFIX=/usr
+Info: creating stash file /media/dataext/development/working/gazelle-installer/64/.qmake.stash
+   debian/rules override_dh_auto_build
+make[1]: Entering directory '/media/dataext/development/working/gazelle-installer/64'
+lrelease src.pro
+Updating '/media/dataext/development/working/gazelle-installer/64/translations/gazelle-installer_am.qm'...
+    Generated 65 translation(s) (65 finished and 0 unfinished)
+    Ignored 287 untranslated source text(s)
+Updating '/media/dataext/development/working/gazelle-installer/64/translations/gazelle-installer_ar.qm'...
+    Generated 11 translation(s) (11 finished and 0 unfinished)
+    Ignored 341 untranslated source text(s)
+Updating '/media/dataext/development/working/gazelle-installer/64/translations/gazelle-installer_bg.qm'...
+    Generated 19 translation(s) (19 finished and 0 unfinished)
+    Ignored 333 untranslated source text(s)
+Updating '/media/dataext/development/working/gazelle-installer/64/translations/gazelle-installer_bn.qm'...
+    Generated 0 translation(s) (0 finished and 0 unfinished)
+    Ignored 352 untranslated source text(s)
+Updating '/media/dataext/development/working/gazelle-installer/64/translations/gazelle-installer_ca.qm'...
+    Generated 352 translation(s) (352 finished and 0 unfinished)
+Updating '/media/dataext/development/working/gazelle-installer/64/translations/gazelle-installer_cs.qm'...
+    Generated 71 translation(s) (71 finished and 0 unfinished)
+    Ignored 281 untranslated source text(s)
+Updating '/media/dataext/development/working/gazelle-installer/64/translations/gazelle-installer_da.qm'...
+    Generated 101 translation(s) (101 finished and 0 unfinished)
+    Ignored 251 untranslated source text(s)
+Updating '/media/dataext/development/working/gazelle-installer/64/translations/gazelle-installer_de.qm'...
+    Generated 352 translation(s) (352 finished and 0 unfinished)
+Updating '/media/dataext/development/working/gazelle-installer/64/translations/gazelle-installer_el.qm'...
+    Generated 352 translation(s) (352 finished and 0 unfinished)
+Updating '/media/dataext/development/working/gazelle-installer/64/translations/gazelle-installer_es.qm'...
+    Generated 352 translation(s) (352 finished and 0 unfinished)
+Updating '/media/dataext/development/working/gazelle-installer/64/translations/gazelle-installer_et.qm'...
+    Generated 4 translation(s) (4 finished and 0 unfinished)
+    Ignored 348 untranslated source text(s)
+Updating '/media/dataext/development/working/gazelle-installer/64/translations/gazelle-installer_eu.qm'...
+    Generated 3 translation(s) (3 finished and 0 unfinished)
+    Ignored 349 untranslated source text(s)
+Updating '/media/dataext/development/working/gazelle-installer/64/translations/gazelle-installer_fa.qm'...
+    Generated 8 translation(s) (8 finished and 0 unfinished)
+    Ignored 344 untranslated source text(s)
+Updating '/media/dataext/development/working/gazelle-installer/64/translations/gazelle-installer_fi.qm'...
+    Generated 263 translation(s) (263 finished and 0 unfinished)
+    Ignored 89 untranslated source text(s)
+Updating '/media/dataext/development/working/gazelle-installer/64/translations/gazelle-installer_fil_PH.qm'...
+    Generated 97 translation(s) (97 finished and 0 unfinished)
+    Ignored 255 untranslated source text(s)
+Updating '/media/dataext/development/working/gazelle-installer/64/translations/gazelle-installer_fr.qm'...
+    Generated 352 translation(s) (352 finished and 0 unfinished)
+Updating '/media/dataext/development/working/gazelle-installer/64/translations/gazelle-installer_he_IL.qm'...
+    Generated 102 translation(s) (102 finished and 0 unfinished)
+    Ignored 250 untranslated source text(s)
+Updating '/media/dataext/development/working/gazelle-installer/64/translations/gazelle-installer_hi.qm'...
+    Generated 279 translation(s) (279 finished and 0 unfinished)
+    Ignored 73 untranslated source text(s)
+Updating '/media/dataext/development/working/gazelle-installer/64/translations/gazelle-installer_hr.qm'...
+    Generated 48 translation(s) (48 finished and 0 unfinished)
+    Ignored 304 untranslated source text(s)
+Updating '/media/dataext/development/working/gazelle-installer/64/translations/gazelle-installer_hu.qm'...
+    Generated 60 translation(s) (60 finished and 0 unfinished)
+    Ignored 292 untranslated source text(s)
+Updating '/media/dataext/development/working/gazelle-installer/64/translations/gazelle-installer_id.qm'...
+    Generated 7 translation(s) (7 finished and 0 unfinished)
+    Ignored 345 untranslated source text(s)
+Updating '/media/dataext/development/working/gazelle-installer/64/translations/gazelle-installer_is.qm'...
+    Generated 14 translation(s) (14 finished and 0 unfinished)
+    Ignored 338 untranslated source text(s)
+Updating '/media/dataext/development/working/gazelle-installer/64/translations/gazelle-installer_it.qm'...
+    Generated 352 translation(s) (352 finished and 0 unfinished)
+Updating '/media/dataext/development/working/gazelle-installer/64/translations/gazelle-installer_ja.qm'...
+    Generated 352 translation(s) (352 finished and 0 unfinished)
+Updating '/media/dataext/development/working/gazelle-installer/64/translations/gazelle-installer_kk.qm'...
+    Generated 12 translation(s) (12 finished and 0 unfinished)
+    Ignored 340 untranslated source text(s)
+Updating '/media/dataext/development/working/gazelle-installer/64/translations/gazelle-installer_ko.qm'...
+    Generated 6 translation(s) (6 finished and 0 unfinished)
+    Ignored 346 untranslated source text(s)
+Updating '/media/dataext/development/working/gazelle-installer/64/translations/gazelle-installer_lt.qm'...
+    Generated 99 translation(s) (99 finished and 0 unfinished)
+    Ignored 253 untranslated source text(s)
+Updating '/media/dataext/development/working/gazelle-installer/64/translations/gazelle-installer_mk.qm'...
+    Generated 6 translation(s) (6 finished and 0 unfinished)
+    Ignored 346 untranslated source text(s)
+Updating '/media/dataext/development/working/gazelle-installer/64/translations/gazelle-installer_mr.qm'...
+    Generated 6 translation(s) (6 finished and 0 unfinished)
+    Ignored 346 untranslated source text(s)
+Updating '/media/dataext/development/working/gazelle-installer/64/translations/gazelle-installer_nb.qm'...
+    Generated 352 translation(s) (352 finished and 0 unfinished)
+Updating '/media/dataext/development/working/gazelle-installer/64/translations/gazelle-installer_nl.qm'...
+    Generated 194 translation(s) (194 finished and 0 unfinished)
+    Ignored 158 untranslated source text(s)
+Updating '/media/dataext/development/working/gazelle-installer/64/translations/gazelle-installer_pl.qm'...
+    Generated 334 translation(s) (334 finished and 0 unfinished)
+    Ignored 18 untranslated source text(s)
+Updating '/media/dataext/development/working/gazelle-installer/64/translations/gazelle-installer_pt_BR.qm'...
+    Generated 352 translation(s) (352 finished and 0 unfinished)
+Updating '/media/dataext/development/working/gazelle-installer/64/translations/gazelle-installer_pt.qm'...
+    Generated 352 translation(s) (352 finished and 0 unfinished)
+Updating '/media/dataext/development/working/gazelle-installer/64/translations/gazelle-installer_ro.qm'...
+    Generated 135 translation(s) (135 finished and 0 unfinished)
+    Ignored 217 untranslated source text(s)
+Updating '/media/dataext/development/working/gazelle-installer/64/translations/gazelle-installer_ru.qm'...
+    Generated 108 translation(s) (108 finished and 0 unfinished)
+    Ignored 244 untranslated source text(s)
+Updating '/media/dataext/development/working/gazelle-installer/64/translations/gazelle-installer_sk.qm'...
+    Generated 71 translation(s) (71 finished and 0 unfinished)
+    Ignored 281 untranslated source text(s)
+Updating '/media/dataext/development/working/gazelle-installer/64/translations/gazelle-installer_sl.qm'...
+    Generated 352 translation(s) (352 finished and 0 unfinished)
+Updating '/media/dataext/development/working/gazelle-installer/64/translations/gazelle-installer_sq.qm'...
+    Generated 348 translation(s) (348 finished and 0 unfinished)
+    Ignored 4 untranslated source text(s)
+Updating '/media/dataext/development/working/gazelle-installer/64/translations/gazelle-installer_sr.qm'...
+    Generated 9 translation(s) (9 finished and 0 unfinished)
+    Ignored 343 untranslated source text(s)
+Updating '/media/dataext/development/working/gazelle-installer/64/translations/gazelle-installer_sv.qm'...
+    Generated 352 translation(s) (352 finished and 0 unfinished)
+Updating '/media/dataext/development/working/gazelle-installer/64/translations/gazelle-installer_tr.qm'...
+    Generated 254 translation(s) (254 finished and 0 unfinished)
+    Ignored 98 untranslated source text(s)
+Updating '/media/dataext/development/working/gazelle-installer/64/translations/gazelle-installer_uk.qm'...
+    Generated 58 translation(s) (58 finished and 0 unfinished)
+    Ignored 294 untranslated source text(s)
+Updating '/media/dataext/development/working/gazelle-installer/64/translations/gazelle-installer_vi.qm'...
+    Generated 17 translation(s) (17 finished and 0 unfinished)
+    Ignored 335 untranslated source text(s)
+Updating '/media/dataext/development/working/gazelle-installer/64/translations/gazelle-installer_zh_CN.qm'...
+    Generated 35 translation(s) (35 finished and 0 unfinished)
+    Ignored 317 untranslated source text(s)
+Updating '/media/dataext/development/working/gazelle-installer/64/translations/gazelle-installer_zh_TW.qm'...
+    Generated 29 translation(s) (29 finished and 0 unfinished)
+    Ignored 323 untranslated source text(s)
+head -n1 debian/changelog | sed -e "s/.*(\([^(]*\)).*/#define VERSION \"\1\"/" > version.h
+dh_auto_build -- QMAKE=qmake-qt5 LRELEASE=lrelease-qt5 
+	make -j4 QMAKE=qmake-qt5 LRELEASE=lrelease-qt5
+make[2]: Entering directory '/media/dataext/development/working/gazelle-installer/64'
+/usr/lib/qt5/bin/uic meinstall.ui -o ui_meinstall.h
+g++ -c -pipe -g -O2 -ffile-prefix-map=/media/dataext/development/working/gazelle-installer/64=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -std=gnu++11 -D_REENTRANT -Wall -Wextra -fPIC -DQT_NO_DEBUG -DQT_WIDGETS_LIB -DQT_GUI_LIB -DQT_CORE_LIB -I. -I/usr/include/x86_64-linux-gnu/qt5 -I/usr/include/x86_64-linux-gnu/qt5/QtWidgets -I/usr/include/x86_64-linux-gnu/qt5/QtGui -I/usr/include/x86_64-linux-gnu/qt5/QtCore -I. -I. -I/usr/lib/x86_64-linux-gnu/qt5/mkspecs/linux-g++ -o mpassedit.o mpassedit.cpp
+g++ -c -pipe -g -O2 -ffile-prefix-map=/media/dataext/development/working/gazelle-installer/64=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -std=gnu++11 -D_REENTRANT -Wall -Wextra -fPIC -DQT_NO_DEBUG -DQT_WIDGETS_LIB -DQT_GUI_LIB -DQT_CORE_LIB -I. -I/usr/include/x86_64-linux-gnu/qt5 -I/usr/include/x86_64-linux-gnu/qt5/QtWidgets -I/usr/include/x86_64-linux-gnu/qt5/QtGui -I/usr/include/x86_64-linux-gnu/qt5/QtCore -I. -I. -I/usr/lib/x86_64-linux-gnu/qt5/mkspecs/linux-g++ -o msettings.o msettings.cpp
+g++ -c -pipe -g -O2 -ffile-prefix-map=/media/dataext/development/working/gazelle-installer/64=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -std=gnu++11 -D_REENTRANT -Wall -Wextra -fPIC -DQT_NO_DEBUG -DQT_WIDGETS_LIB -DQT_GUI_LIB -DQT_CORE_LIB -I. -I/usr/include/x86_64-linux-gnu/qt5 -I/usr/include/x86_64-linux-gnu/qt5/QtWidgets -I/usr/include/x86_64-linux-gnu/qt5/QtGui -I/usr/include/x86_64-linux-gnu/qt5/QtCore -I. -I. -I/usr/lib/x86_64-linux-gnu/qt5/mkspecs/linux-g++ -o mtreeview.o mtreeview.cpp
+g++ -c -pipe -g -O2 -ffile-prefix-map=/media/dataext/development/working/gazelle-installer/64=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -std=gnu++11 -D_REENTRANT -Wall -Wextra -fPIC -DQT_NO_DEBUG -DQT_WIDGETS_LIB -DQT_GUI_LIB -DQT_CORE_LIB -I. -I/usr/include/x86_64-linux-gnu/qt5 -I/usr/include/x86_64-linux-gnu/qt5/QtWidgets -I/usr/include/x86_64-linux-gnu/qt5/QtGui -I/usr/include/x86_64-linux-gnu/qt5/QtCore -I. -I. -I/usr/lib/x86_64-linux-gnu/qt5/mkspecs/linux-g++ -o safecache.o safecache.cpp
+g++ -c -pipe -g -O2 -ffile-prefix-map=/media/dataext/development/working/gazelle-installer/64=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -std=gnu++11 -D_REENTRANT -Wall -Wextra -fPIC -DQT_NO_DEBUG -DQT_WIDGETS_LIB -DQT_GUI_LIB -DQT_CORE_LIB -I. -I/usr/include/x86_64-linux-gnu/qt5 -I/usr/include/x86_64-linux-gnu/qt5/QtWidgets -I/usr/include/x86_64-linux-gnu/qt5/QtGui -I/usr/include/x86_64-linux-gnu/qt5/QtCore -I. -I. -I/usr/lib/x86_64-linux-gnu/qt5/mkspecs/linux-g++ -o mprocess.o mprocess.cpp
+/usr/lib/qt5/bin/rcc -name images images.qrc -o qrc_images.cpp
+g++ -pipe -g -O2 -ffile-prefix-map=/media/dataext/development/working/gazelle-installer/64=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -std=gnu++11 -dM -E -o moc_predefs.h /usr/lib/x86_64-linux-gnu/qt5/mkspecs/features/data/dummy.cpp
+g++ -c -pipe -g -O2 -ffile-prefix-map=/media/dataext/development/working/gazelle-installer/64=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -std=gnu++11 -D_REENTRANT -Wall -Wextra -fPIC -DQT_NO_DEBUG -DQT_WIDGETS_LIB -DQT_GUI_LIB -DQT_CORE_LIB -I. -I/usr/include/x86_64-linux-gnu/qt5 -I/usr/include/x86_64-linux-gnu/qt5/QtWidgets -I/usr/include/x86_64-linux-gnu/qt5/QtGui -I/usr/include/x86_64-linux-gnu/qt5/QtCore -I. -I. -I/usr/lib/x86_64-linux-gnu/qt5/mkspecs/linux-g++ -o app.o app.cpp
+g++ -c -pipe -g -O2 -ffile-prefix-map=/media/dataext/development/working/gazelle-installer/64=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -std=gnu++11 -D_REENTRANT -Wall -Wextra -fPIC -DQT_NO_DEBUG -DQT_WIDGETS_LIB -DQT_GUI_LIB -DQT_CORE_LIB -I. -I/usr/include/x86_64-linux-gnu/qt5 -I/usr/include/x86_64-linux-gnu/qt5/QtWidgets -I/usr/include/x86_64-linux-gnu/qt5/QtGui -I/usr/include/x86_64-linux-gnu/qt5/QtCore -I. -I. -I/usr/lib/x86_64-linux-gnu/qt5/mkspecs/linux-g++ -o minstall.o minstall.cpp
+g++ -c -pipe -g -O2 -ffile-prefix-map=/media/dataext/development/working/gazelle-installer/64=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -std=gnu++11 -D_REENTRANT -Wall -Wextra -fPIC -DQT_NO_DEBUG -DQT_WIDGETS_LIB -DQT_GUI_LIB -DQT_CORE_LIB -I. -I/usr/include/x86_64-linux-gnu/qt5 -I/usr/include/x86_64-linux-gnu/qt5/QtWidgets -I/usr/include/x86_64-linux-gnu/qt5/QtGui -I/usr/include/x86_64-linux-gnu/qt5/QtCore -I. -I. -I/usr/lib/x86_64-linux-gnu/qt5/mkspecs/linux-g++ -o partman.o partman.cpp
+g++ -c -pipe -g -O2 -ffile-prefix-map=/media/dataext/development/working/gazelle-installer/64=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -std=gnu++11 -D_REENTRANT -Wall -Wextra -fPIC -DQT_NO_DEBUG -DQT_WIDGETS_LIB -DQT_GUI_LIB -DQT_CORE_LIB -I. -I/usr/include/x86_64-linux-gnu/qt5 -I/usr/include/x86_64-linux-gnu/qt5/QtWidgets -I/usr/include/x86_64-linux-gnu/qt5/QtGui -I/usr/include/x86_64-linux-gnu/qt5/QtCore -I. -I. -I/usr/lib/x86_64-linux-gnu/qt5/mkspecs/linux-g++ -o qrc_images.o qrc_images.cpp
+/usr/lib/qt5/bin/moc -DQT_NO_DEBUG -DQT_WIDGETS_LIB -DQT_GUI_LIB -DQT_CORE_LIB --include /media/dataext/development/working/gazelle-installer/64/moc_predefs.h -I/usr/lib/x86_64-linux-gnu/qt5/mkspecs/linux-g++ -I/media/dataext/development/working/gazelle-installer/64 -I/usr/include/x86_64-linux-gnu/qt5 -I/usr/include/x86_64-linux-gnu/qt5/QtWidgets -I/usr/include/x86_64-linux-gnu/qt5/QtGui -I/usr/include/x86_64-linux-gnu/qt5/QtCore -I/usr/include/c++/10 -I/usr/include/x86_64-linux-gnu/c++/10 -I/usr/include/c++/10/backward -I/usr/lib/gcc/x86_64-linux-gnu/10/include -I/usr/local/include -I/usr/include/x86_64-linux-gnu -I/usr/include minstall.h -o moc_minstall.cpp
+/usr/lib/qt5/bin/moc -DQT_NO_DEBUG -DQT_WIDGETS_LIB -DQT_GUI_LIB -DQT_CORE_LIB --include /media/dataext/development/working/gazelle-installer/64/moc_predefs.h -I/usr/lib/x86_64-linux-gnu/qt5/mkspecs/linux-g++ -I/media/dataext/development/working/gazelle-installer/64 -I/usr/include/x86_64-linux-gnu/qt5 -I/usr/include/x86_64-linux-gnu/qt5/QtWidgets -I/usr/include/x86_64-linux-gnu/qt5/QtGui -I/usr/include/x86_64-linux-gnu/qt5/QtCore -I/usr/include/c++/10 -I/usr/include/x86_64-linux-gnu/c++/10 -I/usr/include/c++/10/backward -I/usr/lib/gcc/x86_64-linux-gnu/10/include -I/usr/local/include -I/usr/include/x86_64-linux-gnu -I/usr/include mpassedit.h -o moc_mpassedit.cpp
+/usr/lib/qt5/bin/moc -DQT_NO_DEBUG -DQT_WIDGETS_LIB -DQT_GUI_LIB -DQT_CORE_LIB --include /media/dataext/development/working/gazelle-installer/64/moc_predefs.h -I/usr/lib/x86_64-linux-gnu/qt5/mkspecs/linux-g++ -I/media/dataext/development/working/gazelle-installer/64 -I/usr/include/x86_64-linux-gnu/qt5 -I/usr/include/x86_64-linux-gnu/qt5/QtWidgets -I/usr/include/x86_64-linux-gnu/qt5/QtGui -I/usr/include/x86_64-linux-gnu/qt5/QtCore -I/usr/include/c++/10 -I/usr/include/x86_64-linux-gnu/c++/10 -I/usr/include/c++/10/backward -I/usr/lib/gcc/x86_64-linux-gnu/10/include -I/usr/local/include -I/usr/include/x86_64-linux-gnu -I/usr/include mtreeview.h -o moc_mtreeview.cpp
+/usr/lib/qt5/bin/moc -DQT_NO_DEBUG -DQT_WIDGETS_LIB -DQT_GUI_LIB -DQT_CORE_LIB --include /media/dataext/development/working/gazelle-installer/64/moc_predefs.h -I/usr/lib/x86_64-linux-gnu/qt5/mkspecs/linux-g++ -I/media/dataext/development/working/gazelle-installer/64 -I/usr/include/x86_64-linux-gnu/qt5 -I/usr/include/x86_64-linux-gnu/qt5/QtWidgets -I/usr/include/x86_64-linux-gnu/qt5/QtGui -I/usr/include/x86_64-linux-gnu/qt5/QtCore -I/usr/include/c++/10 -I/usr/include/x86_64-linux-gnu/c++/10 -I/usr/include/c++/10/backward -I/usr/lib/gcc/x86_64-linux-gnu/10/include -I/usr/local/include -I/usr/include/x86_64-linux-gnu -I/usr/include partman.h -o moc_partman.cpp
+g++ -c -pipe -g -O2 -ffile-prefix-map=/media/dataext/development/working/gazelle-installer/64=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -std=gnu++11 -D_REENTRANT -Wall -Wextra -fPIC -DQT_NO_DEBUG -DQT_WIDGETS_LIB -DQT_GUI_LIB -DQT_CORE_LIB -I. -I/usr/include/x86_64-linux-gnu/qt5 -I/usr/include/x86_64-linux-gnu/qt5/QtWidgets -I/usr/include/x86_64-linux-gnu/qt5/QtGui -I/usr/include/x86_64-linux-gnu/qt5/QtCore -I. -I. -I/usr/lib/x86_64-linux-gnu/qt5/mkspecs/linux-g++ -o moc_minstall.o moc_minstall.cpp
+g++ -c -pipe -g -O2 -ffile-prefix-map=/media/dataext/development/working/gazelle-installer/64=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -std=gnu++11 -D_REENTRANT -Wall -Wextra -fPIC -DQT_NO_DEBUG -DQT_WIDGETS_LIB -DQT_GUI_LIB -DQT_CORE_LIB -I. -I/usr/include/x86_64-linux-gnu/qt5 -I/usr/include/x86_64-linux-gnu/qt5/QtWidgets -I/usr/include/x86_64-linux-gnu/qt5/QtGui -I/usr/include/x86_64-linux-gnu/qt5/QtCore -I. -I. -I/usr/lib/x86_64-linux-gnu/qt5/mkspecs/linux-g++ -o moc_mpassedit.o moc_mpassedit.cpp
+g++ -c -pipe -g -O2 -ffile-prefix-map=/media/dataext/development/working/gazelle-installer/64=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -std=gnu++11 -D_REENTRANT -Wall -Wextra -fPIC -DQT_NO_DEBUG -DQT_WIDGETS_LIB -DQT_GUI_LIB -DQT_CORE_LIB -I. -I/usr/include/x86_64-linux-gnu/qt5 -I/usr/include/x86_64-linux-gnu/qt5/QtWidgets -I/usr/include/x86_64-linux-gnu/qt5/QtGui -I/usr/include/x86_64-linux-gnu/qt5/QtCore -I. -I. -I/usr/lib/x86_64-linux-gnu/qt5/mkspecs/linux-g++ -o moc_mtreeview.o moc_mtreeview.cpp
+g++ -c -pipe -g -O2 -ffile-prefix-map=/media/dataext/development/working/gazelle-installer/64=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -std=gnu++11 -D_REENTRANT -Wall -Wextra -fPIC -DQT_NO_DEBUG -DQT_WIDGETS_LIB -DQT_GUI_LIB -DQT_CORE_LIB -I. -I/usr/include/x86_64-linux-gnu/qt5 -I/usr/include/x86_64-linux-gnu/qt5/QtWidgets -I/usr/include/x86_64-linux-gnu/qt5/QtGui -I/usr/include/x86_64-linux-gnu/qt5/QtCore -I. -I. -I/usr/lib/x86_64-linux-gnu/qt5/mkspecs/linux-g++ -o moc_partman.o moc_partman.cpp
+g++ -Wl,-z,relro -o minstall app.o minstall.o mpassedit.o msettings.o mtreeview.o partman.o safecache.o mprocess.o qrc_images.o moc_minstall.o moc_mpassedit.o moc_mtreeview.o moc_partman.o   /usr/lib/x86_64-linux-gnu/libQt5Widgets.so /usr/lib/x86_64-linux-gnu/libQt5Gui.so /usr/lib/x86_64-linux-gnu/libQt5Core.so -lGL -lpthread   
+make[2]: Leaving directory '/media/dataext/development/working/gazelle-installer/64'
+make[1]: Leaving directory '/media/dataext/development/working/gazelle-installer/64'
+   dh_auto_test -O--no-automatic-dbgsym -O--parallel
+   create-stamp debian/debhelper-build-stamp
+ fakeroot debian/rules binary
+dh binary --no-automatic-dbgsym --parallel
+   dh_testroot -O--no-automatic-dbgsym -O--parallel
+   dh_prep -O--no-automatic-dbgsym -O--parallel
+   dh_auto_install -O--no-automatic-dbgsym -O--parallel
+   dh_install -O--no-automatic-dbgsym -O--parallel
+   dh_installdocs -O--no-automatic-dbgsym -O--parallel
+   dh_installchangelogs -O--no-automatic-dbgsym -O--parallel
+   dh_systemd_enable -O--no-automatic-dbgsym -O--parallel
+   dh_installinit -O--no-automatic-dbgsym -O--parallel
+   dh_systemd_start -O--no-automatic-dbgsym -O--parallel
+   dh_perl -O--no-automatic-dbgsym -O--parallel
+   dh_link -O--no-automatic-dbgsym -O--parallel
+   dh_strip_nondeterminism -O--no-automatic-dbgsym -O--parallel
+   dh_compress -O--no-automatic-dbgsym -O--parallel
+   dh_fixperms -O--no-automatic-dbgsym -O--parallel
+   dh_missing -O--no-automatic-dbgsym -O--parallel
+   dh_strip -O--no-automatic-dbgsym -O--parallel
+   dh_makeshlibs -O--no-automatic-dbgsym -O--parallel
+   dh_shlibdeps -O--no-automatic-dbgsym -O--parallel
+   dh_installdeb -O--no-automatic-dbgsym -O--parallel
+   dh_gencontrol -O--no-automatic-dbgsym -O--parallel
+   dh_md5sums -O--no-automatic-dbgsym -O--parallel
+   dh_builddeb -O--no-automatic-dbgsym -O--parallel
+dpkg-deb: building package 'mx-installer' in '../mx-installer_21.10.08_amd64.deb'.
+ dpkg-genbuildinfo
+ dpkg-genchanges  >../gazelle-installer_21.10.08_amd64.changes
+dpkg-genchanges: info: including full source code in upload
+ dpkg-source --after-build .
+dpkg-buildpackage: info: full upload; Debian-native package (full source is included)

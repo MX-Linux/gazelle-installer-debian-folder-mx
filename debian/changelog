@@ -1,3 +1,9 @@
+gazelle-installer (21.10.08) mx; urgency=medium
+
+  * Fixed:  generate /etc/machine-id 
+
+ -- Dolphin Oracle <dolphinoracle@gmail.com>  Mon, 11 Oct 2021 20:57:34 -0400
+
 gazelle-installer (21.10.07) mx; urgency=medium
 
   * Fixed: Label field editable when preserving format.
