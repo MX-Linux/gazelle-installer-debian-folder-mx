@@ -2,19 +2,19 @@ Format: 1.0
 Source: gazelle-installer
 Binary: mx-installer
 Architecture: amd64 source
-Version: 21.10.08
+Version: 21.10.09
 Checksums-Md5:
- fd52aa693b9545a391a6d8bb993cf19e 657 gazelle-installer_21.10.08.dsc
- d8219926c36ad84a8d22d28a66dc8f59 436200 mx-installer_21.10.08_amd64.deb
+ 288cf964e47f29adbfe642abba782681 657 gazelle-installer_21.10.09.dsc
+ 3c6f21585739de6744be62f31105123c 434588 mx-installer_21.10.09_amd64.deb
 Checksums-Sha1:
- 5fb7792dd36be334788a6686ad98f1e570336a3a 657 gazelle-installer_21.10.08.dsc
- f50f2d25c915dab0a81b58fadfee610377ef2095 436200 mx-installer_21.10.08_amd64.deb
+ 15758bc92f66626695ca4fb0bb5b845f74c40f1c 657 gazelle-installer_21.10.09.dsc
+ f3ed7b8750bc834b87bac9bdd16b6f7245ecf3fb 434588 mx-installer_21.10.09_amd64.deb
 Checksums-Sha256:
- 75a4d5f64721ad74f35311453a2eed44f7b161916850ef89a0e919d7cc917161 657 gazelle-installer_21.10.08.dsc
- 5b689d88c3e4f2be802486518747096d8aad43d740aeba59edd9e30c1ce9f08e 436200 mx-installer_21.10.08_amd64.deb
+ 2fc38900b6967ae625c3b3c8c512618f84ee963036cd07c9da41545cae75e653 657 gazelle-installer_21.10.09.dsc
+ 1bfd97d43782eca36a9a326f1dc1cb98ae9b671b73ee55528a2b0c4afe6f35a7 434588 mx-installer_21.10.09_amd64.deb
 Build-Origin: Debian
 Build-Architecture: amd64
-Build-Date: Mon, 11 Oct 2021 20:59:04 -0400
+Build-Date: Sat, 16 Oct 2021 09:52:57 -0400
 Build-Tainted-By:
  merged-usr-via-aliased-dirs
  usr-local-has-libraries
@@ -123,7 +123,7 @@ Installed-Build-Depends:
  libdw1 (= 0.183-1),
  libedit2 (= 3.1-20191231-2+b1),
  libegl-dev (= 1.3.4-1~mx21ahs+1),
- libegl-mesa0 (= 21.2.2-1~mx21ahs+1),
+ libegl-mesa0 (= 21.2.3-2~mx21ahs+1),
  libegl1 (= 1.3.4-1~mx21ahs+1),
  libelf1 (= 0.183-1),
  libevdev2 (= 1.11.0+dfsg-1),
@@ -132,7 +132,7 @@ Installed-Build-Depends:
  libfile-stripnondeterminism-perl (= 1.12.0-1),
  libfontconfig1 (= 2.13.1-4.2),
  libfreetype6 (= 2.10.4+dfsg-1),
- libgbm1 (= 21.2.2-1~mx21ahs+1),
+ libgbm1 (= 21.2.3-2~mx21ahs+1),
  libgc1 (= 1:8.0.4-3),
  libgcc-10-dev (= 10.2.1-6),
  libgcc-s1 (= 10.2.1-6),
@@ -141,14 +141,14 @@ Installed-Build-Depends:
  libgdbm6 (= 1.19-2),
  libgl-dev (= 1.3.4-1~mx21ahs+1),
  libgl1 (= 1.3.4-1~mx21ahs+1),
- libgl1-mesa-dri (= 21.2.2-1~mx21ahs+1),
- libglapi-mesa (= 21.2.2-1~mx21ahs+1),
+ libgl1-mesa-dri (= 21.2.3-2~mx21ahs+1),
+ libglapi-mesa (= 21.2.3-2~mx21ahs+1),
  libglib2.0-0 (= 2.66.8-1),
  libglu1-mesa (= 9.0.1-1),
  libglu1-mesa-dev (= 9.0.1-1),
  libglvnd0 (= 1.3.4-1~mx21ahs+1),
  libglx-dev (= 1.3.4-1~mx21ahs+1),
- libglx-mesa0 (= 21.2.2-1~mx21ahs+1),
+ libglx-mesa0 (= 21.2.3-2~mx21ahs+1),
  libglx0 (= 1.3.4-1~mx21ahs+1),
  libgmp10 (= 2:6.2.1+dfsg-1),
  libgnutls30 (= 3.7.1-5),
@@ -165,8 +165,8 @@ Installed-Build-Depends:
  libice6 (= 2:1.0.10-1),
  libicu67 (= 67.1-7),
  libidn2-0 (= 2.3.0-5),
- libinput-bin (= 1.18.1-1~mx21ahs+1),
- libinput10 (= 1.18.1-1~mx21ahs+1),
+ libinput-bin (= 1.19.1-1~mx21ahs+1),
+ libinput10 (= 1.19.1-1~mx21ahs+1),
  libisl23 (= 0.23-1),
  libitm1 (= 10.2.1-6),
  libjpeg62-turbo (= 1:2.0.6-4),
@@ -348,4 +348,4 @@ Installed-Build-Depends:
 Environment:
  DEB_BUILD_OPTIONS="parallel=4"
  LANG="en_US.UTF-8"
- SOURCE_DATE_EPOCH="1634000254"
+ SOURCE_DATE_EPOCH="1634392277"
