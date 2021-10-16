@@ -1,3 +1,9 @@
+gazelle-installer (21.10.09) mx; urgency=medium
+
+  * Fixed: no possible uses listed for subvolumes.
+
+ -- Dolphin Oracle <dolphinoracle@gmail.com>  Sat, 16 Oct 2021 09:51:17 -0400
+
 gazelle-installer (21.10.08) mx; urgency=medium
 
   * Fixed:  generate /etc/machine-id 
