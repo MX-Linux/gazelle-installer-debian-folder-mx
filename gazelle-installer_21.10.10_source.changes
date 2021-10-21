@@ -1,0 +1,25 @@
+Format: 1.8
+Date: Thu, 21 Oct 2021 10:52:17 -0400
+Source: gazelle-installer
+Architecture: source
+Version: 21.10.10
+Distribution: mx
+Urgency: medium
+Maintainer: dolphinoracle <dolphinoracle@gmail.com>
+Changed-By: Adrian <adrian@mxlinux.org>
+Changes:
+ gazelle-installer (21.10.10) mx; urgency=medium
+ .
+   * Hide the live boot media and its partitions by default.
+Checksums-Sha1:
+ 0100bf1907268c6be773d1f4f93a9f665ffb1142 657 gazelle-installer_21.10.10.dsc
+ 1d6317a18166b19234fb079afc4697e2bb0a5953 307600 gazelle-installer_21.10.10.tar.xz
+ 7f612c03099f7a83a42a7227f155e04c8ce04259 9125 gazelle-installer_21.10.10_i386.buildinfo
+Checksums-Sha256:
+ 4cf209502ef0326816dafaad94042b671ca3365cfdbd9ac8fe9cf6ace0a79660 657 gazelle-installer_21.10.10.dsc
+ 3a8e5f001841612731d854421bd2fb164106f85baacc6058e454f439b91ed889 307600 gazelle-installer_21.10.10.tar.xz
+ 3b74ef89063af22deda58598d673dad8194c7fb732a4ff03eb01b12251a49d71 9125 gazelle-installer_21.10.10_i386.buildinfo
+Files:
+ 8625f45ca56c49cd5cf53c657965d7ab 657 system optional gazelle-installer_21.10.10.dsc
+ de057fef989f100108cc4047f7aa990d 307600 system optional gazelle-installer_21.10.10.tar.xz
+ fcad0b4bc2691df86b5ab4277f0d2912 9125 system optional gazelle-installer_21.10.10_i386.buildinfo

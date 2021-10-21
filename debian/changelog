@@ -1,3 +1,9 @@
+gazelle-installer (21.10.10) mx; urgency=medium
+
+  * Hide the live boot media and its partitions by default.
+
+ -- Adrian <adrian@mxlinux.org>  Thu, 21 Oct 2021 10:52:17 -0400
+
 gazelle-installer (21.10.09) mx; urgency=medium
 
   * Fixed: no possible uses listed for subvolumes.
