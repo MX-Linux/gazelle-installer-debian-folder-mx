@@ -1,0 +1,28 @@
+Format: 1.8
+Date: Sat, 23 Oct 2021 14:16:15 -0400
+Source: gazelle-installer
+Binary: mx-installer
+Architecture: i386
+Version: 21.10.11
+Distribution: mx
+Urgency: medium
+Maintainer: dolphinoracle <dolphinoracle@gmail.com>
+Changed-By: Adrian <adrian@mxlinux.org>
+Description:
+ mx-installer - Customizable GUI installer for MX Linux and antiX Linux
+Changes:
+ gazelle-installer (21.10.11) mx; urgency=medium
+ .
+   * Use an asterisk (*) instead of italics for the active partition.
+   * Replace "Boot flag" references with "Active partition" references.
+   * Fixed: active partition set for GPT drive on UEFI systems.
+   * Show the partition table format that is, or will be, used.
+Checksums-Sha1:
+ 20c0b421c9061e3f894e3cdc25e6ac053918bac1 9123 gazelle-installer_21.10.11_i386.buildinfo
+ 0d76f7dba6f1635ceb854feb7e0e9742f1994880 450392 mx-installer_21.10.11_i386.deb
+Checksums-Sha256:
+ 4bb960f49110e61252b6ca06cd4a6c92080efbae17995d354c272126eadf7253 9123 gazelle-installer_21.10.11_i386.buildinfo
+ 90566def1ca30d8f0343dc54a1c255c0e3940c35e4a12a3d201f580a4373cd6c 450392 mx-installer_21.10.11_i386.deb
+Files:
+ ff8b0b03b45ffc2772e7d23c5f81d79c 9123 system optional gazelle-installer_21.10.11_i386.buildinfo
+ 8c7e42e3cb56de913c77d0e927389d32 450392 system optional mx-installer_21.10.11_i386.deb
