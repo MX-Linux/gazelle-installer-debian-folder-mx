@@ -18,11 +18,11 @@ Changes:
    * Fixed: active partition set for GPT drive on UEFI systems.
    * Show the partition table format that is, or will be, used.
 Checksums-Sha1:
- 20c0b421c9061e3f894e3cdc25e6ac053918bac1 9123 gazelle-installer_21.10.11_i386.buildinfo
- 0d76f7dba6f1635ceb854feb7e0e9742f1994880 450392 mx-installer_21.10.11_i386.deb
+ ad5478bf37f2331fdc71b0e28ef785f3fffafb24 9123 gazelle-installer_21.10.11_i386.buildinfo
+ a2f92b64e09860e21c883047f92fb1ba20e2ad53 450540 mx-installer_21.10.11_i386.deb
 Checksums-Sha256:
- 4bb960f49110e61252b6ca06cd4a6c92080efbae17995d354c272126eadf7253 9123 gazelle-installer_21.10.11_i386.buildinfo
- 90566def1ca30d8f0343dc54a1c255c0e3940c35e4a12a3d201f580a4373cd6c 450392 mx-installer_21.10.11_i386.deb
+ 55f1258ceccad79ac665dcd545facb6e73a2b7a9e9d9de8ae2210c76a5efd706 9123 gazelle-installer_21.10.11_i386.buildinfo
+ 145bc06dcc4e6aa9e7f36dc54877b23ea8f417bbf9a3d5ec2a4520fd235555fa 450540 mx-installer_21.10.11_i386.deb
 Files:
- ff8b0b03b45ffc2772e7d23c5f81d79c 9123 system optional gazelle-installer_21.10.11_i386.buildinfo
- 8c7e42e3cb56de913c77d0e927389d32 450392 system optional mx-installer_21.10.11_i386.deb
+ 220b05e2aa42113d1db2251ffc3e7111 9123 system optional gazelle-installer_21.10.11_i386.buildinfo
+ 41723f5d28592fc932be4896e3f2b200 450540 system optional mx-installer_21.10.11_i386.deb
