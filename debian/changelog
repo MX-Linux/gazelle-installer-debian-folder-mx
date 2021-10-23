@@ -1,3 +1,12 @@
+gazelle-installer (21.10.05mx19) mx; urgency=medium
+
+  * Use an asterisk (*) instead of italics for the active partition.
+  * Replace "Boot flag" references with "Active partition" references.
+  * Fixed: active partition set for GPT drive on UEFI systems.
+  * Show the partition table format that is, or will be, used.
+
+ -- Adrian <adrian@mxlinux.org>  Sat, 23 Oct 2021 14:28:26 -0400
+
 gazelle-installer (21.10.04mx19) mx; urgency=medium
 
   * Fixed: duplicate boot partition in configuration.
