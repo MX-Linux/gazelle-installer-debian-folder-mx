@@ -15,14 +15,14 @@ Changes:
    * Fixed: active partition set for GPT drive on UEFI systems.
    * Show the partition table format that is, or will be, used.
 Checksums-Sha1:
- c57cd6dcc51ad4baf1f22ff5967c2dbe5de2447c 657 gazelle-installer_21.10.11.dsc
- c50ffd06ae79100ba5bf18d141a585bde4a49bb8 307708 gazelle-installer_21.10.11.tar.xz
- 20c0b421c9061e3f894e3cdc25e6ac053918bac1 9123 gazelle-installer_21.10.11_i386.buildinfo
+ 7fe4ba384e1b66f17de9985e684a46a08a5e1b27 657 gazelle-installer_21.10.11.dsc
+ 45711ad586a4f3eaf287beb2c87c19290e6828eb 307864 gazelle-installer_21.10.11.tar.xz
+ ad5478bf37f2331fdc71b0e28ef785f3fffafb24 9123 gazelle-installer_21.10.11_i386.buildinfo
 Checksums-Sha256:
- 7d8db029cf8d702dcc2c56ebbfeef27908609cea3137ee3abb31bccf8906f495 657 gazelle-installer_21.10.11.dsc
- e490337a50a3ffdf6a04cdff7d649c3eaefbaa6f7c3875809310018addd1fd1e 307708 gazelle-installer_21.10.11.tar.xz
- 4bb960f49110e61252b6ca06cd4a6c92080efbae17995d354c272126eadf7253 9123 gazelle-installer_21.10.11_i386.buildinfo
+ a8c1a47212689f750062fd798d40fca3284d113a454caf152ad935447d3f874e 657 gazelle-installer_21.10.11.dsc
+ e53c1fbfcaa0e1891784fb78d2b26446032609651e73a95a95bb4bf9829ec002 307864 gazelle-installer_21.10.11.tar.xz
+ 55f1258ceccad79ac665dcd545facb6e73a2b7a9e9d9de8ae2210c76a5efd706 9123 gazelle-installer_21.10.11_i386.buildinfo
 Files:
- 192f1242bf060542a46a13e013fc3d49 657 system optional gazelle-installer_21.10.11.dsc
- cfd7555c1deec6504bbff8d1fae7178b 307708 system optional gazelle-installer_21.10.11.tar.xz
- ff8b0b03b45ffc2772e7d23c5f81d79c 9123 system optional gazelle-installer_21.10.11_i386.buildinfo
+ 8a63fc0d85783fd6761562a7ebf78e7a 657 system optional gazelle-installer_21.10.11.dsc
+ 2f3ada8ef1fb1a8d5bb60b2e3a1feb2b 307864 system optional gazelle-installer_21.10.11.tar.xz
+ 220b05e2aa42113d1db2251ffc3e7111 9123 system optional gazelle-installer_21.10.11_i386.buildinfo

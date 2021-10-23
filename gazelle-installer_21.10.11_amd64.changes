@@ -21,29 +21,29 @@ Changes:
    * Fixed: active partition set for GPT drive on UEFI systems.
    * Show the partition table format that is, or will be, used.
 Checksums-Sha1:
- 08967498cd88056eabee1df515b8c81882032382 1219 gazelle-installer_21.10.11.dsc
- ea966ff4ac9049f454da964a6211bb234da21314 307704 gazelle-installer_21.10.11.tar.xz
- c81fd742aaf4e10a2414357dc6a5946fb37a833f 10000 gazelle-installer_21.10.11_amd64.buildinfo
- 8a0b11beef0fc20fb35d9ba98bbc02633b06a71e 435156 mx-installer_21.10.11_amd64.deb
+ a9dec6eeed661c0148f8ab7f09739d57f1b12084 1219 gazelle-installer_21.10.11.dsc
+ e56fdd57b7330da9c133df7878c36aa156a5772f 307848 gazelle-installer_21.10.11.tar.xz
+ 3d516c583ee5548020951326d57948631e18b99d 10000 gazelle-installer_21.10.11_amd64.buildinfo
+ 5c6ee85533c11c441d7be80de9a99324f7d64d3f 435120 mx-installer_21.10.11_amd64.deb
 Checksums-Sha256:
- aea0dbdf95f64c2f3e6eddb994465b0691c0d0cf085a4d48f75af027c9b3b73d 1219 gazelle-installer_21.10.11.dsc
- 83f5d5c05a54776291ec2937800b10dbe8a83bcf8f3850ec2eed297fac938283 307704 gazelle-installer_21.10.11.tar.xz
- 63fb4f28a8aed708eebbf830330eb15fbb399229907db096bc6d43027ff3bb81 10000 gazelle-installer_21.10.11_amd64.buildinfo
- 87c9c424859740650f6f26bfe07520bb64b956d2c6004430e57b54d50884bf2f 435156 mx-installer_21.10.11_amd64.deb
+ e2aabc74b20fe59bfc0fab22353146b51cb31bd5de9b778b5783fadb4b02c52c 1219 gazelle-installer_21.10.11.dsc
+ 290f3ee31d4c8b4ef6e3772d3a5d6afa31a7de31a15eba57fbbec1814544b2a8 307848 gazelle-installer_21.10.11.tar.xz
+ 76fd5b6d27075240b38b10aee5f7b8b8a8c1251e39675858bb9296601a4b0414 10000 gazelle-installer_21.10.11_amd64.buildinfo
+ a3804df77483eaf59d93dd6d3b9c71c7abd59d5772515c1c159c2d0c6ffe733b 435120 mx-installer_21.10.11_amd64.deb
 Files:
- 9c2362f7f366463e773228e654debbc0 1219 system optional gazelle-installer_21.10.11.dsc
- 07e3c7a3ccf24f75d92a9f055e2e8661 307704 system optional gazelle-installer_21.10.11.tar.xz
- 82031a260d5b1bac34c213fadea6eb63 10000 system optional gazelle-installer_21.10.11_amd64.buildinfo
- 538e9651bf8c8a4bbf1284b9cc650c5f 435156 system optional mx-installer_21.10.11_amd64.deb
+ 1e3dd06e64e8c0cda294a677790b214a 1219 system optional gazelle-installer_21.10.11.dsc
+ 7101570ce63ac60f05fd09eba1f0b504 307848 system optional gazelle-installer_21.10.11.tar.xz
+ 1b74a1fda68af2c38337ad5491d64371 10000 system optional gazelle-installer_21.10.11_amd64.buildinfo
+ a09242da6c8917ad3a2f3f9ec69e8fb1 435120 system optional mx-installer_21.10.11_amd64.deb
 
 -----BEGIN PGP SIGNATURE-----
 
-iQFHBAEBCgAxFiEE8ndToY6S45N+YzXncJOMeAZ57pgFAmF0UyYTHGFkcmlhbkBt
-eGxpbnV4Lm9yZwAKCRBwk4x4BnnumF6/B/96NAhGKbIP2qeHT8KrxEBA4JASKJhn
-qMnBOLyre3UdN0m2fNSjZHGrLomFLmiuoGR+P/2Z27ssliGMstMJUKSctn3sw2fm
-NdQkpKkxzBgvE7/hqDzwA+fvTRabaPmNkIm6ilmgkyWTcs8V4xoxndSvpX3oZaGS
-Lg9RcEYRpOCYXzn49vJAc1X9CfKX6SKxbRTqmTwJBTxImCSlW8JNVN2uehHbKmSx
-MO7DzsMA9fvinanb71Q7KG+i3qBO7W21AhYfqQYC2vPAguCmFfjRg8hmtQN/AjDx
-gm53K1RcNPx+XEAV1JO61hGnbbrawDYIv6QNzjPMa108q5T8H9/JkOo0
-=2V4J
+iQFHBAEBCgAxFiEE8ndToY6S45N+YzXncJOMeAZ57pgFAmF0U94THGFkcmlhbkBt
+eGxpbnV4Lm9yZwAKCRBwk4x4BnnumNwYB/9h+SUGIPGJnceWK44DbbgzUU9BIi/5
+D/Yaqu5k2RuLrjeJcS5qO1cKUfm+zb0H4U1Pi84w7HNlt0Ae5jRO3+nAx0pzTHYp
+i7uU/MhYqKucsqc+JhnnizpX3un8U+B+yARr8J+s9DngRNo65i1HeqKlTuOIleA+
+U05MPYs5TUE1Y/+vrgURqKZmSPU/XUwd+ZydfGIZWm7NmzmdanmCSOsTq33K8Rf4
+pOnrgNwUZidp0mJ17eJZcFxsb5J30coPi/lvXyQ+sLf0uuG5/PzA1hKIFxlXdala
+dAo6Q9EoKRp7xvhWRDiBbaHOq7H5FvwiYXcoRcNFPQV+6yOWrT2b1d1U
+=gmv6
 -----END PGP SIGNATURE-----
