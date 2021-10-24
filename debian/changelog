@@ -1,3 +1,10 @@
+gazelle-installer (21.10.14) mx; urgency=medium
+
+  * Fixed: wrong partition selected for PBR installation.
+  * Reduce live log noise.
+
+ -- Adrian <adrian@mxlinux.org>  Sun, 24 Oct 2021 18:22:15 -0400
+
 gazelle-installer (21.10.13) mx; urgency=medium
 
   * Fixed: wrong boot device may be selected if root is on a subvolume.
