@@ -1,3 +1,10 @@
+gazelle-installer (21.10.12) mx; urgency=medium
+
+  * Fixed: wrong boot device may be selected by default.
+  * Fixed: stale ESPs may appear in the list.
+
+ -- Adrian <adrian@mxlinux.org>  Sat, 23 Oct 2021 23:11:37 -0400
+
 gazelle-installer (21.10.11) mx; urgency=medium
 
   * Use an asterisk (*) instead of italics for the active partition.
