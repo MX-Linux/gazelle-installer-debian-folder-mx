@@ -1,0 +1,26 @@
+Format: 1.8
+Date: Sat, 23 Oct 2021 23:11:37 -0400
+Source: gazelle-installer
+Binary: mx-installer
+Architecture: i386
+Version: 21.10.12
+Distribution: mx
+Urgency: medium
+Maintainer: dolphinoracle <dolphinoracle@gmail.com>
+Changed-By: Adrian <adrian@mxlinux.org>
+Description:
+ mx-installer - Customizable GUI installer for MX Linux and antiX Linux
+Changes:
+ gazelle-installer (21.10.12) mx; urgency=medium
+ .
+   * Fixed: wrong boot device may be selected by default.
+   * Fixed: stale ESPs may appear in the list.
+Checksums-Sha1:
+ db556025a5697f8ffc64c57b7499deacd30f2aed 9123 gazelle-installer_21.10.12_i386.buildinfo
+ d20c7b8bd2b036faf670d801efe717b89e48fde3 446972 mx-installer_21.10.12_i386.deb
+Checksums-Sha256:
+ fd4e4886e7d4a7c18268dc1cd52e8f3ed53b052501f2b0962ff94f13d98d9227 9123 gazelle-installer_21.10.12_i386.buildinfo
+ c6bef22dd8b28cda0bfb5324f0e89a09abbbb004e35dac0574f3737020dcb0e5 446972 mx-installer_21.10.12_i386.deb
+Files:
+ 92ad109c832e778bb2efd801ea635952 9123 system optional gazelle-installer_21.10.12_i386.buildinfo
+ e7a08935b5e50ba2163cc9c0114a9f49 446972 system optional mx-installer_21.10.12_i386.deb
