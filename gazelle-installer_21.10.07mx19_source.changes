@@ -1,0 +1,26 @@
+Format: 1.8
+Date: Sun, 24 Oct 2021 02:09:10 -0400
+Source: gazelle-installer
+Architecture: source
+Version: 21.10.07mx19
+Distribution: mx
+Urgency: medium
+Maintainer: dolphinoracle <dolphinoracle@gmail.com>
+Changed-By: Adrian <adrian@mxlinux.org>
+Changes:
+ gazelle-installer (21.10.07mx19) mx; urgency=medium
+ .
+   * Fixed: wrong boot device may be selected if root is on a subvolume.
+   * Fixed: selecting root on subvolume does not activate the partition.
+Checksums-Sha1:
+ 9578b091c799c14ff4db44f5b770886e02e802c7 673 gazelle-installer_21.10.07mx19.dsc
+ dca2cf032ba46e9f7a7d960a492aea2a3108f515 298884 gazelle-installer_21.10.07mx19.tar.xz
+ b99daaec821dd24d9fd93d27ce0f66ef6531558e 10025 gazelle-installer_21.10.07mx19_i386.buildinfo
+Checksums-Sha256:
+ 4503995d3847c3890e739d94d95bfa916196998917b278e0cb081d2f855d6a4c 673 gazelle-installer_21.10.07mx19.dsc
+ 4e0962b9e787e41a40c1b21bdebcdddcf14b78fee28568f4496b9091d6b2db63 298884 gazelle-installer_21.10.07mx19.tar.xz
+ 987193f43fc7211892a2ea4a90d4af73d3ef8e9ede766c5fe88d4611f6223a16 10025 gazelle-installer_21.10.07mx19_i386.buildinfo
+Files:
+ 85d57752ab3ca6d3c3fc6993e8bc2003 673 system optional gazelle-installer_21.10.07mx19.dsc
+ 652648a68749e8a4a2dc83465d2aeb66 298884 system optional gazelle-installer_21.10.07mx19.tar.xz
+ cf33a878c40092608099e26343e71b0c 10025 system optional gazelle-installer_21.10.07mx19_i386.buildinfo

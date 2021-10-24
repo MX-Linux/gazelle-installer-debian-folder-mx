@@ -1,0 +1,47 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+Format: 1.8
+Date: Sun, 24 Oct 2021 02:09:10 -0400
+Source: gazelle-installer
+Binary: mx-installer
+Architecture: source amd64
+Version: 21.10.07mx19
+Distribution: mx
+Urgency: medium
+Maintainer: dolphinoracle <dolphinoracle@gmail.com>
+Changed-By: Adrian <adrian@mxlinux.org>
+Description:
+ mx-installer - Customizable GUI installer for MX Linux and antiX Linux
+Changes:
+ gazelle-installer (21.10.07mx19) mx; urgency=medium
+ .
+   * Fixed: wrong boot device may be selected if root is on a subvolume.
+   * Fixed: selecting root on subvolume does not activate the partition.
+Checksums-Sha1:
+ 80278456faf419115acbf7ddc9248b2cd7219c50 1235 gazelle-installer_21.10.07mx19.dsc
+ bbd7d122972cbe279efd2877fb5c38aae809a8f4 298656 gazelle-installer_21.10.07mx19.tar.xz
+ b3ed1eb8e39a8de655c3bf2258fb62e94d784e35 10829 gazelle-installer_21.10.07mx19_amd64.buildinfo
+ a1cf7a2c48fe25484be88b2b637fe42dd3aa8398 426692 mx-installer_21.10.07mx19_amd64.deb
+Checksums-Sha256:
+ 37aae985bc46c5735cd0112d26dc7352c16afb6b4d894c3b47164c37ef9b2c99 1235 gazelle-installer_21.10.07mx19.dsc
+ c66ffb54380ab58eeb3462a225cb916da0e35f91f9e591bfe2a612950f4119ca 298656 gazelle-installer_21.10.07mx19.tar.xz
+ 867ba39e5fca17309fcc44787b194adfb044014152d0fa1066a8aa3e762a4dbb 10829 gazelle-installer_21.10.07mx19_amd64.buildinfo
+ 5a5f1ec73176262af25ff6036c17f176f646f72c3c4dbc45d740dbb65d45e3f6 426692 mx-installer_21.10.07mx19_amd64.deb
+Files:
+ 04ed4bacdfc59b58a621a6ea42f964b6 1235 system optional gazelle-installer_21.10.07mx19.dsc
+ addf6a96116a2a40a7c7b480c3f12234 298656 system optional gazelle-installer_21.10.07mx19.tar.xz
+ b3be17dd55ffd84562a0516f08efad0a 10829 system optional gazelle-installer_21.10.07mx19_amd64.buildinfo
+ 46c7d108c5577687685c5e81b1ab5e88 426692 system optional mx-installer_21.10.07mx19_amd64.deb
+
+-----BEGIN PGP SIGNATURE-----
+
+iQFHBAEBCgAxFiEE8ndToY6S45N+YzXncJOMeAZ57pgFAmF0+OsTHGFkcmlhbkBt
+eGxpbnV4Lm9yZwAKCRBwk4x4BnnumCGgCACb/Mn7cOZC/eVW3QAJc+q0CmmwY+cn
+wEfM+gcy5UiCinrCOr1qxEMs1r+Q6mOCzgTM3ETSQxHkSqY+jK/pD9Dv+qpy5HMU
+0rzzYYBNm6ffTe+9g2Infl9epbr7ck9IJexFhMIiEpPENx9FbAvXJ2tN8PQTMttU
+YAHoxE8cCgNLFyK4Y5pKSXnftTmO1hiXZewax5p0FmtJeEKz9KsuP38r+/MXsyYu
+rPh2qs3UfisiUq7r5TDZhT/9xjownnGtc9Ni00hQOJ/38d36BoiAHNssGKvESCyy
+slu7KB9TpWXXaIpPRHZ+OetSbCUrO1Wbuz4AgXQxBFsrgnPwco+TLF/W
+=h/f6
+-----END PGP SIGNATURE-----
