@@ -1,0 +1,47 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+Format: 1.8
+Date: Sun, 24 Oct 2021 18:22:15 -0400
+Source: gazelle-installer
+Binary: mx-installer
+Architecture: source amd64
+Version: 21.10.14
+Distribution: mx
+Urgency: medium
+Maintainer: dolphinoracle <dolphinoracle@gmail.com>
+Changed-By: Adrian <adrian@mxlinux.org>
+Description:
+ mx-installer - Customizable GUI installer for MX Linux and antiX Linux
+Changes:
+ gazelle-installer (21.10.14) mx; urgency=medium
+ .
+   * Fixed: wrong partition selected for PBR installation.
+   * Reduce live log noise.
+Checksums-Sha1:
+ 566012c5c0fe86c278857320e660b920138b6a73 1219 gazelle-installer_21.10.14.dsc
+ c4928129af2ecf4612edd01c9f87d210e3082b39 298792 gazelle-installer_21.10.14.tar.xz
+ 88eb88f42efa7fd0c0b8ba10120a0d3a23cbcc19 10000 gazelle-installer_21.10.14_amd64.buildinfo
+ 11d3fadfc41a87ab326bad3c85971a92eb7fd461 431504 mx-installer_21.10.14_amd64.deb
+Checksums-Sha256:
+ 301bffbc68fe5b6dcab363f8496e537f7b78b6d2257a2bf3071de08ded0bc2fc 1219 gazelle-installer_21.10.14.dsc
+ 27340616076d8bb56bfdb07cdfee72e90d6e27291bebd742cae0b737de0decee 298792 gazelle-installer_21.10.14.tar.xz
+ cae12c4105abac76e3529bb37c4eb0e42bbc5eb58cd3999fe16400e9f1608171 10000 gazelle-installer_21.10.14_amd64.buildinfo
+ 533fe2d83f2e10d18bfa9b281d371a07933b838df302239e83460a792260bc9b 431504 mx-installer_21.10.14_amd64.deb
+Files:
+ 4761d33c8bcdfe50a1b4d636da3194a5 1219 system optional gazelle-installer_21.10.14.dsc
+ 0c9faa2e2782ac6b3581ce148b4f66ab 298792 system optional gazelle-installer_21.10.14.tar.xz
+ 5e9fe027a5c9a691bf814c31951fc5fc 10000 system optional gazelle-installer_21.10.14_amd64.buildinfo
+ 7881b7b8816ecff2d7014984ca31e620 431504 system optional mx-installer_21.10.14_amd64.deb
+
+-----BEGIN PGP SIGNATURE-----
+
+iQFHBAEBCgAxFiEE8ndToY6S45N+YzXncJOMeAZ57pgFAmF13QYTHGFkcmlhbkBt
+eGxpbnV4Lm9yZwAKCRBwk4x4BnnumOtOB/9GNXUBamc3ep9URKr0Fc65X13+vmNA
+abhEBeZymRHR1tQVMrsKiqIcBh9Y0Dz1MZjz9Yl/dCEfh/PZMN4OURDiE+FziwS0
+WfAnB+7a9m1JL5wRqXDugx0MkeZMjOS7kvPrrCOAvQV+RzaVDKcCYBjWqBycfFHW
+kwGDcSfm8KBRR3xuGAz2+BCH9dfwmQ/kH1KCb01UAwHIecURpOzkFnHOk1MCI7D1
+VaO6tc0FJoV5UeX84TpHCtNx0IpFAM3prQnJleIyPPFVD1wqJeUUUN061GoP0yYs
+IKQG/LHFW/lz3JWIzJZ2rhxUyAs/QMUVxZNLxqO/r6FKRQJCBENOgwux
+=r6LB
+-----END PGP SIGNATURE-----
