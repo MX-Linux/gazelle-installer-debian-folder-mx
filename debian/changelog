@@ -1,3 +1,10 @@
+gazelle-installer (21.10.13) mx; urgency=medium
+
+  * Fixed: wrong boot device may be selected if root is on a subvolume.
+  * Fixed: selecting root on subvolume does not activate the partition.
+
+ -- Adrian <adrian@mxlinux.org>  Sun, 24 Oct 2021 02:06:31 -0400
+
 gazelle-installer (21.10.12) mx; urgency=medium
 
   * Fixed: wrong boot device may be selected by default.
