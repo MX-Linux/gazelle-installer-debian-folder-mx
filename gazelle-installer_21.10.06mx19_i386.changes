@@ -1,0 +1,26 @@
+Format: 1.8
+Date: Sat, 23 Oct 2021 23:15:17 -0400
+Source: gazelle-installer
+Binary: mx-installer
+Architecture: i386
+Version: 21.10.06mx19
+Distribution: mx
+Urgency: medium
+Maintainer: dolphinoracle <dolphinoracle@gmail.com>
+Changed-By: Adrian <adrian@mxlinux.org>
+Description:
+ mx-installer - Customizable GUI installer for MX Linux and antiX Linux
+Changes:
+ gazelle-installer (21.10.06mx19) mx; urgency=medium
+ .
+   * Fixed: wrong boot device may be selected by default.
+   * Fixed: stale ESPs may appear in the list.
+Checksums-Sha1:
+ c58c045aef5d38bc5669c7eaa80cf80240fcd0c9 10025 gazelle-installer_21.10.06mx19_i386.buildinfo
+ f9f630005484c9377e69d3e505e27df7700783aa 442624 mx-installer_21.10.06mx19_i386.deb
+Checksums-Sha256:
+ f04d58585ced25edfa8ec676227c2d0e6441454988bb8028e8c8c9c77976f008 10025 gazelle-installer_21.10.06mx19_i386.buildinfo
+ 30b23d30397f2cfd014791bfa0945596cbd4e024f35316d3c46d9743a2cf5002 442624 mx-installer_21.10.06mx19_i386.deb
+Files:
+ 402f043a78922531daf7b27a1b87d709 10025 system optional gazelle-installer_21.10.06mx19_i386.buildinfo
+ 692f901b2137793e9b0fa393fb1a9509 442624 system optional mx-installer_21.10.06mx19_i386.deb

@@ -1,0 +1,47 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+Format: 1.8
+Date: Sat, 23 Oct 2021 23:15:17 -0400
+Source: gazelle-installer
+Binary: mx-installer
+Architecture: source amd64
+Version: 21.10.06mx19
+Distribution: mx
+Urgency: medium
+Maintainer: dolphinoracle <dolphinoracle@gmail.com>
+Changed-By: Adrian <adrian@mxlinux.org>
+Description:
+ mx-installer - Customizable GUI installer for MX Linux and antiX Linux
+Changes:
+ gazelle-installer (21.10.06mx19) mx; urgency=medium
+ .
+   * Fixed: wrong boot device may be selected by default.
+   * Fixed: stale ESPs may appear in the list.
+Checksums-Sha1:
+ b83fd65204bd8b7b21ff721670a0459a9e702850 1235 gazelle-installer_21.10.06mx19.dsc
+ d44993fefcc4d3d7fc17fa310b4b8a4c6e1fe072 298736 gazelle-installer_21.10.06mx19.tar.xz
+ 6592a719cb65e53b249e262e55561b97c5ce694b 10829 gazelle-installer_21.10.06mx19_amd64.buildinfo
+ 7de2c6ed44e5670617fe4ab7aebaf07b39b5e1f2 426500 mx-installer_21.10.06mx19_amd64.deb
+Checksums-Sha256:
+ 183c540e693d8158a072b6e6a8d24fcce71fead566baa07a16b8c016e4f9b8cf 1235 gazelle-installer_21.10.06mx19.dsc
+ bd01b979bb52af46326726bc96a13a5e3463e6974ce06983fcba9e4c83b3a59e 298736 gazelle-installer_21.10.06mx19.tar.xz
+ 557632cee501d8efd09e6ae3d26eb3fed6eb82364169e1b1d0c7fea5cb5b3038 10829 gazelle-installer_21.10.06mx19_amd64.buildinfo
+ 95a672e5dedaa88114c66781f0595ff2de729ad977404db0dc8db307d89815e8 426500 mx-installer_21.10.06mx19_amd64.deb
+Files:
+ 3bf03eff0e137a11c1c83431c4d96519 1235 system optional gazelle-installer_21.10.06mx19.dsc
+ dc9fd88f5c3f195377c737a03548b6f6 298736 system optional gazelle-installer_21.10.06mx19.tar.xz
+ df34bc3bb08d5fbf8972851f8c452fdc 10829 system optional gazelle-installer_21.10.06mx19_amd64.buildinfo
+ 803901d236859589e5127bfb963f202a 426500 system optional mx-installer_21.10.06mx19_amd64.deb
+
+-----BEGIN PGP SIGNATURE-----
+
+iQFHBAEBCgAxFiEE8ndToY6S45N+YzXncJOMeAZ57pgFAmF00A8THGFkcmlhbkBt
+eGxpbnV4Lm9yZwAKCRBwk4x4BnnumBb7CADXGqLGfgqkwgJAYju1SP5UO/oxsXvo
+sGkW8KxXfym/dj6QQzh0/f0MFhdgx/dl7zGkB2UM3yrqBJ+5AJS9wl9CZr/KU1Bp
+tQN97cGRiOxBqTrW4EF0AeCM5JxmjJV6np+xoPtjhuSqqw+h84x6r74fULJUxBUi
+gvaPA8ZwvZvS7blWZ9eUnzHBYFV1Ia6ChZOjK7X/CDVErg1iemOzfzZoNgZNIG0S
+4q8eNsE0pBqCIhhCitrPGBNU4GFsBLZR7Igv2sAV2CKXtPCKr5nNtLtfSecQfj1x
+vhlgDdU5cY3IaNBPUAXMQ4fY/RhjSsNEmBgAsDRl2nx0OwAgrbYOdV8j
+=lMyZ
+-----END PGP SIGNATURE-----
