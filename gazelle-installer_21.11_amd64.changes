@@ -1,0 +1,47 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+Format: 1.8
+Date: Fri, 05 Nov 2021 17:57:30 -0400
+Source: gazelle-installer
+Binary: mx-installer
+Architecture: source amd64
+Version: 21.11
+Distribution: mx
+Urgency: medium
+Maintainer: dolphinoracle <dolphinoracle@gmail.com>
+Changed-By: Adrian <adrian@mxlinux.org>
+Description:
+ mx-installer - Customizable GUI installer for MX Linux and antiX Linux
+Changes:
+ gazelle-installer (21.11) mx; urgency=medium
+ .
+   * New translations.
+   * Describe how to preserve /home on root in the help pane.
+Checksums-Sha1:
+ ed032b605223e5bbf1fab1f8d06c1c45967751d5 1207 gazelle-installer_21.11.dsc
+ cd339bc6c5beba58830f6295253667cbf7b44b56 307972 gazelle-installer_21.11.tar.xz
+ 8305a35e84ee88c99ab74edd1ee25a6c41afcfab 9976 gazelle-installer_21.11_amd64.buildinfo
+ e3666613f5516634d7f4f1772a28ffb43eac4737 436236 mx-installer_21.11_amd64.deb
+Checksums-Sha256:
+ 9f77e6e7d6d897db9c6f255d82958e23f66ae44c5359ab2cdc04676fdaffbfaf 1207 gazelle-installer_21.11.dsc
+ adf1461dbefddd56d06bb69b9c78ee8febad493908745b11e419e4935d41b33c 307972 gazelle-installer_21.11.tar.xz
+ 941d7e7c601796a64f850b866a6db1af84f4637a5b98a215f9dcdc179c5a26ee 9976 gazelle-installer_21.11_amd64.buildinfo
+ 45e34e290977c4f1d9b18d489cfa019f31421527d8e27c0aaaca7e90e80b1679 436236 mx-installer_21.11_amd64.deb
+Files:
+ 9b0c9f1cc73c870498b9a47b212e8972 1207 system optional gazelle-installer_21.11.dsc
+ c69cad083b9316b016ceabcf542341ac 307972 system optional gazelle-installer_21.11.tar.xz
+ 17286552e16113136d2db63b8243ca6e 9976 system optional gazelle-installer_21.11_amd64.buildinfo
+ 1c54054cb64904695d3dccd1ac6a5801 436236 system optional mx-installer_21.11_amd64.deb
+
+-----BEGIN PGP SIGNATURE-----
+
+iQFHBAEBCgAxFiEE8ndToY6S45N+YzXncJOMeAZ57pgFAmGFqUITHGFkcmlhbkBt
+eGxpbnV4Lm9yZwAKCRBwk4x4BnnumBvZCADIs/zr1t7aA3XUEr3n1N2vm15mMGSp
+lrFym7cTgjiO2ZqBDsozyKncJgrGpCVQ4lutCo6N91Mo+LsP2OWzxOaCJGWnGws8
+67FPz+JTmdreq6RyDj42MApw4w2JPRtyj9r7ADUauHUcH4a6ZVnQmH3PUc+nZIaU
+UpY5fraZ7MwZkTC+3Ocku64D6ye9JDtkNul/VqxQghww2YZD7wenA8xaVraGYmuO
+V/tG06IBZ9qsD4qwRHQmYJFpKUfOBRXvFnz9CoPUUYOBRAiEbTvA0cPKsOn9teTO
+TF3infUo6EfMChAusUYkzT57FRGDSJG092d9KnpIyd2aDlhigRm/BQnu
+=FEn1
+-----END PGP SIGNATURE-----

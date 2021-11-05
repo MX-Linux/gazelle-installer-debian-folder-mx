@@ -1,0 +1,26 @@
+Format: 1.8
+Date: Fri, 05 Nov 2021 17:57:30 -0400
+Source: gazelle-installer
+Binary: mx-installer
+Architecture: i386
+Version: 21.11
+Distribution: mx
+Urgency: medium
+Maintainer: dolphinoracle <dolphinoracle@gmail.com>
+Changed-By: Adrian <adrian@mxlinux.org>
+Description:
+ mx-installer - Customizable GUI installer for MX Linux and antiX Linux
+Changes:
+ gazelle-installer (21.11) mx; urgency=medium
+ .
+   * New translations.
+   * Describe how to preserve /home on root in the help pane.
+Checksums-Sha1:
+ 3f558424ff9698be9617105357861ee140b4b098 9108 gazelle-installer_21.11_i386.buildinfo
+ 1301e2bb0367fc22e1356a7d8f1370dabee3e8df 452484 mx-installer_21.11_i386.deb
+Checksums-Sha256:
+ bffef2309ae9ad0d83bc56d88a6485c96206abdd93b0b1693d3c7656b1be6df7 9108 gazelle-installer_21.11_i386.buildinfo
+ 0ca07cb4af152b1414c8e13a22419c5fe6900cf16850e8db4124c01fee810b7e 452484 mx-installer_21.11_i386.deb
+Files:
+ ba6bf5d7a5a13f5c3fb3a499ebd491fc 9108 system optional gazelle-installer_21.11_i386.buildinfo
+ 5b674aea4a044e3f0c46c51ec5a0f02d 452484 system optional mx-installer_21.11_i386.deb

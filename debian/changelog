@@ -1,3 +1,10 @@
+gazelle-installer (21.11) mx; urgency=medium
+
+  * New translations.
+  * Describe how to preserve /home on root in the help pane.
+
+ -- Adrian <adrian@mxlinux.org>  Fri, 05 Nov 2021 17:57:30 -0400
+
 gazelle-installer (21.10.14) mx; urgency=medium
 
   * Fixed: wrong partition selected for PBR installation.
