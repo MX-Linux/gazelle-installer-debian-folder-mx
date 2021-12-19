@@ -1,3 +1,9 @@
+gazelle-installer (21.12) mx; urgency=medium
+
+  * Don't delete mounted directories that are not empty
+
+ -- Adrian <adrian@mxlinux.org>  Sun, 19 Dec 2021 15:57:59 -0500
+
 gazelle-installer (21.11) mx; urgency=medium
 
   * New translations.
