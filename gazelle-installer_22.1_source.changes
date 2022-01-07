@@ -1,0 +1,26 @@
+Format: 1.8
+Date: Fri, 07 Jan 2022 11:02:24 -0500
+Source: gazelle-installer
+Architecture: source
+Version: 22.1
+Distribution: mx
+Urgency: medium
+Maintainer: dolphinoracle <dolphinoracle@gmail.com>
+Changed-By: Adrian <adrian@mxlinux.org>
+Changes:
+ gazelle-installer (22.1) mx; urgency=medium
+ .
+   * Draw arrows in the partition list fields to indicate drop-down lists.
+   * Obtain device paths from the OS instead of guessing them.
+Checksums-Sha1:
+ 79751393e8bec511b6debfabf67ec5adb0019482 641 gazelle-installer_22.1.dsc
+ a36948e650e0e264e17f78b8d733477d19f0bb4b 308360 gazelle-installer_22.1.tar.xz
+ 9344048b5a35c0a9d72fdb557254ccaf024595d6 9265 gazelle-installer_22.1_i386.buildinfo
+Checksums-Sha256:
+ 2c3c84ba154fd5c188a26c3e86d2070c563375ace7c38017c910faa437610a42 641 gazelle-installer_22.1.dsc
+ 68453acd48a7e508ab113ac533973ae961ad8327b9f949c5029c0c315a850476 308360 gazelle-installer_22.1.tar.xz
+ 6769c12d58722308e56f06bf64cc86e654c7b6be499c7dc97aaec03ae8250301 9265 gazelle-installer_22.1_i386.buildinfo
+Files:
+ b8883213d4cd47586217977403aa727c 641 system optional gazelle-installer_22.1.dsc
+ 59be456a6a144cdd60f9d4eaf35b9131 308360 system optional gazelle-installer_22.1.tar.xz
+ 9875d67128822377526c69c45b247a78 9265 system optional gazelle-installer_22.1_i386.buildinfo

@@ -1,0 +1,26 @@
+Format: 1.8
+Date: Fri, 07 Jan 2022 11:02:24 -0500
+Source: gazelle-installer
+Binary: mx-installer
+Architecture: i386
+Version: 22.1
+Distribution: mx
+Urgency: medium
+Maintainer: dolphinoracle <dolphinoracle@gmail.com>
+Changed-By: Adrian <adrian@mxlinux.org>
+Description:
+ mx-installer - Customizable GUI installer for MX Linux and antiX Linux
+Changes:
+ gazelle-installer (22.1) mx; urgency=medium
+ .
+   * Draw arrows in the partition list fields to indicate drop-down lists.
+   * Obtain device paths from the OS instead of guessing them.
+Checksums-Sha1:
+ 9344048b5a35c0a9d72fdb557254ccaf024595d6 9265 gazelle-installer_22.1_i386.buildinfo
+ 7efe6920f976539016f2069fecdfb3e613c03f8b 452348 mx-installer_22.1_i386.deb
+Checksums-Sha256:
+ 6769c12d58722308e56f06bf64cc86e654c7b6be499c7dc97aaec03ae8250301 9265 gazelle-installer_22.1_i386.buildinfo
+ cf38bc4a55f359e7336523b699e6a303be3ef77bc963d4f5ec53feee8bc12ae2 452348 mx-installer_22.1_i386.deb
+Files:
+ 9875d67128822377526c69c45b247a78 9265 system optional gazelle-installer_22.1_i386.buildinfo
+ ac89dba4f7f1fee667667ebf97a38628 452348 system optional mx-installer_22.1_i386.deb
