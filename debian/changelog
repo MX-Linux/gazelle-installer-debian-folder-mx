@@ -1,3 +1,10 @@
+gazelle-installer (22.1) mx; urgency=medium
+
+  * Draw arrows in the partition list fields to indicate drop-down lists.
+  * Obtain device paths from the OS instead of guessing them.
+
+ -- Adrian <adrian@mxlinux.org>  Fri, 07 Jan 2022 11:02:24 -0500
+
 gazelle-installer (21.12) mx; urgency=medium
 
   * Don't delete mounted directories that are not empty
