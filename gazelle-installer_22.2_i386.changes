@@ -1,0 +1,25 @@
+Format: 1.8
+Date: Tue, 08 Feb 2022 19:48:49 -0500
+Source: gazelle-installer
+Binary: mx-installer
+Architecture: i386
+Version: 22.2
+Distribution: mx
+Urgency: medium
+Maintainer: dolphinoracle <dolphinoracle@gmail.com>
+Changed-By: Dolphin Oracle <dolphinoracle@gmail.com>
+Description:
+ mx-installer - Customizable GUI installer for MX Linux and antiX Linux
+Changes:
+ gazelle-installer (22.2) mx; urgency=medium
+ .
+   * explicitly set default btrfs subvolume to root subvolume
+Checksums-Sha1:
+ 5aca4c54f27f013132f9324699eb46909d16ab9d 9872 gazelle-installer_22.2_i386.buildinfo
+ 3d797e07fb62c704db68f2e44ed3c811983dee00 452612 mx-installer_22.2_i386.deb
+Checksums-Sha256:
+ 6ce93ee18f819f00b7e0f6520d5d861ee2e97e3fc33c6a2fbc7022d81f38e40f 9872 gazelle-installer_22.2_i386.buildinfo
+ c2d4233ab442d67615fea3e8069b6e06a55fb406076c199dd7c39e2d122e255c 452612 mx-installer_22.2_i386.deb
+Files:
+ 29af1466bb5a96e756c7ca30b7690e2e 9872 system optional gazelle-installer_22.2_i386.buildinfo
+ 9482fb08284a7a1563404842e582baaa 452612 system optional mx-installer_22.2_i386.deb
