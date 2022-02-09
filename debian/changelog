@@ -1,3 +1,9 @@
+gazelle-installer (22.2) mx; urgency=medium
+
+  * explicitly set default btrfs subvolume to root subvolume 
+
+ -- Dolphin Oracle <dolphinoracle@gmail.com>  Tue, 08 Feb 2022 19:48:49 -0500
+
 gazelle-installer (22.1) mx; urgency=medium
 
   * Draw arrows in the partition list fields to indicate drop-down lists.
