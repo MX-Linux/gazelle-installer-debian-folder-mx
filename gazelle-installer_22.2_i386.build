@@ -1,0 +1,218 @@
+ dpkg-buildpackage -us -uc -ui -B
+dpkg-buildpackage: info: source package gazelle-installer
+dpkg-buildpackage: info: source version 22.2
+dpkg-buildpackage: info: source distribution mx
+dpkg-buildpackage: info: source changed by Dolphin Oracle <dolphinoracle@gmail.com>
+ dpkg-source --before-build .
+dpkg-buildpackage: info: host architecture i386
+ fakeroot debian/rules clean
+dh clean --no-automatic-dbgsym --parallel
+   debian/rules override_dh_auto_clean
+make[1]: Entering directory '/media/demo/dataext/development/working/gazelle-installer-debian-folder-mx/32/gazelle-installer'
+dh_auto_clean
+rm -f src/translations/*.qm
+make[1]: Leaving directory '/media/demo/dataext/development/working/gazelle-installer-debian-folder-mx/32/gazelle-installer'
+   dh_autoreconf_clean -O--no-automatic-dbgsym -O--parallel
+   dh_clean -O--no-automatic-dbgsym -O--parallel
+ debian/rules build-arch
+dh build-arch --no-automatic-dbgsym --parallel
+   dh_update_autotools_config -a -O--no-automatic-dbgsym -O--parallel
+   dh_autoreconf -a -O--no-automatic-dbgsym -O--parallel
+   dh_auto_configure -a -O--no-automatic-dbgsym -O--parallel
+	qmake -makefile "QMAKE_CFLAGS_RELEASE=-g -O2 -ffile-prefix-map=/media/demo/dataext/development/working/gazelle-installer-debian-folder-mx/32/gazelle-installer=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2" "QMAKE_CFLAGS_DEBUG=-g -O2 -ffile-prefix-map=/media/demo/dataext/development/working/gazelle-installer-debian-folder-mx/32/gazelle-installer=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2" "QMAKE_CXXFLAGS_RELEASE=-g -O2 -ffile-prefix-map=/media/demo/dataext/development/working/gazelle-installer-debian-folder-mx/32/gazelle-installer=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2" "QMAKE_CXXFLAGS_DEBUG=-g -O2 -ffile-prefix-map=/media/demo/dataext/development/working/gazelle-installer-debian-folder-mx/32/gazelle-installer=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2" QMAKE_LFLAGS_RELEASE=-Wl,-z,relro QMAKE_LFLAGS_DEBUG=-Wl,-z,relro QMAKE_STRIP=: PREFIX=/usr
+Info: creating stash file /media/demo/dataext/development/working/gazelle-installer-debian-folder-mx/32/gazelle-installer/.qmake.stash
+   debian/rules override_dh_auto_build
+make[1]: Entering directory '/media/demo/dataext/development/working/gazelle-installer-debian-folder-mx/32/gazelle-installer'
+lrelease src.pro
+Updating '/media/demo/dataext/development/working/gazelle-installer-debian-folder-mx/32/gazelle-installer/translations/gazelle-installer_am.qm'...
+    Generated 67 translation(s) (67 finished and 0 unfinished)
+    Ignored 289 untranslated source text(s)
+Updating '/media/demo/dataext/development/working/gazelle-installer-debian-folder-mx/32/gazelle-installer/translations/gazelle-installer_ar.qm'...
+    Generated 12 translation(s) (12 finished and 0 unfinished)
+    Ignored 344 untranslated source text(s)
+Updating '/media/demo/dataext/development/working/gazelle-installer-debian-folder-mx/32/gazelle-installer/translations/gazelle-installer_bg.qm'...
+    Generated 20 translation(s) (20 finished and 0 unfinished)
+    Ignored 336 untranslated source text(s)
+Updating '/media/demo/dataext/development/working/gazelle-installer-debian-folder-mx/32/gazelle-installer/translations/gazelle-installer_bn.qm'...
+    Generated 0 translation(s) (0 finished and 0 unfinished)
+    Ignored 356 untranslated source text(s)
+Updating '/media/demo/dataext/development/working/gazelle-installer-debian-folder-mx/32/gazelle-installer/translations/gazelle-installer_ca.qm'...
+    Generated 356 translation(s) (356 finished and 0 unfinished)
+Updating '/media/demo/dataext/development/working/gazelle-installer-debian-folder-mx/32/gazelle-installer/translations/gazelle-installer_cs.qm'...
+    Generated 73 translation(s) (73 finished and 0 unfinished)
+    Ignored 283 untranslated source text(s)
+Updating '/media/demo/dataext/development/working/gazelle-installer-debian-folder-mx/32/gazelle-installer/translations/gazelle-installer_da.qm'...
+    Generated 102 translation(s) (102 finished and 0 unfinished)
+    Ignored 254 untranslated source text(s)
+Updating '/media/demo/dataext/development/working/gazelle-installer-debian-folder-mx/32/gazelle-installer/translations/gazelle-installer_de.qm'...
+    Generated 350 translation(s) (350 finished and 0 unfinished)
+    Ignored 6 untranslated source text(s)
+Updating '/media/demo/dataext/development/working/gazelle-installer-debian-folder-mx/32/gazelle-installer/translations/gazelle-installer_el.qm'...
+    Generated 356 translation(s) (356 finished and 0 unfinished)
+Updating '/media/demo/dataext/development/working/gazelle-installer-debian-folder-mx/32/gazelle-installer/translations/gazelle-installer_es.qm'...
+    Generated 356 translation(s) (356 finished and 0 unfinished)
+Updating '/media/demo/dataext/development/working/gazelle-installer-debian-folder-mx/32/gazelle-installer/translations/gazelle-installer_et.qm'...
+    Generated 4 translation(s) (4 finished and 0 unfinished)
+    Ignored 352 untranslated source text(s)
+Updating '/media/demo/dataext/development/working/gazelle-installer-debian-folder-mx/32/gazelle-installer/translations/gazelle-installer_eu.qm'...
+    Generated 3 translation(s) (3 finished and 0 unfinished)
+    Ignored 353 untranslated source text(s)
+Updating '/media/demo/dataext/development/working/gazelle-installer-debian-folder-mx/32/gazelle-installer/translations/gazelle-installer_fa.qm'...
+    Generated 9 translation(s) (9 finished and 0 unfinished)
+    Ignored 347 untranslated source text(s)
+Updating '/media/demo/dataext/development/working/gazelle-installer-debian-folder-mx/32/gazelle-installer/translations/gazelle-installer_fi.qm'...
+    Generated 282 translation(s) (282 finished and 0 unfinished)
+    Ignored 74 untranslated source text(s)
+Updating '/media/demo/dataext/development/working/gazelle-installer-debian-folder-mx/32/gazelle-installer/translations/gazelle-installer_fil_PH.qm'...
+    Generated 90 translation(s) (90 finished and 0 unfinished)
+    Ignored 266 untranslated source text(s)
+Updating '/media/demo/dataext/development/working/gazelle-installer-debian-folder-mx/32/gazelle-installer/translations/gazelle-installer_fr.qm'...
+    Generated 356 translation(s) (356 finished and 0 unfinished)
+Updating '/media/demo/dataext/development/working/gazelle-installer-debian-folder-mx/32/gazelle-installer/translations/gazelle-installer_fr_BE.qm'...
+    Generated 356 translation(s) (356 finished and 0 unfinished)
+Updating '/media/demo/dataext/development/working/gazelle-installer-debian-folder-mx/32/gazelle-installer/translations/gazelle-installer_he_IL.qm'...
+    Generated 113 translation(s) (113 finished and 0 unfinished)
+    Ignored 243 untranslated source text(s)
+Updating '/media/demo/dataext/development/working/gazelle-installer-debian-folder-mx/32/gazelle-installer/translations/gazelle-installer_hi.qm'...
+    Generated 269 translation(s) (269 finished and 0 unfinished)
+    Ignored 87 untranslated source text(s)
+Updating '/media/demo/dataext/development/working/gazelle-installer-debian-folder-mx/32/gazelle-installer/translations/gazelle-installer_hr.qm'...
+    Generated 46 translation(s) (46 finished and 0 unfinished)
+    Ignored 310 untranslated source text(s)
+Updating '/media/demo/dataext/development/working/gazelle-installer-debian-folder-mx/32/gazelle-installer/translations/gazelle-installer_hu.qm'...
+    Generated 61 translation(s) (61 finished and 0 unfinished)
+    Ignored 295 untranslated source text(s)
+Updating '/media/demo/dataext/development/working/gazelle-installer-debian-folder-mx/32/gazelle-installer/translations/gazelle-installer_id.qm'...
+    Generated 10 translation(s) (10 finished and 0 unfinished)
+    Ignored 346 untranslated source text(s)
+Updating '/media/demo/dataext/development/working/gazelle-installer-debian-folder-mx/32/gazelle-installer/translations/gazelle-installer_is.qm'...
+    Generated 15 translation(s) (15 finished and 0 unfinished)
+    Ignored 341 untranslated source text(s)
+Updating '/media/demo/dataext/development/working/gazelle-installer-debian-folder-mx/32/gazelle-installer/translations/gazelle-installer_it.qm'...
+    Generated 356 translation(s) (356 finished and 0 unfinished)
+Updating '/media/demo/dataext/development/working/gazelle-installer-debian-folder-mx/32/gazelle-installer/translations/gazelle-installer_ja.qm'...
+    Generated 339 translation(s) (339 finished and 0 unfinished)
+    Ignored 17 untranslated source text(s)
+Updating '/media/demo/dataext/development/working/gazelle-installer-debian-folder-mx/32/gazelle-installer/translations/gazelle-installer_kk.qm'...
+    Generated 13 translation(s) (13 finished and 0 unfinished)
+    Ignored 343 untranslated source text(s)
+Updating '/media/demo/dataext/development/working/gazelle-installer-debian-folder-mx/32/gazelle-installer/translations/gazelle-installer_ko.qm'...
+    Generated 6 translation(s) (6 finished and 0 unfinished)
+    Ignored 350 untranslated source text(s)
+Updating '/media/demo/dataext/development/working/gazelle-installer-debian-folder-mx/32/gazelle-installer/translations/gazelle-installer_lt.qm'...
+    Generated 96 translation(s) (96 finished and 0 unfinished)
+    Ignored 260 untranslated source text(s)
+Updating '/media/demo/dataext/development/working/gazelle-installer-debian-folder-mx/32/gazelle-installer/translations/gazelle-installer_mk.qm'...
+    Generated 6 translation(s) (6 finished and 0 unfinished)
+    Ignored 350 untranslated source text(s)
+Updating '/media/demo/dataext/development/working/gazelle-installer-debian-folder-mx/32/gazelle-installer/translations/gazelle-installer_mr.qm'...
+    Generated 6 translation(s) (6 finished and 0 unfinished)
+    Ignored 350 untranslated source text(s)
+Updating '/media/demo/dataext/development/working/gazelle-installer-debian-folder-mx/32/gazelle-installer/translations/gazelle-installer_nb.qm'...
+    Generated 356 translation(s) (356 finished and 0 unfinished)
+Updating '/media/demo/dataext/development/working/gazelle-installer-debian-folder-mx/32/gazelle-installer/translations/gazelle-installer_nl.qm'...
+    Generated 231 translation(s) (231 finished and 0 unfinished)
+    Ignored 125 untranslated source text(s)
+Updating '/media/demo/dataext/development/working/gazelle-installer-debian-folder-mx/32/gazelle-installer/translations/gazelle-installer_pl.qm'...
+    Generated 350 translation(s) (350 finished and 0 unfinished)
+    Ignored 6 untranslated source text(s)
+Updating '/media/demo/dataext/development/working/gazelle-installer-debian-folder-mx/32/gazelle-installer/translations/gazelle-installer_pt_BR.qm'...
+    Generated 356 translation(s) (356 finished and 0 unfinished)
+Updating '/media/demo/dataext/development/working/gazelle-installer-debian-folder-mx/32/gazelle-installer/translations/gazelle-installer_pt.qm'...
+    Generated 356 translation(s) (356 finished and 0 unfinished)
+Updating '/media/demo/dataext/development/working/gazelle-installer-debian-folder-mx/32/gazelle-installer/translations/gazelle-installer_ro.qm'...
+    Generated 131 translation(s) (131 finished and 0 unfinished)
+    Ignored 225 untranslated source text(s)
+Updating '/media/demo/dataext/development/working/gazelle-installer-debian-folder-mx/32/gazelle-installer/translations/gazelle-installer_ru.qm'...
+    Generated 105 translation(s) (105 finished and 0 unfinished)
+    Ignored 251 untranslated source text(s)
+Updating '/media/demo/dataext/development/working/gazelle-installer-debian-folder-mx/32/gazelle-installer/translations/gazelle-installer_sk.qm'...
+    Generated 73 translation(s) (73 finished and 0 unfinished)
+    Ignored 283 untranslated source text(s)
+Updating '/media/demo/dataext/development/working/gazelle-installer-debian-folder-mx/32/gazelle-installer/translations/gazelle-installer_sl.qm'...
+    Generated 350 translation(s) (350 finished and 0 unfinished)
+    Ignored 6 untranslated source text(s)
+Updating '/media/demo/dataext/development/working/gazelle-installer-debian-folder-mx/32/gazelle-installer/translations/gazelle-installer_sq.qm'...
+    Generated 352 translation(s) (352 finished and 0 unfinished)
+    Ignored 4 untranslated source text(s)
+Updating '/media/demo/dataext/development/working/gazelle-installer-debian-folder-mx/32/gazelle-installer/translations/gazelle-installer_sr.qm'...
+    Generated 9 translation(s) (9 finished and 0 unfinished)
+    Ignored 347 untranslated source text(s)
+Updating '/media/demo/dataext/development/working/gazelle-installer-debian-folder-mx/32/gazelle-installer/translations/gazelle-installer_sv.qm'...
+    Generated 356 translation(s) (356 finished and 0 unfinished)
+Updating '/media/demo/dataext/development/working/gazelle-installer-debian-folder-mx/32/gazelle-installer/translations/gazelle-installer_tr.qm'...
+    Generated 244 translation(s) (244 finished and 0 unfinished)
+    Ignored 112 untranslated source text(s)
+Updating '/media/demo/dataext/development/working/gazelle-installer-debian-folder-mx/32/gazelle-installer/translations/gazelle-installer_uk.qm'...
+    Generated 59 translation(s) (59 finished and 0 unfinished)
+    Ignored 297 untranslated source text(s)
+Updating '/media/demo/dataext/development/working/gazelle-installer-debian-folder-mx/32/gazelle-installer/translations/gazelle-installer_vi.qm'...
+    Generated 17 translation(s) (17 finished and 0 unfinished)
+    Ignored 339 untranslated source text(s)
+Updating '/media/demo/dataext/development/working/gazelle-installer-debian-folder-mx/32/gazelle-installer/translations/gazelle-installer_zh_CN.qm'...
+    Generated 36 translation(s) (36 finished and 0 unfinished)
+    Ignored 320 untranslated source text(s)
+Updating '/media/demo/dataext/development/working/gazelle-installer-debian-folder-mx/32/gazelle-installer/translations/gazelle-installer_zh_TW.qm'...
+    Generated 31 translation(s) (31 finished and 0 unfinished)
+    Ignored 325 untranslated source text(s)
+head -n1 debian/changelog | sed -e "s/.*(\([^(]*\)).*/#define VERSION \"\1\"/" > version.h
+dh_auto_build -- QMAKE=qmake-qt5 LRELEASE=lrelease-qt5 
+	make -j4 QMAKE=qmake-qt5 LRELEASE=lrelease-qt5
+make[2]: Entering directory '/media/demo/dataext/development/working/gazelle-installer-debian-folder-mx/32/gazelle-installer'
+/usr/lib/qt5/bin/uic meinstall.ui -o ui_meinstall.h
+g++ -c -pipe -g -O2 -ffile-prefix-map=/media/demo/dataext/development/working/gazelle-installer-debian-folder-mx/32/gazelle-installer=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -std=gnu++11 -D_REENTRANT -Wall -Wextra -fPIC -DQT_NO_DEBUG -DQT_WIDGETS_LIB -DQT_GUI_LIB -DQT_CORE_LIB -I. -I/usr/include/i386-linux-gnu/qt5 -I/usr/include/i386-linux-gnu/qt5/QtWidgets -I/usr/include/i386-linux-gnu/qt5/QtGui -I/usr/include/i386-linux-gnu/qt5/QtCore -I. -I. -I/usr/lib/i386-linux-gnu/qt5/mkspecs/linux-g++ -o mpassedit.o mpassedit.cpp
+g++ -c -pipe -g -O2 -ffile-prefix-map=/media/demo/dataext/development/working/gazelle-installer-debian-folder-mx/32/gazelle-installer=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -std=gnu++11 -D_REENTRANT -Wall -Wextra -fPIC -DQT_NO_DEBUG -DQT_WIDGETS_LIB -DQT_GUI_LIB -DQT_CORE_LIB -I. -I/usr/include/i386-linux-gnu/qt5 -I/usr/include/i386-linux-gnu/qt5/QtWidgets -I/usr/include/i386-linux-gnu/qt5/QtGui -I/usr/include/i386-linux-gnu/qt5/QtCore -I. -I. -I/usr/lib/i386-linux-gnu/qt5/mkspecs/linux-g++ -o msettings.o msettings.cpp
+g++ -c -pipe -g -O2 -ffile-prefix-map=/media/demo/dataext/development/working/gazelle-installer-debian-folder-mx/32/gazelle-installer=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -std=gnu++11 -D_REENTRANT -Wall -Wextra -fPIC -DQT_NO_DEBUG -DQT_WIDGETS_LIB -DQT_GUI_LIB -DQT_CORE_LIB -I. -I/usr/include/i386-linux-gnu/qt5 -I/usr/include/i386-linux-gnu/qt5/QtWidgets -I/usr/include/i386-linux-gnu/qt5/QtGui -I/usr/include/i386-linux-gnu/qt5/QtCore -I. -I. -I/usr/lib/i386-linux-gnu/qt5/mkspecs/linux-g++ -o mtreeview.o mtreeview.cpp
+g++ -c -pipe -g -O2 -ffile-prefix-map=/media/demo/dataext/development/working/gazelle-installer-debian-folder-mx/32/gazelle-installer=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -std=gnu++11 -D_REENTRANT -Wall -Wextra -fPIC -DQT_NO_DEBUG -DQT_WIDGETS_LIB -DQT_GUI_LIB -DQT_CORE_LIB -I. -I/usr/include/i386-linux-gnu/qt5 -I/usr/include/i386-linux-gnu/qt5/QtWidgets -I/usr/include/i386-linux-gnu/qt5/QtGui -I/usr/include/i386-linux-gnu/qt5/QtCore -I. -I. -I/usr/lib/i386-linux-gnu/qt5/mkspecs/linux-g++ -o safecache.o safecache.cpp
+g++ -c -pipe -g -O2 -ffile-prefix-map=/media/demo/dataext/development/working/gazelle-installer-debian-folder-mx/32/gazelle-installer=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -std=gnu++11 -D_REENTRANT -Wall -Wextra -fPIC -DQT_NO_DEBUG -DQT_WIDGETS_LIB -DQT_GUI_LIB -DQT_CORE_LIB -I. -I/usr/include/i386-linux-gnu/qt5 -I/usr/include/i386-linux-gnu/qt5/QtWidgets -I/usr/include/i386-linux-gnu/qt5/QtGui -I/usr/include/i386-linux-gnu/qt5/QtCore -I. -I. -I/usr/lib/i386-linux-gnu/qt5/mkspecs/linux-g++ -o mprocess.o mprocess.cpp
+/usr/lib/qt5/bin/rcc -name images images.qrc -o qrc_images.cpp
+g++ -pipe -g -O2 -ffile-prefix-map=/media/demo/dataext/development/working/gazelle-installer-debian-folder-mx/32/gazelle-installer=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -std=gnu++11 -dM -E -o moc_predefs.h /usr/lib/i386-linux-gnu/qt5/mkspecs/features/data/dummy.cpp
+g++ -c -pipe -g -O2 -ffile-prefix-map=/media/demo/dataext/development/working/gazelle-installer-debian-folder-mx/32/gazelle-installer=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -std=gnu++11 -D_REENTRANT -Wall -Wextra -fPIC -DQT_NO_DEBUG -DQT_WIDGETS_LIB -DQT_GUI_LIB -DQT_CORE_LIB -I. -I/usr/include/i386-linux-gnu/qt5 -I/usr/include/i386-linux-gnu/qt5/QtWidgets -I/usr/include/i386-linux-gnu/qt5/QtGui -I/usr/include/i386-linux-gnu/qt5/QtCore -I. -I. -I/usr/lib/i386-linux-gnu/qt5/mkspecs/linux-g++ -o app.o app.cpp
+g++ -c -pipe -g -O2 -ffile-prefix-map=/media/demo/dataext/development/working/gazelle-installer-debian-folder-mx/32/gazelle-installer=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -std=gnu++11 -D_REENTRANT -Wall -Wextra -fPIC -DQT_NO_DEBUG -DQT_WIDGETS_LIB -DQT_GUI_LIB -DQT_CORE_LIB -I. -I/usr/include/i386-linux-gnu/qt5 -I/usr/include/i386-linux-gnu/qt5/QtWidgets -I/usr/include/i386-linux-gnu/qt5/QtGui -I/usr/include/i386-linux-gnu/qt5/QtCore -I. -I. -I/usr/lib/i386-linux-gnu/qt5/mkspecs/linux-g++ -o minstall.o minstall.cpp
+g++ -c -pipe -g -O2 -ffile-prefix-map=/media/demo/dataext/development/working/gazelle-installer-debian-folder-mx/32/gazelle-installer=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -std=gnu++11 -D_REENTRANT -Wall -Wextra -fPIC -DQT_NO_DEBUG -DQT_WIDGETS_LIB -DQT_GUI_LIB -DQT_CORE_LIB -I. -I/usr/include/i386-linux-gnu/qt5 -I/usr/include/i386-linux-gnu/qt5/QtWidgets -I/usr/include/i386-linux-gnu/qt5/QtGui -I/usr/include/i386-linux-gnu/qt5/QtCore -I. -I. -I/usr/lib/i386-linux-gnu/qt5/mkspecs/linux-g++ -o partman.o partman.cpp
+g++ -c -pipe -g -O2 -ffile-prefix-map=/media/demo/dataext/development/working/gazelle-installer-debian-folder-mx/32/gazelle-installer=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -std=gnu++11 -D_REENTRANT -Wall -Wextra -fPIC -DQT_NO_DEBUG -DQT_WIDGETS_LIB -DQT_GUI_LIB -DQT_CORE_LIB -I. -I/usr/include/i386-linux-gnu/qt5 -I/usr/include/i386-linux-gnu/qt5/QtWidgets -I/usr/include/i386-linux-gnu/qt5/QtGui -I/usr/include/i386-linux-gnu/qt5/QtCore -I. -I. -I/usr/lib/i386-linux-gnu/qt5/mkspecs/linux-g++ -o qrc_images.o qrc_images.cpp
+/usr/lib/qt5/bin/moc -DQT_NO_DEBUG -DQT_WIDGETS_LIB -DQT_GUI_LIB -DQT_CORE_LIB --include /media/demo/dataext/development/working/gazelle-installer-debian-folder-mx/32/gazelle-installer/moc_predefs.h -I/usr/lib/i386-linux-gnu/qt5/mkspecs/linux-g++ -I/media/demo/dataext/development/working/gazelle-installer-debian-folder-mx/32/gazelle-installer -I/usr/include/i386-linux-gnu/qt5 -I/usr/include/i386-linux-gnu/qt5/QtWidgets -I/usr/include/i386-linux-gnu/qt5/QtGui -I/usr/include/i386-linux-gnu/qt5/QtCore -I/usr/include/c++/10 -I/usr/include/i386-linux-gnu/c++/10 -I/usr/include/c++/10/backward -I/usr/lib/gcc/i686-linux-gnu/10/include -I/usr/local/include -I/usr/include/i386-linux-gnu -I/usr/include minstall.h -o moc_minstall.cpp
+/usr/lib/qt5/bin/moc -DQT_NO_DEBUG -DQT_WIDGETS_LIB -DQT_GUI_LIB -DQT_CORE_LIB --include /media/demo/dataext/development/working/gazelle-installer-debian-folder-mx/32/gazelle-installer/moc_predefs.h -I/usr/lib/i386-linux-gnu/qt5/mkspecs/linux-g++ -I/media/demo/dataext/development/working/gazelle-installer-debian-folder-mx/32/gazelle-installer -I/usr/include/i386-linux-gnu/qt5 -I/usr/include/i386-linux-gnu/qt5/QtWidgets -I/usr/include/i386-linux-gnu/qt5/QtGui -I/usr/include/i386-linux-gnu/qt5/QtCore -I/usr/include/c++/10 -I/usr/include/i386-linux-gnu/c++/10 -I/usr/include/c++/10/backward -I/usr/lib/gcc/i686-linux-gnu/10/include -I/usr/local/include -I/usr/include/i386-linux-gnu -I/usr/include mpassedit.h -o moc_mpassedit.cpp
+/usr/lib/qt5/bin/moc -DQT_NO_DEBUG -DQT_WIDGETS_LIB -DQT_GUI_LIB -DQT_CORE_LIB --include /media/demo/dataext/development/working/gazelle-installer-debian-folder-mx/32/gazelle-installer/moc_predefs.h -I/usr/lib/i386-linux-gnu/qt5/mkspecs/linux-g++ -I/media/demo/dataext/development/working/gazelle-installer-debian-folder-mx/32/gazelle-installer -I/usr/include/i386-linux-gnu/qt5 -I/usr/include/i386-linux-gnu/qt5/QtWidgets -I/usr/include/i386-linux-gnu/qt5/QtGui -I/usr/include/i386-linux-gnu/qt5/QtCore -I/usr/include/c++/10 -I/usr/include/i386-linux-gnu/c++/10 -I/usr/include/c++/10/backward -I/usr/lib/gcc/i686-linux-gnu/10/include -I/usr/local/include -I/usr/include/i386-linux-gnu -I/usr/include mtreeview.h -o moc_mtreeview.cpp
+/usr/lib/qt5/bin/moc -DQT_NO_DEBUG -DQT_WIDGETS_LIB -DQT_GUI_LIB -DQT_CORE_LIB --include /media/demo/dataext/development/working/gazelle-installer-debian-folder-mx/32/gazelle-installer/moc_predefs.h -I/usr/lib/i386-linux-gnu/qt5/mkspecs/linux-g++ -I/media/demo/dataext/development/working/gazelle-installer-debian-folder-mx/32/gazelle-installer -I/usr/include/i386-linux-gnu/qt5 -I/usr/include/i386-linux-gnu/qt5/QtWidgets -I/usr/include/i386-linux-gnu/qt5/QtGui -I/usr/include/i386-linux-gnu/qt5/QtCore -I/usr/include/c++/10 -I/usr/include/i386-linux-gnu/c++/10 -I/usr/include/c++/10/backward -I/usr/lib/gcc/i686-linux-gnu/10/include -I/usr/local/include -I/usr/include/i386-linux-gnu -I/usr/include partman.h -o moc_partman.cpp
+g++ -c -pipe -g -O2 -ffile-prefix-map=/media/demo/dataext/development/working/gazelle-installer-debian-folder-mx/32/gazelle-installer=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -std=gnu++11 -D_REENTRANT -Wall -Wextra -fPIC -DQT_NO_DEBUG -DQT_WIDGETS_LIB -DQT_GUI_LIB -DQT_CORE_LIB -I. -I/usr/include/i386-linux-gnu/qt5 -I/usr/include/i386-linux-gnu/qt5/QtWidgets -I/usr/include/i386-linux-gnu/qt5/QtGui -I/usr/include/i386-linux-gnu/qt5/QtCore -I. -I. -I/usr/lib/i386-linux-gnu/qt5/mkspecs/linux-g++ -o moc_minstall.o moc_minstall.cpp
+g++ -c -pipe -g -O2 -ffile-prefix-map=/media/demo/dataext/development/working/gazelle-installer-debian-folder-mx/32/gazelle-installer=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -std=gnu++11 -D_REENTRANT -Wall -Wextra -fPIC -DQT_NO_DEBUG -DQT_WIDGETS_LIB -DQT_GUI_LIB -DQT_CORE_LIB -I. -I/usr/include/i386-linux-gnu/qt5 -I/usr/include/i386-linux-gnu/qt5/QtWidgets -I/usr/include/i386-linux-gnu/qt5/QtGui -I/usr/include/i386-linux-gnu/qt5/QtCore -I. -I. -I/usr/lib/i386-linux-gnu/qt5/mkspecs/linux-g++ -o moc_mpassedit.o moc_mpassedit.cpp
+g++ -c -pipe -g -O2 -ffile-prefix-map=/media/demo/dataext/development/working/gazelle-installer-debian-folder-mx/32/gazelle-installer=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -std=gnu++11 -D_REENTRANT -Wall -Wextra -fPIC -DQT_NO_DEBUG -DQT_WIDGETS_LIB -DQT_GUI_LIB -DQT_CORE_LIB -I. -I/usr/include/i386-linux-gnu/qt5 -I/usr/include/i386-linux-gnu/qt5/QtWidgets -I/usr/include/i386-linux-gnu/qt5/QtGui -I/usr/include/i386-linux-gnu/qt5/QtCore -I. -I. -I/usr/lib/i386-linux-gnu/qt5/mkspecs/linux-g++ -o moc_mtreeview.o moc_mtreeview.cpp
+g++ -c -pipe -g -O2 -ffile-prefix-map=/media/demo/dataext/development/working/gazelle-installer-debian-folder-mx/32/gazelle-installer=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -std=gnu++11 -D_REENTRANT -Wall -Wextra -fPIC -DQT_NO_DEBUG -DQT_WIDGETS_LIB -DQT_GUI_LIB -DQT_CORE_LIB -I. -I/usr/include/i386-linux-gnu/qt5 -I/usr/include/i386-linux-gnu/qt5/QtWidgets -I/usr/include/i386-linux-gnu/qt5/QtGui -I/usr/include/i386-linux-gnu/qt5/QtCore -I. -I. -I/usr/lib/i386-linux-gnu/qt5/mkspecs/linux-g++ -o moc_partman.o moc_partman.cpp
+g++ -Wl,-z,relro -o minstall app.o minstall.o mpassedit.o msettings.o mtreeview.o partman.o safecache.o mprocess.o qrc_images.o moc_minstall.o moc_mpassedit.o moc_mtreeview.o moc_partman.o   /usr/lib/i386-linux-gnu/libQt5Widgets.so /usr/lib/i386-linux-gnu/libQt5Gui.so /usr/lib/i386-linux-gnu/libQt5Core.so -lGL -lpthread   
+make[2]: Leaving directory '/media/demo/dataext/development/working/gazelle-installer-debian-folder-mx/32/gazelle-installer'
+make[1]: Leaving directory '/media/demo/dataext/development/working/gazelle-installer-debian-folder-mx/32/gazelle-installer'
+   dh_auto_test -a -O--no-automatic-dbgsym -O--parallel
+   create-stamp debian/debhelper-build-stamp
+ fakeroot debian/rules binary-arch
+dh binary-arch --no-automatic-dbgsym --parallel
+   dh_testroot -a -O--no-automatic-dbgsym -O--parallel
+   dh_prep -a -O--no-automatic-dbgsym -O--parallel
+   dh_auto_install -a -O--no-automatic-dbgsym -O--parallel
+   dh_install -a -O--no-automatic-dbgsym -O--parallel
+   dh_installdocs -a -O--no-automatic-dbgsym -O--parallel
+   dh_installchangelogs -a -O--no-automatic-dbgsym -O--parallel
+   dh_systemd_enable -a -O--no-automatic-dbgsym -O--parallel
+   dh_installinit -a -O--no-automatic-dbgsym -O--parallel
+   dh_systemd_start -a -O--no-automatic-dbgsym -O--parallel
+   dh_perl -a -O--no-automatic-dbgsym -O--parallel
+   dh_link -a -O--no-automatic-dbgsym -O--parallel
+   dh_strip_nondeterminism -a -O--no-automatic-dbgsym -O--parallel
+   dh_compress -a -O--no-automatic-dbgsym -O--parallel
+   dh_fixperms -a -O--no-automatic-dbgsym -O--parallel
+   dh_missing -a -O--no-automatic-dbgsym -O--parallel
+   dh_strip -a -O--no-automatic-dbgsym -O--parallel
+   dh_makeshlibs -a -O--no-automatic-dbgsym -O--parallel
+   dh_shlibdeps -a -O--no-automatic-dbgsym -O--parallel
+   dh_installdeb -a -O--no-automatic-dbgsym -O--parallel
+   dh_gencontrol -a -O--no-automatic-dbgsym -O--parallel
+   dh_md5sums -a -O--no-automatic-dbgsym -O--parallel
+   dh_builddeb -a -O--no-automatic-dbgsym -O--parallel
+dpkg-deb: building package 'mx-installer' in '../mx-installer_22.2_i386.deb'.
+ dpkg-genbuildinfo --build=any
+ dpkg-genchanges --build=any >../gazelle-installer_22.2_i386.changes
+dpkg-genchanges: info: binary-only arch-specific upload (source code and arch-indep packages not included)
+ dpkg-source --after-build .
+dpkg-buildpackage: info: binary-only upload (no source included)
+Now signing dsc file...
+debsign: Can't find or can't read dsc file gazelle-installer_22.2.dsc!
