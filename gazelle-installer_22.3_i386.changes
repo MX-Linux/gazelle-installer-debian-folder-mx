@@ -15,11 +15,11 @@ Changes:
  .
    * Fix for lsblk output when using Turkish locale
 Checksums-Sha1:
- a4fb924ce023ce39b653dc1751083a4beb022d20 9265 gazelle-installer_22.3_i386.buildinfo
- 5ce01277713ca234a782beb6285aee31c62de7a2 452332 mx-installer_22.3_i386.deb
+ babefd38c16690b4727d6436705284572333525b 9265 gazelle-installer_22.3_i386.buildinfo
+ 5fd95fa9f540df91104f9bfce734fdcac4202008 452680 mx-installer_22.3_i386.deb
 Checksums-Sha256:
- 3d3232831e676ffc42419bc82d10f08578115cc9db4b29c8349d67c6d09532ce 9265 gazelle-installer_22.3_i386.buildinfo
- df6c93ac2b2891188779751ee0f7cec9c869bc06569f9671a8461ced28e3589b 452332 mx-installer_22.3_i386.deb
+ aa89b866e072f1d417d08b1e0fe47b5a07cb28fed7f79012452f7bf0312d88b5 9265 gazelle-installer_22.3_i386.buildinfo
+ 40b471f6abd679e8312fe50da657a27979ef0a27ff3700b68b35e83b33170eec 452680 mx-installer_22.3_i386.deb
 Files:
- 13242ca7d13faf5baa8767dbe4eb6801 9265 system optional gazelle-installer_22.3_i386.buildinfo
- e18653ae51b36f96ec7f71f6bbb93512 452332 system optional mx-installer_22.3_i386.deb
+ 9d080a498b22b48fa1bc14365129f982 9265 system optional gazelle-installer_22.3_i386.buildinfo
+ ca91693dd5b02b9d8ac0357f3e5f96e3 452680 system optional mx-installer_22.3_i386.deb
