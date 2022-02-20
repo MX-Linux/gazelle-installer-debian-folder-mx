@@ -1,0 +1,25 @@
+Format: 1.8
+Date: Sun, 20 Feb 2022 08:54:33 -0500
+Source: gazelle-installer
+Binary: mx-installer
+Architecture: i386
+Version: 22.3
+Distribution: mx
+Urgency: medium
+Maintainer: dolphinoracle <dolphinoracle@gmail.com>
+Changed-By: Adrian <adrian@mxlinux.org>
+Description:
+ mx-installer - Customizable GUI installer for MX Linux and antiX Linux
+Changes:
+ gazelle-installer (22.3) mx; urgency=medium
+ .
+   * Fix for lsblk output when using Turkish locale
+Checksums-Sha1:
+ a4fb924ce023ce39b653dc1751083a4beb022d20 9265 gazelle-installer_22.3_i386.buildinfo
+ 5ce01277713ca234a782beb6285aee31c62de7a2 452332 mx-installer_22.3_i386.deb
+Checksums-Sha256:
+ 3d3232831e676ffc42419bc82d10f08578115cc9db4b29c8349d67c6d09532ce 9265 gazelle-installer_22.3_i386.buildinfo
+ df6c93ac2b2891188779751ee0f7cec9c869bc06569f9671a8461ced28e3589b 452332 mx-installer_22.3_i386.deb
+Files:
+ 13242ca7d13faf5baa8767dbe4eb6801 9265 system optional gazelle-installer_22.3_i386.buildinfo
+ e18653ae51b36f96ec7f71f6bbb93512 452332 system optional mx-installer_22.3_i386.deb
