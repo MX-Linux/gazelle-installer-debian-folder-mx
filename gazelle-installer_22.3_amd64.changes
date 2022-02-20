@@ -1,0 +1,46 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+Format: 1.8
+Date: Sun, 20 Feb 2022 08:54:33 -0500
+Source: gazelle-installer
+Binary: mx-installer
+Architecture: source amd64
+Version: 22.3
+Distribution: mx
+Urgency: medium
+Maintainer: dolphinoracle <dolphinoracle@gmail.com>
+Changed-By: Adrian <adrian@mxlinux.org>
+Description:
+ mx-installer - Customizable GUI installer for MX Linux and antiX Linux
+Changes:
+ gazelle-installer (22.3) mx; urgency=medium
+ .
+   * Fix for lsblk output when using Turkish locale
+Checksums-Sha1:
+ 29740322e391b0c8acd0a789911ac4dcf023f954 1203 gazelle-installer_22.3.dsc
+ 3a1ae09f252e891ed8d2c9abc884df2ccc0e8530 308496 gazelle-installer_22.3.tar.xz
+ 299d1f3037524d74841a6ecbb060f64c327f42d2 10130 gazelle-installer_22.3_amd64.buildinfo
+ 2ed70927d22e929dc6169b4b23001280efd422b0 436952 mx-installer_22.3_amd64.deb
+Checksums-Sha256:
+ 86fb76118af94e898dda0bb50ad05b2eaec0ef6968135a94d1bbaf66ed287042 1203 gazelle-installer_22.3.dsc
+ 78d3b854b7533f01ac7dafff7a373da3aecbae75b1d18a8e215ad9a91819488b 308496 gazelle-installer_22.3.tar.xz
+ 7bc23a830a459b5cd4312d31cc9ed8c6a2f4863f8904771a9e5f12949578eeb2 10130 gazelle-installer_22.3_amd64.buildinfo
+ b8694c509e12f89dd138862f25e7d0575d54578359764d7b3b302c5c588dfc11 436952 mx-installer_22.3_amd64.deb
+Files:
+ 517a8a4957b87eefcfc24d94c102c6a2 1203 system optional gazelle-installer_22.3.dsc
+ a07b50fb231579b3e9b76e323f49149c 308496 system optional gazelle-installer_22.3.tar.xz
+ 69621f02b6307f9e19dd52b4700f0e83 10130 system optional gazelle-installer_22.3_amd64.buildinfo
+ 6d20226480f56313980836693f903611 436952 system optional mx-installer_22.3_amd64.deb
+
+-----BEGIN PGP SIGNATURE-----
+
+iQFHBAEBCgAxFiEE8ndToY6S45N+YzXncJOMeAZ57pgFAmISSacTHGFkcmlhbkBt
+eGxpbnV4Lm9yZwAKCRBwk4x4BnnumCrXB/4j6kas7zPmCN+q1VD5X5roxeYq4O/5
+0Fzs3FjSVGWy5XygWOAzzPzgugddy7FID1P5qYn2mc1mFW8nTS/kJHuPuxLVY8PA
+ZBxJ6i3NnZswtc65chCRAF6anSPQ2o1rl9zyXo7jJDjbMVpczAzoO2DbHVHdxlWx
+V//GPiSGSIfLbSthiGjUg3Z2D1kk971y4Ig0gJheqNKGDLGRFsrGSwEKEo+LtJKk
+Rp7pknMFf5ljtqgYO1Y000gEWkAC8FrSa4B+McxiQPafux4o3jjtelhVKdwtiMwP
+Jx0bJIY54LoDyns4NDJBDTgjmMX5MZ158T4rHTT6nX50FNUJ72c74361
+=NVR3
+-----END PGP SIGNATURE-----
