@@ -1,0 +1,25 @@
+Format: 1.8
+Date: Tue, 22 Feb 2022 13:00:37 -0500
+Source: gazelle-installer
+Architecture: source
+Version: 22.3.01
+Distribution: mx
+Urgency: medium
+Maintainer: dolphinoracle <dolphinoracle@gmail.com>
+Changed-By: Adrian <adrian@mxlinux.org>
+Changes:
+ gazelle-installer (22.3.01) mx; urgency=medium
+ .
+   * Fix encoding issue in Services view
+Checksums-Sha1:
+ bf159455f531a60a63d8b2c832b8c11b9a6c2bb8 653 gazelle-installer_22.3.01.dsc
+ b8ade88b342428213f0e1718f80761fbf7bcc747 308560 gazelle-installer_22.3.01.tar.xz
+ a5d0cfe1bcf9217a92d70fe187a6f2635dd6965a 9120 gazelle-installer_22.3.01_i386.buildinfo
+Checksums-Sha256:
+ e0f8bcc59f62137835eb6cb5204125be8307530bfa59dd64adb1ef386bda9a05 653 gazelle-installer_22.3.01.dsc
+ 5b0bd195556784cc38fc57a0934763920dc76786aaeae4de8cd2831595763974 308560 gazelle-installer_22.3.01.tar.xz
+ 1a57f580087ae37bb322821097a50a7d141e2bd843da0ad54b7e20d0b8d6d3a2 9120 gazelle-installer_22.3.01_i386.buildinfo
+Files:
+ c552d1a1843123ad60bcdb39906e04de 653 system optional gazelle-installer_22.3.01.dsc
+ ee07e239df2337c0e2dec0818196fa94 308560 system optional gazelle-installer_22.3.01.tar.xz
+ 2152c09419b6b98afa608bce7f5e3a58 9120 system optional gazelle-installer_22.3.01_i386.buildinfo
