@@ -1,3 +1,9 @@
+gazelle-installer (22.3.01) mx; urgency=medium
+
+  * Fix encoding issue in Services view
+
+ -- Adrian <adrian@mxlinux.org>  Tue, 22 Feb 2022 13:00:37 -0500
+
 gazelle-installer (22.3) mx; urgency=medium
 
   * Fix for lsblk output when using Turkish locale
