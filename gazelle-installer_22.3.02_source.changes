@@ -1,0 +1,25 @@
+Format: 1.8
+Date: Sat, 26 Feb 2022 09:32:36 -0500
+Source: gazelle-installer
+Architecture: source
+Version: 22.3.02
+Distribution: mx
+Urgency: medium
+Maintainer: dolphinoracle <dolphinoracle@gmail.com>
+Changed-By: Adrian <adrian@mxlinux.org>
+Changes:
+ gazelle-installer (22.3.02) mx; urgency=medium
+ .
+   * Make sure all processes are run with C.UTF-8 localization
+Checksums-Sha1:
+ 41a86d43af4556eabc3eef64456d4b7326be4f69 653 gazelle-installer_22.3.02.dsc
+ 95f52abe8addeffaeb125cdae413f5a54d0fde43 308596 gazelle-installer_22.3.02.tar.xz
+ c16d9bca0ecf3c49a2d0ddaa0787dbc02e2b9cf2 9280 gazelle-installer_22.3.02_i386.buildinfo
+Checksums-Sha256:
+ bece09b5a9f369f561324dc4b57c3f7231087793d4ccc3c27f3a30cb1aa9dd45 653 gazelle-installer_22.3.02.dsc
+ 575c14ec2981114d1bdee1a6f921d64b23b94f0ef371a82eba7f573a0d142de2 308596 gazelle-installer_22.3.02.tar.xz
+ 401a58157f545ba16df11bf29ff27ada42d38c7513b3d021817414918f581f62 9280 gazelle-installer_22.3.02_i386.buildinfo
+Files:
+ 81a982ddfdcaf1ba8a31a72094b7062f 653 system optional gazelle-installer_22.3.02.dsc
+ b700a49c8801b53151bba812ac580a81 308596 system optional gazelle-installer_22.3.02.tar.xz
+ ae48162d161d97540c8bd751d0736d9a 9280 system optional gazelle-installer_22.3.02_i386.buildinfo
