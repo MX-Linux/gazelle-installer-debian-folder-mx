@@ -1,3 +1,11 @@
+gazelle-installer (22.3.04) mx; urgency=medium
+
+  * Revamped execution procedures to take advantage of separated arguments for executables. This reduces the need for character escaping and quotes, and removes the confusion between "raw" and "non-raw" commands.
+  * Use the "exec" functions to run executables with simple commands consisting of the program and an array of arguments. Use the "shell" functions to run complex script lines that require a shell to interpret it.
+  * Built chroot facility into MProcess to improve efficiency when executing multiple commands in the same chroot environment.
+
+ -- Adrian <adrian@mxlinux.org>  Mon, 07 Mar 2022 13:17:40 -0500
+
 gazelle-installer (22.3.03) mx; urgency=medium
 
   * Eliminate reiserfs, which is now officially deprecated in the Linux kernel.

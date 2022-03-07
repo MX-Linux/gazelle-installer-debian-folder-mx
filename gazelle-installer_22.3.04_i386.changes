@@ -1,0 +1,27 @@
+Format: 1.8
+Date: Mon, 07 Mar 2022 13:17:40 -0500
+Source: gazelle-installer
+Binary: mx-installer
+Architecture: i386
+Version: 22.3.04
+Distribution: mx
+Urgency: medium
+Maintainer: dolphinoracle <dolphinoracle@gmail.com>
+Changed-By: Adrian <adrian@mxlinux.org>
+Description:
+ mx-installer - Customizable GUI installer for MX Linux and antiX Linux
+Changes:
+ gazelle-installer (22.3.04) mx; urgency=medium
+ .
+   * Revamped execution procedures to take advantage of separated arguments for executables. This reduces the need for character escaping and quotes, and removes the confusion between "raw" and "non-raw" commands.
+   * Use the "exec" functions to run executables with simple commands consisting of the program and an array of arguments. Use the "shell" functions to run complex script lines that require a shell to interpret it.
+   * Built chroot facility into MProcess to improve efficiency when executing multiple commands in the same chroot environment.
+Checksums-Sha1:
+ fb228776338ba8fe8bd3dbfd3535a0d5e11e47a6 9120 gazelle-installer_22.3.04_i386.buildinfo
+ 3a1591b7d7d871e0634cf6c36eaf7b9f4b4d150c 461108 mx-installer_22.3.04_i386.deb
+Checksums-Sha256:
+ 3c94ae9924734afd3f863f44564f14cff0c8004f830e54ea28b58b09cf5edc6d 9120 gazelle-installer_22.3.04_i386.buildinfo
+ 9b832e448becaf37d71892ca50c7d0b5f3a57e070668b9dc1cf4fdf9fee33df4 461108 mx-installer_22.3.04_i386.deb
+Files:
+ d731f11169e215537d33597d403aba58 9120 system optional gazelle-installer_22.3.04_i386.buildinfo
+ 6e9053944052861a6fe1b139b4bfc761 461108 system optional mx-installer_22.3.04_i386.deb
