@@ -1,0 +1,49 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+Format: 1.8
+Date: Tue, 08 Mar 2022 09:03:32 -0500
+Source: gazelle-installer
+Binary: mx-installer
+Architecture: source amd64
+Version: 22.3.05
+Distribution: mx
+Urgency: medium
+Maintainer: dolphinoracle <dolphinoracle@gmail.com>
+Changed-By: Adrian <adrian@mxlinux.org>
+Description:
+ mx-installer - Customizable GUI installer for MX Linux and antiX Linux
+Changes:
+ gazelle-installer (22.3.05) mx; urgency=medium
+ .
+   * Detect solid-state drives and activate supported enhancements.
+   * Improved and fixed installation abortion mechanism.
+   * Show failures in the live log.
+   * The "-" button can now remove subvolumes from the list.
+Checksums-Sha1:
+ 37d92a726caa6aba5e0932fb8a37b97ec83bad18 1215 gazelle-installer_22.3.05.dsc
+ 410b97da4e615d22eafef1e8610c3e7c2ee037ff 309580 gazelle-installer_22.3.05.tar.xz
+ 88176a4db66000aecbd379149ff62c2632b4de25 10154 gazelle-installer_22.3.05_amd64.buildinfo
+ 1bc00258eb7919de679ced9eeff8bc0c26b529e0 445524 mx-installer_22.3.05_amd64.deb
+Checksums-Sha256:
+ f64250e4e9a049e52707370722974b70d8ec789b11512f7f83c14df8864d4e35 1215 gazelle-installer_22.3.05.dsc
+ 556200633a01b24a804384c8ee9c1aa607a259db2caa170d52aea56858fe4ea7 309580 gazelle-installer_22.3.05.tar.xz
+ 73520b04e0c41ffc779355bd360b17c04410c399c7c7005c786174e4aeb8015e 10154 gazelle-installer_22.3.05_amd64.buildinfo
+ 7c2a35afae4ebd4de244d45bd513fd725690f04d4c1530edbff118ce430d0c43 445524 mx-installer_22.3.05_amd64.deb
+Files:
+ 5e54836ebe91a040c66194f9c4eb6198 1215 system optional gazelle-installer_22.3.05.dsc
+ c37e63d4f0a1321b45e9db1b99543040 309580 system optional gazelle-installer_22.3.05.tar.xz
+ 43e20cabb92f3b2562d3815c2c105c93 10154 system optional gazelle-installer_22.3.05_amd64.buildinfo
+ 4f43e824923a4ff3cac54d4e5a2dad03 445524 system optional mx-installer_22.3.05_amd64.deb
+
+-----BEGIN PGP SIGNATURE-----
+
+iQFHBAEBCgAxFiEE8ndToY6S45N+YzXncJOMeAZ57pgFAmInYokTHGFkcmlhbkBt
+eGxpbnV4Lm9yZwAKCRBwk4x4BnnumGYaCACdg4lSPzjzTAVQcZDMuiZy611KMyql
+Y8cbK7ieCWxDwXKViTYu4LJ5S7Mh+Hsw7QQFH1/9zoKRxgM5PxW+EmqAgh3WfN1R
+Ol4G3LeG2q1acfqUDmiaY/qlNoN6NeiEv70iE/9tf1oxqDimk2VenS4W6RAh068B
+QsK/qf71JIlqE7Yc8U+416aeuKw6jbUmdEezqk5aQDXJs+SapHcOXjXCBm5dMFVp
+AZuBnPJEfu56murFsd2p2OJHIedVGIce0iO5sCXcbJlKAJjCyuONEr8TyNOVz86d
+rXAdC2Hl+pOaSg0ez4PVuNt0FjNasK3B6reCihM8Mr+C7t0fKuhPCInz
+=mgkK
+-----END PGP SIGNATURE-----
