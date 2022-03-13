@@ -1,0 +1,25 @@
+Format: 1.8
+Date: Sun, 13 Mar 2022 18:45:34 -0400
+Source: gazelle-installer
+Architecture: source
+Version: 22.3.07
+Distribution: mx
+Urgency: medium
+Maintainer: dolphinoracle <dolphinoracle@gmail.com>
+Changed-By: Adrian <adrian@mxlinux.org>
+Changes:
+ gazelle-installer (22.3.07) mx; urgency=medium
+ .
+   * Revert 22.3.06 changes till we fix some bugs
+Checksums-Sha1:
+ 7105d388359b16bc554a329011d8a50a57650e1b 653 gazelle-installer_22.3.07.dsc
+ 8853dbf138f14fd3a41d6f2a54994b7b4185ddb6 309760 gazelle-installer_22.3.07.tar.xz
+ 102563688426faaddecd46db1d7a578d9149f7f0 9280 gazelle-installer_22.3.07_i386.buildinfo
+Checksums-Sha256:
+ ff7f9fbf8fcee56ba0efcb57af70fdb68770982fb05058beb2c069fe05c34c37 653 gazelle-installer_22.3.07.dsc
+ 7865c65417b9ad66772a47c8ef57e63039f6cacedc80a4f47628bc7b33bcf395 309760 gazelle-installer_22.3.07.tar.xz
+ 7f34c6f010aec2b89dc2577065f8d81a291fc6fda95ee7a100fd0ad961db786f 9280 gazelle-installer_22.3.07_i386.buildinfo
+Files:
+ cc981e8c3ab3898ead312bc3192e814d 653 system optional gazelle-installer_22.3.07.dsc
+ 87fcb6ad87103122173912ba9dbfc0c0 309760 system optional gazelle-installer_22.3.07.tar.xz
+ 3fa5db2975b5e9dff9f299a8e4d46c86 9280 system optional gazelle-installer_22.3.07_i386.buildinfo
