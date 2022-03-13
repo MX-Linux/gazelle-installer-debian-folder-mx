@@ -1,3 +1,11 @@
+gazelle-installer (22.3.06) mx; urgency=medium
+
+  * Split installer code into modules that can be loaded as required.
+  * Improve partition slider appearance to convey two portions.
+  * Use linuxfs.info file to calculate required disk space accurately.
+
+ -- Adrian <adrian@mxlinux.org>  Sun, 13 Mar 2022 10:08:00 -0400
+
 gazelle-installer (22.3.05) mx; urgency=medium
 
   * Detect solid-state drives and activate supported enhancements.
