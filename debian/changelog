@@ -1,3 +1,9 @@
+gazelle-installer (22.3.09) mx; urgency=medium
+
+  * Fixed condition which could break snapshot user account detection. 
+
+ -- Adrian <adrian@mxlinux.org>  Mon, 14 Mar 2022 12:34:41 -0400
+
 gazelle-installer (22.3.08) mx; urgency=medium
 
   * Fixed excessively-pessimistic disk space estimate.
