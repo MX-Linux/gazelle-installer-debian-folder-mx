@@ -1,0 +1,25 @@
+Format: 1.8
+Date: Sun, 13 Mar 2022 22:35:18 -0400
+Source: gazelle-installer
+Architecture: source
+Version: 22.3.08
+Distribution: mx
+Urgency: medium
+Maintainer: dolphinoracle <dolphinoracle@gmail.com>
+Changed-By: Adrian <adrian@mxlinux.org>
+Changes:
+ gazelle-installer (22.3.08) mx; urgency=medium
+ .
+   * Fixed excessively-pessimistic disk space estimate.
+Checksums-Sha1:
+ 1b14464e041aeaa6c6fe4d5be8c5e8bb3437a5b5 653 gazelle-installer_22.3.08.dsc
+ e03c9e2809dbc74e3bae68b6f4f6a3fb2d66b5a7 311228 gazelle-installer_22.3.08.tar.xz
+ bad2bf6423ac09100238f2ad1ef9e920cef0e633 9280 gazelle-installer_22.3.08_i386.buildinfo
+Checksums-Sha256:
+ 91e1bf551ac689de0e5af9e9882647129e30be1628f4ff26742d2d8fd86f4e45 653 gazelle-installer_22.3.08.dsc
+ 8834490fb89a6789f2971b6e65ce86a1c4c052ed5a147cdd90403fdf698a4a3c 311228 gazelle-installer_22.3.08.tar.xz
+ 8f20a9bb82361a4496b7a64982f69b667c0e51f750d23de3f6b43aa2a9da7c95 9280 gazelle-installer_22.3.08_i386.buildinfo
+Files:
+ c1ece8769410c3c02b006b944e072901 653 system optional gazelle-installer_22.3.08.dsc
+ 71c06fc3196b4e05a6ce6123413add1e 311228 system optional gazelle-installer_22.3.08.tar.xz
+ 3eb5c3d3a0c513087b944328fb48b9cf 9280 system optional gazelle-installer_22.3.08_i386.buildinfo
