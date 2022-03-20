@@ -17,11 +17,11 @@ Changes:
    * Added splash screen throbber to detect freeze at startup and OOBE setup.
    * New and improved help backdrop display technique.
 Checksums-Sha1:
- 097c85b564fff078ebc3d6f6b7070645d70dc4d0 9280 gazelle-installer_22.3.11_i386.buildinfo
- a407209c554f6894c4c546bf98348c2f4b50c76a 467088 mx-installer_22.3.11_i386.deb
+ 38f0468c866b9af8686b9e7e084c17980b34d947 9280 gazelle-installer_22.3.11_i386.buildinfo
+ 6da079a2fd4f4994553fd23c6a18c28970958ed1 466764 mx-installer_22.3.11_i386.deb
 Checksums-Sha256:
- e0bb98c90852928d7552f22bc3297edd217e63d45ee80c09af2595223f3b0194 9280 gazelle-installer_22.3.11_i386.buildinfo
- 1d4400f6116426af393e275c104a49cf19779e4b99cec4d630ca0ffb0d9aa87f 467088 mx-installer_22.3.11_i386.deb
+ 5ee1b6e2ee27523ba3119314e1a685b73b261200b65bcfe858e8b030a469dbd0 9280 gazelle-installer_22.3.11_i386.buildinfo
+ 36f6cfe7e6556313310317dd80f265e66d34ac5566f044a91da23adfaac725d1 466764 mx-installer_22.3.11_i386.deb
 Files:
- a4e6996019319fd295ec81be3418be6d 9280 system optional gazelle-installer_22.3.11_i386.buildinfo
- 166ce26352f58018afbd066e4852fd3f 467088 system optional mx-installer_22.3.11_i386.deb
+ f2228e8e248dd5624096ebe000a26226 9280 system optional gazelle-installer_22.3.11_i386.buildinfo
+ cfa38590093ed105211605171baff3b4 466764 system optional mx-installer_22.3.11_i386.deb
