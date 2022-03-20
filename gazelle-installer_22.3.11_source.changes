@@ -1,0 +1,27 @@
+Format: 1.8
+Date: Sun, 20 Mar 2022 14:33:25 -0400
+Source: gazelle-installer
+Architecture: source
+Version: 22.3.11
+Distribution: mx
+Urgency: medium
+Maintainer: dolphinoracle <dolphinoracle@gmail.com>
+Changed-By: Adrian <adrian@mxlinux.org>
+Changes:
+ gazelle-installer (22.3.11) mx; urgency=medium
+ .
+   * Improved disk space calculation methods and made them less pessimistic.
+   * Added splash screen throbber to detect freeze at startup and OOBE setup.
+   * New and improved help backdrop display technique.
+Checksums-Sha1:
+ 0880ccf6ce40aa6f8a49afabbdc6d140d6252005 653 gazelle-installer_22.3.11.dsc
+ 32c1e4235fb515cf8574d52a8a74b4d9f1da17ff 311344 gazelle-installer_22.3.11.tar.xz
+ 097c85b564fff078ebc3d6f6b7070645d70dc4d0 9280 gazelle-installer_22.3.11_i386.buildinfo
+Checksums-Sha256:
+ cd954e86b235d79964a91619ce9e1b68177c3f7957561cb8a57e49d4a66d3f32 653 gazelle-installer_22.3.11.dsc
+ 67e95b23c7be2db80baaea129e01328b69bfc88b706ceb18ee1a7db3c9b3b00b 311344 gazelle-installer_22.3.11.tar.xz
+ e0bb98c90852928d7552f22bc3297edd217e63d45ee80c09af2595223f3b0194 9280 gazelle-installer_22.3.11_i386.buildinfo
+Files:
+ 6130dbea25e2a2ba72049cbeeec09b48 653 system optional gazelle-installer_22.3.11.dsc
+ b68b2cce84815da9e17730115e28f809 311344 system optional gazelle-installer_22.3.11.tar.xz
+ a4e6996019319fd295ec81be3418be6d 9280 system optional gazelle-installer_22.3.11_i386.buildinfo
