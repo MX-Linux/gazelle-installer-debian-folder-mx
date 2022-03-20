@@ -14,14 +14,14 @@ Changes:
    * Added splash screen throbber to detect freeze at startup and OOBE setup.
    * New and improved help backdrop display technique.
 Checksums-Sha1:
- 0880ccf6ce40aa6f8a49afabbdc6d140d6252005 653 gazelle-installer_22.3.11.dsc
- 32c1e4235fb515cf8574d52a8a74b4d9f1da17ff 311344 gazelle-installer_22.3.11.tar.xz
- 097c85b564fff078ebc3d6f6b7070645d70dc4d0 9280 gazelle-installer_22.3.11_i386.buildinfo
+ 29014691a003db56a96a4bfbe5d216eb18b44544 653 gazelle-installer_22.3.11.dsc
+ 192c07c10275a3af6d2b57c08daa9adf0ccad283 311308 gazelle-installer_22.3.11.tar.xz
+ 38f0468c866b9af8686b9e7e084c17980b34d947 9280 gazelle-installer_22.3.11_i386.buildinfo
 Checksums-Sha256:
- cd954e86b235d79964a91619ce9e1b68177c3f7957561cb8a57e49d4a66d3f32 653 gazelle-installer_22.3.11.dsc
- 67e95b23c7be2db80baaea129e01328b69bfc88b706ceb18ee1a7db3c9b3b00b 311344 gazelle-installer_22.3.11.tar.xz
- e0bb98c90852928d7552f22bc3297edd217e63d45ee80c09af2595223f3b0194 9280 gazelle-installer_22.3.11_i386.buildinfo
+ 31511d94aa5f72d62be792d3d7bf88fb99cd70efee952408489ee5afc56c62fd 653 gazelle-installer_22.3.11.dsc
+ 7448bb55a906406d47a2c0b71c17a2783bde23bc7584d5c3b4de30e580833816 311308 gazelle-installer_22.3.11.tar.xz
+ 5ee1b6e2ee27523ba3119314e1a685b73b261200b65bcfe858e8b030a469dbd0 9280 gazelle-installer_22.3.11_i386.buildinfo
 Files:
- 6130dbea25e2a2ba72049cbeeec09b48 653 system optional gazelle-installer_22.3.11.dsc
- b68b2cce84815da9e17730115e28f809 311344 system optional gazelle-installer_22.3.11.tar.xz
- a4e6996019319fd295ec81be3418be6d 9280 system optional gazelle-installer_22.3.11_i386.buildinfo
+ 922899049a88e9171e80a1923354ca70 653 system optional gazelle-installer_22.3.11.dsc
+ c3412396c1484db07dca8125a49108e8 311308 system optional gazelle-installer_22.3.11.tar.xz
+ f2228e8e248dd5624096ebe000a26226 9280 system optional gazelle-installer_22.3.11_i386.buildinfo
