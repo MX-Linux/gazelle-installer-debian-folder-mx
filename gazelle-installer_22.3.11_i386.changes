@@ -1,0 +1,27 @@
+Format: 1.8
+Date: Sun, 20 Mar 2022 14:33:25 -0400
+Source: gazelle-installer
+Binary: mx-installer
+Architecture: i386
+Version: 22.3.11
+Distribution: mx
+Urgency: medium
+Maintainer: dolphinoracle <dolphinoracle@gmail.com>
+Changed-By: Adrian <adrian@mxlinux.org>
+Description:
+ mx-installer - Customizable GUI installer for MX Linux and antiX Linux
+Changes:
+ gazelle-installer (22.3.11) mx; urgency=medium
+ .
+   * Improved disk space calculation methods and made them less pessimistic.
+   * Added splash screen throbber to detect freeze at startup and OOBE setup.
+   * New and improved help backdrop display technique.
+Checksums-Sha1:
+ 097c85b564fff078ebc3d6f6b7070645d70dc4d0 9280 gazelle-installer_22.3.11_i386.buildinfo
+ a407209c554f6894c4c546bf98348c2f4b50c76a 467088 mx-installer_22.3.11_i386.deb
+Checksums-Sha256:
+ e0bb98c90852928d7552f22bc3297edd217e63d45ee80c09af2595223f3b0194 9280 gazelle-installer_22.3.11_i386.buildinfo
+ 1d4400f6116426af393e275c104a49cf19779e4b99cec4d630ca0ffb0d9aa87f 467088 mx-installer_22.3.11_i386.deb
+Files:
+ a4e6996019319fd295ec81be3418be6d 9280 system optional gazelle-installer_22.3.11_i386.buildinfo
+ 166ce26352f58018afbd066e4852fd3f 467088 system optional mx-installer_22.3.11_i386.deb

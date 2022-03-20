@@ -1,0 +1,48 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+Format: 1.8
+Date: Sun, 20 Mar 2022 14:33:25 -0400
+Source: gazelle-installer
+Binary: mx-installer
+Architecture: source amd64
+Version: 22.3.11
+Distribution: mx
+Urgency: medium
+Maintainer: dolphinoracle <dolphinoracle@gmail.com>
+Changed-By: Adrian <adrian@mxlinux.org>
+Description:
+ mx-installer - Customizable GUI installer for MX Linux and antiX Linux
+Changes:
+ gazelle-installer (22.3.11) mx; urgency=medium
+ .
+   * Improved disk space calculation methods and made them less pessimistic.
+   * Added splash screen throbber to detect freeze at startup and OOBE setup.
+   * New and improved help backdrop display technique.
+Checksums-Sha1:
+ 88e6d0d4bed2254935aea7cb60c3ee64d2973ee4 1215 gazelle-installer_22.3.11.dsc
+ 734dad895de42870ba15ed3e2038249392bbb4ce 311284 gazelle-installer_22.3.11.tar.xz
+ 734445efc16547baf306c9478d61a82f772c4f47 10154 gazelle-installer_22.3.11_amd64.buildinfo
+ 9d6c4cf1110d4ca68cd423d800abc81bb0493e8e 449604 mx-installer_22.3.11_amd64.deb
+Checksums-Sha256:
+ 45bf7f80dee3d16d45947ea81d941029df03d3f6c5bf893d013edc0072f625bc 1215 gazelle-installer_22.3.11.dsc
+ 661df05752fa83e1d32984013e1346bed0e71d17084226b2597201fe21679046 311284 gazelle-installer_22.3.11.tar.xz
+ 231d3021093731c63c89656396267e698147fbfec18c7eabd594a9ebe7307347 10154 gazelle-installer_22.3.11_amd64.buildinfo
+ 54a10c580feb162a183f2ed74a2246b66f7940a58d6b5edcbfdc4ddd34cf47a1 449604 mx-installer_22.3.11_amd64.deb
+Files:
+ 17e67de0e8c425ad42edc7d30b15a5a6 1215 system optional gazelle-installer_22.3.11.dsc
+ f814e9da1d6596151f3e953dd2b1b8a8 311284 system optional gazelle-installer_22.3.11.tar.xz
+ 611e341942d9f4ebb7d02cbce092b278 10154 system optional gazelle-installer_22.3.11_amd64.buildinfo
+ 39db5840ba6bc6318592a65d0eec679e 449604 system optional mx-installer_22.3.11_amd64.deb
+
+-----BEGIN PGP SIGNATURE-----
+
+iQFHBAEBCgAxFiEE8ndToY6S45N+YzXncJOMeAZ57pgFAmI3c+0THGFkcmlhbkBt
+eGxpbnV4Lm9yZwAKCRBwk4x4BnnumA7aCADLJeP40UplC9uf2N2FssXbF6W8csyG
+kvz1n5ZooZrWemPnV3PGLhedgtQ+r7P59rAx6X2AF79JjZ36u20TKrpIJ849W+oW
+pvcK7tsccw1t2GrVq/qbv0squu+k9/ci6lEAZBEgYGYhu87P8fbCehUmEhKou8t0
+GwxLoEKjVLbIMQwjcSBtXKiWqV+hoDBUZ4VeXPjAzUfqsXBLs+k1URCrvO24FGsV
+qhZitjEU/V7VL5nGGs3IlGHCpT9/joNdp/AaFDrnCeFs1EGFF2mQ1+lPTyNJA1wi
+Kca4lauRbKgQCdhY6l1y/LtP4a9wNg++fd1HSEGoPX3Pk6JB13iFkADA
+=xcnc
+-----END PGP SIGNATURE-----
