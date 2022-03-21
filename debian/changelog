@@ -1,3 +1,9 @@
+gazelle-installer (22.3.12) mx; urgency=medium
+
+  * Fixed: BIOS-GRUB partition added to fstab. 
+
+ -- Adrian <adrian@mxlinux.org>  Mon, 21 Mar 2022 11:14:34 -0400
+
 gazelle-installer (22.3.11) mx; urgency=medium
 
   * Improved disk space calculation methods and made them less pessimistic.
