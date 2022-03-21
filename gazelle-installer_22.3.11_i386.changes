@@ -16,12 +16,13 @@ Changes:
    * Improved disk space calculation methods and made them less pessimistic.
    * Added splash screen throbber to detect freeze at startup and OOBE setup.
    * New and improved help backdrop display technique.
+   * Fixed a condition which could cause the wrong disk space method to be used.
 Checksums-Sha1:
- 38f0468c866b9af8686b9e7e084c17980b34d947 9280 gazelle-installer_22.3.11_i386.buildinfo
- 6da079a2fd4f4994553fd23c6a18c28970958ed1 466764 mx-installer_22.3.11_i386.deb
+ 58a213f49b26e3eddd3b839d6429f5323b6cf2cd 9280 gazelle-installer_22.3.11_i386.buildinfo
+ 72abb02db916220ce3bab0e34a8e015224358d08 466672 mx-installer_22.3.11_i386.deb
 Checksums-Sha256:
- 5ee1b6e2ee27523ba3119314e1a685b73b261200b65bcfe858e8b030a469dbd0 9280 gazelle-installer_22.3.11_i386.buildinfo
- 36f6cfe7e6556313310317dd80f265e66d34ac5566f044a91da23adfaac725d1 466764 mx-installer_22.3.11_i386.deb
+ bdf3abb061a1b1972465d844507fce2fa72d0eeffaf366e4fa275be59398ae56 9280 gazelle-installer_22.3.11_i386.buildinfo
+ e58f586722e2038388d96ed7b94c9d8af615ee914ee5e2ca26a1787b5c590ffe 466672 mx-installer_22.3.11_i386.deb
 Files:
- f2228e8e248dd5624096ebe000a26226 9280 system optional gazelle-installer_22.3.11_i386.buildinfo
- cfa38590093ed105211605171baff3b4 466764 system optional mx-installer_22.3.11_i386.deb
+ 047548cdc419cc94517f48bd80d1e4fc 9280 system optional gazelle-installer_22.3.11_i386.buildinfo
+ b02f67618f35d409100c98693b42877b 466672 system optional mx-installer_22.3.11_i386.deb
