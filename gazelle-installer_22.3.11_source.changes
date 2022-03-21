@@ -15,14 +15,14 @@ Changes:
    * New and improved help backdrop display technique.
    * Fixed a condition which could cause the wrong disk space method to be used.
 Checksums-Sha1:
- 647a701f73cfbf136a607345ff8387cb4d9e10db 653 gazelle-installer_22.3.11.dsc
- 5ccabc60b80050e3e15021a9db00a54f7cffb8b7 311368 gazelle-installer_22.3.11.tar.xz
- 58a213f49b26e3eddd3b839d6429f5323b6cf2cd 9280 gazelle-installer_22.3.11_i386.buildinfo
+ f91238111935b623ada8a1072c6daacffa8ead8d 653 gazelle-installer_22.3.11.dsc
+ cf92eef680b641a87325f5bcdda972f23b2b9fa9 311352 gazelle-installer_22.3.11.tar.xz
+ eaaa4851c8be0abc439a2da6db63d8c24add5e2d 9280 gazelle-installer_22.3.11_i386.buildinfo
 Checksums-Sha256:
- c88cbd53850ab53b01239c741a8e92ccd3d928d7f06712412315e0a04c416e68 653 gazelle-installer_22.3.11.dsc
- 03f55634cb2e4c37f6023e6c54339fc3d952e7ef3adc7c05bcfbb51ced4bbaed 311368 gazelle-installer_22.3.11.tar.xz
- bdf3abb061a1b1972465d844507fce2fa72d0eeffaf366e4fa275be59398ae56 9280 gazelle-installer_22.3.11_i386.buildinfo
+ 05679cb1b7583d8c6507f63154ec0ddef3e01b26016f4c4ace78c92b93067ff2 653 gazelle-installer_22.3.11.dsc
+ b1944b63024a1f5fdbc5c6c568d28ae742ffa82300084a32c60dd034c2b9940a 311352 gazelle-installer_22.3.11.tar.xz
+ 33b89a7329533a4eca0fb90d1d13b5e8a4f8250bd657630566dcd3c2efc5b57a 9280 gazelle-installer_22.3.11_i386.buildinfo
 Files:
- 0304ae02697adcbbf64d5c62294c6c84 653 system optional gazelle-installer_22.3.11.dsc
- 1d7580d6bc857e91104c6c44792f9017 311368 system optional gazelle-installer_22.3.11.tar.xz
- 047548cdc419cc94517f48bd80d1e4fc 9280 system optional gazelle-installer_22.3.11_i386.buildinfo
+ f25935a9976d4444e651709f601e78e3 653 system optional gazelle-installer_22.3.11.dsc
+ 3f12f06cb7f949849531d6e2358c0f6b 311352 system optional gazelle-installer_22.3.11.tar.xz
+ 49558665529576b87fd1f67aac64cbad 9280 system optional gazelle-installer_22.3.11_i386.buildinfo
