@@ -19,30 +19,31 @@ Changes:
    * Improved disk space calculation methods and made them less pessimistic.
    * Added splash screen throbber to detect freeze at startup and OOBE setup.
    * New and improved help backdrop display technique.
+   * Fixed a condition which could cause the wrong disk space method to be used.
 Checksums-Sha1:
- 07b39d6ec651be0e6eb6c01ac86b2c46fc6e31ae 1215 gazelle-installer_22.3.11.dsc
- 612b47aab77aa016b6216b807f096b4adb7c3422 311276 gazelle-installer_22.3.11.tar.xz
- b878b32a22d8f0ef90d77a18b96a580230c5dca1 10154 gazelle-installer_22.3.11_amd64.buildinfo
- c230edb093e611f742844f9358eaf290f79be0e9 449632 mx-installer_22.3.11_amd64.deb
+ 4ce27e236a37d70bc64c6c4642e929a872fcc29e 1215 gazelle-installer_22.3.11.dsc
+ 14fcde6ddb91ca3af14e0c19602213783ff582fd 311400 gazelle-installer_22.3.11.tar.xz
+ 8d403f532f22467288f17a6f9ff9a11de32fc5ca 10154 gazelle-installer_22.3.11_amd64.buildinfo
+ 82126372794f4ef6dec1652afc606669a1f6b1d8 449564 mx-installer_22.3.11_amd64.deb
 Checksums-Sha256:
- def100b38c2b679731f9a0d74ac0c3377cde41c195cf8d9eeb1ae10dfa64d12b 1215 gazelle-installer_22.3.11.dsc
- 742e2d9c95602004892042f0001877f657549c3c991eb1f00035987d05266a10 311276 gazelle-installer_22.3.11.tar.xz
- 696b820186be41239bf86368b4029441ff4db45caad84bf79e6990405bb2b854 10154 gazelle-installer_22.3.11_amd64.buildinfo
- 4e1e81d7343cea019bbe15bea7315a07ea898ee5c51ee3d90141e4a1863f22b7 449632 mx-installer_22.3.11_amd64.deb
+ a8faa8c20e725e0de06b0ca632e9d927aa2f369bdd7ea5dd474b9cbe6885906c 1215 gazelle-installer_22.3.11.dsc
+ 95668d72a3813e2a9956559d38bb1d89da6ad05d2d67fe13a7edbb37646025c7 311400 gazelle-installer_22.3.11.tar.xz
+ 94c72301cf6c450b03a805e9746a5589e74d431cfd097c08a2c82e62cb3fa81b 10154 gazelle-installer_22.3.11_amd64.buildinfo
+ b65f3d49d3c9217d11eec727fd624635df1566074a8b9298581ec8190519ac91 449564 mx-installer_22.3.11_amd64.deb
 Files:
- 478f15bcf4fbfb77181bddeff5cbe76b 1215 system optional gazelle-installer_22.3.11.dsc
- dc6fb27ef2a8778fa5644cd68c0845ba 311276 system optional gazelle-installer_22.3.11.tar.xz
- db7cd0a3b1bc240981b68ad34160f573 10154 system optional gazelle-installer_22.3.11_amd64.buildinfo
- 2a47406c864ccf1ec004078ae63a03a8 449632 system optional mx-installer_22.3.11_amd64.deb
+ 0e43b2c7f283c56677bda5d5d3387088 1215 system optional gazelle-installer_22.3.11.dsc
+ 3142b4d4ec656cd0c65c103049e2b3df 311400 system optional gazelle-installer_22.3.11.tar.xz
+ 1534fa8164909c389313ca244f7ea16b 10154 system optional gazelle-installer_22.3.11_amd64.buildinfo
+ 77d14a481f6004375a80d97f85e40a97 449564 system optional mx-installer_22.3.11_amd64.deb
 
 -----BEGIN PGP SIGNATURE-----
 
-iQFHBAEBCgAxFiEE8ndToY6S45N+YzXncJOMeAZ57pgFAmI3vD8THGFkcmlhbkBt
-eGxpbnV4Lm9yZwAKCRBwk4x4BnnumHdMB/49BTFfodel8XXXdAE2975DW3GAdmV8
-V3Fz7urwZrFz0TOm+aWlyfY21MefT2CREgb6BWJeXP0eUILTtkleJ8o5+0vPs1lu
-KxEKoDRVrwI2sOTBtmJbgUmkGwVTnDRm1cbjJ+n6W3Hgcqj5pEsCw2bIngtQOEJR
-Ka9Fox7aqkMXH8f2qYGXqe02M4Ppn25FXWtCjZL5pAbDnSgDLBpuQVzxUvIwFlGl
-/hOXx6X6d09OCGMK+qc3TM4oQ1QhutFytrDY1jUWFFk+CX0MLhUf/W0j0JTbDWz6
-d5nd2GvzrPfnotdRElQkkVDkQo/tjPCTsT7n8ymuKdgXeNJzqVtTuLjW
-=K06c
+iQFHBAEBCgAxFiEE8ndToY6S45N+YzXncJOMeAZ57pgFAmI3xFsTHGFkcmlhbkBt
+eGxpbnV4Lm9yZwAKCRBwk4x4BnnumJB5B/9ZWv7l0nk974f9X83yfMaCm7Cn0R5R
+1RAaTj7HRaeMjnq1kbPBFdmAI4nbKVdGSKdZ+VhQxzQ8sY2RfP3g4lPn0XSNq5Km
+QcbR5RLpC2w1sVt9qdBAaZEu0zh5hEvIvL+vRwiumlzHqlDT6XmoHzDhCkRrtEm3
+BBZQcQfNV5KMD+JYmjOzNMbrME4rQenUBnRzpufU5gxGRLtLN9ApEviu5YDlo1cj
+JV4ugu3oA10dF99imXeFwFqfT7caMJ8eqColpZM7uNKDi/V/7Uxtm2HcDZynlpST
+OS2JKrBheTX0Vsc4z1ellLiPnDJcv2lyMDObmZEDUU86WD7zzV9WanbM
+=G4Ic
 -----END PGP SIGNATURE-----
