@@ -1,0 +1,47 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+Format: 1.8
+Date: Tue, 22 Mar 2022 11:45:19 -0400
+Source: gazelle-installer
+Binary: mx-installer
+Architecture: source amd64
+Version: 22.3.13
+Distribution: mx
+Urgency: medium
+Maintainer: dolphinoracle <dolphinoracle@gmail.com>
+Changed-By: Adrian <adrian@mxlinux.org>
+Description:
+ mx-installer - Customizable GUI installer for MX Linux and antiX Linux
+Changes:
+ gazelle-installer (22.3.13) mx; urgency=medium
+ .
+   * Fixed: wrong part of command output used for fallback space calculation.
+   * Fixed: linuxfs.info created if it does not already exist. Eliminate confusion within the image information log message.
+Checksums-Sha1:
+ 53f7bc4f25f62401bf01cfed5cd0ce3a8a3e6d7f 1215 gazelle-installer_22.3.13.dsc
+ e490fef3a5285701ea7aa7e36d7b47dbe81031a9 311396 gazelle-installer_22.3.13.tar.xz
+ 8a633e5458184ab48674c4b8fa0d49bae842f683 9994 gazelle-installer_22.3.13_amd64.buildinfo
+ 70f62ed41c4e860ae7614790179fff16adf4c05a 449576 mx-installer_22.3.13_amd64.deb
+Checksums-Sha256:
+ 30f26e360869aef5e251ce18fc99eee7e382d950ab005a07827835e3d289f0e5 1215 gazelle-installer_22.3.13.dsc
+ 81bca9963a865018e478ca0d2a4ee6591846fc3e898e482536c0e55768068c99 311396 gazelle-installer_22.3.13.tar.xz
+ 4987a294f81fe404975270ba1c3dc839c22a84a7fc90bf3eb08ddf080b6c3485 9994 gazelle-installer_22.3.13_amd64.buildinfo
+ 5b05e1d0a34bc130847f925d6966282697d79855ddaaacec5771d41852faf4e7 449576 mx-installer_22.3.13_amd64.deb
+Files:
+ 84eddfc0de0ab156b58167be58d6823b 1215 system optional gazelle-installer_22.3.13.dsc
+ adb35925b497c7049bfbf184b2576efd 311396 system optional gazelle-installer_22.3.13.tar.xz
+ 6ee0fba067ec4350bf3fd83346f017f1 9994 system optional gazelle-installer_22.3.13_amd64.buildinfo
+ ba9025decf043fae829c115571690a07 449576 system optional mx-installer_22.3.13_amd64.deb
+
+-----BEGIN PGP SIGNATURE-----
+
+iQFHBAEBCgAxFiEE8ndToY6S45N+YzXncJOMeAZ57pgFAmI576gTHGFkcmlhbkBt
+eGxpbnV4Lm9yZwAKCRBwk4x4BnnumHIFCACtUiy1gCuZcZUNzxWxRaiNHnrGsN+y
+KWxKbuUgu6+twzbPfhI0a8182FVemOU1w6yWnTLRbBR/xIeUmFmeWG/BCxqkOlp/
+ZK8WTmpEiC8lOsxuyQC60FKTeUs12vQlBMDb5epWLQaig4zM4p2XCO0bYlEHNc+s
+HZsNx6HxZrj79Q9DKl/RVrKw17ZjdU3Wc2SM1dFU5EymPk5FIkJIevggbn2xKVj3
+M3cDER75ShDASE5IvDoFTiqnIcrOzdNzeHJhGGWMczG8Xtm8t1FPd4CM0kdiyCnn
+tHaTvfUPVkR4qFh8RbRBItvR3z4d2/isdz9favzEeuPtaZKSYwCMbc6x
+=1z+T
+-----END PGP SIGNATURE-----

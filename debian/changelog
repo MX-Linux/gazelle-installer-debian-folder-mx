@@ -1,3 +1,10 @@
+gazelle-installer (22.3.13) mx; urgency=medium
+
+  * Fixed: wrong part of command output used for fallback space calculation. 
+  * Fixed: linuxfs.info created if it does not already exist. Eliminate confusion within the image information log message.
+
+ -- Adrian <adrian@mxlinux.org>  Tue, 22 Mar 2022 11:45:19 -0400
+
 gazelle-installer (22.3.12) mx; urgency=medium
 
   * Fixed: BIOS-GRUB partition added to fstab. 
