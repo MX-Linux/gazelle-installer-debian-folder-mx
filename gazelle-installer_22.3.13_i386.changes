@@ -1,0 +1,26 @@
+Format: 1.8
+Date: Tue, 22 Mar 2022 11:45:19 -0400
+Source: gazelle-installer
+Binary: mx-installer
+Architecture: i386
+Version: 22.3.13
+Distribution: mx
+Urgency: medium
+Maintainer: dolphinoracle <dolphinoracle@gmail.com>
+Changed-By: Adrian <adrian@mxlinux.org>
+Description:
+ mx-installer - Customizable GUI installer for MX Linux and antiX Linux
+Changes:
+ gazelle-installer (22.3.13) mx; urgency=medium
+ .
+   * Fixed: wrong part of command output used for fallback space calculation.
+   * Fixed: linuxfs.info created if it does not already exist. Eliminate confusion within the image information log message.
+Checksums-Sha1:
+ 967ce3f969ebc652cb2a38f0c25b92b7ca019099 9120 gazelle-installer_22.3.13_i386.buildinfo
+ 23173774801cfe95df514977be2f702037733206 466892 mx-installer_22.3.13_i386.deb
+Checksums-Sha256:
+ ec1588073127485747fc623e06d8d3a5d57d011cc0dab8e55a4b706fb2a3da53 9120 gazelle-installer_22.3.13_i386.buildinfo
+ a13b52e6f938d40e769f0708717c138b62ff1bd97c3b4e66890c4ac714e94fc2 466892 mx-installer_22.3.13_i386.deb
+Files:
+ f864d578c2550b60345c613611b9595f 9120 system optional gazelle-installer_22.3.13_i386.buildinfo
+ 8caf4244ef800417d4eaa5e602a6485a 466892 system optional mx-installer_22.3.13_i386.deb
