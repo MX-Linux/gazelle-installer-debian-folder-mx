@@ -1,0 +1,25 @@
+Format: 1.8
+Date: Tue, 22 Mar 2022 20:17:36 -0400
+Source: gazelle-installer
+Binary: mx-installer
+Architecture: i386
+Version: 22.3.14
+Distribution: mx
+Urgency: medium
+Maintainer: dolphinoracle <dolphinoracle@gmail.com>
+Changed-By: Adrian <adrian@mxlinux.org>
+Description:
+ mx-installer - Customizable GUI installer for MX Linux and antiX Linux
+Changes:
+ gazelle-installer (22.3.14) mx; urgency=medium
+ .
+   * Disable regular install if there are no suitable full-disk targets. GUI layout fix for regular install options.
+Checksums-Sha1:
+ bdecc43298ab256153b5a0a80c85822b66af4f87 9280 gazelle-installer_22.3.14_i386.buildinfo
+ 175548207d38a3414c9d4c30e017483238a7a726 467216 mx-installer_22.3.14_i386.deb
+Checksums-Sha256:
+ b08d2868e9a1823b4f8dc25f974b33e60778a28a48d36b9b124b5efc4b82404b 9280 gazelle-installer_22.3.14_i386.buildinfo
+ c6bbf21fd9c6ed6ddec4cca3bcf2a604b3898143b703c08588882ea7ebd516cb 467216 mx-installer_22.3.14_i386.deb
+Files:
+ 96adcc359b113f028d479831d6573c71 9280 system optional gazelle-installer_22.3.14_i386.buildinfo
+ 70ce982956c127c39a321023322b8f1a 467216 system optional mx-installer_22.3.14_i386.deb

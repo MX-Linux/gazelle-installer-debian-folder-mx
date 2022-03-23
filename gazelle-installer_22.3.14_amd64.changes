@@ -1,0 +1,46 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+Format: 1.8
+Date: Tue, 22 Mar 2022 20:17:36 -0400
+Source: gazelle-installer
+Binary: mx-installer
+Architecture: source amd64
+Version: 22.3.14
+Distribution: mx
+Urgency: medium
+Maintainer: dolphinoracle <dolphinoracle@gmail.com>
+Changed-By: Adrian <adrian@mxlinux.org>
+Description:
+ mx-installer - Customizable GUI installer for MX Linux and antiX Linux
+Changes:
+ gazelle-installer (22.3.14) mx; urgency=medium
+ .
+   * Disable regular install if there are no suitable full-disk targets. GUI layout fix for regular install options.
+Checksums-Sha1:
+ 52ce0df9b71c5771608e3f19c8b95f5277efdbfb 1215 gazelle-installer_22.3.14.dsc
+ b785bc2b66a1ff584ae05e9249b975b1c1b99e34 311484 gazelle-installer_22.3.14.tar.xz
+ a77ff6dcd1e15933130737781d0085cad6dfa940 10154 gazelle-installer_22.3.14_amd64.buildinfo
+ 58da49c402fcc3bd8c1cc73f1527464227167fcf 450300 mx-installer_22.3.14_amd64.deb
+Checksums-Sha256:
+ 8c09e840ac9812524a1719ef6b33e85c196498111af541b0c8a14468294f2ad7 1215 gazelle-installer_22.3.14.dsc
+ a8fff70b25d74f92d3115a58e92ea639c3410790db2cb84ffd5327ee189ab916 311484 gazelle-installer_22.3.14.tar.xz
+ 2bfaee2fc3b53432d0b761fff3e6c28cd0106bd7b8a9522489c176b4fd553ee6 10154 gazelle-installer_22.3.14_amd64.buildinfo
+ 9ae586d4a46a7a25c13b6efacb2fe2b71b485284c8bb9417b44b56de736d895c 450300 mx-installer_22.3.14_amd64.deb
+Files:
+ 48b4b56539302c96a7e52c6dae62d49a 1215 system optional gazelle-installer_22.3.14.dsc
+ de7cdb9784441ceddd7f9443ebff9775 311484 system optional gazelle-installer_22.3.14.tar.xz
+ f583b85acae426f5052a865729ab6614 10154 system optional gazelle-installer_22.3.14_amd64.buildinfo
+ bd3b27f8b6c2a0ae0d37be2aaa65fe92 450300 system optional mx-installer_22.3.14_amd64.deb
+
+-----BEGIN PGP SIGNATURE-----
+
+iQFHBAEBCgAxFiEE8ndToY6S45N+YzXncJOMeAZ57pgFAmI6Z24THGFkcmlhbkBt
+eGxpbnV4Lm9yZwAKCRBwk4x4BnnumMPCCAC4vrBw9/wJtqfiOKyGAAfosMY9Cpu9
+IBJinb9SYUrMhfUxlQMqfTlu6mODm+b9QX3EBO/ggdEOwDPHIIQUW0d2QeVas/QS
+9EyCMCCYJOgHB2INdrJxTpxYVJKzZBHCtKYYOBl4DR65ZqzVTWGzp+z40rCJh+Tf
+0Nw1cAOK8lf1AY9AjoZ/Z2PF/g9BiW3BEE01U/zmYY50/VcBlp9PTRh8wJ8zG0gE
+cH5opxRy20tqn9HFj3TajQ1XCxuAId/Lz/l1iCCjQ/R9bggQKHt9IWHitbUjuQ2q
+/3ec3D8ygv9rXwQTo/FStt1io6zDKr3tFhna1jdtFjG4kFdWui1h/2K+
+=EuMN
+-----END PGP SIGNATURE-----
