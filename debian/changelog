@@ -1,3 +1,9 @@
+gazelle-installer (22.3.15) mx; urgency=medium
+
+  * Use C++ exceptions for error handling. 
+
+ -- Adrian <adrian@mxlinux.org>  Thu, 24 Mar 2022 12:03:21 -0400
+
 gazelle-installer (22.3.14) mx; urgency=medium
 
   * Disable regular install if there are no suitable full-disk targets. GUI layout fix for regular install options.
