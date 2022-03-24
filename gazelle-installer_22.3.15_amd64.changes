@@ -1,0 +1,46 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+Format: 1.8
+Date: Thu, 24 Mar 2022 12:03:21 -0400
+Source: gazelle-installer
+Binary: mx-installer
+Architecture: source amd64
+Version: 22.3.15
+Distribution: mx
+Urgency: medium
+Maintainer: dolphinoracle <dolphinoracle@gmail.com>
+Changed-By: Adrian <adrian@mxlinux.org>
+Description:
+ mx-installer - Customizable GUI installer for MX Linux and antiX Linux
+Changes:
+ gazelle-installer (22.3.15) mx; urgency=medium
+ .
+   * Use C++ exceptions for error handling.
+Checksums-Sha1:
+ 7bfc87d005457e51abaf10c40ab478a571a3fd4e 1215 gazelle-installer_22.3.15.dsc
+ 970704cbdf023283bce3bf51a4d0e3031f558373 311468 gazelle-installer_22.3.15.tar.xz
+ 0a043bcce742fd0478654bbf15622843c35acbf5 10154 gazelle-installer_22.3.15_amd64.buildinfo
+ d9809fd7be463e8ab9bb81b63efe8a7d19ffe07c 450280 mx-installer_22.3.15_amd64.deb
+Checksums-Sha256:
+ 25927dc430f627fb54473ddbaa68372d388d73b30e62e33e87029b32aa5f4133 1215 gazelle-installer_22.3.15.dsc
+ 0a5d7bfe0eb6cf0c57f571a08a66b7cb528d16b57e5c1a4fcaf6934a2db099d4 311468 gazelle-installer_22.3.15.tar.xz
+ 4a1f285df79b3bcfc7e05d15c3eaf3a68a66e84d136cda7da72375eae051408a 10154 gazelle-installer_22.3.15_amd64.buildinfo
+ 1a746bbd2b0693d9a2574d37c168d88dfedec280468e5306c052c3f8cbb30767 450280 mx-installer_22.3.15_amd64.deb
+Files:
+ 443f777646837539e8f6549cff8171a7 1215 system optional gazelle-installer_22.3.15.dsc
+ 6110c9d6a4764f3dfa637448cc68cec8 311468 system optional gazelle-installer_22.3.15.tar.xz
+ b6a924c1b216447a82a0cb1f043a4340 10154 system optional gazelle-installer_22.3.15_amd64.buildinfo
+ f0ecf42af1ff9edbe2080136095df4af 450280 system optional mx-installer_22.3.15_amd64.deb
+
+-----BEGIN PGP SIGNATURE-----
+
+iQFHBAEBCgAxFiEE8ndToY6S45N+YzXncJOMeAZ57pgFAmI8lvUTHGFkcmlhbkBt
+eGxpbnV4Lm9yZwAKCRBwk4x4BnnumEjqB/9fDAEXscXE1s57M9i9kjAhICTUKDSZ
+/iPGmRdM1m7fPvd5gyNAez6ZU1R8/XP56EhhNdEP2RLx1+xTt6GQ4A1Yx7XwAY0X
+lvOTEIDBO29ncaf753JtrUp+5Fjboxmhz2PaZDl6snigmvuCOeZAv3W//nfczCfe
+iQZQljJHlSvjtwfoKJqfVNPJKlZa76ohPLOvcztkLsEN+xacLevE5q57WaS8UQtD
+fqivUoZ1+JnwaQccD4jYL7Ppox1RHD04FDibvZZ+V4DGpZDCZE5XtnaYZVD2mZ5E
+Ky0C/SOKG6gqp7ZX/tsvQiD/hNoYCeqrTwA9xYGbWe1adCRruEBNOJ3c
+=8dbE
+-----END PGP SIGNATURE-----
