@@ -1,3 +1,9 @@
+gazelle-installer (22.3.17) mx; urgency=medium
+
+  * Use full device path for umount/swapoff during preparation.
+
+ -- Adrian <adrian@mxlinux.org>  Mon, 28 Mar 2022 01:50:52 -0400
+
 gazelle-installer (22.3.16) mx; urgency=medium
 
   * Fixed partition manager error handling. 

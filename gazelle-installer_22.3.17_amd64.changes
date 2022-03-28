@@ -1,0 +1,46 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+Format: 1.8
+Date: Mon, 28 Mar 2022 01:50:52 -0400
+Source: gazelle-installer
+Binary: mx-installer
+Architecture: source amd64
+Version: 22.3.17
+Distribution: mx
+Urgency: medium
+Maintainer: dolphinoracle <dolphinoracle@gmail.com>
+Changed-By: Adrian <adrian@mxlinux.org>
+Description:
+ mx-installer - Customizable GUI installer for MX Linux and antiX Linux
+Changes:
+ gazelle-installer (22.3.17) mx; urgency=medium
+ .
+   * Use full device path for umount/swapoff during preparation.
+Checksums-Sha1:
+ ffde9803a8baa324c4e996ac8b5ad46375e4a425 1215 gazelle-installer_22.3.17.dsc
+ bc8d3b991e804e410848535d90b6060b399ea9e4 311492 gazelle-installer_22.3.17.tar.xz
+ da24d213742fdb8ca0fa48c073741de771c82727 10154 gazelle-installer_22.3.17_amd64.buildinfo
+ 0025c7b34cb56c86780bcc066adfcd9c630d06e3 450660 mx-installer_22.3.17_amd64.deb
+Checksums-Sha256:
+ 2f4de8da223a1b2970076f72f14294cb2e7a4d40cd947167875ac8b8e0c9fe1d 1215 gazelle-installer_22.3.17.dsc
+ 617b3e2db287b9ea9448eb951719b4e2722e2ca2f1ac84d83bb048ba42d33313 311492 gazelle-installer_22.3.17.tar.xz
+ fbb33e08f609ecd26fff132f2c6524a67743b18786b0627784b3e37e490577d0 10154 gazelle-installer_22.3.17_amd64.buildinfo
+ c444b231265061fdc24d6d5dc5b823f9b974d32d30c0686ad04b012f83752fea 450660 mx-installer_22.3.17_amd64.deb
+Files:
+ 597ae8ac5360d545af2f5be8fde7864a 1215 system optional gazelle-installer_22.3.17.dsc
+ a561104c887916e0e53b25e0a4504e61 311492 system optional gazelle-installer_22.3.17.tar.xz
+ e82c90b188b1063489f3a1ed6ff8f4b5 10154 system optional gazelle-installer_22.3.17_amd64.buildinfo
+ df5ee774d40232d765fd9b72af07c10e 450660 system optional mx-installer_22.3.17_amd64.deb
+
+-----BEGIN PGP SIGNATURE-----
+
+iQFHBAEBCgAxFiEE8ndToY6S45N+YzXncJOMeAZ57pgFAmJBTRETHGFkcmlhbkBt
+eGxpbnV4Lm9yZwAKCRBwk4x4BnnumAU1B/4slGLWTk7Xio3NwgUHpqcE4eeUSjkH
+KHreIDBDLfDIEzvRQ5BjMfyV0e49SCkO5o6He+Tje19/hXJCDvm6FFUK5qTxc6Xa
+BM0xOhrKrBn00Swvm3BNXrPYYQtRo8VSZZRWsDq5Kxa5bYwMRfh/sAZ4ZSJ39FQC
+tAbXTHasnowjd+b7SPlEMDbP5+8NjePU+KcOlN4Uh1aYe1ssnnoH6RoguAQuhTdr
+F/IEXbT0Sf3b+wGJm0eUr8+32tZDBepSmJ5KxRRe10Tby/w6jvf+QcMmV39O52Ms
+tRmDHkKLpk+3+J4V0oigMY99B62K092o1fRM/YYPhmFasIX/YHAz+Unu
+=xfs+
+-----END PGP SIGNATURE-----
