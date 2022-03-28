@@ -1,0 +1,46 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+Format: 1.8
+Date: Sun, 27 Mar 2022 21:51:46 -0400
+Source: gazelle-installer
+Binary: mx-installer
+Architecture: source amd64
+Version: 22.3.16
+Distribution: mx
+Urgency: medium
+Maintainer: dolphinoracle <dolphinoracle@gmail.com>
+Changed-By: Adrian <adrian@mxlinux.org>
+Description:
+ mx-installer - Customizable GUI installer for MX Linux and antiX Linux
+Changes:
+ gazelle-installer (22.3.16) mx; urgency=medium
+ .
+   * Fixed partition manager error handling.
+Checksums-Sha1:
+ bf2a8fd6c510e9f93967c4d302e8ea437ade1995 1215 gazelle-installer_22.3.16.dsc
+ b5951407003a73d148e624aa667faf70f80e8671 311432 gazelle-installer_22.3.16.tar.xz
+ 484bfd8cc3abc2f277a709c52ec0663a3ac726e4 10154 gazelle-installer_22.3.16_amd64.buildinfo
+ 056097847fde5468024f920a89819ba3848af8ff 450628 mx-installer_22.3.16_amd64.deb
+Checksums-Sha256:
+ 6f59da4b6e6f0cc226b6afaf5d3fe811a32f1f23e91d3dcfe65f7d7cb03fa1a8 1215 gazelle-installer_22.3.16.dsc
+ f24758fd9121bf7fe1d102e7dd1b87958f754c0fd67da5f26fdc55888e14f801 311432 gazelle-installer_22.3.16.tar.xz
+ 92ad43909147aea82d8a0bb138f7afc4bc6ee6ca2e0fdadb5a8a6aa04a3f7615 10154 gazelle-installer_22.3.16_amd64.buildinfo
+ 0489231d2bb2a31dc0116d8133e8e84d52071edec7cdd3e33cb3ccc21d6f3d34 450628 mx-installer_22.3.16_amd64.deb
+Files:
+ 0364dca75ddbdade498fa0e17d3ea443 1215 system optional gazelle-installer_22.3.16.dsc
+ 9076bd221d6a07ff1c8320e3f3c6f533 311432 system optional gazelle-installer_22.3.16.tar.xz
+ b58ffb452db8a13584967e2a9abd6bae 10154 system optional gazelle-installer_22.3.16_amd64.buildinfo
+ eb90aa2a1ef90751cb303dc2512525b7 450628 system optional mx-installer_22.3.16_amd64.deb
+
+-----BEGIN PGP SIGNATURE-----
+
+iQFHBAEBCgAxFiEE8ndToY6S45N+YzXncJOMeAZ57pgFAmJBFQwTHGFkcmlhbkBt
+eGxpbnV4Lm9yZwAKCRBwk4x4BnnumG+7B/94JhYHNCj9IJYYayYo6JE7F2Yn7ywZ
+7AKdi7XWHpm0wz4Drx3V4b1KCF+BZ4iJUMVE31TWIvhOMAvd6yvNczjjXQl8eZ6v
+a6FCQCMBgCPzNsqO6au+wCEM81XQxleF1oBvWocSXNy7ZJic+i9KSUh1Vn+a1gf+
+CGImtEzNkRnST3tl7DBF5GZpD23BxJVkbJRXq7BtaAM/a4T4TByNLuPITnNVXftR
+NFKrPd43ZeZiSjkbbu5WYUvEVTE5nirqGBGjiEUIQlHH/VC7tKTLVOGaBcQRLBmP
+M5ny0qGaLmS7M8jC4xk4/S7tDIYmt6ELXloDu3xFiziDy4aqNeXJYDjS
+=cIxo
+-----END PGP SIGNATURE-----

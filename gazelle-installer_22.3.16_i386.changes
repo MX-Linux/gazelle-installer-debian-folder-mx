@@ -1,0 +1,25 @@
+Format: 1.8
+Date: Sun, 27 Mar 2022 21:51:46 -0400
+Source: gazelle-installer
+Binary: mx-installer
+Architecture: i386
+Version: 22.3.16
+Distribution: mx
+Urgency: medium
+Maintainer: dolphinoracle <dolphinoracle@gmail.com>
+Changed-By: Adrian <adrian@mxlinux.org>
+Description:
+ mx-installer - Customizable GUI installer for MX Linux and antiX Linux
+Changes:
+ gazelle-installer (22.3.16) mx; urgency=medium
+ .
+   * Fixed partition manager error handling.
+Checksums-Sha1:
+ 82e1e067a5f7f66c91cf10766c014f16878ee028 9280 gazelle-installer_22.3.16_i386.buildinfo
+ c0aeb04551ef860e69813d1387216afa3cbddfd4 467680 mx-installer_22.3.16_i386.deb
+Checksums-Sha256:
+ ba433dce5b8e70465ad640f32c0065849667df0aeae286dccf167b2288ff3246 9280 gazelle-installer_22.3.16_i386.buildinfo
+ cc6fc1651e6cb78c049d0d78f219a06bf50f781f1b0357195be539541edea1ee 467680 mx-installer_22.3.16_i386.deb
+Files:
+ 3aaa8e6d46beee0e4267358ac35c8906 9280 system optional gazelle-installer_22.3.16_i386.buildinfo
+ 4b59f7bb86221f27331daf9386680797 467680 system optional mx-installer_22.3.16_i386.deb
