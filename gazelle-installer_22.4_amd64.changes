@@ -1,0 +1,46 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+Format: 1.8
+Date: Tue, 05 Apr 2022 08:58:51 -0400
+Source: gazelle-installer
+Binary: mx-installer
+Architecture: source amd64
+Version: 22.4
+Distribution: mx
+Urgency: medium
+Maintainer: dolphinoracle <dolphinoracle@gmail.com>
+Changed-By: Adrian <adrian@mxlinux.org>
+Description:
+ mx-installer - Customizable GUI installer for MX Linux and antiX Linux
+Changes:
+ gazelle-installer (22.4) mx; urgency=medium
+ .
+   * Minor improvements to unmount/swapoff ordering.
+Checksums-Sha1:
+ dfac5d0016cc791d01ecc3d38c8752edb351493c 1203 gazelle-installer_22.4.dsc
+ 95afece8a8450da38c59147806f915479c147397 311536 gazelle-installer_22.4.tar.xz
+ 0a6abf99f6f8b05fb0841762cc1bd0b87bd703b1 10130 gazelle-installer_22.4_amd64.buildinfo
+ 34aa64fa10985784b796ffc56cac90c32d925437 451412 mx-installer_22.4_amd64.deb
+Checksums-Sha256:
+ b326daa2850d82afc17312e68a0458a014fc6fbf05eac9f014e33b7049982a43 1203 gazelle-installer_22.4.dsc
+ 1e654e0b33a35028847e618a93b27abc2db641d6aa526717c5402b37a1b10120 311536 gazelle-installer_22.4.tar.xz
+ 59fbff1ea6129da22b18ff8fb6d380bd74f67f4a80145819e500b8c39f9e61c3 10130 gazelle-installer_22.4_amd64.buildinfo
+ d56944b274d3c0cf521cc45dfa7ba0ad9dae2eed1f4a689ccb5456f92ff9df1d 451412 mx-installer_22.4_amd64.deb
+Files:
+ 0c17efbf6c9b45e9f6cdbff29013c2bf 1203 system optional gazelle-installer_22.4.dsc
+ 75df5ecc35417687fc50c03661966b0f 311536 system optional gazelle-installer_22.4.tar.xz
+ 36d1b7074a0ef6976a20af589b606273 10130 system optional gazelle-installer_22.4_amd64.buildinfo
+ 4667ff6e0678408ca60f2ee1d884bd91 451412 system optional mx-installer_22.4_amd64.deb
+
+-----BEGIN PGP SIGNATURE-----
+
+iQFHBAEBCgAxFiEE8ndToY6S45N+YzXncJOMeAZ57pgFAmJMPWwTHGFkcmlhbkBt
+eGxpbnV4Lm9yZwAKCRBwk4x4BnnumLqhB/9oSYPu56wJH5Bv0HajCjGF9INQ+clV
+1+uOcws99fiG82Q3tWLFLppBcrqpwsQ2717FvMgPyixjj5fGaFynA7toPKu49lzq
+pXeYY63jFLw0P6RkyFlIlBxwMNNqbHVTLOpSp8cOMKZRRG3YL2TE1stMNYKE/1Jr
+lQSUT0rcusIN0XNJHZWv2/hYjuLTlvVfrept7jfFfBwnCQSTMmCQDBC+k1f5z3Xt
+0tdgl5F3OPEXZIxflh6yUcyjwVst3RziA+TLwAad2FjCkZObDXWk6Vshmlp0PE47
+NQv6HZ+miiEtiydb+IMC4Ps+KikQRkBadL+azgdnhs3N/PLTpDikr8YJ
+=R6Mh
+-----END PGP SIGNATURE-----
