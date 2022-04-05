@@ -1,0 +1,25 @@
+Format: 1.8
+Date: Tue, 05 Apr 2022 08:58:51 -0400
+Source: gazelle-installer
+Architecture: source
+Version: 22.4
+Distribution: mx
+Urgency: medium
+Maintainer: dolphinoracle <dolphinoracle@gmail.com>
+Changed-By: Adrian <adrian@mxlinux.org>
+Changes:
+ gazelle-installer (22.4) mx; urgency=medium
+ .
+   * Minor improvements to unmount/swapoff ordering.
+Checksums-Sha1:
+ 50d98c186fe0e8a98493c34699532b5713cf7df4 641 gazelle-installer_22.4.dsc
+ bc8a8c8a254d0de172b5bd6145eb762736b1ef68 311616 gazelle-installer_22.4.tar.xz
+ f19034a9440e57dae3a1b865c8e5807f4d1abc54 9265 gazelle-installer_22.4_i386.buildinfo
+Checksums-Sha256:
+ 11455286788d9af962f676c92abaabd52dcdfbc724f46e99b46c1fe9a95d44b3 641 gazelle-installer_22.4.dsc
+ a448889d5e3375395834322b5fbc847b310fc21833831e0ad3c0bcdbe9e0739f 311616 gazelle-installer_22.4.tar.xz
+ a5c0d65f95902c09f19233824217abb4244ec2c2b8d208faa2f9b73ff8e464ce 9265 gazelle-installer_22.4_i386.buildinfo
+Files:
+ 6984cbab6966eb105d7a309a16d4f08f 641 system optional gazelle-installer_22.4.dsc
+ 177cc7e11819b3c662fd439ef77f2d01 311616 system optional gazelle-installer_22.4.tar.xz
+ 26ed95e5bf9fddce84e854c93b0f56dd 9265 system optional gazelle-installer_22.4_i386.buildinfo
