@@ -1,0 +1,46 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+Format: 1.8
+Date: Wed, 06 Apr 2022 22:29:58 -0400
+Source: gazelle-installer
+Binary: mx-installer
+Architecture: source amd64
+Version: 22.4.01
+Distribution: mx
+Urgency: medium
+Maintainer: dolphinoracle <dolphinoracle@gmail.com>
+Changed-By: Adrian <adrian@mxlinux.org>
+Description:
+ mx-installer - Customizable GUI installer for MX Linux and antiX Linux
+Changes:
+ gazelle-installer (22.4.01) mx; urgency=medium
+ .
+   * tint2 clock change
+Checksums-Sha1:
+ d5998b47cc3473c997a9aae9868376c635def322 1215 gazelle-installer_22.4.01.dsc
+ 1d68d572127d2da476b79f371d45694949a23a0d 311592 gazelle-installer_22.4.01.tar.xz
+ 4df95ca6625273e656be1c8f29bbc7c03e5e8fc1 10154 gazelle-installer_22.4.01_amd64.buildinfo
+ 8432bf2a3f2a5c8e44132d7be69371b00efad032 451260 mx-installer_22.4.01_amd64.deb
+Checksums-Sha256:
+ 028010b26e466e974bc43d2fe29f018e963e9b5f46895ecdeb2a0467dd22a476 1215 gazelle-installer_22.4.01.dsc
+ 89f3ae7943453ec7ecc8bfbda588f6b88e6d6732330a68a3b17bdc0ff3fa43cd 311592 gazelle-installer_22.4.01.tar.xz
+ 65ad47f861cf772dad4922b733b7edc93e93dc80a59b998f6092e5715d098dd3 10154 gazelle-installer_22.4.01_amd64.buildinfo
+ a15cb901d313eb6f16a1bced0e81fc792a65caf6181d768db50866119bd6f58a 451260 mx-installer_22.4.01_amd64.deb
+Files:
+ bc9527414a91ba920df7cbd9115f6d61 1215 system optional gazelle-installer_22.4.01.dsc
+ 418430a5e11bbd5a875a7293cc75ab01 311592 system optional gazelle-installer_22.4.01.tar.xz
+ 70d75ee0bb9264b96b7884bf4a7a9332 10154 system optional gazelle-installer_22.4.01_amd64.buildinfo
+ 63f8177e9e5e6982e2953641660dcfd0 451260 system optional mx-installer_22.4.01_amd64.deb
+
+-----BEGIN PGP SIGNATURE-----
+
+iQFHBAEBCgAxFiEE8ndToY6S45N+YzXncJOMeAZ57pgFAmJOTR8THGFkcmlhbkBt
+eGxpbnV4Lm9yZwAKCRBwk4x4BnnumF+ZCAC97YIlqsRo8XKhXj15i9LcGANe33tp
+U+rhe0PXG03UkEY95z3NRCaDF7qR7EbN8g2XSg/2YuTt30ZAR6WD1dP5X3krWYLP
+dWw3pPFb38GSRZWJK5AX4T7NPiFphzLbKT0DWRy/MyGCmk0D5S0efBnSvs4yAI0L
+0NLp3Jfs946nC4Ti5B7ZYW55COdui4SFLSwCNSRxQNHOmwmbFTkLfn1CkpuPmxW9
+ZHDXF/kdAO/naQ3ya3waareae1sMD79TchpAAIuvqPaFE+JFBQmC0R4Z7hd3cjfd
+f3aYvtF/eMk/+Ne+P+7JNba8FYdi9yt6WD9kutdyqkIFPJU9SVye4lXX
+=XIbe
+-----END PGP SIGNATURE-----

@@ -1,0 +1,25 @@
+Format: 1.8
+Date: Wed, 06 Apr 2022 22:29:58 -0400
+Source: gazelle-installer
+Architecture: source
+Version: 22.4.01
+Distribution: mx
+Urgency: medium
+Maintainer: dolphinoracle <dolphinoracle@gmail.com>
+Changed-By: Adrian <adrian@mxlinux.org>
+Changes:
+ gazelle-installer (22.4.01) mx; urgency=medium
+ .
+   * tint2 clock change
+Checksums-Sha1:
+ d32868e6af28435f9e84431c11681dd28e888b41 653 gazelle-installer_22.4.01.dsc
+ 8c37a4a9c7a300eeb7009106e375724cc119a1f8 311692 gazelle-installer_22.4.01.tar.xz
+ cfd948b160c0553ff333390722feff03909984cb 9280 gazelle-installer_22.4.01_i386.buildinfo
+Checksums-Sha256:
+ f7e65baa738586aa9c33cb013afdf48ca7a2e701a2772e9c0f0647c15d50b197 653 gazelle-installer_22.4.01.dsc
+ aaa50487fa9609576c31368032091bbb9c5b51c5d5a866a18080187470476f19 311692 gazelle-installer_22.4.01.tar.xz
+ 59ca64f4b72916976002d985c4fc9ea1e6ff79428e9d6f7f34a92c4ca0089029 9280 gazelle-installer_22.4.01_i386.buildinfo
+Files:
+ 9322307d4940837807bd43a865d4e846 653 system optional gazelle-installer_22.4.01.dsc
+ 0e442bb49b7a33f0e1e1cc96da8f67b8 311692 system optional gazelle-installer_22.4.01.tar.xz
+ 174f87de0c7cee19f0589c7a748de5dc 9280 system optional gazelle-installer_22.4.01_i386.buildinfo

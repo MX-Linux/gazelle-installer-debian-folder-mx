@@ -1,0 +1,25 @@
+Format: 1.8
+Date: Wed, 06 Apr 2022 22:29:58 -0400
+Source: gazelle-installer
+Binary: mx-installer
+Architecture: i386
+Version: 22.4.01
+Distribution: mx
+Urgency: medium
+Maintainer: dolphinoracle <dolphinoracle@gmail.com>
+Changed-By: Adrian <adrian@mxlinux.org>
+Description:
+ mx-installer - Customizable GUI installer for MX Linux and antiX Linux
+Changes:
+ gazelle-installer (22.4.01) mx; urgency=medium
+ .
+   * tint2 clock change
+Checksums-Sha1:
+ cfd948b160c0553ff333390722feff03909984cb 9280 gazelle-installer_22.4.01_i386.buildinfo
+ cf11f7ade93cfa8753044ef2ac23828839fee25a 468944 mx-installer_22.4.01_i386.deb
+Checksums-Sha256:
+ 59ca64f4b72916976002d985c4fc9ea1e6ff79428e9d6f7f34a92c4ca0089029 9280 gazelle-installer_22.4.01_i386.buildinfo
+ df721fd23366a298241fda7d88dffcd548d0a1cb0a5b1a8881f55e5cbb85411f 468944 mx-installer_22.4.01_i386.deb
+Files:
+ 174f87de0c7cee19f0589c7a748de5dc 9280 system optional gazelle-installer_22.4.01_i386.buildinfo
+ 5459de122920c716b065b457992cc670 468944 system optional mx-installer_22.4.01_i386.deb
