@@ -1,0 +1,25 @@
+Format: 1.8
+Date: Tue, 12 Apr 2022 20:38:36 -0400
+Source: gazelle-installer
+Binary: mx-installer
+Architecture: i386
+Version: 22.4mx19
+Distribution: mx
+Urgency: medium
+Maintainer: dolphinoracle <dolphinoracle@gmail.com>
+Changed-By: Adrian <adrian@mxlinux.org>
+Description:
+ mx-installer - Customizable GUI installer for MX Linux and antiX Linux
+Changes:
+ gazelle-installer (22.4mx19) mx; urgency=medium
+ .
+   * Fixed condition which could break snapshot user account detection.
+Checksums-Sha1:
+ 73e3a3adca23293fcde628ac03d2431b42578430 10029 gazelle-installer_22.4mx19_i386.buildinfo
+ b37797afd5cd66d1123eb5d1f7c0d144e217ad90 442728 mx-installer_22.4mx19_i386.deb
+Checksums-Sha256:
+ 036b0d4d2609d89d4d8043bec01631fc01df3633a7b617abe4ef528dab288081 10029 gazelle-installer_22.4mx19_i386.buildinfo
+ 45b36f8652759a4ecb5bd2a4e09e6a74818b82981335d05883b1f4d54b5d784d 442728 mx-installer_22.4mx19_i386.deb
+Files:
+ dce986e457703a469099cd580a7e9416 10029 system optional gazelle-installer_22.4mx19_i386.buildinfo
+ 3f5708615debb8a6b15069f0efbcffa0 442728 system optional mx-installer_22.4mx19_i386.deb

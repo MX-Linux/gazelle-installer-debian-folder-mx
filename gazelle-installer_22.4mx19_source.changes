@@ -1,0 +1,25 @@
+Format: 1.8
+Date: Tue, 12 Apr 2022 20:38:36 -0400
+Source: gazelle-installer
+Architecture: source
+Version: 22.4mx19
+Distribution: mx
+Urgency: medium
+Maintainer: dolphinoracle <dolphinoracle@gmail.com>
+Changed-By: Adrian <adrian@mxlinux.org>
+Changes:
+ gazelle-installer (22.4mx19) mx; urgency=medium
+ .
+   * Fixed condition which could break snapshot user account detection.
+Checksums-Sha1:
+ aa0e909ba63b968a5741fd243ed74068016d2d6a 657 gazelle-installer_22.4mx19.dsc
+ 5175c34c1cdb31f33feccb844f348f9d0d82fa81 298980 gazelle-installer_22.4mx19.tar.xz
+ 73e3a3adca23293fcde628ac03d2431b42578430 10029 gazelle-installer_22.4mx19_i386.buildinfo
+Checksums-Sha256:
+ 2389ae06f288c97c4f95b342aa8e4328bacfa69e039b817177ca469efce4df9a 657 gazelle-installer_22.4mx19.dsc
+ 7d693d24f386826106c2411a2c6c7c7c0b4c113f91fe642b25c660bb09d990a6 298980 gazelle-installer_22.4mx19.tar.xz
+ 036b0d4d2609d89d4d8043bec01631fc01df3633a7b617abe4ef528dab288081 10029 gazelle-installer_22.4mx19_i386.buildinfo
+Files:
+ 2778f58c2b04b8432c23be6e5651641a 657 system optional gazelle-installer_22.4mx19.dsc
+ 38636e6eea7eda0e00e434a3b19d8cf4 298980 system optional gazelle-installer_22.4mx19.tar.xz
+ dce986e457703a469099cd580a7e9416 10029 system optional gazelle-installer_22.4mx19_i386.buildinfo

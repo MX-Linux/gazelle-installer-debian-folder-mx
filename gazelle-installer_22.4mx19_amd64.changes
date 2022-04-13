@@ -1,0 +1,46 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+Format: 1.8
+Date: Tue, 12 Apr 2022 20:38:36 -0400
+Source: gazelle-installer
+Binary: mx-installer
+Architecture: source amd64
+Version: 22.4mx19
+Distribution: mx
+Urgency: medium
+Maintainer: dolphinoracle <dolphinoracle@gmail.com>
+Changed-By: Adrian <adrian@mxlinux.org>
+Description:
+ mx-installer - Customizable GUI installer for MX Linux and antiX Linux
+Changes:
+ gazelle-installer (22.4mx19) mx; urgency=medium
+ .
+   * Fixed condition which could break snapshot user account detection.
+Checksums-Sha1:
+ df97e2e6513a919eb086b6c17927bbb40c90ac86 1219 gazelle-installer_22.4mx19.dsc
+ cdd7c84eb5f9cb56ebeae7d21af27600538df090 298980 gazelle-installer_22.4mx19.tar.xz
+ fb0af5b060fb397a921e9a353ad0e4bd8812e93b 10797 gazelle-installer_22.4mx19_amd64.buildinfo
+ dedc336980ac3743b5dc3fe8c506eeaca2cea1e0 426660 mx-installer_22.4mx19_amd64.deb
+Checksums-Sha256:
+ b77cb2fc1552a92719bb9b8a629f0255f571bb55e93d45be0fc2e6921d6067ec 1219 gazelle-installer_22.4mx19.dsc
+ d6356c775d2f52a431719f2efdf3688a619b01ead680e38b487cd7b0668c513e 298980 gazelle-installer_22.4mx19.tar.xz
+ 2fe4f3bdca9a8d1c9994013568547524bcd561954922a4ec91c7a96f6d0ed8cb 10797 gazelle-installer_22.4mx19_amd64.buildinfo
+ 6f34509a512660e593119aa4e1e4219cf85e23997f4e619b69363eee35486678 426660 mx-installer_22.4mx19_amd64.deb
+Files:
+ 82b0a72485ef333f80f1c2b23be8c246 1219 system optional gazelle-installer_22.4mx19.dsc
+ a78a12b8f6b280e3f9df28ce0123b155 298980 system optional gazelle-installer_22.4mx19.tar.xz
+ 5d48e77629361b95718755277325473a 10797 system optional gazelle-installer_22.4mx19_amd64.buildinfo
+ c85c9672f86ae5c6c91a9a5ceda44476 426660 system optional mx-installer_22.4mx19_amd64.deb
+
+-----BEGIN PGP SIGNATURE-----
+
+iQFHBAEBCgAxFiEE8ndToY6S45N+YzXncJOMeAZ57pgFAmJWHEMTHGFkcmlhbkBt
+eGxpbnV4Lm9yZwAKCRBwk4x4BnnumJpsB/wJfRqqkt27JEqbfIBXnqROxRUg/kKB
+W7FXCW1gK0UDQvtw4E+7gW5ryvGgEcTnSka8BU86ovEvSycInIoNI5vA/iwezGm3
+jBcDUkZjoF0Z89AcI3+n3M4ETLfvjou5togUdJYRYxiA4wXvP6zlOW58TZw3ye3B
+81+vcBwNvxZm+r0uEW9wXxVbyccPjXWVEIGkrNwvDbFiWlxTXgEPoyb/0W/WCBcG
+10iP2t8qe6opGofLxWUSbMiKJ7XfEH6ORcJfOwLHzmSoD8qSGdL4Od/yo6CIZbvA
+iCD5S3afYHpmSW1FukbZ/O70BQVTCtdRNEZU6FdQdujbkWXr73gG7vI8
+=iceo
+-----END PGP SIGNATURE-----

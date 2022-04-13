@@ -1,3 +1,9 @@
+gazelle-installer (22.4mx19) mx; urgency=medium
+
+  * Fixed condition which could break snapshot user account detection.
+
+ -- Adrian <adrian@mxlinux.org>  Tue, 12 Apr 2022 20:38:36 -0400
+
 gazelle-installer (21.10.08mx19) mx; urgency=medium
 
   * Fixed: wrong partition selected for PBR installation.
