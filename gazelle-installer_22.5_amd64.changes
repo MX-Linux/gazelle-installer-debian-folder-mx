@@ -1,0 +1,46 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+Format: 1.8
+Date: Sat, 07 May 2022 02:17:45 -0400
+Source: gazelle-installer
+Binary: mx-installer
+Architecture: source amd64
+Version: 22.5
+Distribution: mx
+Urgency: medium
+Maintainer: dolphinoracle <dolphinoracle@gmail.com>
+Changed-By: Adrian <adrian@mxlinux.org>
+Description:
+ mx-installer - Customizable GUI installer for MX Linux and antiX Linux
+Changes:
+ gazelle-installer (22.5) mx; urgency=medium
+ .
+   * Fix OEM/OOBE mode
+Checksums-Sha1:
+ 8a62bd21c61d962a396e247257a5b4172eec3b88 1203 gazelle-installer_22.5.dsc
+ 1d70118ca4dda18ae841b5b07aac4a65d8277d82 311692 gazelle-installer_22.5.tar.xz
+ d979a26d2d575c1f8199f964dc0a1f844052705e 10211 gazelle-installer_22.5_amd64.buildinfo
+ 43c1b549d722e9a4fb24077db5ae9b4bd5ed3cc0 451632 mx-installer_22.5_amd64.deb
+Checksums-Sha256:
+ fa3883e0d0580ff2b3970e4233d68e486ec8de055f1e501ba0e1f836069cdb97 1203 gazelle-installer_22.5.dsc
+ 0ac6f518a886620295032318ff6baa4fc484dfee7b0cfa51711a0243a3295748 311692 gazelle-installer_22.5.tar.xz
+ d9fc6fbe9b41f1d3ea4eb6756d52f6d3cfa77e1796477e880ea0e98433c5c92c 10211 gazelle-installer_22.5_amd64.buildinfo
+ 826975cea14a9457f070b2959a0eb6581de9230b41aeecb4f21b80b7b53ca92a 451632 mx-installer_22.5_amd64.deb
+Files:
+ 4876ffdad78cfef7811f1baf9166f53f 1203 system optional gazelle-installer_22.5.dsc
+ 91e27a2a022bc78483ff8b96f530fcd5 311692 system optional gazelle-installer_22.5.tar.xz
+ 7f6b7fb19e80fed7e6ac435c85208fdc 10211 system optional gazelle-installer_22.5_amd64.buildinfo
+ ceb851a09af3f22a05976ef0d0f5fee7 451632 system optional mx-installer_22.5_amd64.deb
+
+-----BEGIN PGP SIGNATURE-----
+
+iQFHBAEBCgAxFiEE8ndToY6S45N+YzXncJOMeAZ57pgFAmJ2D28THGFkcmlhbkBt
+eGxpbnV4Lm9yZwAKCRBwk4x4BnnumGyVCACQ3R4UG26F+Cjsh3jldiu9vFlLplm5
+25umEcxdvqpOZoTI8mICIURJM9kEKCmyvm1U1M+MwxLpfYz0DTzEhMrq9uWcQ4eE
+YBL7oNZKpg3qprJpWz54cisMWXQqc+3Y9FgyVWDcYTWE1ksFvVQXmAJHQfhzeL+B
+QuzfJFQVLfS2nEOIwM95S/aGD6bgscOPNeLm8+nTfQhZeLfzNkB0B/Upysm6BVGU
++4JND5wlhNG9sVaJenrV4e+fhJKx82KDbEKSMkhtagcHvshCB+V+5m3q6ycQ87PA
+S35nw8rJ4CqrqlJPaGk6nxut+xz3YJDK7L1ANStY2XJGgrxWVOlehrO3
+=87V5
+-----END PGP SIGNATURE-----
