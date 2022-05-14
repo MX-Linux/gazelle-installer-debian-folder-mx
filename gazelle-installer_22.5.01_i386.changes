@@ -1,0 +1,26 @@
+Format: 1.8
+Date: Sat, 14 May 2022 16:11:45 -0400
+Source: gazelle-installer
+Binary: mx-installer
+Architecture: i386
+Version: 22.5.01
+Distribution: mx
+Urgency: medium
+Maintainer: dolphinoracle <dolphinoracle@gmail.com>
+Changed-By: Adrian <adrian@mxlinux.org>
+Description:
+ mx-installer - Customizable GUI installer for MX Linux and antiX Linux
+Changes:
+ gazelle-installer (22.5.01) mx; urgency=medium
+ .
+   * Another OEM fix (do not set services when running in OEM mode)
+   * Added dosfstools dependency (that's present in all the builds but just to make sure)
+Checksums-Sha1:
+ fd1ff30702dd978a488c646d0c1c329ba1d915b9 9361 gazelle-installer_22.5.01_i386.buildinfo
+ 77af4fbd76bfae34146f52d1f46482b768365c42 469260 mx-installer_22.5.01_i386.deb
+Checksums-Sha256:
+ ce6a79ca2718d4acacd32443e43841eff1cacf3f9c17bb02ca0973509b2ed41a 9361 gazelle-installer_22.5.01_i386.buildinfo
+ 6a7937c31fe3da070915fc3e0a0515f090b307bbad5f712f42813ae6305cd60e 469260 mx-installer_22.5.01_i386.deb
+Files:
+ 0520576d6803f143b0155354a46713b6 9361 system optional gazelle-installer_22.5.01_i386.buildinfo
+ f211c5b2e3c0990d8422aa08e7210db1 469260 system optional mx-installer_22.5.01_i386.deb

@@ -1,0 +1,26 @@
+Format: 1.8
+Date: Sat, 14 May 2022 16:11:45 -0400
+Source: gazelle-installer
+Architecture: source
+Version: 22.5.01
+Distribution: mx
+Urgency: medium
+Maintainer: dolphinoracle <dolphinoracle@gmail.com>
+Changed-By: Adrian <adrian@mxlinux.org>
+Changes:
+ gazelle-installer (22.5.01) mx; urgency=medium
+ .
+   * Another OEM fix (do not set services when running in OEM mode)
+   * Added dosfstools dependency (that's present in all the builds but just to make sure)
+Checksums-Sha1:
+ 0305a382558a2eda9de3052344c9c607fbd204a7 653 gazelle-installer_22.5.01.dsc
+ 1e89c57dfd8cbd24809b8334f6e44deb327a6c39 311880 gazelle-installer_22.5.01.tar.xz
+ fd1ff30702dd978a488c646d0c1c329ba1d915b9 9361 gazelle-installer_22.5.01_i386.buildinfo
+Checksums-Sha256:
+ 2fdcac6b442a9be13c4fce97429df78951878be41a3edbe389f9284e64024485 653 gazelle-installer_22.5.01.dsc
+ 1d53d867530d7b79ca94ba7aac5ca2e680735fbf74fe8e1108daff4b044d3f69 311880 gazelle-installer_22.5.01.tar.xz
+ ce6a79ca2718d4acacd32443e43841eff1cacf3f9c17bb02ca0973509b2ed41a 9361 gazelle-installer_22.5.01_i386.buildinfo
+Files:
+ a195799f4efb805b687eddf2a788d888 653 system optional gazelle-installer_22.5.01.dsc
+ c0134b4a196a56d154f83bed95cc2adb 311880 system optional gazelle-installer_22.5.01.tar.xz
+ 0520576d6803f143b0155354a46713b6 9361 system optional gazelle-installer_22.5.01_i386.buildinfo

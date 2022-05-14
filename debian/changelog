@@ -1,3 +1,10 @@
+gazelle-installer (22.5.01) mx; urgency=medium
+
+  * Another OEM fix (do not set services when running in OEM mode)
+  * Added dosfstools dependency (that's present in all the builds but just to make sure)
+
+ -- Adrian <adrian@mxlinux.org>  Sat, 14 May 2022 16:11:45 -0400
+
 gazelle-installer (22.5) mx; urgency=medium
 
   * Fix OEM/OOBE mode

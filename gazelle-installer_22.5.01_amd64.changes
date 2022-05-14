@@ -1,0 +1,47 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+Format: 1.8
+Date: Sat, 14 May 2022 16:11:45 -0400
+Source: gazelle-installer
+Binary: mx-installer
+Architecture: source amd64
+Version: 22.5.01
+Distribution: mx
+Urgency: medium
+Maintainer: dolphinoracle <dolphinoracle@gmail.com>
+Changed-By: Adrian <adrian@mxlinux.org>
+Description:
+ mx-installer - Customizable GUI installer for MX Linux and antiX Linux
+Changes:
+ gazelle-installer (22.5.01) mx; urgency=medium
+ .
+   * Another OEM fix (do not set services when running in OEM mode)
+   * Added dosfstools dependency (that's present in all the builds but just to make sure)
+Checksums-Sha1:
+ 6f207b027ba66a77b0884d340b5d46a86ddf93cb 1215 gazelle-installer_22.5.01.dsc
+ 16512252de5f836049fcea1017080283219edc61 311768 gazelle-installer_22.5.01.tar.xz
+ 4a7a4a4965588d246c10948b837de214a131aee3 10235 gazelle-installer_22.5.01_amd64.buildinfo
+ 6d66a3468e799e6e8a4f40884bbf2c414429903b 451476 mx-installer_22.5.01_amd64.deb
+Checksums-Sha256:
+ febc304d03e08390d955f046c5a3dc64d491cbd829823db2226144aa152bf84e 1215 gazelle-installer_22.5.01.dsc
+ d80c5f87ed5050f88ca6ee11eb5c38ffbcf22733cde1ee27036848b2be148204 311768 gazelle-installer_22.5.01.tar.xz
+ 47602f45ed49eb812720067e9f503a07e78beb2331c98e6ac860b21c0414ec1e 10235 gazelle-installer_22.5.01_amd64.buildinfo
+ 0d43075b35693b88dd63805f845e6a6e0255f1cd33d28a2d767fe79ab84bf41c 451476 mx-installer_22.5.01_amd64.deb
+Files:
+ f49f485a3a42ac490e957af951d3dae1 1215 system optional gazelle-installer_22.5.01.dsc
+ 5e9774a7351978d63830aeeb08fbcfe2 311768 system optional gazelle-installer_22.5.01.tar.xz
+ 191dd55403162895c7284b8e394e79c6 10235 system optional gazelle-installer_22.5.01_amd64.buildinfo
+ 4bda9ad09861301ca360b7bae2014507 451476 system optional mx-installer_22.5.01_amd64.deb
+
+-----BEGIN PGP SIGNATURE-----
+
+iQFHBAEBCgAxFiEE8ndToY6S45N+YzXncJOMeAZ57pgFAmKADbITHGFkcmlhbkBt
+eGxpbnV4Lm9yZwAKCRBwk4x4BnnumEXkB/42uzkFupGOpl1cxBaPiVdYSZ3U07RI
+wspnf/y5Yb71TFjb6+BzQKMgpTBOXVpSnw2sLeYdkhPMkZzCeCOWXQhg75UWqo7S
+tknXExzwJ4LKknlWugqrqxzHryzdWo25k+8Do+FWTDWRkGEO68of72z/ibsfyg5v
+vHigqdpRJNQ3AUfUDoCGQ1ynJ9HFGcb6U2Wb6XsEFj3OzH6eCUB0IuVPFlieGXyF
+xVwt9YfCQuiohLMG6ZLW8jKWkLcElBSvRhlxXOK+Y6+zqP7nA3Fk0m+CAVSC9xPB
+U1+50KC/gGCzdyFuBXFMurJ/8E6bL9ppuzESw/RXazkJmBZ4p3wCbMAP
+=jl1T
+-----END PGP SIGNATURE-----
