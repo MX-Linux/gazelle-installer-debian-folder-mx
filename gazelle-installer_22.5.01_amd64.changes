@@ -19,31 +19,32 @@ Changes:
    * Another OEM fix (do not set services when running in OEM mode)
    * Disable "splash" when running OOBE
    * Added dosfstools dependency (that's present in all the builds but just to make sure)
-   * Added --reboot/-r CLI option to reboot automatically when done installing
+   * Added -r/--reboot CLI option to reboot automatically when done installing
+   * Added -d/--shutdown CLI option to shutdown automatically when done installing
 Checksums-Sha1:
- 864d719e4efc63271e70df854fa5fa02417ea698 1215 gazelle-installer_22.5.01.dsc
- 35391dba2fdb395467597311ea5fc10cfb247aed 311948 gazelle-installer_22.5.01.tar.xz
- c43712f9c09bc89edcebdcda190c53e080d4c96b 10235 gazelle-installer_22.5.01_amd64.buildinfo
- a84369fc42d92d192cc46a8f92fa29fb64c59283 451948 mx-installer_22.5.01_amd64.deb
+ c81d2421cd50bb1e02d6c5aa0762515d8a91a7f2 1215 gazelle-installer_22.5.01.dsc
+ 6ccf544dfdfa74a8fb7326c693bd02005972cb48 311960 gazelle-installer_22.5.01.tar.xz
+ a3d5d4c7342c8e8b51e059258ef4ad0048bf81d3 10235 gazelle-installer_22.5.01_amd64.buildinfo
+ 007bb8ff8f23276c8d56c5fe92d5e389e7da2b69 452092 mx-installer_22.5.01_amd64.deb
 Checksums-Sha256:
- 1a06b7aedc2a86982892d2684b98a66ddb81ef25f67b2d7fec47721d63fba703 1215 gazelle-installer_22.5.01.dsc
- 86607b232c15bcdadc6ff3bd6ae03b63a5c55ec4d193a12b43c261b56040b13b 311948 gazelle-installer_22.5.01.tar.xz
- 57335865d263d4bb060c8dad55a75e6570af03e322c40a1541323df4ff85d765 10235 gazelle-installer_22.5.01_amd64.buildinfo
- 42961a75b4e78fba8f117efb8c11d8c7738283f596b3f675e547899e291d5da8 451948 mx-installer_22.5.01_amd64.deb
+ c48e6f899b8ce629298d089062ee01d30f79b38be9fd31a9ef46c6c26724a7ee 1215 gazelle-installer_22.5.01.dsc
+ dfe511cfb58d298b7f45b79124d92ee8d5aa3ae20a9a7eba387036a437dc6ef4 311960 gazelle-installer_22.5.01.tar.xz
+ 98d7465d21618b0f01af72afd224221ddf8a65fc78fbe4afc023b1ef61ccff0a 10235 gazelle-installer_22.5.01_amd64.buildinfo
+ 15e564e089bd01ae2a4c629ca3c321e2ab2bf54a6b6c68706b65cb9af855acb4 452092 mx-installer_22.5.01_amd64.deb
 Files:
- bbdb08df9f01b6297c757d7139e14352 1215 system optional gazelle-installer_22.5.01.dsc
- d0f28d98a3132855b14d71885b2901fa 311948 system optional gazelle-installer_22.5.01.tar.xz
- 397664454a85496e309d657d6f4514cc 10235 system optional gazelle-installer_22.5.01_amd64.buildinfo
- 5dbe110e39e36ed978aebbefc999915c 451948 system optional mx-installer_22.5.01_amd64.deb
+ 2edeafc4db8e7c8b00aebaf6a93c42f8 1215 system optional gazelle-installer_22.5.01.dsc
+ ab4e1f9b4c41f049dba2eb2b6c7efc64 311960 system optional gazelle-installer_22.5.01.tar.xz
+ 9b094cef62a361c94df5c8ba094b45ac 10235 system optional gazelle-installer_22.5.01_amd64.buildinfo
+ 3f86cf2adf70ef92fe288fbbe5235851 452092 system optional mx-installer_22.5.01_amd64.deb
 
 -----BEGIN PGP SIGNATURE-----
 
-iQFHBAEBCgAxFiEE8ndToY6S45N+YzXncJOMeAZ57pgFAmKAKUsTHGFkcmlhbkBt
-eGxpbnV4Lm9yZwAKCRBwk4x4BnnumDNDCADII9wYXMwj5CC86wZrptnt/MYYeec7
-KR5MzjC2N6fHsYVMucrWiwY7ihcyUKjGJTBFR2SB5tiO6s5dLvNzDRDH55i6ZELk
-eBgwCDwgxkT659Onxvvncif59K75blJPTE8S0Yd26kjNtDq03nlfbRd2cC1V5Mqw
-CjulygmLLEH2vQV1IGCBgzIJFgfUX1HFtEDkGg5k0PHfTOeXGYgXLYcGWHQM3y2X
-BwfuoJsLVU5kfqA7oDTc6nlv5K1QN8S4Mhl2/kT5t3IN7E7dWIJ7Dd9jo72ryLkU
-y7jLXru5IeHbXpEd6b9x5t1v1wbW/J5LayBCFqxp+fPyYpkS93/yW4fw
-=AHoI
+iQFHBAEBCgAxFiEE8ndToY6S45N+YzXncJOMeAZ57pgFAmKALSoTHGFkcmlhbkBt
+eGxpbnV4Lm9yZwAKCRBwk4x4BnnumPGjB/920LF9+gsecuTRvizPPecDtlRKViUr
+tkofoARepM3FxJGB9WtKhEppjGVqrL/d/w0A8pj7yLRQUvHyBrWgfCdegcO0Qrw9
+Pfhfzw5lO17CmP9IJIqMB9pz/OrYJ1il+NJBz9LI6a/OoA/45h/7Gli4V50YXG+z
+EGZbx+Ww76f82axu6/039BRtT+cA7WfyAOMOREz3qjtHx4K5zF+ChOhAbE4mjkeI
+uaAsdGW1CSBuh39KWX1Yd5lG/D6boc+lBwnk3GqX5XSUKxk/s4KxYG7IKvQ8eT32
+QZ8rWbdtTtBxnt6jK5JjAJRK4WOzyp4fxJchogkqqe3ZCrZusvSbhAGk
+=4R0I
 -----END PGP SIGNATURE-----
