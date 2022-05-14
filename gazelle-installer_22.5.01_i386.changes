@@ -14,13 +14,14 @@ Changes:
  gazelle-installer (22.5.01) mx; urgency=medium
  .
    * Another OEM fix (do not set services when running in OEM mode)
+   * Disable "splash" when running OOBE
    * Added dosfstools dependency (that's present in all the builds but just to make sure)
 Checksums-Sha1:
- fd1ff30702dd978a488c646d0c1c329ba1d915b9 9361 gazelle-installer_22.5.01_i386.buildinfo
- 77af4fbd76bfae34146f52d1f46482b768365c42 469260 mx-installer_22.5.01_i386.deb
+ 0b9d2652b9cd73354ea7b027e0d0a46a0bf53b6c 9361 gazelle-installer_22.5.01_i386.buildinfo
+ 08fe340d667ede52bf04c97469331ccdff62ec7e 469096 mx-installer_22.5.01_i386.deb
 Checksums-Sha256:
- ce6a79ca2718d4acacd32443e43841eff1cacf3f9c17bb02ca0973509b2ed41a 9361 gazelle-installer_22.5.01_i386.buildinfo
- 6a7937c31fe3da070915fc3e0a0515f090b307bbad5f712f42813ae6305cd60e 469260 mx-installer_22.5.01_i386.deb
+ 82691727f94a8bde5e0120a9435ba96f6f7bd198f35066c7d77d7dc08a74905d 9361 gazelle-installer_22.5.01_i386.buildinfo
+ ff10bf290499327debfe9321b18e2fcbc0f7591d39e75fb1bacef15bb419c943 469096 mx-installer_22.5.01_i386.deb
 Files:
- 0520576d6803f143b0155354a46713b6 9361 system optional gazelle-installer_22.5.01_i386.buildinfo
- f211c5b2e3c0990d8422aa08e7210db1 469260 system optional mx-installer_22.5.01_i386.deb
+ 98f1b8377a69021e76bc0a17df472c21 9361 system optional gazelle-installer_22.5.01_i386.buildinfo
+ 0381215c4d36cdadea314a4f15dbcc1b 469096 system optional mx-installer_22.5.01_i386.deb
