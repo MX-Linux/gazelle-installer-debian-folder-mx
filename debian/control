@@ -12,6 +12,7 @@ Homepage: https://github.com/gazelle-installer
 Package: mx-installer
 Architecture: any
 Depends: antix-libs,
+         dosfstools,
          system-keyboard-qt | fskbsetting,
          gazelle-installer-data-mx (>=21.07.01),
          gdisk,
