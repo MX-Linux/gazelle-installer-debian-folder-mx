@@ -22,29 +22,29 @@ Changes:
    * Added -r/--reboot CLI option to reboot automatically when done installing
    * Added -f/--poweroff CLI option to shutdown automatically when done installing
 Checksums-Sha1:
- 85b8fff904c1561826acde7f3eea65c362e7afbe 1215 gazelle-installer_22.5.01.dsc
- 1909de8a773a5db4d1238367f4b2165430c644fd 312024 gazelle-installer_22.5.01.tar.xz
- 280c43eaf2e20f2b97d29498b5e1091a96791a77 10235 gazelle-installer_22.5.01_amd64.buildinfo
- 4b23507e5f00b9b571ec8ac9184a889402a53412 452312 mx-installer_22.5.01_amd64.deb
+ d28b509d98c64239065465b7f879eaadfc8bfc35 1215 gazelle-installer_22.5.01.dsc
+ 3a437226ef11b862dbb79f9350f751edd5e45013 312020 gazelle-installer_22.5.01.tar.xz
+ 7215fbd8d7bebbdf0e105a6db05b4160d9259a19 10235 gazelle-installer_22.5.01_amd64.buildinfo
+ d15882c0f8759932f3ec3a39740096af0f393cf6 452508 mx-installer_22.5.01_amd64.deb
 Checksums-Sha256:
- 229479e5a8bd74cfe2e643f80eb64ef0d83bce5d00c0de4389c047ee62378c19 1215 gazelle-installer_22.5.01.dsc
- 261a6ab4d6164eaae420ff9fc20abc6e358a59a34deac34d4e8acc536487d9cc 312024 gazelle-installer_22.5.01.tar.xz
- 322bb86069b7aa1bd99a2e4695b912d9ba53a252f80be334d35a0819555d6a59 10235 gazelle-installer_22.5.01_amd64.buildinfo
- 30a1667a3640bad94409ddc835cbd422732eb82c67fe52f848bc677d776b5b94 452312 mx-installer_22.5.01_amd64.deb
+ b408cfb2d2d50975bff39237a687af82d0ee0df1c6e6e885505b67f27b172222 1215 gazelle-installer_22.5.01.dsc
+ e65b938c51499a46acf332c263353632ebf21484edd404c2d29fd5462c6c4960 312020 gazelle-installer_22.5.01.tar.xz
+ ea6e5a9d999ecaec6b375d60877baa5dc2c464807b1d7d6864d122a2e3a8cebf 10235 gazelle-installer_22.5.01_amd64.buildinfo
+ 16e5c0f4b78dc497f6481879fdf14f1e72cfb3bbe0b9158764e01be20d66740e 452508 mx-installer_22.5.01_amd64.deb
 Files:
- 2c4d67cc22b370cc4c286f47ae2b26ab 1215 system optional gazelle-installer_22.5.01.dsc
- 9def122a125c568f304a8bcaa75bf853 312024 system optional gazelle-installer_22.5.01.tar.xz
- 815af2b036d8e196c0cf0d9072e72fe8 10235 system optional gazelle-installer_22.5.01_amd64.buildinfo
- 05de097ea0a2936598c7bc354eaea9c4 452312 system optional mx-installer_22.5.01_amd64.deb
+ 500e85ffb80554f22ad81c389b45b4b8 1215 system optional gazelle-installer_22.5.01.dsc
+ 3c296742dec7e64a1f3e3464897e09f1 312020 system optional gazelle-installer_22.5.01.tar.xz
+ 4eb5572a7c14af98e10d589b31928d9f 10235 system optional gazelle-installer_22.5.01_amd64.buildinfo
+ 2e05772a89d77d7a8032d48e2387ac9d 452508 system optional mx-installer_22.5.01_amd64.deb
 
 -----BEGIN PGP SIGNATURE-----
 
-iQFHBAEBCgAxFiEE8ndToY6S45N+YzXncJOMeAZ57pgFAmKAMYsTHGFkcmlhbkBt
-eGxpbnV4Lm9yZwAKCRBwk4x4BnnumLubCAC5LQcNVy/YHNJMRxdlF7M3SlKt509i
-St86rd0PLBjMzT1n46NwaiK2SqeyOwasJOtWyrhTKB91hkVIVjbqDIKqgTL+cRxQ
-x8rWSbd9DdIG7wT2vOomySX7OGKsyMIiVV4tPFQSbdNTex65hfFMz9PNbU7X5mhy
-OVg5RZmit7i00iSg+wIapa8a3OHzsagkJAMM3iFSpNXb0Ufw4AmvnkaZ8rgo2ruU
-O6YPv0OjlE7iNOI3s9i7L6avkMvI65DE5gBZyN/Vnd3d9AuNEBOvXuGl6mw13wM7
-g3/T8n33i4mFI26p03kpLWZlBLJk/8dEGG85Fwo8GKAOM01o58AuOV7f
-=5UyB
+iQFHBAEBCgAxFiEE8ndToY6S45N+YzXncJOMeAZ57pgFAmKAPx0THGFkcmlhbkBt
+eGxpbnV4Lm9yZwAKCRBwk4x4BnnumBvDCAC59sTUYksnrGj5q89i0wDcvhE6M5x3
+ydnl/rGNVO6iE9YTUBc6fU40EH0Idyszk2qoKh/YGHQmC6dkUFAw4HLO4eIMDwYr
+asiLIdIfKp5JOqjL+AsfVL9AYlfjnT+Ety6UKtDxZXgqqy8CP4Nm6o8XA81pWOfb
+5tn3B4BB+EoEbGXWGkVOksSYEVr1WCKfbsFemciPLcs6aD+viAHjHaWw5FI9g7Sn
+GBDMnILwqO2BgjK49BkgbcuXJKzE6uYp1OzMHzFu9NbEk4w7shmcC7WJ6j12XHGy
+WkUYta/u+a7KPwkavqFPYl5V94mPri9RGrf4YloT6GGwOXcioflYz64a
+=6T8x
 -----END PGP SIGNATURE-----
