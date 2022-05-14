@@ -14,16 +14,16 @@ Changes:
    * Disable "splash" when running OOBE
    * Added dosfstools dependency (that's present in all the builds but just to make sure)
    * Added -r/--reboot CLI option to reboot automatically when done installing
-   * Added -d/--shutdown CLI option to shutdown automatically when done installing
+   * Added -f/--poweroff CLI option to shutdown automatically when done installing
 Checksums-Sha1:
- 2f17589e7d192337533f067ca5af78ff7bc3c27b 653 gazelle-installer_22.5.01.dsc
- b0217ebca8356d11cf62d4292bf0c14a573c980a 311948 gazelle-installer_22.5.01.tar.xz
- 260348aef3525be77ef55aaffde443fb67769ddd 9361 gazelle-installer_22.5.01_i386.buildinfo
+ 954219843c06b0b681c5e681f356b05d4bf6e08f 653 gazelle-installer_22.5.01.dsc
+ e712c460cce18101f07ebd24ede709f0da488440 312020 gazelle-installer_22.5.01.tar.xz
+ 46793726488d6e2f24754d601a47cc6341b60ada 9361 gazelle-installer_22.5.01_i386.buildinfo
 Checksums-Sha256:
- 77df1c7b1f8f32f8d479dbf0d25f1d178c995c407de86139655a2e84fc35bda7 653 gazelle-installer_22.5.01.dsc
- e65ebb75a3355bea38dde03e2b3f3aeef8dc0bd1f9e03b8a970489671d1cb722 311948 gazelle-installer_22.5.01.tar.xz
- 2f9c78e8fac0c3d150a322e9aeed4be49bda02b6030866196900fac36ed0d479 9361 gazelle-installer_22.5.01_i386.buildinfo
+ 59733acf7d494fe16d04b230543100b1173a4d013ab9f662924d5d2fac0f0028 653 gazelle-installer_22.5.01.dsc
+ 93bde65bd25977b08ef5f82de185be275b837d98d196c41d676186b179d65165 312020 gazelle-installer_22.5.01.tar.xz
+ ed1986de9d004aaa3a1cc3ea45986df3851bc6cdea16a6e3302549f0916db5f6 9361 gazelle-installer_22.5.01_i386.buildinfo
 Files:
- af3bf160e25f2784caf5a9d9f46e9f9d 653 system optional gazelle-installer_22.5.01.dsc
- cba17aed3426ce55e57616d2624369ee 311948 system optional gazelle-installer_22.5.01.tar.xz
- cfd4949a2e4f1cd58feb656861412562 9361 system optional gazelle-installer_22.5.01_i386.buildinfo
+ 45b0a0c22a5fddcf08958e1fd1b5ad1e 653 system optional gazelle-installer_22.5.01.dsc
+ a850b1ce7a5520a3cafef55c29165cf3 312020 system optional gazelle-installer_22.5.01.tar.xz
+ d3f56662efd660e1ce526b1d0bd85208 9361 system optional gazelle-installer_22.5.01_i386.buildinfo
