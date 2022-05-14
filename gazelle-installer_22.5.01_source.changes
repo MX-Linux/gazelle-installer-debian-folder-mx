@@ -13,16 +13,17 @@ Changes:
    * Another OEM fix (do not set services when running in OEM mode)
    * Disable "splash" when running OOBE
    * Added dosfstools dependency (that's present in all the builds but just to make sure)
-   * Added --reboot/-r CLI option to reboot automatically when done installing
+   * Added -r/--reboot CLI option to reboot automatically when done installing
+   * Added -d/--shutdown CLI option to shutdown automatically when done installing
 Checksums-Sha1:
- fb2c40b9d22ad6a256d31b8f3b730929611b6514 653 gazelle-installer_22.5.01.dsc
- 38987ac3a65b0db8a65386469ae06724d4f75561 311888 gazelle-installer_22.5.01.tar.xz
- 7fe301895a748d827c2dcc75f64ebfa5b01fee17 9361 gazelle-installer_22.5.01_i386.buildinfo
+ 2f17589e7d192337533f067ca5af78ff7bc3c27b 653 gazelle-installer_22.5.01.dsc
+ b0217ebca8356d11cf62d4292bf0c14a573c980a 311948 gazelle-installer_22.5.01.tar.xz
+ 260348aef3525be77ef55aaffde443fb67769ddd 9361 gazelle-installer_22.5.01_i386.buildinfo
 Checksums-Sha256:
- aa05fd76ca6887ec3aa3269d3f10893317c607c095958113b0b2ec27f9f27292 653 gazelle-installer_22.5.01.dsc
- 6bf2880ffc586675f39835a94e1b921435c0190519f4e6199750119c6d6ca9b7 311888 gazelle-installer_22.5.01.tar.xz
- 28607bde97f7c39a0440b68d884922eed71705f536ab7538536f56b96e5a316b 9361 gazelle-installer_22.5.01_i386.buildinfo
+ 77df1c7b1f8f32f8d479dbf0d25f1d178c995c407de86139655a2e84fc35bda7 653 gazelle-installer_22.5.01.dsc
+ e65ebb75a3355bea38dde03e2b3f3aeef8dc0bd1f9e03b8a970489671d1cb722 311948 gazelle-installer_22.5.01.tar.xz
+ 2f9c78e8fac0c3d150a322e9aeed4be49bda02b6030866196900fac36ed0d479 9361 gazelle-installer_22.5.01_i386.buildinfo
 Files:
- df440d6a53409c568f88389bfb6df3a0 653 system optional gazelle-installer_22.5.01.dsc
- 0bcbe4ce3356f6f5297c90a0ee494d36 311888 system optional gazelle-installer_22.5.01.tar.xz
- a236a8de877ba4b7c57397da66f2dc99 9361 system optional gazelle-installer_22.5.01_i386.buildinfo
+ af3bf160e25f2784caf5a9d9f46e9f9d 653 system optional gazelle-installer_22.5.01.dsc
+ cba17aed3426ce55e57616d2624369ee 311948 system optional gazelle-installer_22.5.01.tar.xz
+ cfd4949a2e4f1cd58feb656861412562 9361 system optional gazelle-installer_22.5.01_i386.buildinfo

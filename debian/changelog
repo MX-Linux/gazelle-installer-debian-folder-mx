@@ -3,7 +3,8 @@ gazelle-installer (22.5.01) mx; urgency=medium
   * Another OEM fix (do not set services when running in OEM mode)
   * Disable "splash" when running OOBE
   * Added dosfstools dependency (that's present in all the builds but just to make sure)
-  * Added --reboot/-r CLI option to reboot automatically when done installing
+  * Added -r/--reboot CLI option to reboot automatically when done installing
+  * Added -d/--shutdown CLI option to shutdown automatically when done installing
 
  -- Adrian <adrian@mxlinux.org>  Sat, 14 May 2022 16:11:45 -0400
 
