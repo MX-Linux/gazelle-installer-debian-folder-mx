@@ -13,15 +13,16 @@ Changes:
    * Another OEM fix (do not set services when running in OEM mode)
    * Disable "splash" when running OOBE
    * Added dosfstools dependency (that's present in all the builds but just to make sure)
+   * Added --reboot/-r CLI option to reboot automatically when done installing
 Checksums-Sha1:
- b392dd9f3966e9a0da3a73afee43d080505d8649 653 gazelle-installer_22.5.01.dsc
- 6cbaac10e26588e78621a200de7d12fd0eeb20a0 311832 gazelle-installer_22.5.01.tar.xz
- 89eee5b8e61a5773042125f522b6db732cac95f6 9361 gazelle-installer_22.5.01_i386.buildinfo
+ fb2c40b9d22ad6a256d31b8f3b730929611b6514 653 gazelle-installer_22.5.01.dsc
+ 38987ac3a65b0db8a65386469ae06724d4f75561 311888 gazelle-installer_22.5.01.tar.xz
+ 7fe301895a748d827c2dcc75f64ebfa5b01fee17 9361 gazelle-installer_22.5.01_i386.buildinfo
 Checksums-Sha256:
- 930847000eed07aec8bbfd67fe6d4253f1e72d98200d6b4e001e4593bc196e5e 653 gazelle-installer_22.5.01.dsc
- f69a3e4d5e0946ecb3e2c467aff8bd605d7e68fdb0785c3a9be9eddbef770f6e 311832 gazelle-installer_22.5.01.tar.xz
- ced6ecb47b693f48797c3b2a94f7159011d6b8f9ed38044af9a3e1c6f81bb38a 9361 gazelle-installer_22.5.01_i386.buildinfo
+ aa05fd76ca6887ec3aa3269d3f10893317c607c095958113b0b2ec27f9f27292 653 gazelle-installer_22.5.01.dsc
+ 6bf2880ffc586675f39835a94e1b921435c0190519f4e6199750119c6d6ca9b7 311888 gazelle-installer_22.5.01.tar.xz
+ 28607bde97f7c39a0440b68d884922eed71705f536ab7538536f56b96e5a316b 9361 gazelle-installer_22.5.01_i386.buildinfo
 Files:
- 264211b0a5fcd30d5f2cbd8d7196595d 653 system optional gazelle-installer_22.5.01.dsc
- 7eaee3e2adb1721525c557a7752137e1 311832 system optional gazelle-installer_22.5.01.tar.xz
- e9f788c7dda7bbf6094558e13579e5a6 9361 system optional gazelle-installer_22.5.01_i386.buildinfo
+ df440d6a53409c568f88389bfb6df3a0 653 system optional gazelle-installer_22.5.01.dsc
+ 0bcbe4ce3356f6f5297c90a0ee494d36 311888 system optional gazelle-installer_22.5.01.tar.xz
+ a236a8de877ba4b7c57397da66f2dc99 9361 system optional gazelle-installer_22.5.01_i386.buildinfo
