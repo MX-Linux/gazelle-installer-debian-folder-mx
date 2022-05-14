@@ -19,11 +19,11 @@ Changes:
    * Added -r/--reboot CLI option to reboot automatically when done installing
    * Added -f/--poweroff CLI option to shutdown automatically when done installing
 Checksums-Sha1:
- 46793726488d6e2f24754d601a47cc6341b60ada 9361 gazelle-installer_22.5.01_i386.buildinfo
- 8bf316555682d5ed332a513b2e0f94f3de7a830b 469684 mx-installer_22.5.01_i386.deb
+ a0339d80f8a407cd119d227dcb30ad8b759cb3bd 9361 gazelle-installer_22.5.01_i386.buildinfo
+ add431f3ddcaacb00ce80ede050538d1717dd3e1 469272 mx-installer_22.5.01_i386.deb
 Checksums-Sha256:
- ed1986de9d004aaa3a1cc3ea45986df3851bc6cdea16a6e3302549f0916db5f6 9361 gazelle-installer_22.5.01_i386.buildinfo
- 3d07b51a5edd2a3bae3ff1d931b9f96025be6cadb47f2d346f5b91abc86977b6 469684 mx-installer_22.5.01_i386.deb
+ 5fda5493818321ceef3d02aa4ac2c710f31e54c6cea40d1dd330f6a4fdc0350f 9361 gazelle-installer_22.5.01_i386.buildinfo
+ f63785c1a5a30e985e36607d28653390cc26c243bfa4789b923bc26e840e8644 469272 mx-installer_22.5.01_i386.deb
 Files:
- d3f56662efd660e1ce526b1d0bd85208 9361 system optional gazelle-installer_22.5.01_i386.buildinfo
- 6d325a70740aa4b04b3f8baa99f6d418 469684 system optional mx-installer_22.5.01_i386.deb
+ 406c41e0b1950c7bd1ef5ab4322e233c 9361 system optional gazelle-installer_22.5.01_i386.buildinfo
+ 895a0fe2757e95f91a89abd554fb3dc0 469272 system optional mx-installer_22.5.01_i386.deb
