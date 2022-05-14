@@ -14,14 +14,14 @@ Changes:
    * Disable "splash" when running OOBE
    * Added dosfstools dependency (that's present in all the builds but just to make sure)
 Checksums-Sha1:
- 6de0f96075a1cb9dc54d69262a1ef1c7b50e9d93 653 gazelle-installer_22.5.01.dsc
- 74e33c02b1bd9a5bc1b822ab99def0ce3f0a783f 311852 gazelle-installer_22.5.01.tar.xz
- 0b9d2652b9cd73354ea7b027e0d0a46a0bf53b6c 9361 gazelle-installer_22.5.01_i386.buildinfo
+ b392dd9f3966e9a0da3a73afee43d080505d8649 653 gazelle-installer_22.5.01.dsc
+ 6cbaac10e26588e78621a200de7d12fd0eeb20a0 311832 gazelle-installer_22.5.01.tar.xz
+ 89eee5b8e61a5773042125f522b6db732cac95f6 9361 gazelle-installer_22.5.01_i386.buildinfo
 Checksums-Sha256:
- d9bdb4796fe6b8854394fec5e725dfbfd88d4254d51678ad4d3eab2b9e37d90c 653 gazelle-installer_22.5.01.dsc
- d36967bf673debdb84c930cac6d282ae041db379843369b2db789d6e3880b357 311852 gazelle-installer_22.5.01.tar.xz
- 82691727f94a8bde5e0120a9435ba96f6f7bd198f35066c7d77d7dc08a74905d 9361 gazelle-installer_22.5.01_i386.buildinfo
+ 930847000eed07aec8bbfd67fe6d4253f1e72d98200d6b4e001e4593bc196e5e 653 gazelle-installer_22.5.01.dsc
+ f69a3e4d5e0946ecb3e2c467aff8bd605d7e68fdb0785c3a9be9eddbef770f6e 311832 gazelle-installer_22.5.01.tar.xz
+ ced6ecb47b693f48797c3b2a94f7159011d6b8f9ed38044af9a3e1c6f81bb38a 9361 gazelle-installer_22.5.01_i386.buildinfo
 Files:
- fd777d64b0088617bc01d596623e7c31 653 system optional gazelle-installer_22.5.01.dsc
- d5061177ae78aca7920091ffde518430 311852 system optional gazelle-installer_22.5.01.tar.xz
- 98f1b8377a69021e76bc0a17df472c21 9361 system optional gazelle-installer_22.5.01_i386.buildinfo
+ 264211b0a5fcd30d5f2cbd8d7196595d 653 system optional gazelle-installer_22.5.01.dsc
+ 7eaee3e2adb1721525c557a7752137e1 311832 system optional gazelle-installer_22.5.01.tar.xz
+ e9f788c7dda7bbf6094558e13579e5a6 9361 system optional gazelle-installer_22.5.01_i386.buildinfo
