@@ -1,3 +1,9 @@
+gazelle-installer (22.5.02) mx; urgency=medium
+
+  * New build
+
+ -- Adrian <adrian@mxlinux.org>  Sat, 14 May 2022 20:13:17 -0400
+
 gazelle-installer (22.5.01) mx; urgency=medium
 
   * Another OEM fix (do not set services when running in OEM mode)
