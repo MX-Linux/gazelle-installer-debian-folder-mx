@@ -1,0 +1,25 @@
+Format: 1.8
+Date: Sat, 23 Jul 2022 11:12:04 -0400
+Source: gazelle-installer
+Architecture: source
+Version: 22.7.01
+Distribution: mx
+Urgency: medium
+Maintainer: dolphinoracle <dolphinoracle@gmail.com>
+Changed-By: Dolphin Oracle <dolphinoracle@gmail.com>
+Changes:
+ gazelle-installer (22.7.01) mx; urgency=medium
+ .
+   * translation referesh
+Checksums-Sha1:
+ 4e8b71b6bdb512f541d092340d3adb328982723f 653 gazelle-installer_22.7.01.dsc
+ a1b49cd4496bf5f13dc28a894e4dba3a6dd09e36 346736 gazelle-installer_22.7.01.tar.xz
+ cee327a1e56dadc818974306530709a41adf5a34 9396 gazelle-installer_22.7.01_amd64.buildinfo
+Checksums-Sha256:
+ 983fd433ead9b847c61cc4e5db5cb917eae9bd6fa242f347126acda486491b5c 653 gazelle-installer_22.7.01.dsc
+ 57e89c4fc3fc8e7732dcce30dd7e8bce08b6136c23bb71e7eb14d010efac28ea 346736 gazelle-installer_22.7.01.tar.xz
+ b025a6e551028c498b27889244bf71765cf931d4c5914dc66c8a8eb3a047c92e 9396 gazelle-installer_22.7.01_amd64.buildinfo
+Files:
+ 2b7ce9d8ad59d02597d3c78b1fcbd7a5 653 system optional gazelle-installer_22.7.01.dsc
+ 95c94641ffb6cc2a9b4b70f38f21990b 346736 system optional gazelle-installer_22.7.01.tar.xz
+ fa54a0e953ca58be44b36042290d53ca 9396 system optional gazelle-installer_22.7.01_amd64.buildinfo
