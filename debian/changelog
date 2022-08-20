@@ -1,3 +1,9 @@
+gazelle-installer (22.8) mx; urgency=medium
+
+  * Set /boot default size for encrypted systems = 1024 
+
+ -- Adrian <adrian@mxlinux.org>  Sat, 20 Aug 2022 16:54:16 -0400
+
 gazelle-installer (22.7.01) mx; urgency=medium
 
   * translation referesh 
