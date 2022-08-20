@@ -1,0 +1,25 @@
+Format: 1.8
+Date: Sat, 20 Aug 2022 16:54:16 -0400
+Source: gazelle-installer
+Binary: mx-installer
+Architecture: i386
+Version: 22.8
+Distribution: mx
+Urgency: medium
+Maintainer: dolphinoracle <dolphinoracle@gmail.com>
+Changed-By: Adrian <adrian@mxlinux.org>
+Description:
+ mx-installer - Customizable GUI installer for MX Linux and antiX Linux
+Changes:
+ gazelle-installer (22.8) mx; urgency=medium
+ .
+   * Set /boot default size for encrypted systems = 1024
+Checksums-Sha1:
+ 72f6ccaa39da5873d7060ce6a156e78fb5849caa 9406 gazelle-installer_22.8_i386.buildinfo
+ e1aa85e00c7ee23f9133b577e11c8ade16005575 487748 mx-installer_22.8_i386.deb
+Checksums-Sha256:
+ ab3a33964cdd357de2f4b5d10e44319541538dda46eb324aad252b03954b17cd 9406 gazelle-installer_22.8_i386.buildinfo
+ 79ebf7e488ac2c824f69ad6f854b6a4ac6c847cb604991040a4be3714c5f34cb 487748 mx-installer_22.8_i386.deb
+Files:
+ 4746ca448d5a49cc5d94a83d70dc4e0a 9406 system optional gazelle-installer_22.8_i386.buildinfo
+ 495289d6176918db6c5d06cbbe5cbfa9 487748 system optional mx-installer_22.8_i386.deb

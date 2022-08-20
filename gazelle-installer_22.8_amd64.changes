@@ -1,0 +1,46 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+Format: 1.8
+Date: Sat, 20 Aug 2022 16:54:16 -0400
+Source: gazelle-installer
+Binary: mx-installer
+Architecture: source amd64
+Version: 22.8
+Distribution: mx
+Urgency: medium
+Maintainer: dolphinoracle <dolphinoracle@gmail.com>
+Changed-By: Adrian <adrian@mxlinux.org>
+Description:
+ mx-installer - Customizable GUI installer for MX Linux and antiX Linux
+Changes:
+ gazelle-installer (22.8) mx; urgency=medium
+ .
+   * Set /boot default size for encrypted systems = 1024
+Checksums-Sha1:
+ 71b0f0d1886072a560602dcd450320c7848e4dc9 1203 gazelle-installer_22.8.dsc
+ d0fd5467a0b34a7e321d1a39f0bdfa19546f4ca1 344616 gazelle-installer_22.8.tar.xz
+ a720b297c848fcf243bc3923ac8ff07a26b16588 10271 gazelle-installer_22.8_amd64.buildinfo
+ 6e94078ee0b4caba9a2fdeaef05fa3865592f62a 470160 mx-installer_22.8_amd64.deb
+Checksums-Sha256:
+ 2b547197c17b14c628319a0365c8e5408b7f488297f9069cf657ac3b0e882c94 1203 gazelle-installer_22.8.dsc
+ 070e2f089eec28eb8465afc5464c62ce25906274db0838bfbac1bfe288d6e739 344616 gazelle-installer_22.8.tar.xz
+ 85e87517c549431774a2e09a65512b4c94b86113876feee6ab34837a8ecc8314 10271 gazelle-installer_22.8_amd64.buildinfo
+ 7c4f96ed8c9be0aff3c683ba842d9aa31c25cff0c9a4282dc5d0c4913483da29 470160 mx-installer_22.8_amd64.deb
+Files:
+ caa44a6a03b54d4bc2aecf5ed523ff7f 1203 system optional gazelle-installer_22.8.dsc
+ bbe7c0df510bcbe6a8d465918caa8bad 344616 system optional gazelle-installer_22.8.tar.xz
+ 382915e3a1c0d6c76336d4e7fa64dd53 10271 system optional gazelle-installer_22.8_amd64.buildinfo
+ 2392770370e72080124fd099b3db5bef 470160 system optional mx-installer_22.8_amd64.deb
+
+-----BEGIN PGP SIGNATURE-----
+
+iQFHBAEBCgAxFiEE8ndToY6S45N+YzXncJOMeAZ57pgFAmMBSlwTHGFkcmlhbkBt
+eGxpbnV4Lm9yZwAKCRBwk4x4BnnumILpCADO0LDEhi6nQx4c7OlMVa+/JxBk2FJM
+aGsOcuPk6tdS4hakiWo6fxCGUD8y3j8QT6AR/ZCblrhRFEv+vnReUZkLYbw+BVqA
+Cz/XidOK3fMXcZDC9oq41MVlgekPJQk9913jqM0TQaO5Kpw7TxxJ/04qNSi9QI9X
+VSB4I+rhSJlTwhZ33ddGPjAwQTgueb75TxVwWjWd5YSrjJNjU5zpdJHp4YSNzMGV
+v1eSzeSMwi+Ckht5RiIoqNM5WBG59I1VjICStUdawzaw+U+slYz7mCUB0jvIGZ3E
+6yAR+qIpymYsgakgqIw9NU92byxCV6I4ZiWfnFQ7VqVCgCj053NQA4XW
+=RwFW
+-----END PGP SIGNATURE-----
