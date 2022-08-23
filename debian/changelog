@@ -1,3 +1,9 @@
+gazelle-installer (22.8.01) mx; urgency=medium
+
+  * Fix: Selecting system timezone by default when doing entire disk installation
+
+ -- Adrian <adrian@mxlinux.org>  Mon, 22 Aug 2022 22:41:08 -0400
+
 gazelle-installer (22.8) mx; urgency=medium
 
   * Set /boot default size for encrypted systems = 1024 
