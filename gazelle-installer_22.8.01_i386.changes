@@ -1,0 +1,25 @@
+Format: 1.8
+Date: Mon, 22 Aug 2022 22:41:08 -0400
+Source: gazelle-installer
+Binary: mx-installer
+Architecture: i386
+Version: 22.8.01
+Distribution: mx
+Urgency: medium
+Maintainer: dolphinoracle <dolphinoracle@gmail.com>
+Changed-By: Adrian <adrian@mxlinux.org>
+Description:
+ mx-installer - Customizable GUI installer for MX Linux and antiX Linux
+Changes:
+ gazelle-installer (22.8.01) mx; urgency=medium
+ .
+   * Fix: Selecting system timezone by default when doing entire disk installation
+Checksums-Sha1:
+ e04049695d49532c86573811032d3fc66c0aeafa 9421 gazelle-installer_22.8.01_i386.buildinfo
+ 2c489ded05781ca876b2b042e538d2b42301a827 487436 mx-installer_22.8.01_i386.deb
+Checksums-Sha256:
+ ec7f0b4a6e8b0d79186dacff82aa5a07627b69f04e8146a418ef44486ac29ee1 9421 gazelle-installer_22.8.01_i386.buildinfo
+ cce02ece5c510a9baf3801fc0078f0947e0508fffd078b412fb658d11bdd5091 487436 mx-installer_22.8.01_i386.deb
+Files:
+ fb50e458fc446faabc630b534e32a03a 9421 system optional gazelle-installer_22.8.01_i386.buildinfo
+ 84d4e163e53474c5444d8082fe1fe0b0 487436 system optional mx-installer_22.8.01_i386.deb

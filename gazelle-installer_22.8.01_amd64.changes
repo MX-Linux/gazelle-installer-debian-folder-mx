@@ -1,0 +1,46 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+Format: 1.8
+Date: Mon, 22 Aug 2022 22:41:08 -0400
+Source: gazelle-installer
+Binary: mx-installer
+Architecture: source amd64
+Version: 22.8.01
+Distribution: mx
+Urgency: medium
+Maintainer: dolphinoracle <dolphinoracle@gmail.com>
+Changed-By: Adrian <adrian@mxlinux.org>
+Description:
+ mx-installer - Customizable GUI installer for MX Linux and antiX Linux
+Changes:
+ gazelle-installer (22.8.01) mx; urgency=medium
+ .
+   * Fix: Selecting system timezone by default when doing entire disk installation
+Checksums-Sha1:
+ 4b2c9d517ee792b21e46d3164c6b4b3ec40e78aa 1215 gazelle-installer_22.8.01.dsc
+ e284d08448e09935472ab08f50b6fb7a8276cf9c 344696 gazelle-installer_22.8.01.tar.xz
+ 917f7646a0f3e447b362ebfde4aaa1ded54667a4 10295 gazelle-installer_22.8.01_amd64.buildinfo
+ 4def756576f550bc57fb018223866a3672f11bc7 470584 mx-installer_22.8.01_amd64.deb
+Checksums-Sha256:
+ 519e0f405a2d7099495cffd5407a683b55a7c7bc72d7529f0b65ed2f1e2db990 1215 gazelle-installer_22.8.01.dsc
+ 6b3190c9e6a17fc77c7b6266b7174d7923c4897768b5577203f2632f734d587f 344696 gazelle-installer_22.8.01.tar.xz
+ 32d70adf5af3c2ffef9e1570586e7b92070acdfe592c41a9c9b1fd2ff186ed8f 10295 gazelle-installer_22.8.01_amd64.buildinfo
+ 5b0df768dfb1e49717fa2a2f17d83e78e165e7c693acd62b81f700266b553a14 470584 mx-installer_22.8.01_amd64.deb
+Files:
+ 1b5ff7b53b958e56e65e40da6af137d8 1215 system optional gazelle-installer_22.8.01.dsc
+ efc4ff2fe69ed973012af6b138d239c3 344696 system optional gazelle-installer_22.8.01.tar.xz
+ fd48f1955b967d28bae07111be46bb0d 10295 system optional gazelle-installer_22.8.01_amd64.buildinfo
+ 32e3a3038f2977e96faf023be84bb455 470584 system optional mx-installer_22.8.01_amd64.deb
+
+-----BEGIN PGP SIGNATURE-----
+
+iQFHBAEBCgAxFiEE8ndToY6S45N+YzXncJOMeAZ57pgFAmMEPtITHGFkcmlhbkBt
+eGxpbnV4Lm9yZwAKCRBwk4x4BnnumL+YB/wKoUGksZ78DC7mXYsM2j3dnfqmAU71
+WEvCLCvXB2/I7SyHhF0sBlNMZUnqss6Cpzw1NvHKG5AO//dVo2qE8Or0ineOou4W
+kjox8wBP56HG6lA50sT7J4TITPjL0E6nRDMy5DJYJj0UWovr8i6tGLQUW4UAWO10
+PCURba5v2Js12FTEzFYI8h3QLJxWwtqIcEcgGBYjbliwoimK6yUCL2XCKlE0okU+
+Csm+lY8b3SgE5dWyW/k6h1yx6IPX64O209h4g1JRr+N8qmHbqlROh4XKuVHK7mxW
+DTLTDvekzhzLqiTpgkxysKyZOjFDOKJ9BmKygoASaxdf+nCIamYgwSPJ
+=k8Vr
+-----END PGP SIGNATURE-----
