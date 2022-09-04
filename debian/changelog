@@ -1,3 +1,10 @@
+gazelle-installer (22.9) mx; urgency=medium
+
+  * Added installation checker.
+  * Improve startup exception handling.
+
+ -- Adrian <adrian@mxlinux.org>  Sun, 04 Sep 2022 09:17:56 -0400
+
 gazelle-installer (22.8.01) mx; urgency=medium
 
   * Fix: Selecting system timezone by default when doing entire disk installation
