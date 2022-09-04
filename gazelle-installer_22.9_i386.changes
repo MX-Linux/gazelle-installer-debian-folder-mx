@@ -1,0 +1,26 @@
+Format: 1.8
+Date: Sun, 04 Sep 2022 09:17:56 -0400
+Source: gazelle-installer
+Binary: mx-installer
+Architecture: i386
+Version: 22.9
+Distribution: mx
+Urgency: medium
+Maintainer: dolphinoracle <dolphinoracle@gmail.com>
+Changed-By: Adrian <adrian@mxlinux.org>
+Description:
+ mx-installer - Customizable GUI installer for MX Linux and antiX Linux
+Changes:
+ gazelle-installer (22.9) mx; urgency=medium
+ .
+   * Added installation checker.
+   * Improve startup exception handling.
+Checksums-Sha1:
+ d80bc0629b208c9025b93c56353fc8970d0daaeb 9406 gazelle-installer_22.9_i386.buildinfo
+ 0e52fdbae49439081cc73a9e6d5b9107571584f8 491440 mx-installer_22.9_i386.deb
+Checksums-Sha256:
+ aff7978cfe69a3bb82418c788bcbb5d1758218a0630dc45a4834abcdc09e6657 9406 gazelle-installer_22.9_i386.buildinfo
+ d3e139e893d84bfead96695b48c3bb4a16a764e86275f55f4de611520d9d3601 491440 mx-installer_22.9_i386.deb
+Files:
+ b59bdce723f60d64fce1e9d6f9f5f1b6 9406 system optional gazelle-installer_22.9_i386.buildinfo
+ dbb37f6549bc3061ddc5c339acc0e25f 491440 system optional mx-installer_22.9_i386.deb

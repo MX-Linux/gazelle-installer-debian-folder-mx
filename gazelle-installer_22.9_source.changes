@@ -1,0 +1,41 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+Format: 1.8
+Date: Sun, 04 Sep 2022 09:17:56 -0400
+Source: gazelle-installer
+Architecture: source
+Version: 22.9
+Distribution: mx
+Urgency: medium
+Maintainer: dolphinoracle <dolphinoracle@gmail.com>
+Changed-By: Adrian <adrian@mxlinux.org>
+Changes:
+ gazelle-installer (22.9) mx; urgency=medium
+ .
+   * Added installation checker.
+   * Improve startup exception handling.
+Checksums-Sha1:
+ 96e5181dddd3e2e08b1aa9b8a438dbdc425ef52d 1203 gazelle-installer_22.9.dsc
+ 17d48431c2262d445b7e1ae9e7393ed59af92e53 345368 gazelle-installer_22.9.tar.xz
+ 7a8a7d9582ea9aa8f6d3345e3980ae81bb050eeb 10271 gazelle-installer_22.9_amd64.buildinfo
+Checksums-Sha256:
+ f95f3059f8db6432510bff63262fbb4ef8ec33c03a06126402fa6acadd5f4c73 1203 gazelle-installer_22.9.dsc
+ 8429430add2ac0c2670d1c7a077c7192e09bcf484f657f4e4d209223a99bee7a 345368 gazelle-installer_22.9.tar.xz
+ a1549a904f4e2fcf80df773a34a1b8977b4bc92e34882675666ffa803310d726 10271 gazelle-installer_22.9_amd64.buildinfo
+Files:
+ 47e1e283048809ce4f3734aa7a8a0841 1203 system optional gazelle-installer_22.9.dsc
+ c6f500ba94f758ebc2cf75ff931e4cdf 345368 system optional gazelle-installer_22.9.tar.xz
+ 124b5853f5d9018b64880c1b388d8db2 10271 system optional gazelle-installer_22.9_amd64.buildinfo
+
+-----BEGIN PGP SIGNATURE-----
+
+iQFHBAEBCgAxFiEE8ndToY6S45N+YzXncJOMeAZ57pgFAmMUpfUTHGFkcmlhbkBt
+eGxpbnV4Lm9yZwAKCRBwk4x4BnnumIC0CACAjZKqn+1H3T2lRHk2a/Un8zhphgwA
+AzzBMXAYxFS7/9pgwHulsL/JFeacmopPnE0nC/IJ8kJB0aH4xGFTsS6lWj2ZsrgH
+49JmfQxBPcIA+1KoctLPlwamjWLr+0WnGjY/L/RKt7EKpMCPf74i1i2I/2FFhd6L
+b3DXQy6kQfUwBlMLsYj4vS2+QLKNxclzYfCVrVA93CVm1d6kPzH1jEBM9r1vqv5u
+nDPE0eXPlnjLK6K9EChW7L9ACmS80vPueHdy5HwV+sORR8VnE64ciTfbYIVU+B3+
+GVzdK9Imiy4bdcrT2n/+vuDtX2TYNs/AkIe27nzcS8ZNzjnRROEOMQ/k
+=f00G
+-----END PGP SIGNATURE-----
