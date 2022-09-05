@@ -1,0 +1,28 @@
+Format: 1.8
+Date: Sun, 04 Sep 2022 21:51:27 -0400
+Source: gazelle-installer
+Binary: mx-installer
+Architecture: i386
+Version: 22.9.01
+Distribution: mx
+Urgency: medium
+Maintainer: dolphinoracle <dolphinoracle@gmail.com>
+Changed-By: Adrian <adrian@mxlinux.org>
+Description:
+ mx-installer - Customizable GUI installer for MX Linux and antiX Linux
+Changes:
+ gazelle-installer (22.9.01) mx; urgency=medium
+ .
+   * Allow the media check to be skipped by pressing ESC.
+   * Omit the media check if booted with checkmd5. Use --media-check to override.
+   * Fixed media checker false failure with toram=min and toram=store.
+   * Fixed attempt to use a "linuxfs.info.info" file.
+Checksums-Sha1:
+ 45549379a20e4fa1015bcf1b841f19afb526f82e 9421 gazelle-installer_22.9.01_i386.buildinfo
+ ff98ffef8a52d370e126981a2b8f7686ec537735 492648 mx-installer_22.9.01_i386.deb
+Checksums-Sha256:
+ 81da17a4e14eec92f815c8b76116c501277dd3dcddfda8b4805c6b4d62e25b2d 9421 gazelle-installer_22.9.01_i386.buildinfo
+ 25b881ba945a61aa13911aac52dc7c1b4276aab6cbee5797fa348e027372c711 492648 mx-installer_22.9.01_i386.deb
+Files:
+ 8c5a2d95f56bc71d94571e38013c8426 9421 system optional gazelle-installer_22.9.01_i386.buildinfo
+ 839e9760056589c6c12e8a3fef682401 492648 system optional mx-installer_22.9.01_i386.deb
