@@ -1,3 +1,12 @@
+gazelle-installer (22.9.01) mx; urgency=medium
+
+  * Allow the media check to be skipped by pressing ESC.
+  * Omit the media check if booted with checkmd5. Use --media-check to override.
+  * Fixed media checker false failure with toram=min and toram=store.
+  * Fixed attempt to use a "linuxfs.info.info" file. 
+
+ -- Adrian <adrian@mxlinux.org>  Sun, 04 Sep 2022 21:51:27 -0400
+
 gazelle-installer (22.9) mx; urgency=medium
 
   * Added installation checker.

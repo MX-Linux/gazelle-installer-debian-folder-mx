@@ -1,0 +1,43 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+Format: 1.8
+Date: Sun, 04 Sep 2022 21:51:27 -0400
+Source: gazelle-installer
+Architecture: source
+Version: 22.9.01
+Distribution: mx
+Urgency: medium
+Maintainer: dolphinoracle <dolphinoracle@gmail.com>
+Changed-By: Adrian <adrian@mxlinux.org>
+Changes:
+ gazelle-installer (22.9.01) mx; urgency=medium
+ .
+   * Allow the media check to be skipped by pressing ESC.
+   * Omit the media check if booted with checkmd5. Use --media-check to override.
+   * Fixed media checker false failure with toram=min and toram=store.
+   * Fixed attempt to use a "linuxfs.info.info" file.
+Checksums-Sha1:
+ 6ad68c3c0b2d0e642e6023870d45338fc79506d1 1215 gazelle-installer_22.9.01.dsc
+ e04b9eb2dbe66c080fe1ce865355556dbe9b05cc 345780 gazelle-installer_22.9.01.tar.xz
+ 5582869ef70e7ea052f15d64874c66b287aa7dc9 10295 gazelle-installer_22.9.01_amd64.buildinfo
+Checksums-Sha256:
+ 880f1f0810c52085a9a5b042fdb42ab73e858cc5b1aff4b32505ed468c0d963a 1215 gazelle-installer_22.9.01.dsc
+ b80bac9368b52197271888372e1c91e77253804a76e013e1fb5fa942c96b9a05 345780 gazelle-installer_22.9.01.tar.xz
+ 6a81934dc2a0bfe080497bbdff2549435e31fa258591d056e18837e987ad38cb 10295 gazelle-installer_22.9.01_amd64.buildinfo
+Files:
+ 83bd146db7cf657fab8ae48ff99bfb2d 1215 system optional gazelle-installer_22.9.01.dsc
+ 366b50eb3accc24d4c494b751c6f948d 345780 system optional gazelle-installer_22.9.01.tar.xz
+ 1a1772580c23ed6c106c625ca8022332 10295 system optional gazelle-installer_22.9.01_amd64.buildinfo
+
+-----BEGIN PGP SIGNATURE-----
+
+iQFHBAEBCgAxFiEE8ndToY6S45N+YzXncJOMeAZ57pgFAmMVV40THGFkcmlhbkBt
+eGxpbnV4Lm9yZwAKCRBwk4x4BnnumHPHCADRg4cHwkGRSwRH6S2xc/S0w2HWGZVG
+rOhw/u09M0kJsUUyh0yaCT2bQjOa7Ar7NAhPHkjqFqD5aIGOGdT8nXkrc4A65tx0
+gl4Ba9GEh6KS8V41WZEvlVXKz4uankQSS6mH9i1RZ3GhIKu4p6Tu9no2kiLuGiiv
+GyXJ7HjgIOlIPVSqf65onj/GjtsnfXW/9xHMCKtPZjTu/yO3rq1yq6NWVAykOWbB
+Gq1bjwdN0W5QpktxFgqW9mZKp6uxZ0kkNvogWjTDz4gkQtXjIecN7biJ8azsVIHO
+47vnTLqdedS/FzTmSwMsWK3tEEfIohGEed1mIS+tPT4GVTNY6P17IKK8
+=5C1t
+-----END PGP SIGNATURE-----
