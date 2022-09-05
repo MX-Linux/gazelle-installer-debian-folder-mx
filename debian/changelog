@@ -4,6 +4,7 @@ gazelle-installer (22.9.01) mx; urgency=medium
   * Omit the media check if booted with checkmd5. Use --media-check to override.
   * Fixed media checker false failure with toram=min and toram=store.
   * Fixed attempt to use a "linuxfs.info.info" file. 
+  * Do not issue BIOS-GRUB warning if such a partition is being re-used.
 
  -- Adrian <adrian@mxlinux.org>  Sun, 04 Sep 2022 21:51:27 -0400
 

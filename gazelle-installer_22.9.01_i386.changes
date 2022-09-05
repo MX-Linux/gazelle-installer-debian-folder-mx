@@ -17,12 +17,13 @@ Changes:
    * Omit the media check if booted with checkmd5. Use --media-check to override.
    * Fixed media checker false failure with toram=min and toram=store.
    * Fixed attempt to use a "linuxfs.info.info" file.
+   * Do not issue BIOS-GRUB warning if such a partition is being re-used.
 Checksums-Sha1:
- 45549379a20e4fa1015bcf1b841f19afb526f82e 9421 gazelle-installer_22.9.01_i386.buildinfo
- ff98ffef8a52d370e126981a2b8f7686ec537735 492648 mx-installer_22.9.01_i386.deb
+ bc63bd442444c1e79b64e9edb11f9480ced88e95 9421 gazelle-installer_22.9.01_i386.buildinfo
+ 89e1850efba46ab7830dfd4bbe400b3220a30da4 492832 mx-installer_22.9.01_i386.deb
 Checksums-Sha256:
- 81da17a4e14eec92f815c8b76116c501277dd3dcddfda8b4805c6b4d62e25b2d 9421 gazelle-installer_22.9.01_i386.buildinfo
- 25b881ba945a61aa13911aac52dc7c1b4276aab6cbee5797fa348e027372c711 492648 mx-installer_22.9.01_i386.deb
+ 99a67521ba7c43493552bd0cfe0f07d76a68cd1ce152580bc8921b87c1ce34f2 9421 gazelle-installer_22.9.01_i386.buildinfo
+ 04e0c5248555f4cbbe4add3afbfa9a3ae359392fcd96f4696a9badbdbcc77d98 492832 mx-installer_22.9.01_i386.deb
 Files:
- 8c5a2d95f56bc71d94571e38013c8426 9421 system optional gazelle-installer_22.9.01_i386.buildinfo
- 839e9760056589c6c12e8a3fef682401 492648 system optional mx-installer_22.9.01_i386.deb
+ 2d152afe17c1beceda5f8a3229a67cc2 9421 system optional gazelle-installer_22.9.01_i386.buildinfo
+ 4035495e1763b8473977c2fedcbc2e78 492832 system optional mx-installer_22.9.01_i386.deb

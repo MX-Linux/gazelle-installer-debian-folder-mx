@@ -20,30 +20,31 @@ Changes:
    * Omit the media check if booted with checkmd5. Use --media-check to override.
    * Fixed media checker false failure with toram=min and toram=store.
    * Fixed attempt to use a "linuxfs.info.info" file.
+   * Do not issue BIOS-GRUB warning if such a partition is being re-used.
 Checksums-Sha1:
- 6ad68c3c0b2d0e642e6023870d45338fc79506d1 1215 gazelle-installer_22.9.01.dsc
- e04b9eb2dbe66c080fe1ce865355556dbe9b05cc 345780 gazelle-installer_22.9.01.tar.xz
- 5582869ef70e7ea052f15d64874c66b287aa7dc9 10295 gazelle-installer_22.9.01_amd64.buildinfo
- aa0c98db18090020363dee36399836e42f139f05 475032 mx-installer_22.9.01_amd64.deb
+ 26e8d4583f0429980e9307da73a0f6eaafd39f5e 1215 gazelle-installer_22.9.01.dsc
+ 76cef22ff270f47802d76b8addb272278aef6ecf 345944 gazelle-installer_22.9.01.tar.xz
+ 025de454a108cb8acbd570cb84344069592453ed 10295 gazelle-installer_22.9.01_amd64.buildinfo
+ ba48c2ec7921c2dae22832fbbd310c35d92b03af 474400 mx-installer_22.9.01_amd64.deb
 Checksums-Sha256:
- 880f1f0810c52085a9a5b042fdb42ab73e858cc5b1aff4b32505ed468c0d963a 1215 gazelle-installer_22.9.01.dsc
- b80bac9368b52197271888372e1c91e77253804a76e013e1fb5fa942c96b9a05 345780 gazelle-installer_22.9.01.tar.xz
- 6a81934dc2a0bfe080497bbdff2549435e31fa258591d056e18837e987ad38cb 10295 gazelle-installer_22.9.01_amd64.buildinfo
- 54e0575621d07cc5e4b05a21affd681c51bb0c004b8c89106f6034f551b5a997 475032 mx-installer_22.9.01_amd64.deb
+ 4d4849830f8dad9f5500118d27985d0ba629829e26dc38aeaf61ffbb78e37b64 1215 gazelle-installer_22.9.01.dsc
+ fa6c4d0e7ed2c4770d775938b31d1dec3e5e34b03cc06b1dbe536b6d52c2aaaa 345944 gazelle-installer_22.9.01.tar.xz
+ 5c6c47efdbf91196748aa6990c69e1735f61072d6fb79e89a980d7f5285afd55 10295 gazelle-installer_22.9.01_amd64.buildinfo
+ 7fc73ee1fdae82724563bd231f3ca33a7b7a2bc5320d4f743dde91090e536958 474400 mx-installer_22.9.01_amd64.deb
 Files:
- 83bd146db7cf657fab8ae48ff99bfb2d 1215 system optional gazelle-installer_22.9.01.dsc
- 366b50eb3accc24d4c494b751c6f948d 345780 system optional gazelle-installer_22.9.01.tar.xz
- 1a1772580c23ed6c106c625ca8022332 10295 system optional gazelle-installer_22.9.01_amd64.buildinfo
- 920513b59f10bb33ff40d1593804f166 475032 system optional mx-installer_22.9.01_amd64.deb
+ 2419c146e474a3182fa827b674f6523f 1215 system optional gazelle-installer_22.9.01.dsc
+ 81fc1af95b381d9ff048c2e4a3838547 345944 system optional gazelle-installer_22.9.01.tar.xz
+ bfcc786b8a344b505bb71b48f7190493 10295 system optional gazelle-installer_22.9.01_amd64.buildinfo
+ 833637c2854390bba26e4e47bc9bc084 474400 system optional mx-installer_22.9.01_amd64.deb
 
 -----BEGIN PGP SIGNATURE-----
 
-iQFHBAEBCgAxFiEE8ndToY6S45N+YzXncJOMeAZ57pgFAmMVV40THGFkcmlhbkBt
-eGxpbnV4Lm9yZwAKCRBwk4x4BnnumB7mB/99ngH+IA0HFCSrH/0XQnDISeXlWpCS
-SlBGI/go1vjeYTPw4LACmGZ+n0oGg18nv46gr8StG4gm8TnjU8Zowo5t6MwyOA7S
-w8O/KZh5eWvLAOv342d20f7a3bJJyygdW0Xm/z3T5gUx/1PP9rdGeFL3GRzqmLz1
-PXh2bFCb9DrBm+uDtI19tKzTiCL6yt+t2Pi0ZASPO3nHdfZGH37Jwdg+l4qvK9q1
-t4+ZIa/2HrXGkFEi9ApEWDxlFDAxzvgKVf9NZ3rQ+uQLzkY7iVtALEBwS3yNDEWT
-ssV4BWFOY2nc2q69oPthV+dXXhp0fttoxVGieCrr8/6kvXqKI8VuYBil
-=1uc7
+iQFHBAEBCgAxFiEE8ndToY6S45N+YzXncJOMeAZ57pgFAmMVW8YTHGFkcmlhbkBt
+eGxpbnV4Lm9yZwAKCRBwk4x4BnnumHx4B/40pikKMDakgMGQo+wxskoUUbfm3T6l
++YYn1sx/x0YLFmpSh+XYJ1Y9XuiTNKqYPfSGD9IfFwI0U2KE68yrOrbct9rGRBq6
+W47KSV6PiaIaOUxMGGbe2LSBIyxyS9qFBBMYsUdEtpjJf6BT+nYGSstWREhgSZ7u
+UbUl4BrgG41HLP4uEXQLRKBqfsGzBrRAhHrWne7sQGdKn09ZzFnz8FXuVR4O397l
+w0Tn/ve5OJ8fHTVFLjAuQjDl/tkh+c99BDTWFaQshmXP72s0cnsmzE/Oqz7Xut/K
+L/ZTmrpFrDJlQOd3fvUOoK92bOQIESIrGx1Nc8KJEI1ndbXCfvPgQ8UJ
+=I6dD
 -----END PGP SIGNATURE-----
