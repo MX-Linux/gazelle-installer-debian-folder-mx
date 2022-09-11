@@ -1,0 +1,40 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+Format: 1.8
+Date: Sun, 11 Sep 2022 11:51:26 -0400
+Source: gazelle-installer
+Architecture: source
+Version: 22.9.02
+Distribution: mx
+Urgency: medium
+Maintainer: dolphinoracle <dolphinoracle@gmail.com>
+Changed-By: Adrian <adrian@mxlinux.org>
+Changes:
+ gazelle-installer (22.9.02) mx; urgency=medium
+ .
+   * Fixed: unable to recognise squashfs not named "linuxfs".
+Checksums-Sha1:
+ 11aedfbf708a849869d1b66fdb017334ca243ddf 1215 gazelle-installer_22.9.02.dsc
+ 19d01d776420a35f2735b50df23666fc0485acfe 345928 gazelle-installer_22.9.02.tar.xz
+ 33f70cd7fb76581af094398259320bf15692803e 10295 gazelle-installer_22.9.02_amd64.buildinfo
+Checksums-Sha256:
+ 7c94b41089d9e1426ff9f07839b10f5450a196d7128f9fee49bd28d0917a7e08 1215 gazelle-installer_22.9.02.dsc
+ a86847fe318be6fb379ddccc7cf20248bee9d3b696c1909db063362dd2563a14 345928 gazelle-installer_22.9.02.tar.xz
+ cb9e2a5e1c7083d1e7f026f489460adc8248126257bbe9878397f6266eaf2459 10295 gazelle-installer_22.9.02_amd64.buildinfo
+Files:
+ 122f4d3f6a96facd87013374e34fc25c 1215 system optional gazelle-installer_22.9.02.dsc
+ adeb9c0ed3d05ed8b4cbd50ea183779a 345928 system optional gazelle-installer_22.9.02.tar.xz
+ 11332452f5af30b322361b03c8cafe40 10295 system optional gazelle-installer_22.9.02_amd64.buildinfo
+
+-----BEGIN PGP SIGNATURE-----
+
+iQFHBAEBCgAxFiEE8ndToY6S45N+YzXncJOMeAZ57pgFAmMeBEgTHGFkcmlhbkBt
+eGxpbnV4Lm9yZwAKCRBwk4x4BnnumInsB/481LKPWyUC26+jpxKXkd2FQJyQdE7B
+VDlYSYC+b6DwsjSErsxBlrXCC5d1OH94ARmdh7/5+1E1u87Oj4PBVB08w6BSgWeU
+y36wafv3j07NP2vMroFzxbLLcWjsmM0fU1hJgLgnFG1bWZLede9hOv6m4FdBwVmH
+Ib4ELseL6OfJWuEZCDsJfme9PAiQ4daVntLfRzDE7s9cbOPhpPKhnyq4IRojJRza
+AQ0YsNdgWKVg12MvzDhu5uRyZAQnpbFkJkE1f4T0/OmvUQlodFAP7a4SXs+PuX8U
+32iahWseH05M4CSHIKUJrmpGKqcJNFHo2HUPV3iQdwJSJRl+sCpOczQZ
+=gzMN
+-----END PGP SIGNATURE-----
