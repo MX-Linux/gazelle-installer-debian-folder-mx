@@ -1,3 +1,9 @@
+gazelle-installer (22.9.02) mx; urgency=medium
+
+  * Fixed: unable to recognise squashfs not named "linuxfs".
+
+ -- Adrian <adrian@mxlinux.org>  Sun, 11 Sep 2022 11:51:26 -0400
+
 gazelle-installer (22.9.01) mx; urgency=medium
 
   * Allow the media check to be skipped by pressing ESC.

@@ -1,0 +1,25 @@
+Format: 1.8
+Date: Sun, 11 Sep 2022 11:51:26 -0400
+Source: gazelle-installer
+Binary: mx-installer
+Architecture: i386
+Version: 22.9.02
+Distribution: mx
+Urgency: medium
+Maintainer: dolphinoracle <dolphinoracle@gmail.com>
+Changed-By: Adrian <adrian@mxlinux.org>
+Description:
+ mx-installer - Customizable GUI installer for MX Linux and antiX Linux
+Changes:
+ gazelle-installer (22.9.02) mx; urgency=medium
+ .
+   * Fixed: unable to recognise squashfs not named "linuxfs".
+Checksums-Sha1:
+ 702ae6cd02d316bb36e924d61cf90500a2829d48 9421 gazelle-installer_22.9.02_i386.buildinfo
+ 9aa55e189b5294c98ea7b11c6f24d1b70d28abae 493088 mx-installer_22.9.02_i386.deb
+Checksums-Sha256:
+ 1790f9104147e6ad33d857db2e8a6da292ebb8800b692c2b5916bf5bb9c7002d 9421 gazelle-installer_22.9.02_i386.buildinfo
+ 486e1cde34a9fea9951c9a7bf1d711d4ed2423def5916ee0bf2e8b0922602b66 493088 mx-installer_22.9.02_i386.deb
+Files:
+ 99661093d3c241f233c5def8d0066237 9421 system optional gazelle-installer_22.9.02_i386.buildinfo
+ d2a11d987f0071a387d48271f3d102a9 493088 system optional mx-installer_22.9.02_i386.deb
