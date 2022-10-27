@@ -1,0 +1,22 @@
+Format: 1.8
+Date: Wed, 26 Oct 2022 19:54:02 -0400
+Source: gazelle-installer
+Architecture: source
+Version: 22.10.01
+Distribution: mx
+Urgency: medium
+Maintainer: dolphinoracle <dolphinoracle@gmail.com>
+Changed-By: Dolphin Oracle <dolphinoracle@gmail.com>
+Changes:
+ gazelle-installer (22.10.01) mx; urgency=medium
+ .
+   *  update translations
+Checksums-Sha1:
+ e5add9331ae4045a34863f333b7f69d50d5f8be3 657 gazelle-installer_22.10.01.dsc
+ 6780eb5ff9eac9b7389711eebefbb10da9795fef 357588 gazelle-installer_22.10.01.tar.xz
+Checksums-Sha256:
+ 75fb3cb84b1c4c88f47c05f4ef21573b35d32bc5fb298969abde2fe767256c21 657 gazelle-installer_22.10.01.dsc
+ fcb4bb8c617b03530b9ccb72c387a3e8fcbef467c82b9083819bfcb86f050f7d 357588 gazelle-installer_22.10.01.tar.xz
+Files:
+ d00bcd6433f93e52b447b9d795b71dd3 657 system optional gazelle-installer_22.10.01.dsc
+ 3e742d2fbc5bb3495834ba705bea81a9 357588 system optional gazelle-installer_22.10.01.tar.xz
