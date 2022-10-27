@@ -1,0 +1,25 @@
+Format: 1.8
+Date: Wed, 26 Oct 2022 19:54:02 -0400
+Source: gazelle-installer
+Binary: mx-installer
+Architecture: i386
+Version: 22.10.01
+Distribution: mx
+Urgency: medium
+Maintainer: dolphinoracle <dolphinoracle@gmail.com>
+Changed-By: Dolphin Oracle <dolphinoracle@gmail.com>
+Description:
+ mx-installer - Customizable GUI installer for MX Linux and antiX Linux
+Changes:
+ gazelle-installer (22.10.01) mx; urgency=medium
+ .
+   *  update translations
+Checksums-Sha1:
+ f1f8f2591a367e14ae61654e52fbb824efbdf2a0 9343 gazelle-installer_22.10.01_i386.buildinfo
+ 62846eacc54f7e02c18cec8d0273804c685bf94f 504636 mx-installer_22.10.01_i386.deb
+Checksums-Sha256:
+ 4d406ccc4d5f067791cf29d75f05a803ddfa2438916dc9fb59faf28ca01b95f5 9343 gazelle-installer_22.10.01_i386.buildinfo
+ 3a09f92ba8145e723db74b6c41ac65d46421d1e699197972e5c25f9e729f6544 504636 mx-installer_22.10.01_i386.deb
+Files:
+ 41b75adf4c5853e9a8aa9aba5f51918c 9343 system optional gazelle-installer_22.10.01_i386.buildinfo
+ ab5456b624b3ab72319f5f6e6078be70 504636 system optional mx-installer_22.10.01_i386.deb
