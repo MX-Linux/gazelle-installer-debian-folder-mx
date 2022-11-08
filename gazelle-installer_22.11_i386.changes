@@ -1,0 +1,27 @@
+Format: 1.8
+Date: Tue, 08 Nov 2022 08:14:16 -0500
+Source: gazelle-installer
+Binary: mx-installer
+Architecture: i386
+Version: 22.11
+Distribution: mx
+Urgency: medium
+Maintainer: dolphinoracle <dolphinoracle@gmail.com>
+Changed-By: Adrian <adrian@mxlinux.org>
+Description:
+ mx-installer - Customizable GUI installer for MX Linux and antiX Linux
+Changes:
+ gazelle-installer (22.11) mx; urgency=medium
+ .
+   * fix oobe: live-user (demo) entries in /etc/subuid and /etc/subgid
+   * fix bootman: remove any efivars-dump-entries in NVRAM
+   * fix bootman: copy memtest from /live/to-ram if needed
+Checksums-Sha1:
+ b5413d7ee5c32a69d783e4995d10caaf6cdea7a5 9411 gazelle-installer_22.11_i386.buildinfo
+ 67faee8c496d861aeb24adce4f7f99f4d4bd73b8 505332 mx-installer_22.11_i386.deb
+Checksums-Sha256:
+ 7757bfb75c4e7f603cb5786cd843070bdb64dc1dac29d897c610f02e91936173 9411 gazelle-installer_22.11_i386.buildinfo
+ 423ec743c8c81e5048f45a06b44821165cc59982083f4179d775db27b7109452 505332 mx-installer_22.11_i386.deb
+Files:
+ 37cdf96c2b02f9c7fcef3a5c66049b31 9411 system optional gazelle-installer_22.11_i386.buildinfo
+ 9643681a9bbb1b9a04a3387163b76814 505332 system optional mx-installer_22.11_i386.deb
