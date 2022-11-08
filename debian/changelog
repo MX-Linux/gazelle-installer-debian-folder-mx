@@ -1,3 +1,11 @@
+gazelle-installer (22.11) mx; urgency=medium
+
+  * fix oobe: live-user (demo) entries in /etc/subuid and /etc/subgid
+  * fix bootman: remove any efivars-dump-entries in NVRAM
+  * fix bootman: copy memtest from /live/to-ram if needed
+
+ -- Adrian <adrian@mxlinux.org>  Tue, 08 Nov 2022 08:14:16 -0500
+
 gazelle-installer (22.10.01) mx; urgency=medium
 
   *  update translations 
