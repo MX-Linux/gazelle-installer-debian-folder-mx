@@ -1,0 +1,51 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+Format: 1.8
+Date: Tue, 20 Dec 2022 19:39:06 -0500
+Source: gazelle-installer
+Binary: mx-installer
+Architecture: source amd64
+Version: 22.12
+Distribution: mx
+Urgency: medium
+Maintainer: dolphinoracle <dolphinoracle@gmail.com>
+Changed-By: Adrian <adrian@mxlinux.org>
+Description:
+ mx-installer - Customizable GUI installer for MX Linux and antiX Linux
+Changes:
+ gazelle-installer (22.12) mx; urgency=medium
+ .
+   * Run grub-install only if selected
+   * Remove built-in kernel cmdline parameters from grub setup
+   * Create /boot/efi for select ESP even if grub-install was not selected
+   * Add checks to avoid warnings on unmount's
+   * Check /proc/swaps to avoid warnings on swapoff
+   * Adjust temporary inhibit-rules for raid
+Checksums-Sha1:
+ ad574e722f98dd2b99f2f3f84bf109d1d0d01406 1207 gazelle-installer_22.12.dsc
+ 5d32e812e085c99452ae85236b5abc2969e94bb9 383800 gazelle-installer_22.12.tar.xz
+ 656dba9a691c29fca473ac0144fae6b8632dd72a 10279 gazelle-installer_22.12_amd64.buildinfo
+ f6c400a032644863828226f44d3daf1305874acf 504128 mx-installer_22.12_amd64.deb
+Checksums-Sha256:
+ 6e4fb0aa6596df80f3ae124f48bf2e7fa9324fd46212d1bb1f7ca9623554eb7d 1207 gazelle-installer_22.12.dsc
+ 5ffba46bdfea61f6e96d7e4c5232ad4a2c5d4ac54ef319abffc6ea6f26181a62 383800 gazelle-installer_22.12.tar.xz
+ 053d870eeb90e44b536b3d4af4c15ec23460d0c5516ba311b3a8b67cc74bc3e4 10279 gazelle-installer_22.12_amd64.buildinfo
+ 1564e3e15ad5d201527512db8604ca4cbf7d49ed6018f82ba9aebc341aaa21ac 504128 mx-installer_22.12_amd64.deb
+Files:
+ c2a6aa29378cc6e0ab6632c426e5a4fd 1207 system optional gazelle-installer_22.12.dsc
+ 2e9e6a97b293254852cf753ad698b596 383800 system optional gazelle-installer_22.12.tar.xz
+ 0ad2683825fe47ba48c8f1ac4547d0d4 10279 system optional gazelle-installer_22.12_amd64.buildinfo
+ 26c50a638838ddb9c6cb327b98c58717 504128 system optional mx-installer_22.12_amd64.deb
+
+-----BEGIN PGP SIGNATURE-----
+
+iQFHBAEBCgAxFiEE8ndToY6S45N+YzXncJOMeAZ57pgFAmOiW5wTHGFkcmlhbkBt
+eGxpbnV4Lm9yZwAKCRBwk4x4BnnumBY+CAC0IWcV3xLVI54SmatENwjxTQ16E1v+
+RF+NsjOmdmCJckg+YIWuc+ya7zebOxb8JXybi5AwHVJwt6f261Gkmc1ROF8LKNe9
+K9+dWf1m0EE8zckuutvscnvHisJ3eOTxDNLVsC/Iw7VENAdGfn2wDDiP9R3J0JNC
+dceDSKzrC9VRk8ZlSLaCjV82K4czuSYXDgqXo1q7lSuC3pVBiKptlyTS85CrO6ug
+0mkmLY9ACXvobTkaPECsizuDTep9X8+9K15Vzb+qFNUkkqnp2BSf65bDC1ld0QSe
+TiavbACzMMf2q4tAtsxeIwZ047Wv4IV6n7cqRBEZSdJpzDrjY7wTTID3
+=i/OD
+-----END PGP SIGNATURE-----

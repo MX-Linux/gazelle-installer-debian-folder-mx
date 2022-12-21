@@ -1,0 +1,30 @@
+Format: 1.8
+Date: Tue, 20 Dec 2022 19:39:06 -0500
+Source: gazelle-installer
+Binary: mx-installer
+Architecture: i386
+Version: 22.12
+Distribution: mx
+Urgency: medium
+Maintainer: dolphinoracle <dolphinoracle@gmail.com>
+Changed-By: Adrian <adrian@mxlinux.org>
+Description:
+ mx-installer - Customizable GUI installer for MX Linux and antiX Linux
+Changes:
+ gazelle-installer (22.12) mx; urgency=medium
+ .
+   * Run grub-install only if selected
+   * Remove built-in kernel cmdline parameters from grub setup
+   * Create /boot/efi for select ESP even if grub-install was not selected
+   * Add checks to avoid warnings on unmount's
+   * Check /proc/swaps to avoid warnings on swapoff
+   * Adjust temporary inhibit-rules for raid
+Checksums-Sha1:
+ 77b900b548f66fea8753207ef1fae272d4e3341e 9411 gazelle-installer_22.12_i386.buildinfo
+ c13236ef8772789f6c0067101b41b9d80ef0ba54 523132 mx-installer_22.12_i386.deb
+Checksums-Sha256:
+ d6ecb254805e45e8a18b74ca0bfdfd60f2df59413ab6dec2e8b1b5b932f17b11 9411 gazelle-installer_22.12_i386.buildinfo
+ 0932b5d4d92bb6ac04e9a06738d3e46d8f21fa7b6ed615284cc46eef9c98d4cb 523132 mx-installer_22.12_i386.deb
+Files:
+ 5ab8f64b24c8ff08c67771fff3a6e107 9411 system optional gazelle-installer_22.12_i386.buildinfo
+ 567d2ded9fe3348865e11381dc9e11b1 523132 system optional mx-installer_22.12_i386.deb
