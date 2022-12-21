@@ -20,11 +20,11 @@ Changes:
    * Check /proc/swaps to avoid warnings on swapoff
    * Adjust temporary inhibit-rules for raid
 Checksums-Sha1:
- 77b900b548f66fea8753207ef1fae272d4e3341e 9411 gazelle-installer_22.12_i386.buildinfo
- c13236ef8772789f6c0067101b41b9d80ef0ba54 523132 mx-installer_22.12_i386.deb
+ 5cce5da2bd2cc5442b052b5bde27d5a6ebbbdbf9 9411 gazelle-installer_22.12_i386.buildinfo
+ 3f6907dd5bc6b5ec4731d961dfc35a7e6ceb5855 523004 mx-installer_22.12_i386.deb
 Checksums-Sha256:
- d6ecb254805e45e8a18b74ca0bfdfd60f2df59413ab6dec2e8b1b5b932f17b11 9411 gazelle-installer_22.12_i386.buildinfo
- 0932b5d4d92bb6ac04e9a06738d3e46d8f21fa7b6ed615284cc46eef9c98d4cb 523132 mx-installer_22.12_i386.deb
+ 70113fc28cf349628eef6b60c7bf0e66d8e1e453d1d14f4d84c16cefae5a2926 9411 gazelle-installer_22.12_i386.buildinfo
+ a772550835801a5f5fadc0aff3252883b604beadcc452e0a8929746ec5e246ff 523004 mx-installer_22.12_i386.deb
 Files:
- 5ab8f64b24c8ff08c67771fff3a6e107 9411 system optional gazelle-installer_22.12_i386.buildinfo
- 567d2ded9fe3348865e11381dc9e11b1 523132 system optional mx-installer_22.12_i386.deb
+ 4378abc2fd7de106d6b4f0ae981aca30 9411 system optional gazelle-installer_22.12_i386.buildinfo
+ efcb08103e873656d23b06dee3810a4d 523004 system optional mx-installer_22.12_i386.deb

@@ -20,26 +20,26 @@ Changes:
    * Check /proc/swaps to avoid warnings on swapoff
    * Adjust temporary inhibit-rules for raid
 Checksums-Sha1:
- ad574e722f98dd2b99f2f3f84bf109d1d0d01406 1207 gazelle-installer_22.12.dsc
- 5d32e812e085c99452ae85236b5abc2969e94bb9 383800 gazelle-installer_22.12.tar.xz
- 656dba9a691c29fca473ac0144fae6b8632dd72a 10279 gazelle-installer_22.12_amd64.buildinfo
+ 09fd7bd8738aacb851794538d687003bf5255bce 1207 gazelle-installer_22.12.dsc
+ 764cffaddbd804b967ca04b80c1aec4e1b1b787e 385268 gazelle-installer_22.12.tar.xz
+ 3c58eeb91cf2275c327d07b769063c83ee3093cc 10279 gazelle-installer_22.12_amd64.buildinfo
 Checksums-Sha256:
- 6e4fb0aa6596df80f3ae124f48bf2e7fa9324fd46212d1bb1f7ca9623554eb7d 1207 gazelle-installer_22.12.dsc
- 5ffba46bdfea61f6e96d7e4c5232ad4a2c5d4ac54ef319abffc6ea6f26181a62 383800 gazelle-installer_22.12.tar.xz
- 053d870eeb90e44b536b3d4af4c15ec23460d0c5516ba311b3a8b67cc74bc3e4 10279 gazelle-installer_22.12_amd64.buildinfo
+ 02df6113d412513a211215a837cccfaf7a5918139c7d0125d91dccb402d0d44d 1207 gazelle-installer_22.12.dsc
+ d55027fcbb14055eeea260424b4996ea7444e9e8cc49c45964a0739ea23c4d55 385268 gazelle-installer_22.12.tar.xz
+ eb77530948ae146b1eed827009bd3fa05b6cb927fd398c067a8059d159e83a21 10279 gazelle-installer_22.12_amd64.buildinfo
 Files:
- c2a6aa29378cc6e0ab6632c426e5a4fd 1207 system optional gazelle-installer_22.12.dsc
- 2e9e6a97b293254852cf753ad698b596 383800 system optional gazelle-installer_22.12.tar.xz
- 0ad2683825fe47ba48c8f1ac4547d0d4 10279 system optional gazelle-installer_22.12_amd64.buildinfo
+ d94e17eaf82dbfd2c4ceb916957beae5 1207 system optional gazelle-installer_22.12.dsc
+ d7fceaa6680a6ca0a2756ac543194ec3 385268 system optional gazelle-installer_22.12.tar.xz
+ 3e6bc10977cdbf41fe84e64604710575 10279 system optional gazelle-installer_22.12_amd64.buildinfo
 
 -----BEGIN PGP SIGNATURE-----
 
-iQFHBAEBCgAxFiEE8ndToY6S45N+YzXncJOMeAZ57pgFAmOiW5wTHGFkcmlhbkBt
-eGxpbnV4Lm9yZwAKCRBwk4x4BnnumNIZCACrujkZImIklPNERwQhtOhNDA2ioLrs
-Udap0/0zqUlHN3FgsGCosCcW6slzYWJxkusVnV8yEiFq0inl/g04TLbYu59uOrcn
-j3SM5YjtNG/XCs87fz50ZFO7DZAwTi7aVDGU9hma9yaEaWwAQRbI/hNfMS48M2PQ
-5HHPaiskWm+pa3jBf/jwG1Wq6HWqWroxR3DPuGhsUoKk7tu4MWYIaiNhzausiA3Q
-Sztd4MszrGJ3ckayHZX1Tm0yIuVHQXwqtIGuDL26kiXcOeccZSYJitkmuPWTgG96
-62hYOeQsyyQQ5QGpT1nT219rTgQgQcAHblm8K0/AxcQUqsBtOIzzoQaA
-=0V+u
+iQFHBAEBCgAxFiEE8ndToY6S45N+YzXncJOMeAZ57pgFAmOiXS0THGFkcmlhbkBt
+eGxpbnV4Lm9yZwAKCRBwk4x4BnnumB0AB/0cwYPj8y1fpIB/VcZUV71v7CTTmg6B
+yMOQTVCI0FyL1Zwoq3a4yQDbqthSLD8w16OFynJ7LtALDTfzSAjepLbL99dYn/Yk
+iE2v47oHa5ClT3hoyTSCozNhXrgMf1rx6BadWRY2QRXXh2/kZib55n0PY7ildNpa
+nTFALUwTChb1gdvI4goZW+Yut19hPHW6ghqCVURL4hWFXV4t7PrSL8qvhynAfaTw
+MmpxR9My6+PwfNPgjvlkixapwHzv6bKHnn6ufZAa6BpBAZyLtG3UzOuDnCya8oub
+ZFq0YXwAGgkuKFRxuWIkqKvDhjtfbG1u9qv1aCQoCNsAoTtoINY9r1d/
+=dyMP
 -----END PGP SIGNATURE-----
