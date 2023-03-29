@@ -1,3 +1,18 @@
+gazelle-installer (23.3mx23) mx; urgency=medium
+
+  * Update translation strings. Add new languages to src.pro
+  * Use QSettings to parse /etc/adduser.conf and fix shadow variable.
+  * Remove comment from DIR_MODE check
+  * Set permissions of home folder per adduser.conf settings
+  * Handle additional xfce clock plugins turning time config
+  * Add auto-generated Makefile to git ignore file.
+  * Update help text. Add space before "MB" in the spin box.
+  * Use a swap file instead of swap partition for the default install. Improved swap file creation progress feedback.
+  * Added swap file support. Calculate default size as described in the Ubuntu swap FAQ.  - https://help.ubuntu.com/community/SwapFaq
+  * Fixed hang if process startup was unsuccessful. Print the process error status when finished
+
+ -- Adrian <adrian@mxlinux.org>  Wed, 29 Mar 2023 15:00:14 -0400
+
 gazelle-installer (22.12) mx; urgency=medium
 
   * Run grub-install only if selected
