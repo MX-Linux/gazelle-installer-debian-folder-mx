@@ -1,0 +1,40 @@
+Format: 1.8
+Date: Wed, 29 Mar 2023 15:00:14 -0400
+Source: gazelle-installer
+Binary: mx-installer
+Architecture: source i386
+Version: 23.3mx23
+Distribution: mx
+Urgency: medium
+Maintainer: dolphinoracle <dolphinoracle@gmail.com>
+Changed-By: Adrian <adrian@mxlinux.org>
+Description:
+ mx-installer - Customizable GUI installer for MX Linux and antiX Linux
+Changes:
+ gazelle-installer (23.3mx23) mx; urgency=medium
+ .
+   * Update translation strings. Add new languages to src.pro
+   * Use QSettings to parse /etc/adduser.conf and fix shadow variable.
+   * Remove comment from DIR_MODE check
+   * Set permissions of home folder per adduser.conf settings
+   * Handle additional xfce clock plugins turning time config
+   * Add auto-generated Makefile to git ignore file.
+   * Update help text. Add space before "MB" in the spin box.
+   * Use a swap file instead of swap partition for the default install. Improved swap file creation progress feedback.
+   * Added swap file support. Calculate default size as described in the Ubuntu swap FAQ.  - https://help.ubuntu.com/community/SwapFaq
+   * Fixed hang if process startup was unsuccessful. Print the process error status when finished
+Checksums-Sha1:
+ 20e69b89799df739962b26fd1133cb2e425af833 657 gazelle-installer_23.3mx23.dsc
+ aca9dc37a376ecee123e0509d29b4566ead01440 400380 gazelle-installer_23.3mx23.tar.xz
+ 55a7030a30bfa8c9fc54d529d12ae2c64e4a2082 9966 gazelle-installer_23.3mx23_i386.buildinfo
+ 78666016d39ea81bab475286b5932355a61e9ad3 549180 mx-installer_23.3mx23_i386.deb
+Checksums-Sha256:
+ 9f5d30eedc32a1ac28d1f1196c6081210da20e41f42e6877731753624ba18527 657 gazelle-installer_23.3mx23.dsc
+ 6c322a950b81e6925d89bc9aae8e7dccffce94d30abb0b2df11f052f5b914155 400380 gazelle-installer_23.3mx23.tar.xz
+ e1d526453e1bd11cc1a84689c9b03bbb7535126a860b9bf2d28c60fceb454b0b 9966 gazelle-installer_23.3mx23_i386.buildinfo
+ 3a082285cc748eb69c579cee57f718081c083445e6bd81f739c34e6948485b61 549180 mx-installer_23.3mx23_i386.deb
+Files:
+ 4618cd17972afcb1e5c26303a5a084fe 657 system optional gazelle-installer_23.3mx23.dsc
+ 33cf78bd4b0a51a7e217c2fd3f884587 400380 system optional gazelle-installer_23.3mx23.tar.xz
+ bb10e51e3f16cc3ed4b0f7ed62d0d4c8 9966 system optional gazelle-installer_23.3mx23_i386.buildinfo
+ 0de193e9f45833904ad51a1808e13119 549180 system optional mx-installer_23.3mx23_i386.deb
