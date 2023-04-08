@@ -19,11 +19,11 @@ Changes:
    * Fixed auto-install swap management configuration code.
    * If allowed, default to Preserve for non-root mount points.
 Checksums-Sha1:
- 31a4e71b25f240a603e45b37f587f2c4d18cc7fe 9712 gazelle-installer_23.4mx23_i386.buildinfo
- 98f2ae1f7f9103a361c7748f1066e349c52e8c83 550528 mx-installer_23.4mx23_i386.deb
+ 556eab6a99a69f8296d99bd78ebfb4134f6c43ec 9712 gazelle-installer_23.4mx23_i386.buildinfo
+ 67b508a2d2cda3177d79f1cf60109fa87ba9990d 550592 mx-installer_23.4mx23_i386.deb
 Checksums-Sha256:
- 3c29b4c967b014b2d1b7996860dc78cb43092754f50ccaba0d06c574de8bb92b 9712 gazelle-installer_23.4mx23_i386.buildinfo
- 6fb97224c50443788aaa33f3e7eaa3cb81cc4cbeda806fb5da07e415fd422e95 550528 mx-installer_23.4mx23_i386.deb
+ 5aab33ce714c1fcecfe26677fb82a35c354a9ea5d4f5f55f570ad84b829678f1 9712 gazelle-installer_23.4mx23_i386.buildinfo
+ a19104bb2c596778aae063a6e08b0ec0204c0c7f81d673ca895ce36e8b593aa0 550592 mx-installer_23.4mx23_i386.deb
 Files:
- 839d4ee8ca9de50241e2997ecfc514c4 9712 system optional gazelle-installer_23.4mx23_i386.buildinfo
- 7f31c129423116188ad0b15735917078 550528 system optional mx-installer_23.4mx23_i386.deb
+ fd5f84bb70461ee2d0f555fa30220eee 9712 system optional gazelle-installer_23.4mx23_i386.buildinfo
+ 73b40acc78cfdd2e60afc891f1c9973f 550592 system optional mx-installer_23.4mx23_i386.deb

@@ -19,26 +19,26 @@ Changes:
    * Fixed auto-install swap management configuration code.
    * If allowed, default to Preserve for non-root mount points.
 Checksums-Sha1:
- 352368d35f6b84b4b4fa1c50621555e93933bf89 1219 gazelle-installer_23.4mx23.dsc
- 6fb8f759d5103475bc011ba2b833c2590b3cc41f 391860 gazelle-installer_23.4mx23.tar.xz
- c6b75e7bfafaf9693bf38d12be7b55db51da4f8f 10588 gazelle-installer_23.4mx23_amd64.buildinfo
+ 3ae5595ee14060698062877d2fa9808540075ffc 1219 gazelle-installer_23.4mx23.dsc
+ 516f6511abff6cc318b647d3ce869e5c0ee45eec 400824 gazelle-installer_23.4mx23.tar.xz
+ ae88f17701bbebe2507a54df438ebdf94db15a5c 10588 gazelle-installer_23.4mx23_amd64.buildinfo
 Checksums-Sha256:
- e0b32409c15b55e4ec81c128998d80573dc6f4cc0ed5c125e37d7888244ab65e 1219 gazelle-installer_23.4mx23.dsc
- c092e330c8aee9872851610252d2b30c4d9ef4eda50fd4db569cb4c6d41e49e6 391860 gazelle-installer_23.4mx23.tar.xz
- 016cf6566868d36ae9258177c99305ad568bb96fde49b1ee03839574998c271d 10588 gazelle-installer_23.4mx23_amd64.buildinfo
+ c33c7572ba82841ba22cd99699bc7e7323e69f5a8c1179532199e7347132a1e0 1219 gazelle-installer_23.4mx23.dsc
+ 87368093cba38a3bbd651acce85101048644d3e58a900e3678ee4163f8bc9bf3 400824 gazelle-installer_23.4mx23.tar.xz
+ 3299f454f8282b5c008afaa0ced00b5cae4c29138d2e22efa7d59f32a10f0337 10588 gazelle-installer_23.4mx23_amd64.buildinfo
 Files:
- d05009825c2faae7bc1d3a4022fb4c33 1219 system optional gazelle-installer_23.4mx23.dsc
- 6d121b43a169c7df5b616266b0f1d86a 391860 system optional gazelle-installer_23.4mx23.tar.xz
- 9bb9245436a298aaa3e9a9307b4a9918 10588 system optional gazelle-installer_23.4mx23_amd64.buildinfo
+ d58dee957b2ebd93ca258e98e1bd1470 1219 system optional gazelle-installer_23.4mx23.dsc
+ 022a442da35ee56c418a299c58c4b62e 400824 system optional gazelle-installer_23.4mx23.tar.xz
+ c88a403b670ae0b7a7a57e40e262019e 10588 system optional gazelle-installer_23.4mx23_amd64.buildinfo
 
 -----BEGIN PGP SIGNATURE-----
 
-iQFHBAEBCgAxFiEE8ndToY6S45N+YzXncJOMeAZ57pgFAmQw6FkTHGFkcmlhbkBt
-eGxpbnV4Lm9yZwAKCRBwk4x4BnnumNQiCADEE10ri+DfuhaW+9h9y3cSr5sAs0VO
-b5Q5fQVZM7D8/FmrM+UTJtRGD0g5/dkG7p9pR+T6cim3rz+SWwFhBxj/PUo8Rt9y
-g7zfsfuaAuqIpPvePf3QuOaIh1g+3QYAscDWujD3bkPzfVQN7yJwZaIet3fDkVke
-qG9IwXGl9dxlzszeSvJnYZyHDiRVuWnjMLstfdO/uiK/By0YUymf3KuupVVZuphu
-6Bgpwaj1Dxe6Z7fQhCOI2ZNHJ/+rqLWkwkGyMnUnQ3DV1U/SH+vE45XX6Lg4/dhi
-EdurEmSgKBc5llzF8Ou2sqgcY5v9HnOhthcrm9MeIr7NmJrDe3KmeB7H
-=yPtD
+iQFHBAEBCgAxFiEE8ndToY6S45N+YzXncJOMeAZ57pgFAmQxCKETHGFkcmlhbkBt
+eGxpbnV4Lm9yZwAKCRBwk4x4BnnumJDrCACcJnttRfPRVNjVsLLL87dG0+GXPR0Q
+P7fP537znFax2/9dHi7n+yOsdBOT/pEbgn+054rS020yxADA3uowfkChoNGf70xJ
+xJnyAi2Pa1JgDe7ZkNqI2mon9A5V9xVe7bPqCq7C1W6jPqr9kJCBrj2cid0vr83w
+LEQq1tFZpobuD3dWMymDjELvt1mPVTnyFWFx4ugv+3xFYe4cYNWKojTPyzfDB9p1
+VHa6ETaLpY4LoeP4gjWiwZZcgdDuJC/X/50rSwPIgCzWpIbE2wpcN/f/PC8hyK6k
+eZXMH73qQIkTaAZIN8+WV7p3NzWBKos9mQUvHOW7LJVKidlB4/Ltxrx1
+=84Q1
 -----END PGP SIGNATURE-----
