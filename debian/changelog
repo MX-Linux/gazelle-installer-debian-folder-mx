@@ -1,3 +1,13 @@
+gazelle-installer (23.4mx23) mx; urgency=medium
+
+  * Add hibernation support (resume variables) for swap files.  
+  * Set no-COW attribute for a swap file residing on a BTRFS volume.
+  * Moved swap file installation before boot manager installation.
+  * Fixed auto-install swap management configuration code.
+  * If allowed, default to Preserve for non-root mount points.
+
+ -- Adrian <adrian@mxlinux.org>  Sat, 08 Apr 2023 00:02:22 -0400
+
 gazelle-installer (23.3mx23) mx; urgency=medium
 
   * Update translation strings. Add new languages to src.pro

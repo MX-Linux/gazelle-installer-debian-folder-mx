@@ -1,0 +1,44 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+Format: 1.8
+Date: Sat, 08 Apr 2023 00:02:22 -0400
+Source: gazelle-installer
+Architecture: source
+Version: 23.4mx23
+Distribution: mx
+Urgency: medium
+Maintainer: dolphinoracle <dolphinoracle@gmail.com>
+Changed-By: Adrian <adrian@mxlinux.org>
+Changes:
+ gazelle-installer (23.4mx23) mx; urgency=medium
+ .
+   * Add hibernation support (resume variables) for swap files.
+   * Set no-COW attribute for a swap file residing on a BTRFS volume.
+   * Moved swap file installation before boot manager installation.
+   * Fixed auto-install swap management configuration code.
+   * If allowed, default to Preserve for non-root mount points.
+Checksums-Sha1:
+ 352368d35f6b84b4b4fa1c50621555e93933bf89 1219 gazelle-installer_23.4mx23.dsc
+ 6fb8f759d5103475bc011ba2b833c2590b3cc41f 391860 gazelle-installer_23.4mx23.tar.xz
+ c6b75e7bfafaf9693bf38d12be7b55db51da4f8f 10588 gazelle-installer_23.4mx23_amd64.buildinfo
+Checksums-Sha256:
+ e0b32409c15b55e4ec81c128998d80573dc6f4cc0ed5c125e37d7888244ab65e 1219 gazelle-installer_23.4mx23.dsc
+ c092e330c8aee9872851610252d2b30c4d9ef4eda50fd4db569cb4c6d41e49e6 391860 gazelle-installer_23.4mx23.tar.xz
+ 016cf6566868d36ae9258177c99305ad568bb96fde49b1ee03839574998c271d 10588 gazelle-installer_23.4mx23_amd64.buildinfo
+Files:
+ d05009825c2faae7bc1d3a4022fb4c33 1219 system optional gazelle-installer_23.4mx23.dsc
+ 6d121b43a169c7df5b616266b0f1d86a 391860 system optional gazelle-installer_23.4mx23.tar.xz
+ 9bb9245436a298aaa3e9a9307b4a9918 10588 system optional gazelle-installer_23.4mx23_amd64.buildinfo
+
+-----BEGIN PGP SIGNATURE-----
+
+iQFHBAEBCgAxFiEE8ndToY6S45N+YzXncJOMeAZ57pgFAmQw6FkTHGFkcmlhbkBt
+eGxpbnV4Lm9yZwAKCRBwk4x4BnnumNQiCADEE10ri+DfuhaW+9h9y3cSr5sAs0VO
+b5Q5fQVZM7D8/FmrM+UTJtRGD0g5/dkG7p9pR+T6cim3rz+SWwFhBxj/PUo8Rt9y
+g7zfsfuaAuqIpPvePf3QuOaIh1g+3QYAscDWujD3bkPzfVQN7yJwZaIet3fDkVke
+qG9IwXGl9dxlzszeSvJnYZyHDiRVuWnjMLstfdO/uiK/By0YUymf3KuupVVZuphu
+6Bgpwaj1Dxe6Z7fQhCOI2ZNHJ/+rqLWkwkGyMnUnQ3DV1U/SH+vE45XX6Lg4/dhi
+EdurEmSgKBc5llzF8Ou2sqgcY5v9HnOhthcrm9MeIr7NmJrDe3KmeB7H
+=yPtD
+-----END PGP SIGNATURE-----

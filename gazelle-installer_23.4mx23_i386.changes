@@ -1,0 +1,29 @@
+Format: 1.8
+Date: Sat, 08 Apr 2023 00:02:22 -0400
+Source: gazelle-installer
+Binary: mx-installer
+Architecture: i386
+Version: 23.4mx23
+Distribution: mx
+Urgency: medium
+Maintainer: dolphinoracle <dolphinoracle@gmail.com>
+Changed-By: Adrian <adrian@mxlinux.org>
+Description:
+ mx-installer - Customizable GUI installer for MX Linux and antiX Linux
+Changes:
+ gazelle-installer (23.4mx23) mx; urgency=medium
+ .
+   * Add hibernation support (resume variables) for swap files.
+   * Set no-COW attribute for a swap file residing on a BTRFS volume.
+   * Moved swap file installation before boot manager installation.
+   * Fixed auto-install swap management configuration code.
+   * If allowed, default to Preserve for non-root mount points.
+Checksums-Sha1:
+ 31a4e71b25f240a603e45b37f587f2c4d18cc7fe 9712 gazelle-installer_23.4mx23_i386.buildinfo
+ 98f2ae1f7f9103a361c7748f1066e349c52e8c83 550528 mx-installer_23.4mx23_i386.deb
+Checksums-Sha256:
+ 3c29b4c967b014b2d1b7996860dc78cb43092754f50ccaba0d06c574de8bb92b 9712 gazelle-installer_23.4mx23_i386.buildinfo
+ 6fb97224c50443788aaa33f3e7eaa3cb81cc4cbeda806fb5da07e415fd422e95 550528 mx-installer_23.4mx23_i386.deb
+Files:
+ 839d4ee8ca9de50241e2997ecfc514c4 9712 system optional gazelle-installer_23.4mx23_i386.buildinfo
+ 7f31c129423116188ad0b15735917078 550528 system optional mx-installer_23.4mx23_i386.deb
