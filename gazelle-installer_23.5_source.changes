@@ -1,0 +1,43 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+Format: 1.8
+Date: Mon, 01 May 2023 21:17:15 -0400
+Source: gazelle-installer
+Architecture: source
+Version: 23.5
+Distribution: mx
+Urgency: medium
+Maintainer: dolphinoracle <dolphinoracle@gmail.com>
+Changed-By: Adrian <adrian@mxlinux.org>
+Changes:
+ gazelle-installer (23.5) mx; urgency=medium
+ .
+   * Handle additional XFCE clock plugins turning time config.
+   * Set permissions of home folder per adduser.conf settings.
+   * Fix use-after-free when deleting a partition or subvolume.
+   * Relax some volume use size restrictions internally.
+Checksums-Sha1:
+ 8d29c04fe1d913e9045126ed87d9208bbeab6c07 1203 gazelle-installer_23.5.dsc
+ ac1991e08a266e35ca06c1d895ab4374b7b22c90 393740 gazelle-installer_23.5.tar.xz
+ cfcf03e92f91e82ce12bbeabe65ddde1f44c6049 10375 gazelle-installer_23.5_amd64.buildinfo
+Checksums-Sha256:
+ c63e6fc17c588d4cdd322907fd7fd544eb91839b024d91117fadcd0219404e2a 1203 gazelle-installer_23.5.dsc
+ a1616a093b5df7e3ea2d491c872e09143d8a49c378a4232c05a6fde01a380e6d 393740 gazelle-installer_23.5.tar.xz
+ ac8a17edc47648202e153b1f49f3d4045ef5749f2bdd2efbf3960ddcfc05c8b1 10375 gazelle-installer_23.5_amd64.buildinfo
+Files:
+ 7650a9d94973d7739c0ee66828e9fb2a 1203 system optional gazelle-installer_23.5.dsc
+ 444193867db460441c562f5268332c6e 393740 system optional gazelle-installer_23.5.tar.xz
+ 183c5f09ea2a0d98919b90414108dcbc 10375 system optional gazelle-installer_23.5_amd64.buildinfo
+
+-----BEGIN PGP SIGNATURE-----
+
+iQFHBAEBCgAxFiEE8ndToY6S45N+YzXncJOMeAZ57pgFAmRQZUcTHGFkcmlhbkBt
+eGxpbnV4Lm9yZwAKCRBwk4x4BnnumNQ5B/9EcFaO9M4BvHRt72ICbahDWdJbLJbQ
+NPTlqd7LOSfInzgcNUXlK0sGQIvTtTqBr7ivR81vdz1AtxEvu+hobLFdUI9hIzgl
+IyJR1TbKbWqjyto3nCHzOMIIIIj6lK8Bmaekwy8ya+cibOUNJkDUa/xhVApcKt8b
+z7Iru71/WqWaYv0iD54EzZI3k5Z4apubKZiaxABq4xSFJTRX4/Ou7XeIueJ1tVff
+YrEj5QUYthdPK5488TNXkcCg/5BXaRBdFlrC2qCvVGPAzc6CwTDF1Yhs0LvETSs+
+rePPDob3+kRI2znYYslBEfAPa87wPo+lbHRx905rGyeQX1j8KK4Bse5R
+=oO88
+-----END PGP SIGNATURE-----

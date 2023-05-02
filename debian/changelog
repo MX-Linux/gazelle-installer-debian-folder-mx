@@ -1,3 +1,12 @@
+gazelle-installer (23.5) mx; urgency=medium
+
+  * Handle additional XFCE clock plugins turning time config.
+  * Set permissions of home folder per adduser.conf settings.
+  * Fix use-after-free when deleting a partition or subvolume.
+  * Relax some volume use size restrictions internally.
+
+ -- Adrian <adrian@mxlinux.org>  Mon, 01 May 2023 21:17:15 -0400
+
 gazelle-installer (22.12) mx; urgency=medium
 
   * Run grub-install only if selected
