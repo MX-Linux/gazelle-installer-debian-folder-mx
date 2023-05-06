@@ -1,3 +1,21 @@
+gazelle-installer (23.5mx23) mx; urgency=medium
+
+  * GUI improvements and fixes, including help text fixes.
+  * Swap file and hibernation support fixes and improvements.
+  * Refresh all UUIDs using one lsblk process.
+  * Fixed incorrect default for the local vs UTC check box.
+  * Fixed: Next not enabled after going backwards to user account page.
+  * New automatic partitioning module replaces default layout mechanism.
+  * Improved slider responsiveness, add size recommendations to tool tips.
+  * New layout builder GUI, replaces layout templates.
+  * Improved disk partition recommendations.
+  * Optimise update-initramfs with MODULES=dep in the configuration.
+  * Stop installation if any part of the boot manager install fails.
+  * Eliminated media MD5 checks. Log the live boot options.
+  * Added spin boxes for fine-grained control of slider portions.
+
+ -- Adrian <adrian@mxlinux.org>  Fri, 05 May 2023 09:44:55 -0400
+
 gazelle-installer (23.4mx23) mx; urgency=medium
 
   * Add hibernation support (resume variables) for swap files.  

@@ -1,0 +1,37 @@
+Format: 1.8
+Date: Fri, 05 May 2023 09:44:55 -0400
+Source: gazelle-installer
+Binary: mx-installer
+Architecture: i386
+Version: 23.5mx23
+Distribution: mx
+Urgency: medium
+Maintainer: dolphinoracle <dolphinoracle@gmail.com>
+Changed-By: Adrian <adrian@mxlinux.org>
+Description:
+ mx-installer - Customizable GUI installer for MX Linux and antiX Linux
+Changes:
+ gazelle-installer (23.5mx23) mx; urgency=medium
+ .
+   * GUI improvements and fixes, including help text fixes.
+   * Swap file and hibernation support fixes and improvements.
+   * Refresh all UUIDs using one lsblk process.
+   * Fixed incorrect default for the local vs UTC check box.
+   * Fixed: Next not enabled after going backwards to user account page.
+   * New automatic partitioning module replaces default layout mechanism.
+   * Improved slider responsiveness, add size recommendations to tool tips.
+   * New layout builder GUI, replaces layout templates.
+   * Improved disk partition recommendations.
+   * Optimise update-initramfs with MODULES=dep in the configuration.
+   * Stop installation if any part of the boot manager install fails.
+   * Eliminated media MD5 checks. Log the live boot options.
+   * Added spin boxes for fine-grained control of slider portions.
+Checksums-Sha1:
+ 3049fb2fd7252030f6c6143c4c299e26f06bb41c 9838 gazelle-installer_23.5mx23_i386.buildinfo
+ 9082a1055e392b216a25564cd8922c99727ca969 556264 mx-installer_23.5mx23_i386.deb
+Checksums-Sha256:
+ 04d7b18099f9358d8bb5467eafba115d5b371eebfe33fa5794f7524f915f817a 9838 gazelle-installer_23.5mx23_i386.buildinfo
+ b2c2cf4302a5ec64bc140ef52b7a3681abcb75ebc6fe49f3398c538e34ce13e4 556264 mx-installer_23.5mx23_i386.deb
+Files:
+ c6099dc4d8cbdf56d395c8f1e23703c8 9838 system optional gazelle-installer_23.5mx23_i386.buildinfo
+ a4132ac9cf0e151f72a1785daef3872e 556264 system optional mx-installer_23.5mx23_i386.deb

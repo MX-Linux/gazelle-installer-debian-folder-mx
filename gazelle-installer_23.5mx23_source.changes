@@ -1,0 +1,52 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+Format: 1.8
+Date: Fri, 05 May 2023 09:44:55 -0400
+Source: gazelle-installer
+Architecture: source
+Version: 23.5mx23
+Distribution: mx
+Urgency: medium
+Maintainer: dolphinoracle <dolphinoracle@gmail.com>
+Changed-By: Adrian <adrian@mxlinux.org>
+Changes:
+ gazelle-installer (23.5mx23) mx; urgency=medium
+ .
+   * GUI improvements and fixes, including help text fixes.
+   * Swap file and hibernation support fixes and improvements.
+   * Refresh all UUIDs using one lsblk process.
+   * Fixed incorrect default for the local vs UTC check box.
+   * Fixed: Next not enabled after going backwards to user account page.
+   * New automatic partitioning module replaces default layout mechanism.
+   * Improved slider responsiveness, add size recommendations to tool tips.
+   * New layout builder GUI, replaces layout templates.
+   * Improved disk partition recommendations.
+   * Optimise update-initramfs with MODULES=dep in the configuration.
+   * Stop installation if any part of the boot manager install fails.
+   * Eliminated media MD5 checks. Log the live boot options.
+   * Added spin boxes for fine-grained control of slider portions.
+Checksums-Sha1:
+ 6ddcca04ccc0b01a55c5be11e12f47a9bb62ecec 1237 gazelle-installer_23.5mx23.dsc
+ 113e720aa4b1c135b1617fe81c8920f12c4bffaa 394828 gazelle-installer_23.5mx23.tar.xz
+ 29dda92ac9215360722867b9569e7c5f4bb104f6 10714 gazelle-installer_23.5mx23_amd64.buildinfo
+Checksums-Sha256:
+ 3ba0c25821e676a05da3d3ecb19abfa809c3e5af0961d9768107ba664cbbd8c4 1237 gazelle-installer_23.5mx23.dsc
+ e989783eb54c432e745807ea71942ec95b372c0708aaf8e1c158e5a53e103fc9 394828 gazelle-installer_23.5mx23.tar.xz
+ 78214da84c5a7730f6429819431a6deeed2c51d817114eebc12e961a11d341fb 10714 gazelle-installer_23.5mx23_amd64.buildinfo
+Files:
+ ca39d47d9717b4975cbd157a9f9281de 1237 system optional gazelle-installer_23.5mx23.dsc
+ 3a85438e11f07dc74af59d4eb0f8373a 394828 system optional gazelle-installer_23.5mx23.tar.xz
+ 0734f671734277ecf23e36e697b73d84 10714 system optional gazelle-installer_23.5mx23_amd64.buildinfo
+
+-----BEGIN PGP SIGNATURE-----
+
+iQFHBAEBCgAxFiEE8ndToY6S45N+YzXncJOMeAZ57pgFAmRVuggTHGFkcmlhbkBt
+eGxpbnV4Lm9yZwAKCRBwk4x4BnnumLAlB/9nrJA90naPNQQ9zrKy0ioAUasBPfLi
+aXV4XfD/HPDTdR3uefU1HPqg8BeCSy4b9wPjMuf2g8A+0lICydnNmCmptTnl9Ubc
+7KSuYB4fKtuD607F5O3AWHLuUCJXtXPWuoFNjFZoTULsEc9+eXllSGMo19rM9ZJt
+5dB+iUebCMcIVdOhtzdpgHG9wyzuQp/wIKDdxrK8ZJn8spfdsHLAb1ITuVrNPt4+
+zlr7tEQ8BEWEhbnaNHRPOs3f+qs1Sy9RW4jHWGlBfj90M/W1IGCCTRvoVguwO3yD
+WS2UAOfrd4aX/2i93Eky8j1S66EBSveGWLZjGENxxDdoVzt0ErSM1yDk
+=QfK6
+-----END PGP SIGNATURE-----
