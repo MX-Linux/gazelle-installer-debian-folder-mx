@@ -1,3 +1,10 @@
+gazelle-installer (23.5.01mx23) mx; urgency=medium
+
+  * Fixed: wrong initramfs.conf modified.
+  * Fixed: pushNext enabled on empty password if adding encrypted partitions using the Layout Builder.
+
+ -- Adrian <adrian@mxlinux.org>  Sat, 06 May 2023 13:51:49 -0400
+
 gazelle-installer (23.5mx23) mx; urgency=medium
 
   * GUI improvements and fixes, including help text fixes.
