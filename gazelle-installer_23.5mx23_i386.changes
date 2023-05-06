@@ -27,11 +27,11 @@ Changes:
    * Eliminated media MD5 checks. Log the live boot options.
    * Added spin boxes for fine-grained control of slider portions.
 Checksums-Sha1:
- 3049fb2fd7252030f6c6143c4c299e26f06bb41c 9838 gazelle-installer_23.5mx23_i386.buildinfo
- 9082a1055e392b216a25564cd8922c99727ca969 556264 mx-installer_23.5mx23_i386.deb
+ 733ecd4e542f786670b8c0cc43c534e6d844d198 9712 gazelle-installer_23.5mx23_i386.buildinfo
+ 81e675533b426b9b08fa17ab743c9916f3641235 554780 mx-installer_23.5mx23_i386.deb
 Checksums-Sha256:
- 04d7b18099f9358d8bb5467eafba115d5b371eebfe33fa5794f7524f915f817a 9838 gazelle-installer_23.5mx23_i386.buildinfo
- b2c2cf4302a5ec64bc140ef52b7a3681abcb75ebc6fe49f3398c538e34ce13e4 556264 mx-installer_23.5mx23_i386.deb
+ 3a1e3ddb1876679f824a46b3c9cdf77b64284bd0266713bc26a8bae67ac5bd81 9712 gazelle-installer_23.5mx23_i386.buildinfo
+ 804020c8d21a47c6aaa0cbf0da8f07238edf62370adf01175998e5e5a6249469 554780 mx-installer_23.5mx23_i386.deb
 Files:
- c6099dc4d8cbdf56d395c8f1e23703c8 9838 system optional gazelle-installer_23.5mx23_i386.buildinfo
- a4132ac9cf0e151f72a1785daef3872e 556264 system optional mx-installer_23.5mx23_i386.deb
+ 2fe602434563e713351b1b3d11655541 9712 system optional gazelle-installer_23.5mx23_i386.buildinfo
+ 8bf91a38fec3ef00e0729e278e0cc264 554780 system optional mx-installer_23.5mx23_i386.deb

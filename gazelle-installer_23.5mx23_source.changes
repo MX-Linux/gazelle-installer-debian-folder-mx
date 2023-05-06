@@ -27,26 +27,26 @@ Changes:
    * Eliminated media MD5 checks. Log the live boot options.
    * Added spin boxes for fine-grained control of slider portions.
 Checksums-Sha1:
- 6ddcca04ccc0b01a55c5be11e12f47a9bb62ecec 1237 gazelle-installer_23.5mx23.dsc
- 113e720aa4b1c135b1617fe81c8920f12c4bffaa 394828 gazelle-installer_23.5mx23.tar.xz
- 29dda92ac9215360722867b9569e7c5f4bb104f6 10714 gazelle-installer_23.5mx23_amd64.buildinfo
+ ab84cd088b6869859ac075c62c94344d298a5353 1219 gazelle-installer_23.5mx23.dsc
+ 33063c9c7a95caff2c7b3b616c0e1b192f60c7c5 394240 gazelle-installer_23.5mx23.tar.xz
+ fc4a4fc6c5daef73ddff07ba402fd5d74015f81d 10588 gazelle-installer_23.5mx23_amd64.buildinfo
 Checksums-Sha256:
- 3ba0c25821e676a05da3d3ecb19abfa809c3e5af0961d9768107ba664cbbd8c4 1237 gazelle-installer_23.5mx23.dsc
- e989783eb54c432e745807ea71942ec95b372c0708aaf8e1c158e5a53e103fc9 394828 gazelle-installer_23.5mx23.tar.xz
- 78214da84c5a7730f6429819431a6deeed2c51d817114eebc12e961a11d341fb 10714 gazelle-installer_23.5mx23_amd64.buildinfo
+ 220423d5c9037217a307d6ef9cdc8084c17251874fddb61a412b28f549b25483 1219 gazelle-installer_23.5mx23.dsc
+ 5fe063367dc6ceea53b226b99ea070340a61b8b1458953fb3fe1a82d75efb558 394240 gazelle-installer_23.5mx23.tar.xz
+ edf4f693202667bf35ed3946cbb7ab15d8779218cee2078873f4b3665262ff26 10588 gazelle-installer_23.5mx23_amd64.buildinfo
 Files:
- ca39d47d9717b4975cbd157a9f9281de 1237 system optional gazelle-installer_23.5mx23.dsc
- 3a85438e11f07dc74af59d4eb0f8373a 394828 system optional gazelle-installer_23.5mx23.tar.xz
- 0734f671734277ecf23e36e697b73d84 10714 system optional gazelle-installer_23.5mx23_amd64.buildinfo
+ 2abe5d718eebb10b6b85e69d0017597f 1219 system optional gazelle-installer_23.5mx23.dsc
+ 24eb811c3bd04d8e158534746f4fbe2c 394240 system optional gazelle-installer_23.5mx23.tar.xz
+ ac56e30d724e435a6cea54a0e6d0bc49 10588 system optional gazelle-installer_23.5mx23_amd64.buildinfo
 
 -----BEGIN PGP SIGNATURE-----
 
-iQFHBAEBCgAxFiEE8ndToY6S45N+YzXncJOMeAZ57pgFAmRVuggTHGFkcmlhbkBt
-eGxpbnV4Lm9yZwAKCRBwk4x4BnnumLAlB/9nrJA90naPNQQ9zrKy0ioAUasBPfLi
-aXV4XfD/HPDTdR3uefU1HPqg8BeCSy4b9wPjMuf2g8A+0lICydnNmCmptTnl9Ubc
-7KSuYB4fKtuD607F5O3AWHLuUCJXtXPWuoFNjFZoTULsEc9+eXllSGMo19rM9ZJt
-5dB+iUebCMcIVdOhtzdpgHG9wyzuQp/wIKDdxrK8ZJn8spfdsHLAb1ITuVrNPt4+
-zlr7tEQ8BEWEhbnaNHRPOs3f+qs1Sy9RW4jHWGlBfj90M/W1IGCCTRvoVguwO3yD
-WS2UAOfrd4aX/2i93Eky8j1S66EBSveGWLZjGENxxDdoVzt0ErSM1yDk
-=QfK6
+iQFHBAEBCgAxFiEE8ndToY6S45N+YzXncJOMeAZ57pgFAmRVxycTHGFkcmlhbkBt
+eGxpbnV4Lm9yZwAKCRBwk4x4BnnumL+YB/9C3eoCFPQujG2z67Ttq1VshEdskaB1
+4QwEzB1fHDNrGOTo2jpUg37404Gy6cI9jW3diOXbeB9ubH6k+pMttq3hC8SLIs9s
+A3v8zjEaahLDGVkgUrC4wuEq4feSZ45UOxhGFJ+ny70wsqukD71FaoXYcvG3L6pO
+8j7v90d+yz3WYPnS56zKzYhM/xyYAqngW9q0d5RZRK0s1fEofg+nh5CncaICX0er
+Vde0h0nSrZSHonFnAy0a7OxPG/mJY09HFtNaTsJP+wkkrGVPo69g+qqyjz1x36wb
+3WVz/3WxVMqfcZ6WgZnESjlqpXtbAn4JLfp6YFSVuBKN6J0GdpZHxV7B
+=tuR3
 -----END PGP SIGNATURE-----
