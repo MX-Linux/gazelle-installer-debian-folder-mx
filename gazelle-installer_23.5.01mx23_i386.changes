@@ -1,0 +1,26 @@
+Format: 1.8
+Date: Sat, 06 May 2023 13:51:49 -0400
+Source: gazelle-installer
+Binary: mx-installer
+Architecture: i386
+Version: 23.5.01mx23
+Distribution: mx
+Urgency: medium
+Maintainer: dolphinoracle <dolphinoracle@gmail.com>
+Changed-By: Adrian <adrian@mxlinux.org>
+Description:
+ mx-installer - Customizable GUI installer for MX Linux and antiX Linux
+Changes:
+ gazelle-installer (23.5.01mx23) mx; urgency=medium
+ .
+   * Fixed: wrong initramfs.conf modified.
+   * Fixed: pushNext enabled on empty password if adding encrypted partitions using the Layout Builder.
+Checksums-Sha1:
+ 057671e65f62cf9c884f423c6745461731463f97 9727 gazelle-installer_23.5.01mx23_i386.buildinfo
+ 4b8eee749825a10aea08417f46e9e9613f99b06f 556240 mx-installer_23.5.01mx23_i386.deb
+Checksums-Sha256:
+ fd2d13f669aa7eaaa44d293e34f9dafdca89c8ec90a432480499b3113d74a401 9727 gazelle-installer_23.5.01mx23_i386.buildinfo
+ b38152e97ea948ec236f90d2ecde2ac24a12a63496101f6667ff50be87d18c9c 556240 mx-installer_23.5.01mx23_i386.deb
+Files:
+ 643cda84f6fa96f06bd05d36116e3220 9727 system optional gazelle-installer_23.5.01mx23_i386.buildinfo
+ 42fdc9f51dfaa688085999c1b31165a1 556240 system optional mx-installer_23.5.01mx23_i386.deb

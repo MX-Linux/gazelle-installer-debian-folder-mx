@@ -1,0 +1,41 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+Format: 1.8
+Date: Sat, 06 May 2023 13:51:49 -0400
+Source: gazelle-installer
+Architecture: source
+Version: 23.5.01mx23
+Distribution: mx
+Urgency: medium
+Maintainer: dolphinoracle <dolphinoracle@gmail.com>
+Changed-By: Adrian <adrian@mxlinux.org>
+Changes:
+ gazelle-installer (23.5.01mx23) mx; urgency=medium
+ .
+   * Fixed: wrong initramfs.conf modified.
+   * Fixed: pushNext enabled on empty password if adding encrypted partitions using the Layout Builder.
+Checksums-Sha1:
+ d3807223cba970bafe77b37cc1a10f17a0d2b340 1231 gazelle-installer_23.5.01mx23.dsc
+ 9a5c052ae74bb7009338f4cffc6c8bda517ddb36 387876 gazelle-installer_23.5.01mx23.tar.xz
+ 182174fecf75c607780937076877c39a73a3f782 10612 gazelle-installer_23.5.01mx23_amd64.buildinfo
+Checksums-Sha256:
+ 00dbb56d91938b4ee3ac1ace07542e203d02e2dafc55fc37b99d683b886955e1 1231 gazelle-installer_23.5.01mx23.dsc
+ 15fc8df6e101071be977b441a2a70f460b8d8c1fff85d3656887ce672a74e6e8 387876 gazelle-installer_23.5.01mx23.tar.xz
+ ba01fbb1d317f045e536f16be0e17da4483f93fb400260efc627bd79e2749d5e 10612 gazelle-installer_23.5.01mx23_amd64.buildinfo
+Files:
+ 3e9f8f2cc3c400a690bdb3590842076a 1231 system optional gazelle-installer_23.5.01mx23.dsc
+ f29cf1ad7daa29c85c822408a92801f2 387876 system optional gazelle-installer_23.5.01mx23.tar.xz
+ b3eb9957ebb014d1b4065b6bac61f38f 10612 system optional gazelle-installer_23.5.01mx23_amd64.buildinfo
+
+-----BEGIN PGP SIGNATURE-----
+
+iQFHBAEBCgAxFiEE8ndToY6S45N+YzXncJOMeAZ57pgFAmRWlIwTHGFkcmlhbkBt
+eGxpbnV4Lm9yZwAKCRBwk4x4BnnumCiVCACLgzQ9RA8FIJ/OA4GQIpE7rCKZJ1oE
+/Ht+R4ZKcqsZSdk4pYKhB75qtU4RDYJsznsAGSWpNtNcb9YKiUMK0a9aXubR8Yuc
+Y2EbitTTD/akzvugw9uXiz6GeBGdzHI/QjodFEIAsHWwHDk66ncEJr1aNBRmQiTq
+KyAQzsIdyYmdeejKKJ1R9KbLeuDNJZyBhF4QWNky6i0V6f9M/8NRtJ+q0jBOzeS0
+uLgBtlC7Cf8UGuQ15DZIvhZdJBlPsYmnCJir0sQCVDE8uVV8hD3SZ1BnsuqhxwJW
+iOLRTM/szPMxxCuUCxAhjQU9eqhQnO4Y48KN5s8ulpyOqkQcCBT/q/oJ
+=VgCT
+-----END PGP SIGNATURE-----
