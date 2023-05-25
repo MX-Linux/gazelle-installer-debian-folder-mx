@@ -1,0 +1,46 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+Format: 1.8
+Date: Thu, 25 May 2023 10:56:24 -0400
+Source: gazelle-installer
+Binary: mx-installer
+Architecture: source amd64
+Version: 23.5.02mx23
+Distribution: mx
+Urgency: medium
+Maintainer: dolphinoracle <dolphinoracle@gmail.com>
+Changed-By: Adrian <adrian@mxlinux.org>
+Description:
+ mx-installer - Customizable GUI installer for MX Linux and antiX Linux
+Changes:
+ gazelle-installer (23.5.02mx23) mx; urgency=medium
+ .
+   * Set Grub MBR debconf values
+Checksums-Sha1:
+ d64835e2874d3bbf69db69359a595d18cacca6ae 1231 gazelle-installer_23.5.02mx23.dsc
+ 4ba50684cfee443e2063cf388dc3c19099213952 387648 gazelle-installer_23.5.02mx23.tar.xz
+ 566f21a8eb91cebaef940331c8394a47868ba770 10612 gazelle-installer_23.5.02mx23_amd64.buildinfo
+ cf5f9c5eab87f806404e6b10aef40c065867c127 540832 mx-installer_23.5.02mx23_amd64.deb
+Checksums-Sha256:
+ 3a0635236a925f0673c6f55b61c6560b0ef01d85b9065d1008c7c9916e506beb 1231 gazelle-installer_23.5.02mx23.dsc
+ 50bb7447e1c89ad9b29054941b927c87f1b2f6c5dc3209a4ed0e96351f488380 387648 gazelle-installer_23.5.02mx23.tar.xz
+ ee79aeb15d662f45b05c4ab81661444e108d1d64d99d74e971c61fa28d4ca0cb 10612 gazelle-installer_23.5.02mx23_amd64.buildinfo
+ 3adcacf1d4bdafe32b4f5c5e7b83af213c6d42f58f8d6289f17af47fae4d956d 540832 mx-installer_23.5.02mx23_amd64.deb
+Files:
+ 25d5443faaa7b831332f9e94ea0106cc 1231 system optional gazelle-installer_23.5.02mx23.dsc
+ f98b1dc5abac918fd4e15743d3250edd 387648 system optional gazelle-installer_23.5.02mx23.tar.xz
+ fe46aaab83b29101181aa08b79a73446 10612 system optional gazelle-installer_23.5.02mx23_amd64.buildinfo
+ 5c4a77266a448b4e12e095ec50f88d6c 540832 system optional mx-installer_23.5.02mx23_amd64.deb
+
+-----BEGIN PGP SIGNATURE-----
+
+iQFHBAEBCgAxFiEE8ndToY6S45N+YzXncJOMeAZ57pgFAmRvsSITHGFkcmlhbkBt
+eGxpbnV4Lm9yZwAKCRBwk4x4BnnumC+fB/9FPoSpctXBtV/YUZF9NkZ1TT/utSaj
+atuhrmTMdZZ7hLcsaOpPYSPDqBewDjaSSKM12ZQpymCsSUaxIcC8Cd0HVg3oBwtJ
+c4RRbW2E+mENXIbqdvOAxVMk01xUJPcL0GnPqlS3dCnW4YHJHJrinvCllrZjblrq
+8dO9j9s2Gl9CWd7d2oAraBZG25MkUQu1lfpxdLNe7jhEhlYZuaDc3xPvNRONR7QD
+c2sSVhO33dZVhNWcjTKUZBYT7vPQ5yi2MjgOnaZScJAtHNpMCFLtK3fHfuRGounE
+poSJd8FUFyTeyhryVckacHsuXhn3or4BpXtfMP6+L3X2DRLE0XdE6KO8
+=gAT6
+-----END PGP SIGNATURE-----
