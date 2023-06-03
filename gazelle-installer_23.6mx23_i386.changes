@@ -1,0 +1,25 @@
+Format: 1.8
+Date: Sat, 03 Jun 2023 00:48:38 -0400
+Source: gazelle-installer
+Binary: mx-installer
+Architecture: i386
+Version: 23.6mx23
+Distribution: mx
+Urgency: medium
+Maintainer: dolphinoracle <dolphinoracle@gmail.com>
+Changed-By: Adrian <adrian@mxlinux.org>
+Description:
+ mx-installer - Customizable GUI installer for MX Linux and antiX Linux
+Changes:
+ gazelle-installer (23.6mx23) mx; urgency=medium
+ .
+   * Fixed empty UUIDs added to btrfs subvolume fstab lines.
+Checksums-Sha1:
+ 9d9ea1a65604c4ef65973f31c2305fae0a2ad4af 9712 gazelle-installer_23.6mx23_i386.buildinfo
+ b7e90d7f6803addeca98c234dd86e8a6492ee0bb 558744 mx-installer_23.6mx23_i386.deb
+Checksums-Sha256:
+ 3c87de70a9c83b7524856eef3e3fc2a111c20d93707427706f5e093f46aa0e52 9712 gazelle-installer_23.6mx23_i386.buildinfo
+ c22c998711911fd312d0d8022fca883caebeef430334d5a77d1828ac7bad1d7b 558744 mx-installer_23.6mx23_i386.deb
+Files:
+ 6206c5d2d3692393e158ba3eccbd4021 9712 system optional gazelle-installer_23.6mx23_i386.buildinfo
+ b1a1b48ff7af02c681084603b355f665 558744 system optional mx-installer_23.6mx23_i386.deb

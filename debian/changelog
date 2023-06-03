@@ -1,3 +1,9 @@
+gazelle-installer (23.6mx23) mx; urgency=medium
+
+  * Fixed empty UUIDs added to btrfs subvolume fstab lines.
+
+ -- Adrian <adrian@mxlinux.org>  Sat, 03 Jun 2023 00:48:38 -0400
+
 gazelle-installer (23.5.02mx23) mx; urgency=medium
 
   * Set Grub MBR debconf values
