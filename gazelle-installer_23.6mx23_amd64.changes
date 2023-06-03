@@ -1,0 +1,46 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+Format: 1.8
+Date: Sat, 03 Jun 2023 00:48:38 -0400
+Source: gazelle-installer
+Binary: mx-installer
+Architecture: source amd64
+Version: 23.6mx23
+Distribution: mx
+Urgency: medium
+Maintainer: dolphinoracle <dolphinoracle@gmail.com>
+Changed-By: Adrian <adrian@mxlinux.org>
+Description:
+ mx-installer - Customizable GUI installer for MX Linux and antiX Linux
+Changes:
+ gazelle-installer (23.6mx23) mx; urgency=medium
+ .
+   * Fixed empty UUIDs added to btrfs subvolume fstab lines.
+Checksums-Sha1:
+ 777c06cc02267477497ebce1cfdb6db72ef1ad7d 1219 gazelle-installer_23.6mx23.dsc
+ 7695969e36ff4c74a0daf60cc73771a46418a044 388040 gazelle-installer_23.6mx23.tar.xz
+ b89a93edc77e587674719e37371690b6074f0452 10588 gazelle-installer_23.6mx23_amd64.buildinfo
+ c653f294891774caf0275bf64c53183dc39b0a54 540916 mx-installer_23.6mx23_amd64.deb
+Checksums-Sha256:
+ dc088842f6fdb1ca7bde40ae8c0f3b75d69a31837dc65412a60ff4642d4221bd 1219 gazelle-installer_23.6mx23.dsc
+ 3da1abe441f85215691ee0faa05a2187bda41fa852749d372124b9035b9f9f5a 388040 gazelle-installer_23.6mx23.tar.xz
+ 8810199ab5ea1759d99dea6cee727e0008b49ca9c09ddc5cd52bf5503195b810 10588 gazelle-installer_23.6mx23_amd64.buildinfo
+ 5d9338f53e159153cb04e6d8348b86312941ad8fe490167575f0e80dcc5e3a7f 540916 mx-installer_23.6mx23_amd64.deb
+Files:
+ 23959b0efdb43d5b99f11aeb069a061c 1219 system optional gazelle-installer_23.6mx23.dsc
+ c90e4a4640bc9ea4967f6d2531be2951 388040 system optional gazelle-installer_23.6mx23.tar.xz
+ e4dc3a4714ce47d33048916db218b65b 10588 system optional gazelle-installer_23.6mx23_amd64.buildinfo
+ 8172c293cec41de22c9b47693c302414 540916 system optional mx-installer_23.6mx23_amd64.deb
+
+-----BEGIN PGP SIGNATURE-----
+
+iQFHBAEBCgAxFiEE8ndToY6S45N+YzXncJOMeAZ57pgFAmR6xsITHGFkcmlhbkBt
+eGxpbnV4Lm9yZwAKCRBwk4x4BnnumFUuB/9T6VzCf3tGJtYwVmax1o0e8kweVJmV
+DTrzZYMbOLsb2eBj9LHCc99BV0Noui28AZ6D6hKJVnler5ydg031nDm9JZ3MRABq
+ozY2KY8LFOUNqdPhfpAeDqJRdL7Ic40QcdaY/NDjFTKTWtq5a1Up0p3K1zbBllke
+GQRPWd4EELURAMJF3LQma7EnWz1qQrryQ7s1Pz+oc7XFrbJFjDMy+szwr9PmxQvC
+E6QpBywPOzuG+erCb7nd4R9C3iShYCS3UWYfEEwtmLigouwJjOGimVCHjKDfTFa8
+vqCZpu/jMqMGgxQqXofl7h+VEjlqZzmImYtvT+OODw48ybBDXhGWyjNZ
+=uvZY
+-----END PGP SIGNATURE-----
