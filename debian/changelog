@@ -1,3 +1,9 @@
+gazelle-installer (23.6.01mx23) mx; urgency=medium
+
+  * New and improved password strength meter.
+
+ -- Adrian <adrian@mxlinux.org>  Sun, 04 Jun 2023 11:05:42 -0400
+
 gazelle-installer (23.6mx23) mx; urgency=medium
 
   * Fixed empty UUIDs added to btrfs subvolume fstab lines.

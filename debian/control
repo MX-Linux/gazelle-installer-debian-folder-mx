@@ -4,6 +4,7 @@ Priority: optional
 Maintainer: dolphinoracle <dolphinoracle@gmail.com>
 Build-Depends: 
 	debhelper (>= 10),
+	libzxcvbn-dev,
 	qtbase5-dev, 
 	qttools5-dev-tools
 Standards-Version: 3.9.8
@@ -13,6 +14,7 @@ Package: mx-installer
 Architecture: any
 Depends: antix-libs,
          dosfstools,
+         libzxcvbn0,
          system-keyboard-qt | fskbsetting,
          gazelle-installer-data-mx (>=21.07.01),
          gdisk,

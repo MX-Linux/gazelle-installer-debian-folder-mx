@@ -1,0 +1,46 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+Format: 1.8
+Date: Sun, 04 Jun 2023 11:05:42 -0400
+Source: gazelle-installer
+Binary: mx-installer
+Architecture: source amd64
+Version: 23.6.01mx23
+Distribution: mx
+Urgency: medium
+Maintainer: dolphinoracle <dolphinoracle@gmail.com>
+Changed-By: Adrian <adrian@mxlinux.org>
+Description:
+ mx-installer - Customizable GUI installer for MX Linux and antiX Linux
+Changes:
+ gazelle-installer (23.6.01mx23) mx; urgency=medium
+ .
+   * New and improved password strength meter.
+Checksums-Sha1:
+ 1f1a088d8f81c0dc4bfd7641ec073171fd7d73fe 1246 gazelle-installer_23.6.01mx23.dsc
+ 0e723240fd0df69d99ea6eeca1bda0f8f5bbd37f 388828 gazelle-installer_23.6.01mx23.tar.xz
+ 1eb75f43befadd1213fbcd2a4e72d8a9c9510029 10671 gazelle-installer_23.6.01mx23_amd64.buildinfo
+ 37e36cd6b135080f0701c6279f0ea1beb2bb0afd 539468 mx-installer_23.6.01mx23_amd64.deb
+Checksums-Sha256:
+ 2c7628ded4579115843c46d6679c53f29c3a264812a649f08fbbb39d2de321fc 1246 gazelle-installer_23.6.01mx23.dsc
+ 38fb17324af6b1779cd007ad089f572ce62935d9afbf607e702d5140528420ab 388828 gazelle-installer_23.6.01mx23.tar.xz
+ ac59f48b4629d44611b97e2972800641378a7c2f6febc0402f426089eaf710bd 10671 gazelle-installer_23.6.01mx23_amd64.buildinfo
+ 7d0dfaeb2017baec1b560980ab972d28816ffd4c60ed392d0450335ad170aab0 539468 mx-installer_23.6.01mx23_amd64.deb
+Files:
+ e1c4f926acbfe1ff8d78452f2e1c9062 1246 system optional gazelle-installer_23.6.01mx23.dsc
+ d8aa022b081587cc17514d5cf0968def 388828 system optional gazelle-installer_23.6.01mx23.tar.xz
+ c027ef81e0be66a0b09c928d6707a470 10671 system optional gazelle-installer_23.6.01mx23_amd64.buildinfo
+ f4f2ec90fd29363de22bc19903584137 539468 system optional mx-installer_23.6.01mx23_amd64.deb
+
+-----BEGIN PGP SIGNATURE-----
+
+iQFHBAEBCgAxFiEE8ndToY6S45N+YzXncJOMeAZ57pgFAmR8qOETHGFkcmlhbkBt
+eGxpbnV4Lm9yZwAKCRBwk4x4BnnumMiHB/4rJu8UXX0jgfRrK/1O3D0EVxgdjtN3
+o67aJGqITTe2d/jjq2Z8Ug9ExdqKL51mPZhDJ445v/3JEiNbGUjuVx4hLnD+LLX2
+0Xub6NbEDMUwxFMQWr9n/IR0o9cg0d87BrsW28jlK7qSgeW552XQquUq3W8kAa/N
+RiWIrDb9gdQv6qjeRv87QeehvI+Y1zT3jUPTQgwMvtXxe6jUrTEXspBPr7jsXhcS
+bH8CM4QYe1XnXkDXIjf0/ox4BxTB3yNqL+zJhjI79l6nbc0rd51IIWFE98PfDd+U
+BzN5pDiJnCa2w83NUtWMr3yMghf3T7eXiCj+uN4WiPsGytY4XYBmthRl
+=liZ1
+-----END PGP SIGNATURE-----
