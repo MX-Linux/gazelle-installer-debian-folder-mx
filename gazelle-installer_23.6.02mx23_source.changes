@@ -1,0 +1,41 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+Format: 1.8
+Date: Tue, 06 Jun 2023 18:11:00 -0400
+Source: gazelle-installer
+Architecture: source
+Version: 23.6.02mx23
+Distribution: mx
+Urgency: medium
+Maintainer: dolphinoracle <dolphinoracle@gmail.com>
+Changed-By: Adrian <adrian@mxlinux.org>
+Changes:
+ gazelle-installer (23.6.02mx23) mx; urgency=medium
+ .
+   * Added password strength tool tip to the gauge.
+   * Password strength gauge visual improvements.
+Checksums-Sha1:
+ 1235e936d3c43cc2fcaf168e56535806ccb9fa4f 1246 gazelle-installer_23.6.02mx23.dsc
+ a74e687e8ad86be76dcd2d0321d2e2b3ee28cbc5 383500 gazelle-installer_23.6.02mx23.tar.xz
+ 57b0749e1c8f8a7afd0c5cb8ce96e7ea2abd3cb9 10671 gazelle-installer_23.6.02mx23_amd64.buildinfo
+Checksums-Sha256:
+ 445ca53aad9075fc860f7d6595227a157489ee4e41c93ea0b0bdf2ef79eb9647 1246 gazelle-installer_23.6.02mx23.dsc
+ 9ca73d48eb5337ed300a8960beff54971f745554d1de2edf550189ef2a36ac08 383500 gazelle-installer_23.6.02mx23.tar.xz
+ 74862708f29ef8ccee8828051c733053c3f7bbfd8c5e96255ccafda067a1cde4 10671 gazelle-installer_23.6.02mx23_amd64.buildinfo
+Files:
+ 414edd26ff078a7fb34220f1cdc6f999 1246 system optional gazelle-installer_23.6.02mx23.dsc
+ 1f9e2d09ab6b3a2a97962f6d0e3af7d7 383500 system optional gazelle-installer_23.6.02mx23.tar.xz
+ b96b644533a2c82cf1d153d301c0a990 10671 system optional gazelle-installer_23.6.02mx23_amd64.buildinfo
+
+-----BEGIN PGP SIGNATURE-----
+
+iQFHBAEBCgAxFiEE8ndToY6S45N+YzXncJOMeAZ57pgFAmR/r5ITHGFkcmlhbkBt
+eGxpbnV4Lm9yZwAKCRBwk4x4BnnumDZNB/sGmYKXvq7lEsb2eyI3Rt3acYs8xeQA
+t7/hdTstForK+uePXn+9+yn8lOIAB6UuAGT74WiWWbkCNSD+xPkbW6tA7HxI/fTb
+D4h3uZHi103mmsGKN0xgs2crmtwMo2OIWC+JLxuQujYFdtJTME86yy5eGVFnyEsU
+jgiUNlUTFa4K19ARgZGZ9iA9d2ege6Y1uMf1BI/3r/ky9vsf6u5Nyt+UkQYlg2rQ
+0C1hbfzsB/8gn0HU7KMVnCbAFENRgluo5UC/nLf372wvvXIPlEQajGZIO2zTUdSf
+sEuiNybPpoqIyiO1zigFFsYGcm1BNBC53YltAEtu+JHORU8tNypbEYIi
+=+jld
+-----END PGP SIGNATURE-----

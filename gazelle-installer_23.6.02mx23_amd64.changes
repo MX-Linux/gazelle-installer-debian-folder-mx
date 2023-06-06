@@ -1,0 +1,47 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+Format: 1.8
+Date: Tue, 06 Jun 2023 18:11:00 -0400
+Source: gazelle-installer
+Binary: mx-installer
+Architecture: source amd64
+Version: 23.6.02mx23
+Distribution: mx
+Urgency: medium
+Maintainer: dolphinoracle <dolphinoracle@gmail.com>
+Changed-By: Adrian <adrian@mxlinux.org>
+Description:
+ mx-installer - Customizable GUI installer for MX Linux and antiX Linux
+Changes:
+ gazelle-installer (23.6.02mx23) mx; urgency=medium
+ .
+   * Added password strength tool tip to the gauge.
+   * Password strength gauge visual improvements.
+Checksums-Sha1:
+ 1235e936d3c43cc2fcaf168e56535806ccb9fa4f 1246 gazelle-installer_23.6.02mx23.dsc
+ a74e687e8ad86be76dcd2d0321d2e2b3ee28cbc5 383500 gazelle-installer_23.6.02mx23.tar.xz
+ 57b0749e1c8f8a7afd0c5cb8ce96e7ea2abd3cb9 10671 gazelle-installer_23.6.02mx23_amd64.buildinfo
+ 6f5716ad14a1e17c6b194ccfe0a3368dcbb714ca 531476 mx-installer_23.6.02mx23_amd64.deb
+Checksums-Sha256:
+ 445ca53aad9075fc860f7d6595227a157489ee4e41c93ea0b0bdf2ef79eb9647 1246 gazelle-installer_23.6.02mx23.dsc
+ 9ca73d48eb5337ed300a8960beff54971f745554d1de2edf550189ef2a36ac08 383500 gazelle-installer_23.6.02mx23.tar.xz
+ 74862708f29ef8ccee8828051c733053c3f7bbfd8c5e96255ccafda067a1cde4 10671 gazelle-installer_23.6.02mx23_amd64.buildinfo
+ e8e1b764996b00d0e8cfd749fd56f0fab00d5afcfdc32d91ef7790f51ab00b94 531476 mx-installer_23.6.02mx23_amd64.deb
+Files:
+ 414edd26ff078a7fb34220f1cdc6f999 1246 system optional gazelle-installer_23.6.02mx23.dsc
+ 1f9e2d09ab6b3a2a97962f6d0e3af7d7 383500 system optional gazelle-installer_23.6.02mx23.tar.xz
+ b96b644533a2c82cf1d153d301c0a990 10671 system optional gazelle-installer_23.6.02mx23_amd64.buildinfo
+ 4a66d01569e0e33a43d2eeab8bb96ecc 531476 system optional mx-installer_23.6.02mx23_amd64.deb
+
+-----BEGIN PGP SIGNATURE-----
+
+iQFHBAEBCgAxFiEE8ndToY6S45N+YzXncJOMeAZ57pgFAmR/r5ITHGFkcmlhbkBt
+eGxpbnV4Lm9yZwAKCRBwk4x4BnnumAPmCADWX2SK55JVFztCkXpd5ayhBI5LeIAq
+AOWl8MNs7Dg3OqDyOjT3CMmu4Dp/y2negmm/nKkLHq9CChPJvNYDB/BjfOgngIpH
+6xPtyuh8Y3z9Xe9GB8AfzZy+qpOlV9F9RLPwIP06we9xizTebC3zo7YMJ8dXZOKs
+Vxt6LVeJzRj8NezCUbnRks+ukRJbe2JNCvA+hxanyRrejKtqNSpn4l9Z9ZWbRG99
+zFWlxFa+eb3JlgVJFOF1m/QWcy6Ob2wUA0rilAoZHF2NsQwxJOlQXJjVvf+9Uf+G
+f5aGRGGD5r+uDeLFH96prIRCxBH6SxahMsEu+idrJTH2Kcs8uRVaVpmM
+=VeqE
+-----END PGP SIGNATURE-----
