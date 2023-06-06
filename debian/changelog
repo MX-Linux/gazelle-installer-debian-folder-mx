@@ -1,3 +1,10 @@
+gazelle-installer (23.6.02mx23) mx; urgency=medium
+
+  * Added password strength tool tip to the gauge.
+  * Password strength gauge visual improvements. 
+
+ -- Adrian <adrian@mxlinux.org>  Tue, 06 Jun 2023 18:11:00 -0400
+
 gazelle-installer (23.6.01mx23) mx; urgency=medium
 
   * New and improved password strength meter.
