@@ -18,29 +18,29 @@ Changes:
  .
    * Fixed OEM mode on whole-disk install. Fixed back button enabled during OEM
 Checksums-Sha1:
- 2ea9f7cc5bf6394ddabdaf35b1d24092ec3ae395 1203 gazelle-installer_23.6.dsc
- 666e119d523da970014682ccfc9cdcdf05bea50c 393384 gazelle-installer_23.6.tar.xz
- d2acbd448e37403af5a043880e35eb742d7b75a5 10375 gazelle-installer_23.6_amd64.buildinfo
- 4691483e2adf41f01f3650ab2bbdaa795e642eb2 498256 mx-installer_23.6_amd64.deb
+ fcb6a01ad52388bde4bf32a35daff745ead3924b 1203 gazelle-installer_23.6.dsc
+ 28a1bd4cf7ac135e673508067ba3bcec6109784e 386776 gazelle-installer_23.6.tar.xz
+ 0fa27809ce7f3778a943429878fdb91e94c903d1 10556 gazelle-installer_23.6_amd64.buildinfo
+ aa182c50c18336b74fc8996d5c74e388e7ce8b67 519676 mx-installer_23.6_amd64.deb
 Checksums-Sha256:
- cbbb013c2684eecd6e9d95cd1a8945cdb048584a41f31277f549bce7617257ee 1203 gazelle-installer_23.6.dsc
- 985b874ab0612d84cba5503c73d44801e048dfbfa663d8a074a6ad1c581be1bd 393384 gazelle-installer_23.6.tar.xz
- 61ebc6c0e2063cda1cbf44a5d092c60c2357736b4d224f3ce33aa935906e378c 10375 gazelle-installer_23.6_amd64.buildinfo
- 213c08eadd7474f6bdda26811531c3b5c8af1b738dfb90e369822cfa7ee34b07 498256 mx-installer_23.6_amd64.deb
+ a0cfefebe4b2da0e83ae1ec48f6352dd123ef3a5c51f3a0f4d853ea4907bb843 1203 gazelle-installer_23.6.dsc
+ 9fcda36380960418927ddab10f826aaf070cee80c537b3eecdf028a6e9230841 386776 gazelle-installer_23.6.tar.xz
+ e651e47b604e1473969cd48a2cabfa8c2a350cc5e2316ec63b7d5d8c00a2ac75 10556 gazelle-installer_23.6_amd64.buildinfo
+ 13edbe5de569f8d27a35a7b46f7c5f24b53a181ce8d1fcb548a9fbc17cde876c 519676 mx-installer_23.6_amd64.deb
 Files:
- 7648ba0b58de08ffeb88a9bfb266379a 1203 system optional gazelle-installer_23.6.dsc
- 54970899135ee3f35afaaf27355e45cf 393384 system optional gazelle-installer_23.6.tar.xz
- 8774678203adeb13ce4e7dcbec0a8423 10375 system optional gazelle-installer_23.6_amd64.buildinfo
- 4396278c24df585d3d8fc78167513535 498256 system optional mx-installer_23.6_amd64.deb
+ 93b3119027b4fefe689e56b454ea73df 1203 system optional gazelle-installer_23.6.dsc
+ 5c4aa450e60ca75dbd3521d8fa4444bc 386776 system optional gazelle-installer_23.6.tar.xz
+ b7a74250501dbf725f8a77c89f92f130 10556 system optional gazelle-installer_23.6_amd64.buildinfo
+ 542a5fb19ef69a8db8ee47f10f2e0cf9 519676 system optional mx-installer_23.6_amd64.deb
 
 -----BEGIN PGP SIGNATURE-----
 
-iQFHBAEBCgAxFiEE8ndToY6S45N+YzXncJOMeAZ57pgFAmSIB18THGFkcmlhbkBt
-eGxpbnV4Lm9yZwAKCRBwk4x4BnnumK3mCACB8N8hWt2GVJABkoNU2iWh95/i2IAW
-LngJ0tlgDiEVp8DcZvMIQXcbPnm5RxM+orKidHrbsYVLHsUkzBnJ23Ze5SVtCS1z
-NoFXeDOw1PwWq2iDqedIyEwqL3aSaoKqerZVvUlA9wGmZAx+EHrAeoSgj9VBj+k/
-Q89ytwdttZuQQ9VBB1uoFei8RgSLFGs46njaVEZW+wV0g0+qUhITj+nibZS/Ea9l
-Quf0uOy8NOow29MbSW9B0/Ei09WFTFJYQmis10Oyk/y4SYJNvEdFfcDTqmjzT0my
-AvPgYw837lyTP2pXCvJ9XsL6rsoQPwEQY7Zh9lX/X/rh6jZRzsuNtOjt
-=9qEf
+iQFHBAEBCgAxFiEE8ndToY6S45N+YzXncJOMeAZ57pgFAmSICMMTHGFkcmlhbkBt
+eGxpbnV4Lm9yZwAKCRBwk4x4BnnumBggCACXmP278SfRaWIdjUvqKiye6Hwe3JhF
+OoR7Nv9c7c/cHx53WcJGxDAKfT20jNAmoNTPhNjRRPYvk/C5jYkRCTHuXsfrpeS0
+u3lDVfKUfyb3NAv7x7jj3ymr44MGtDItARx/DS/i1SQFHgHhjbyUwY2zFRPtXCoT
+T8x0l3mCwWnVzW0zm2ehrV+iwCI86/PIbGRXdKvc77zLelLSvVRXIvaCbiUCYIro
+RbPjC0ZuwPrk9hMxLjHGfA5FAdbobWsElEM8F6j1JxNfWZe5GAsGpBewvLNZl697
+5dx1QndLdQ+yLQXbNw8bq1X/X9fS8zXuAmu98WlmhvFvxOA011erKXrs
+=1sdW
 -----END PGP SIGNATURE-----

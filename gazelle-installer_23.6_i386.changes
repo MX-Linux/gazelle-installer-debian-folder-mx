@@ -15,11 +15,11 @@ Changes:
  .
    * Fixed OEM mode on whole-disk install. Fixed back button enabled during OEM
 Checksums-Sha1:
- 4a0ca919fa02edd6e905057537f63401df561228 9510 gazelle-installer_23.6_i386.buildinfo
- 0a3122944b11bf7dbe9366eb857b631323f0bdcb 516060 mx-installer_23.6_i386.deb
+ c182463af848e63a1f9e8f4f2dbbae8c699caa1b 9692 gazelle-installer_23.6_i386.buildinfo
+ fd3e25b29dd079fda8e7d317616889d9dabd1159 534684 mx-installer_23.6_i386.deb
 Checksums-Sha256:
- 8a6c55687543b4b916f05b558273609bd5bd6f2d53990270a13992e51edb77e3 9510 gazelle-installer_23.6_i386.buildinfo
- a9dd31a2a02aa33cb6199d06266a41e8b5b6c36af55732d3b87c6f39965bd373 516060 mx-installer_23.6_i386.deb
+ 44c096b69cf4935834f598840d8a474362bca5ba8f9493d8b7b9ca7d334b51d3 9692 gazelle-installer_23.6_i386.buildinfo
+ 069a34cd24016f298a10d08f765ba2c9765180796ae1c73c6b823721129c422c 534684 mx-installer_23.6_i386.deb
 Files:
- 5d04463ae53ed27b12f1c86293329132 9510 system optional gazelle-installer_23.6_i386.buildinfo
- c46c472c0f81d9e8cf782b97caeb19b4 516060 system optional mx-installer_23.6_i386.deb
+ aff83a08bc5f85587315eea9393bc4f1 9692 system optional gazelle-installer_23.6_i386.buildinfo
+ 4846a47a2e3f75b37dd536cdc249b550 534684 system optional mx-installer_23.6_i386.deb

@@ -15,26 +15,26 @@ Changes:
  .
    * Fixed OEM mode on whole-disk install. Fixed back button enabled during OEM
 Checksums-Sha1:
- 2ea9f7cc5bf6394ddabdaf35b1d24092ec3ae395 1203 gazelle-installer_23.6.dsc
- 666e119d523da970014682ccfc9cdcdf05bea50c 393384 gazelle-installer_23.6.tar.xz
- d2acbd448e37403af5a043880e35eb742d7b75a5 10375 gazelle-installer_23.6_amd64.buildinfo
+ fcb6a01ad52388bde4bf32a35daff745ead3924b 1203 gazelle-installer_23.6.dsc
+ 28a1bd4cf7ac135e673508067ba3bcec6109784e 386776 gazelle-installer_23.6.tar.xz
+ 0fa27809ce7f3778a943429878fdb91e94c903d1 10556 gazelle-installer_23.6_amd64.buildinfo
 Checksums-Sha256:
- cbbb013c2684eecd6e9d95cd1a8945cdb048584a41f31277f549bce7617257ee 1203 gazelle-installer_23.6.dsc
- 985b874ab0612d84cba5503c73d44801e048dfbfa663d8a074a6ad1c581be1bd 393384 gazelle-installer_23.6.tar.xz
- 61ebc6c0e2063cda1cbf44a5d092c60c2357736b4d224f3ce33aa935906e378c 10375 gazelle-installer_23.6_amd64.buildinfo
+ a0cfefebe4b2da0e83ae1ec48f6352dd123ef3a5c51f3a0f4d853ea4907bb843 1203 gazelle-installer_23.6.dsc
+ 9fcda36380960418927ddab10f826aaf070cee80c537b3eecdf028a6e9230841 386776 gazelle-installer_23.6.tar.xz
+ e651e47b604e1473969cd48a2cabfa8c2a350cc5e2316ec63b7d5d8c00a2ac75 10556 gazelle-installer_23.6_amd64.buildinfo
 Files:
- 7648ba0b58de08ffeb88a9bfb266379a 1203 system optional gazelle-installer_23.6.dsc
- 54970899135ee3f35afaaf27355e45cf 393384 system optional gazelle-installer_23.6.tar.xz
- 8774678203adeb13ce4e7dcbec0a8423 10375 system optional gazelle-installer_23.6_amd64.buildinfo
+ 93b3119027b4fefe689e56b454ea73df 1203 system optional gazelle-installer_23.6.dsc
+ 5c4aa450e60ca75dbd3521d8fa4444bc 386776 system optional gazelle-installer_23.6.tar.xz
+ b7a74250501dbf725f8a77c89f92f130 10556 system optional gazelle-installer_23.6_amd64.buildinfo
 
 -----BEGIN PGP SIGNATURE-----
 
-iQFHBAEBCgAxFiEE8ndToY6S45N+YzXncJOMeAZ57pgFAmSIB18THGFkcmlhbkBt
-eGxpbnV4Lm9yZwAKCRBwk4x4BnnumEnkB/4hi2Eob9y2JbZ0p3WlO6j/mCtSde92
-mfy4IxV/aNmlofI5rrboXZA8/i0a128m1nIH8ajVcPKwzbg1n7UWg1t+CRmGpseu
-J6JhD7vnQrWza9xZs7F2rfbvfC5gxB4ft13J2CsA6dqyMnvaHhGn+HOmdkXNA6ps
-tWLJtYmI2c7Y6Aua+Pciw3RtCCqCuK81QzCWsCWj2PdeEq7Wmmoc2+NyXYTpWmgn
-uHXu7hme047iOW+vAsWB7U63T0ncpZw4CKcwG30Xy/lwvoKiwKv3O+alX4DiUj2F
-HeQGq3rTRa2VREzdoPi6KaY7YwNHPEKqWXbbMjMl6SyYBIP2s+2gBq3b
-=Lf2F
+iQFHBAEBCgAxFiEE8ndToY6S45N+YzXncJOMeAZ57pgFAmSICMQTHGFkcmlhbkBt
+eGxpbnV4Lm9yZwAKCRBwk4x4BnnumH++B/9CPKZoWhWuz7QMenoDUfDto6cnGFs/
+h/BP0rdSKM1JllgAUfe5phdetCxdIkIRE7URcA9AfJ8+t3ifcg2waEewqXFTb+K6
+qki3ACN27ozGyXiDfEb5wGrwqQVwoi7nDHZ/Prn9r/SRwyDbtrF0VsGNbxIBc91N
+obWEY0dLoKq6GLxRuQ5hR77Lf3rH78saPj5NysZXjY3c14r7vkDrzio7h3DY1JSp
+pxGT7jhzMFmL1bT+35mS8uo8Rc9gX9lXUQ2Igkm0RNiONX+jX6Zc3OFkhCpvrlJV
+x7JTeafFKcU7vdYzXZdq1JOX1hNfGhfcJLhBmWR399EXBWWd+KVJonhy
+=kCqs
 -----END PGP SIGNATURE-----
