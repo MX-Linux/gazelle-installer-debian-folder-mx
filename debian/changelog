@@ -1,3 +1,9 @@
+gazelle-installer (23.6) mx; urgency=medium
+
+  * Fixed OEM mode on whole-disk install. Fixed back button enabled during OEM 
+
+ -- Adrian <adrian@mxlinux.org>  Tue, 13 Jun 2023 02:02:35 -0400
+
 gazelle-installer (23.5) mx; urgency=medium
 
   * Handle additional XFCE clock plugins turning time config.

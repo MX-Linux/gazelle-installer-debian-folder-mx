@@ -1,0 +1,46 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+Format: 1.8
+Date: Tue, 13 Jun 2023 02:02:35 -0400
+Source: gazelle-installer
+Binary: mx-installer
+Architecture: source amd64
+Version: 23.6
+Distribution: mx
+Urgency: medium
+Maintainer: dolphinoracle <dolphinoracle@gmail.com>
+Changed-By: Adrian <adrian@mxlinux.org>
+Description:
+ mx-installer - Customizable GUI installer for MX Linux and antiX Linux
+Changes:
+ gazelle-installer (23.6) mx; urgency=medium
+ .
+   * Fixed OEM mode on whole-disk install. Fixed back button enabled during OEM
+Checksums-Sha1:
+ 2ea9f7cc5bf6394ddabdaf35b1d24092ec3ae395 1203 gazelle-installer_23.6.dsc
+ 666e119d523da970014682ccfc9cdcdf05bea50c 393384 gazelle-installer_23.6.tar.xz
+ d2acbd448e37403af5a043880e35eb742d7b75a5 10375 gazelle-installer_23.6_amd64.buildinfo
+ 4691483e2adf41f01f3650ab2bbdaa795e642eb2 498256 mx-installer_23.6_amd64.deb
+Checksums-Sha256:
+ cbbb013c2684eecd6e9d95cd1a8945cdb048584a41f31277f549bce7617257ee 1203 gazelle-installer_23.6.dsc
+ 985b874ab0612d84cba5503c73d44801e048dfbfa663d8a074a6ad1c581be1bd 393384 gazelle-installer_23.6.tar.xz
+ 61ebc6c0e2063cda1cbf44a5d092c60c2357736b4d224f3ce33aa935906e378c 10375 gazelle-installer_23.6_amd64.buildinfo
+ 213c08eadd7474f6bdda26811531c3b5c8af1b738dfb90e369822cfa7ee34b07 498256 mx-installer_23.6_amd64.deb
+Files:
+ 7648ba0b58de08ffeb88a9bfb266379a 1203 system optional gazelle-installer_23.6.dsc
+ 54970899135ee3f35afaaf27355e45cf 393384 system optional gazelle-installer_23.6.tar.xz
+ 8774678203adeb13ce4e7dcbec0a8423 10375 system optional gazelle-installer_23.6_amd64.buildinfo
+ 4396278c24df585d3d8fc78167513535 498256 system optional mx-installer_23.6_amd64.deb
+
+-----BEGIN PGP SIGNATURE-----
+
+iQFHBAEBCgAxFiEE8ndToY6S45N+YzXncJOMeAZ57pgFAmSIB18THGFkcmlhbkBt
+eGxpbnV4Lm9yZwAKCRBwk4x4BnnumK3mCACB8N8hWt2GVJABkoNU2iWh95/i2IAW
+LngJ0tlgDiEVp8DcZvMIQXcbPnm5RxM+orKidHrbsYVLHsUkzBnJ23Ze5SVtCS1z
+NoFXeDOw1PwWq2iDqedIyEwqL3aSaoKqerZVvUlA9wGmZAx+EHrAeoSgj9VBj+k/
+Q89ytwdttZuQQ9VBB1uoFei8RgSLFGs46njaVEZW+wV0g0+qUhITj+nibZS/Ea9l
+Quf0uOy8NOow29MbSW9B0/Ei09WFTFJYQmis10Oyk/y4SYJNvEdFfcDTqmjzT0my
+AvPgYw837lyTP2pXCvJ9XsL6rsoQPwEQY7Zh9lX/X/rh6jZRzsuNtOjt
+=9qEf
+-----END PGP SIGNATURE-----

@@ -1,0 +1,40 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+Format: 1.8
+Date: Tue, 13 Jun 2023 02:02:35 -0400
+Source: gazelle-installer
+Architecture: source
+Version: 23.6
+Distribution: mx
+Urgency: medium
+Maintainer: dolphinoracle <dolphinoracle@gmail.com>
+Changed-By: Adrian <adrian@mxlinux.org>
+Changes:
+ gazelle-installer (23.6) mx; urgency=medium
+ .
+   * Fixed OEM mode on whole-disk install. Fixed back button enabled during OEM
+Checksums-Sha1:
+ 2ea9f7cc5bf6394ddabdaf35b1d24092ec3ae395 1203 gazelle-installer_23.6.dsc
+ 666e119d523da970014682ccfc9cdcdf05bea50c 393384 gazelle-installer_23.6.tar.xz
+ d2acbd448e37403af5a043880e35eb742d7b75a5 10375 gazelle-installer_23.6_amd64.buildinfo
+Checksums-Sha256:
+ cbbb013c2684eecd6e9d95cd1a8945cdb048584a41f31277f549bce7617257ee 1203 gazelle-installer_23.6.dsc
+ 985b874ab0612d84cba5503c73d44801e048dfbfa663d8a074a6ad1c581be1bd 393384 gazelle-installer_23.6.tar.xz
+ 61ebc6c0e2063cda1cbf44a5d092c60c2357736b4d224f3ce33aa935906e378c 10375 gazelle-installer_23.6_amd64.buildinfo
+Files:
+ 7648ba0b58de08ffeb88a9bfb266379a 1203 system optional gazelle-installer_23.6.dsc
+ 54970899135ee3f35afaaf27355e45cf 393384 system optional gazelle-installer_23.6.tar.xz
+ 8774678203adeb13ce4e7dcbec0a8423 10375 system optional gazelle-installer_23.6_amd64.buildinfo
+
+-----BEGIN PGP SIGNATURE-----
+
+iQFHBAEBCgAxFiEE8ndToY6S45N+YzXncJOMeAZ57pgFAmSIB18THGFkcmlhbkBt
+eGxpbnV4Lm9yZwAKCRBwk4x4BnnumEnkB/4hi2Eob9y2JbZ0p3WlO6j/mCtSde92
+mfy4IxV/aNmlofI5rrboXZA8/i0a128m1nIH8ajVcPKwzbg1n7UWg1t+CRmGpseu
+J6JhD7vnQrWza9xZs7F2rfbvfC5gxB4ft13J2CsA6dqyMnvaHhGn+HOmdkXNA6ps
+tWLJtYmI2c7Y6Aua+Pciw3RtCCqCuK81QzCWsCWj2PdeEq7Wmmoc2+NyXYTpWmgn
+uHXu7hme047iOW+vAsWB7U63T0ncpZw4CKcwG30Xy/lwvoKiwKv3O+alX4DiUj2F
+HeQGq3rTRa2VREzdoPi6KaY7YwNHPEKqWXbbMjMl6SyYBIP2s+2gBq3b
+=Lf2F
+-----END PGP SIGNATURE-----
