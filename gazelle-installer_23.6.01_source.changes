@@ -1,0 +1,40 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+Format: 1.8
+Date: Tue, 13 Jun 2023 19:03:49 -0400
+Source: gazelle-installer
+Architecture: source
+Version: 23.6.01
+Distribution: mx
+Urgency: medium
+Maintainer: dolphinoracle <dolphinoracle@gmail.com>
+Changed-By: Adrian <adrian@mxlinux.org>
+Changes:
+ gazelle-installer (23.6.01) mx; urgency=medium
+ .
+   * Rebuild for Bullseye
+Checksums-Sha1:
+ 29a5a3e235b8cd704b212bc6c3e4d64d3b1ad005 1215 gazelle-installer_23.6.01.dsc
+ d2d9efbd99c68c107901cd66f28ebca75c479a49 386804 gazelle-installer_23.6.01.tar.xz
+ 6dd9bd8aefc097e5381b67af36a138ea2db8e99b 10399 gazelle-installer_23.6.01_amd64.buildinfo
+Checksums-Sha256:
+ 583ecd6b780ca5ef736f14873352be8d794d4d81e8b9bcd0fde42326753dfcc0 1215 gazelle-installer_23.6.01.dsc
+ 926257aa9459f854c29e8f7be14c676a8a64c67f7b6c1b5376c3e60de75c4b6c 386804 gazelle-installer_23.6.01.tar.xz
+ bb21393f4788be1ac0610068ba435e2c1128ad9643abd144bb8b0bd231ff9654 10399 gazelle-installer_23.6.01_amd64.buildinfo
+Files:
+ 6d07763ff8d973c3da97413844d9e036 1215 system optional gazelle-installer_23.6.01.dsc
+ 131fecd47cdbcd7284a05a7d1faeb8d6 386804 system optional gazelle-installer_23.6.01.tar.xz
+ 37fc659a9c6c748f24f9003048fc7be3 10399 system optional gazelle-installer_23.6.01_amd64.buildinfo
+
+-----BEGIN PGP SIGNATURE-----
+
+iQFHBAEBCgAxFiEE8ndToY6S45N+YzXncJOMeAZ57pgFAmSI9oATHGFkcmlhbkBt
+eGxpbnV4Lm9yZwAKCRBwk4x4BnnumFzxB/41jMpbRKK8pzDUH5YxIiTEzvs2Idd6
+tzTBahKDo6u+A7lVKZ4pnv5ZkcSG8fn2NWFjF+ODLnGpN34QnSLLQQAt7p3Mm8Io
+ZBtKmGRyyXnZB0fuNt3XxrpuuZ6QXgjBCcB/CeRrEE0wsfe9X4i4+YzHwLTuuTOb
+SLl18PubQ6M0XLyG9GoXr+1OHSPcgZmhWI8rD95E1QGgzclcqzzmPLeTONMOynfg
+PAbSyBcVVmrNdCJrgXy2JX1daMQtE10yIHbOkgxILyTBZx1iCBG9ispgFPu1WzZv
+C/NCLu68HQQ4FKlNLlz6pAXKKWmVql1qRk6lUkHlbTopHD5/UUpKHMIu
+=BdDN
+-----END PGP SIGNATURE-----

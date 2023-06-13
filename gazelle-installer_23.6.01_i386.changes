@@ -1,0 +1,25 @@
+Format: 1.8
+Date: Tue, 13 Jun 2023 19:03:49 -0400
+Source: gazelle-installer
+Binary: mx-installer
+Architecture: i386
+Version: 23.6.01
+Distribution: mx
+Urgency: medium
+Maintainer: dolphinoracle <dolphinoracle@gmail.com>
+Changed-By: Adrian <adrian@mxlinux.org>
+Description:
+ mx-installer - Customizable GUI installer for MX Linux and antiX Linux
+Changes:
+ gazelle-installer (23.6.01) mx; urgency=medium
+ .
+   * Rebuild for Bullseye
+Checksums-Sha1:
+ de9d17f9c72c7d42e72af5e516936c89ba578917 9525 gazelle-installer_23.6.01_i386.buildinfo
+ 9384d52ba910d64695c86128bf2d24329e3a4e41 531416 mx-installer_23.6.01_i386.deb
+Checksums-Sha256:
+ 3790862b0acd1f8405177d48c27d0b8f9950642fae68053135acd1473125c92e 9525 gazelle-installer_23.6.01_i386.buildinfo
+ 8f33763ee1a95e26e1dfc5cfa8719b1e66c7ac5b62e6e7de0bc9dc8c5fcaca13 531416 mx-installer_23.6.01_i386.deb
+Files:
+ 60084c4a80fbcd7038e9d01d02dd7aef 9525 system optional gazelle-installer_23.6.01_i386.buildinfo
+ 21e54b6824c71e877d4b36e4ff5db4d8 531416 system optional mx-installer_23.6.01_i386.deb
