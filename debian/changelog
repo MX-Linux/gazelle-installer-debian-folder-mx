@@ -1,3 +1,9 @@
+gazelle-installer (23.6.03mx23) mx; urgency=medium
+
+  * Fixed OEM mode on whole-disk install. Fixed back button enabled during OEM.
+
+ -- Adrian <adrian@mxlinux.org>  Thu, 15 Jun 2023 21:29:37 -0400
+
 gazelle-installer (23.6.02mx23) mx; urgency=medium
 
   * Added password strength tool tip to the gauge.
