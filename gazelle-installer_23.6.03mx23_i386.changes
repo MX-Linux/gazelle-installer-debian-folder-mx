@@ -1,0 +1,25 @@
+Format: 1.8
+Date: Thu, 15 Jun 2023 21:29:37 -0400
+Source: gazelle-installer
+Binary: mx-installer
+Architecture: i386
+Version: 23.6.03mx23
+Distribution: mx
+Urgency: medium
+Maintainer: dolphinoracle <dolphinoracle@gmail.com>
+Changed-By: Adrian <adrian@mxlinux.org>
+Description:
+ mx-installer - Customizable GUI installer for MX Linux and antiX Linux
+Changes:
+ gazelle-installer (23.6.03mx23) mx; urgency=medium
+ .
+   * Fixed OEM mode on whole-disk install. Fixed back button enabled during OEM.
+Checksums-Sha1:
+ f30be4f51f26a846b0fe90035f46d9b2a7b4566c 9786 gazelle-installer_23.6.03mx23_i386.buildinfo
+ a3390be7abf105f56bb0a6d04408af70c1c7fde7 536980 mx-installer_23.6.03mx23_i386.deb
+Checksums-Sha256:
+ f20c39fd03e7079cd5c21405624581fc9e4b13ae7f5113713479f0ca21fcc26e 9786 gazelle-installer_23.6.03mx23_i386.buildinfo
+ 7215816d77c6ab0304efb491724ed890c16184349eed3a76c36d230bf77a18f5 536980 mx-installer_23.6.03mx23_i386.deb
+Files:
+ ee9a11ea0313c9370fffc822f14119c4 9786 system optional gazelle-installer_23.6.03mx23_i386.buildinfo
+ 0957e38c64c008e810a6ca94573f8bfb 536980 system optional mx-installer_23.6.03mx23_i386.deb
