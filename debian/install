@@ -6,7 +6,6 @@ minstall			usr/sbin
 minstall.desktop		usr/share/applications
 polkit/*			usr/share/polkit-1/actions
 scripts/guess-hwclock		usr/sbin
-scripts/minstall-pkexec		usr/bin
 scripts/minstall-launcher	usr/bin
 scripts/oobe			etc/init.d
 translations/*.qm		usr/share/gazelle-installer/locale
