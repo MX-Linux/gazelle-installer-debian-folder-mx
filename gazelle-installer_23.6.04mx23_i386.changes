@@ -1,0 +1,32 @@
+Format: 1.8
+Date: Sun, 18 Jun 2023 16:16:28 -0400
+Source: gazelle-installer
+Binary: mx-installer
+Architecture: i386
+Version: 23.6.04mx23
+Distribution: mx
+Urgency: medium
+Maintainer: dolphinoracle <dolphinoracle@gmail.com>
+Changed-By: Adrian <adrian@mxlinux.org>
+Description:
+ mx-installer - Customizable GUI installer for MX Linux and antiX Linux
+Changes:
+ gazelle-installer (23.6.04mx23) mx; urgency=medium
+ .
+   * Disable auto-mount only when proceeding with the installation.
+   * New abortion mechanism to fix abort and exit issues.
+       - The installer must now be restarted once aborted.
+   * Fixed loading of the default OOBE configuration.
+   * Fixed boot partition check for root on a btrfs subvolume.
+   * Inform the user of btrfs actions in the confirmation.
+   * Btrfs-related menu and user interface bug fixes.
+   * Deleted the minstall-pkexec symlink.
+Checksums-Sha1:
+ cc5233ff5bbb50e303b855f74d1caf55d90a3bee 9786 gazelle-installer_23.6.04mx23_i386.buildinfo
+ b4365d28886e2b9089393dd946e5d5446474d7f9 539276 mx-installer_23.6.04mx23_i386.deb
+Checksums-Sha256:
+ 9d5db631dcfdde9c61f1785e686cc80b643f85f3961bef994d39d7c1f70ca6be 9786 gazelle-installer_23.6.04mx23_i386.buildinfo
+ 987cab80c78bc7d1d764e09a006b98c8d12509adcdf2e46cb63b3c6634859ef7 539276 mx-installer_23.6.04mx23_i386.deb
+Files:
+ 8b53df7d97fe762361ef93eee0cd990d 9786 system optional gazelle-installer_23.6.04mx23_i386.buildinfo
+ ee7e5c6727c85c44605d7df309c3d21e 539276 system optional mx-installer_23.6.04mx23_i386.deb

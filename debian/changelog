@@ -1,3 +1,16 @@
+gazelle-installer (23.6.04mx23) mx; urgency=medium
+
+  * Disable auto-mount only when proceeding with the installation.
+  * New abortion mechanism to fix abort and exit issues.
+      - The installer must now be restarted once aborted.
+  * Fixed loading of the default OOBE configuration.
+  * Fixed boot partition check for root on a btrfs subvolume.
+  * Inform the user of btrfs actions in the confirmation.
+  * Btrfs-related menu and user interface bug fixes.
+  * Deleted the minstall-pkexec symlink. 
+
+ -- Adrian <adrian@mxlinux.org>  Sun, 18 Jun 2023 16:16:28 -0400
+
 gazelle-installer (23.6.03mx23) mx; urgency=medium
 
   * Fixed OEM mode on whole-disk install. Fixed back button enabled during OEM.
