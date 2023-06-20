@@ -7,7 +7,8 @@ gazelle-installer (23.6.05mx23) mx; urgency=medium
   * Fixed "Reuse" text appearing with unused btrfs partitions.
   * Do not fill mount/dump/pass options for BIOS-GRUB partition.
   * Improved cursor feedback so message boxes do not look like they are locked up.
-
+  * Eliminate forced nosplash for OOBE.
+ 
  -- Adrian <adrian@mxlinux.org>  Mon, 19 Jun 2023 23:34:21 -0400
 
 gazelle-installer (23.6.04mx23) mx; urgency=medium
