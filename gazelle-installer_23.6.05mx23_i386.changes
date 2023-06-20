@@ -1,0 +1,31 @@
+Format: 1.8
+Date: Mon, 19 Jun 2023 23:34:21 -0400
+Source: gazelle-installer
+Binary: mx-installer
+Architecture: i386
+Version: 23.6.05mx23
+Distribution: mx
+Urgency: medium
+Maintainer: dolphinoracle <dolphinoracle@gmail.com>
+Changed-By: Adrian <adrian@mxlinux.org>
+Description:
+ mx-installer - Customizable GUI installer for MX Linux and antiX Linux
+Changes:
+ gazelle-installer (23.6.05mx23) mx; urgency=medium
+ .
+   * Fixed attempt to prepare subvolumes on non-btrfs partitions.
+   * Dump the config to the log if failed or aborted.
+   * Enable auto-mount only after cleanup has completed.
+   * Bring back media MD5 checks, pending a user-friendly boot time solution.
+   * Fixed "Reuse" text appearing with unused btrfs partitions.
+   * Do not fill mount/dump/pass options for BIOS-GRUB partition.
+   * Improved cursor feedback so message boxes do not look like they are locked up.
+Checksums-Sha1:
+ 8a5bc16f58f95cde6fc66f3025051bfeef56a0f1 9786 gazelle-installer_23.6.05mx23_i386.buildinfo
+ 0b3a0203ca18a6759cf65112472edd9d180ea86d 544340 mx-installer_23.6.05mx23_i386.deb
+Checksums-Sha256:
+ b52b14436b5560f7724d2e5dbaf5e1df5651e6f13a70d3b7bf8241b65be01919 9786 gazelle-installer_23.6.05mx23_i386.buildinfo
+ 7f1299a6bb8ad6176aabd5ec5bda2e77d6487d83fdfbdf0c6acc199f269b69a9 544340 mx-installer_23.6.05mx23_i386.deb
+Files:
+ fae877f612225fcac3cb5051a37b9d06 9786 system optional gazelle-installer_23.6.05mx23_i386.buildinfo
+ dbb2ef0f957d947721670935f95c4d65 544340 system optional mx-installer_23.6.05mx23_i386.deb
