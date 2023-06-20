@@ -25,29 +25,29 @@ Changes:
    * Improved cursor feedback so message boxes do not look like they are locked up.
    * Eliminate forced nosplash for OOBE.
 Checksums-Sha1:
- c7006d8c3d70052cfd58236c439bcd8513ea8696 1246 gazelle-installer_23.6.05mx23.dsc
- caa69019e05adcb22324bc155da468b9e473d904 387124 gazelle-installer_23.6.05mx23.tar.xz
- 58b4406a8c18f48907e3fb0fb2b70ccc1f409829 10671 gazelle-installer_23.6.05mx23_amd64.buildinfo
- 99e0585f3c398db8fdb611a3ec9f6d5a1d107e80 524496 mx-installer_23.6.05mx23_amd64.deb
+ 249d7568c4dfab624ba9dc3d4e136051df524ca0 1246 gazelle-installer_23.6.05mx23.dsc
+ 27f7b184ed966161ab607109e64792d602f50cfe 387008 gazelle-installer_23.6.05mx23.tar.xz
+ a3cf8fc0e9065a518577a6d9a7b4668fa3581fd9 10671 gazelle-installer_23.6.05mx23_amd64.buildinfo
+ 1ef7b4afb9e2b971c74ebcb0116dca205d49aeb4 524428 mx-installer_23.6.05mx23_amd64.deb
 Checksums-Sha256:
- 40ead4a69d12fe0ac698041cf29f0314fae632e806cdf034d01e3f8688a105b3 1246 gazelle-installer_23.6.05mx23.dsc
- ab563e7aa2cfb9e2017f30193c1af0b2b38f9a00abe2b2c120e5f65f4599f08f 387124 gazelle-installer_23.6.05mx23.tar.xz
- b6ac3abeb7a17097504d135e4ebd3f49c9b4863d85eb885439d9cc20dbb8aa0a 10671 gazelle-installer_23.6.05mx23_amd64.buildinfo
- 11c97f9acd0680d8e9cd26f4bf9d93adce4d864859cd80aaf0bedefa18900a71 524496 mx-installer_23.6.05mx23_amd64.deb
+ 4799511bdc272216bb04981fdca4edb0f5fdd05a90e266c925e20bdea5e337dc 1246 gazelle-installer_23.6.05mx23.dsc
+ f7daf37b0bbd34f9f77b9f96aa6b64199d54d13d965dd6a0bce91ed13f55d470 387008 gazelle-installer_23.6.05mx23.tar.xz
+ d487a234662b3617c0d00a24a3d31db4aac08a0a48923dc90d6bb959f68d341c 10671 gazelle-installer_23.6.05mx23_amd64.buildinfo
+ 3b5ec57802a0244be6684e00758bf54a7a0f1f2d24e57e2e559ae53f0dc24995 524428 mx-installer_23.6.05mx23_amd64.deb
 Files:
- b26f2fc17241256011e03873ab1d770b 1246 system optional gazelle-installer_23.6.05mx23.dsc
- 91bc66800f8fc539714a172f7aabbf03 387124 system optional gazelle-installer_23.6.05mx23.tar.xz
- c30cdb075c89e7797b8914124a8bafd4 10671 system optional gazelle-installer_23.6.05mx23_amd64.buildinfo
- 27f28947e8dff58c3e5c6354b44fd410 524496 system optional mx-installer_23.6.05mx23_amd64.deb
+ 951049be4a409d0f5b2673876e363e32 1246 system optional gazelle-installer_23.6.05mx23.dsc
+ 0e8fa0a44f3452c879ac22966a9720c2 387008 system optional gazelle-installer_23.6.05mx23.tar.xz
+ e2ff543a77138958753c053f522b0c9c 10671 system optional gazelle-installer_23.6.05mx23_amd64.buildinfo
+ 02c90ca122734b705ba27c4a99f1b26d 524428 system optional mx-installer_23.6.05mx23_amd64.deb
 
 -----BEGIN PGP SIGNATURE-----
 
-iQFHBAEBCgAxFiEE8ndToY6S45N+YzXncJOMeAZ57pgFAmSRIkcTHGFkcmlhbkBt
-eGxpbnV4Lm9yZwAKCRBwk4x4BnnumJEKCADNzZR9PZKsg7+3ziEDQP1dbZGwk0LN
-BwrnZCIknIT1gqLlR36UM69y/xlkkEfcloZwBbYVkQGHHJR/5ve/KnwEExyHoS2s
-jolxEPb+13dTYdBWdNaK+HFoPaujSizrTTSfpSm0L3Qq504y0BXQufumItpVXev9
-rbCUzN/SzeLI+9Pn2YCShxylClXZArANpdvDwilpai76wGTXazkTO5ME3I72l1gH
-pqOScXmSWPKNA8EnUaZ3kngT+UZQXjTj+/VWN+xLxtUdaOKFXEnQSkBh7MrI8ZCA
-9KvUe4RpoXR177NmkC9QNBRK81PaP4hkTtSu3XNiE+7lucrEBWfLxRox
-=8TcE
+iQFHBAEBCgAxFiEE8ndToY6S45N+YzXncJOMeAZ57pgFAmSRI/MTHGFkcmlhbkBt
+eGxpbnV4Lm9yZwAKCRBwk4x4BnnumBD7B/4hYtQ8BqPRPzmqW/sjc7y2NnZ1Rb0q
+tsomvrkbIMw6IrGPR7a5Upy7F79SXwUMMqxD4RTzuXdBhdMfApoluF6tjhPtInkV
+tdyl0EzQ5OVD+9e2NGzBhdGyoH3br8XyVIntTOdAKO0pdqMAicvF8oPIVtnOMwEU
+1dTMUayes0pTIuDRGCmi+lbBYxNbfL6H/wHZqz6hA7Yjkxr0ziJ2R+kZ1hn3byFY
+Vbq3hwU5LYTaSsypKceXLeMaZ+b2Zab0twWiLsN48J+j/MVGt+ZSdaxRhTn15eeZ
+rFcxivN0cpltIYY8c0zLy+ShbbT4OQWd9BbR9oykvqQCMy0yyG5Dvw8p
+=TcP2
 -----END PGP SIGNATURE-----
