@@ -22,11 +22,11 @@ Changes:
    * Improved cursor feedback so message boxes do not look like they are locked up.
    * Eliminate forced nosplash for OOBE.
 Checksums-Sha1:
- 421b05772112c2d3b92517d3400b3d064b4340ec 9786 gazelle-installer_23.6.05mx23_i386.buildinfo
- 23678f9b6b9860497ee347443f28174a08195412 544416 mx-installer_23.6.05mx23_i386.deb
+ 2d04f336b6d0312ccd6e229c830f3265f8632aa1 9786 gazelle-installer_23.6.05mx23_i386.buildinfo
+ 46d90b33890549a47f677c4c1bbff9bb03b56236 544172 mx-installer_23.6.05mx23_i386.deb
 Checksums-Sha256:
- 6491d5be5703e3da616f43ab0a2f649602f900bc16ca0cb2848aa0c73536b730 9786 gazelle-installer_23.6.05mx23_i386.buildinfo
- 427f3cd27bcb225931632a94f076ce67f791232ac2b67ff3def55d48d1ea36bf 544416 mx-installer_23.6.05mx23_i386.deb
+ 85010c533f941b1f46b961829d80a3c6d548518790009c95c5d67365a0d1c478 9786 gazelle-installer_23.6.05mx23_i386.buildinfo
+ 0ba3681011366de17bd2e55b5d7fd2aab5cd1d71a1ed9bdf322cb716a4e3bb70 544172 mx-installer_23.6.05mx23_i386.deb
 Files:
- 7d5fd5c95fce64f46b2abf566c30517e 9786 system optional gazelle-installer_23.6.05mx23_i386.buildinfo
- 60965958124671a3d333b2bb3684164e 544416 system optional mx-installer_23.6.05mx23_i386.deb
+ 976c99c51ff03a8550f1d2f48e7a58c8 9786 system optional gazelle-installer_23.6.05mx23_i386.buildinfo
+ 26b915888e18048956aceffc8a7bb48d 544172 system optional mx-installer_23.6.05mx23_i386.deb
