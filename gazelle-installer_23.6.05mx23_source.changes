@@ -1,0 +1,46 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+Format: 1.8
+Date: Mon, 19 Jun 2023 23:34:21 -0400
+Source: gazelle-installer
+Architecture: source
+Version: 23.6.05mx23
+Distribution: mx
+Urgency: medium
+Maintainer: dolphinoracle <dolphinoracle@gmail.com>
+Changed-By: Adrian <adrian@mxlinux.org>
+Changes:
+ gazelle-installer (23.6.05mx23) mx; urgency=medium
+ .
+   * Fixed attempt to prepare subvolumes on non-btrfs partitions.
+   * Dump the config to the log if failed or aborted.
+   * Enable auto-mount only after cleanup has completed.
+   * Bring back media MD5 checks, pending a user-friendly boot time solution.
+   * Fixed "Reuse" text appearing with unused btrfs partitions.
+   * Do not fill mount/dump/pass options for BIOS-GRUB partition.
+   * Improved cursor feedback so message boxes do not look like they are locked up.
+Checksums-Sha1:
+ aa59c97f8d541978e525ba6c3d22eb7bfd91c2e6 1246 gazelle-installer_23.6.05mx23.dsc
+ c3950ef0f412d9e8f07011a42fe7a2ba2c275eed 387060 gazelle-installer_23.6.05mx23.tar.xz
+ bceff7a35bc1d7f93fb52a8422bc1153253ac6fc 10671 gazelle-installer_23.6.05mx23_amd64.buildinfo
+Checksums-Sha256:
+ 13f2657213648d8e5f0e3f3b1560b2c927fd2e047fa7942305fa7684e8fb6a70 1246 gazelle-installer_23.6.05mx23.dsc
+ 756e23f2229af4a8b8c32e0d912fcf96d064febbc76d38d151ef84f710dd5ed2 387060 gazelle-installer_23.6.05mx23.tar.xz
+ 8d96ae05d944f03d9c908f2b851bf7f12c4ebe07030046c0bcb15b106c76931e 10671 gazelle-installer_23.6.05mx23_amd64.buildinfo
+Files:
+ 2b25a72ca36650446bfda84c731d0e3d 1246 system optional gazelle-installer_23.6.05mx23.dsc
+ 7eef4a0760417cadfca96e1c016f7f9d 387060 system optional gazelle-installer_23.6.05mx23.tar.xz
+ f8332138380a460c6dfec2f69247820a 10671 system optional gazelle-installer_23.6.05mx23_amd64.buildinfo
+
+-----BEGIN PGP SIGNATURE-----
+
+iQFHBAEBCgAxFiEE8ndToY6S45N+YzXncJOMeAZ57pgFAmSRHx8THGFkcmlhbkBt
+eGxpbnV4Lm9yZwAKCRBwk4x4BnnumBHrB/9ZoTAA5m1QAVKiVVXytCF393vZVyrs
+PeoLHqiwuLixfmJkUpUWSbpGoPL3Io24s6ND4qAuNu6KlwDTe4kVAl0FPr78kH6r
+nUwF8jx4dKkdFbc7W9k0GXn9QLKjPo04S7zC2/pyJrIdLvG0uK78K5i9L1lApRaO
+Z33fRrsWKJiF/XrPbVTD82keCn2IZ9HNtMiZTjtk1A3SKduaiDtMLhUtXevu2ulx
+jjPf3WF4JxMGvYUHZcM7q8Xm2fL58XRfoa+HpbDhgeYLazDCXXIftRjhWah1xSC/
+Zqwpt01hX/Ro0u5PFkfAjKd8j0yb2HImD26fntScIG3YMhurOGM9aN2H
+=NWgR
+-----END PGP SIGNATURE-----
