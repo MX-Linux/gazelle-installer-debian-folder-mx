@@ -20,12 +20,13 @@ Changes:
    * Fixed "Reuse" text appearing with unused btrfs partitions.
    * Do not fill mount/dump/pass options for BIOS-GRUB partition.
    * Improved cursor feedback so message boxes do not look like they are locked up.
+   * Eliminate forced nosplash for OOBE.
 Checksums-Sha1:
- 8a5bc16f58f95cde6fc66f3025051bfeef56a0f1 9786 gazelle-installer_23.6.05mx23_i386.buildinfo
- 0b3a0203ca18a6759cf65112472edd9d180ea86d 544340 mx-installer_23.6.05mx23_i386.deb
+ 421b05772112c2d3b92517d3400b3d064b4340ec 9786 gazelle-installer_23.6.05mx23_i386.buildinfo
+ 23678f9b6b9860497ee347443f28174a08195412 544416 mx-installer_23.6.05mx23_i386.deb
 Checksums-Sha256:
- b52b14436b5560f7724d2e5dbaf5e1df5651e6f13a70d3b7bf8241b65be01919 9786 gazelle-installer_23.6.05mx23_i386.buildinfo
- 7f1299a6bb8ad6176aabd5ec5bda2e77d6487d83fdfbdf0c6acc199f269b69a9 544340 mx-installer_23.6.05mx23_i386.deb
+ 6491d5be5703e3da616f43ab0a2f649602f900bc16ca0cb2848aa0c73536b730 9786 gazelle-installer_23.6.05mx23_i386.buildinfo
+ 427f3cd27bcb225931632a94f076ce67f791232ac2b67ff3def55d48d1ea36bf 544416 mx-installer_23.6.05mx23_i386.deb
 Files:
- fae877f612225fcac3cb5051a37b9d06 9786 system optional gazelle-installer_23.6.05mx23_i386.buildinfo
- dbb2ef0f957d947721670935f95c4d65 544340 system optional mx-installer_23.6.05mx23_i386.deb
+ 7d5fd5c95fce64f46b2abf566c30517e 9786 system optional gazelle-installer_23.6.05mx23_i386.buildinfo
+ 60965958124671a3d333b2bb3684164e 544416 system optional mx-installer_23.6.05mx23_i386.deb
