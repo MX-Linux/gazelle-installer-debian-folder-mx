@@ -1,0 +1,53 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+Format: 1.8
+Date: Sun, 25 Jun 2023 15:39:27 -0400
+Source: gazelle-installer
+Architecture: source
+Version: 23.6.06mx23
+Distribution: mx
+Urgency: medium
+Maintainer: dolphinoracle <dolphinoracle@gmail.com>
+Changed-By: Adrian <adrian@mxlinux.org>
+Changes:
+ gazelle-installer (23.6.06mx23) mx; urgency=medium
+ .
+   * Add some colour to the throbber.
+   * Show terms and keyboard settings in OOBE mode.
+   * Remove short forms for test options.
+   * Add button to hide or show the grid lines in the partition list.
+   * Copy mount option changes for performance.
+   * Fixed: drives that support discard are not recognised if not SSDs.
+   * BTRFS options and template changes.
+   * Since cryptsetup >2.3.4 is now in the base, take advantage of it.
+   * Make --auto work again.
+   * Swap file bug fixes.
+   * Changed default swap file location to /swap/swap.
+   * Remove old /bin and /sbin prefixes from commands.
+   * Improved minstall-launcher security.
+   * Reduce process execution log noise when there are no errors or anomalies.
+Checksums-Sha1:
+ bf3fd1f562de77a812d1b72c210871a51d2d33b0 1246 gazelle-installer_23.6.06mx23.dsc
+ 82c3cdf4bc3ef3263a1d5ffef9fd5809579b1027 388196 gazelle-installer_23.6.06mx23.tar.xz
+ be6afdfefa0b94f017f56ff421b49756c2179395 10671 gazelle-installer_23.6.06mx23_amd64.buildinfo
+Checksums-Sha256:
+ 115b923b3767aed2b754ee64cb329338ab33bce187412bf1e6b1c40f114d13c4 1246 gazelle-installer_23.6.06mx23.dsc
+ c0ec38e74da6c51c4c446195f385ed37738d81ecab5fbe44905b08ccc0dc511c 388196 gazelle-installer_23.6.06mx23.tar.xz
+ 306911ace0683f1974cf9d029139da7b7d54eb0c425c08f9294685891d79941d 10671 gazelle-installer_23.6.06mx23_amd64.buildinfo
+Files:
+ 82671ae0aabc8644e4ae8afceeb8f947 1246 system optional gazelle-installer_23.6.06mx23.dsc
+ 532caf58f83fa0ef8c833e0ef4b531f0 388196 system optional gazelle-installer_23.6.06mx23.tar.xz
+ 79b8a5e7b72d97c63ddaf76d5f7097e0 10671 system optional gazelle-installer_23.6.06mx23_amd64.buildinfo
+
+-----BEGIN PGP SIGNATURE-----
+
+iQFHBAEBCgAxFiEE8ndToY6S45N+YzXncJOMeAZ57pgFAmSYm3wTHGFkcmlhbkBt
+eGxpbnV4Lm9yZwAKCRBwk4x4BnnumEckCACrkWZ7orUyqyFvDNvIM0SXlt6ajyFm
+X2E9Bm8fR+m1DI3pQ/KYGAwvIUf28u0LSUX/4yVLNS30YyOnLN6BO0W+h/2XQ6te
+lsas1EaJm6+HHTSfTcmxZj6WMCoW1YJa7859MjBwiyOKFMPKdjbbexqpsnvnkfmK
+OwBUz1OSRibUpyVDTjj9cK40IILz3miGvrWLwe2gVADjbI9OOvZPv+2nQiAW14cZ
+P/BbENNe0z258S6o1mpxsjkBym3GI9Xe+YNcgJNN6FJBcoLCMMN0Wgc1a000kLJU
+qP07zdsW8FwyW4V89pv5zBS7jcJluvgyw6C+KchuU9GAATgfMhc/Vc05
+=Nfhi
+-----END PGP SIGNATURE-----

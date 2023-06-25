@@ -1,0 +1,59 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+Format: 1.8
+Date: Sun, 25 Jun 2023 15:39:27 -0400
+Source: gazelle-installer
+Binary: mx-installer
+Architecture: source amd64
+Version: 23.6.06mx23
+Distribution: mx
+Urgency: medium
+Maintainer: dolphinoracle <dolphinoracle@gmail.com>
+Changed-By: Adrian <adrian@mxlinux.org>
+Description:
+ mx-installer - Customizable GUI installer for MX Linux and antiX Linux
+Changes:
+ gazelle-installer (23.6.06mx23) mx; urgency=medium
+ .
+   * Add some colour to the throbber.
+   * Show terms and keyboard settings in OOBE mode.
+   * Remove short forms for test options.
+   * Add button to hide or show the grid lines in the partition list.
+   * Copy mount option changes for performance.
+   * Fixed: drives that support discard are not recognised if not SSDs.
+   * BTRFS options and template changes.
+   * Since cryptsetup >2.3.4 is now in the base, take advantage of it.
+   * Make --auto work again.
+   * Swap file bug fixes.
+   * Changed default swap file location to /swap/swap.
+   * Remove old /bin and /sbin prefixes from commands.
+   * Improved minstall-launcher security.
+   * Reduce process execution log noise when there are no errors or anomalies.
+Checksums-Sha1:
+ bf3fd1f562de77a812d1b72c210871a51d2d33b0 1246 gazelle-installer_23.6.06mx23.dsc
+ 82c3cdf4bc3ef3263a1d5ffef9fd5809579b1027 388196 gazelle-installer_23.6.06mx23.tar.xz
+ be6afdfefa0b94f017f56ff421b49756c2179395 10671 gazelle-installer_23.6.06mx23_amd64.buildinfo
+ 17cde5ce249fb078abfbb4ba6010e39b6b697386 521452 mx-installer_23.6.06mx23_amd64.deb
+Checksums-Sha256:
+ 115b923b3767aed2b754ee64cb329338ab33bce187412bf1e6b1c40f114d13c4 1246 gazelle-installer_23.6.06mx23.dsc
+ c0ec38e74da6c51c4c446195f385ed37738d81ecab5fbe44905b08ccc0dc511c 388196 gazelle-installer_23.6.06mx23.tar.xz
+ 306911ace0683f1974cf9d029139da7b7d54eb0c425c08f9294685891d79941d 10671 gazelle-installer_23.6.06mx23_amd64.buildinfo
+ bf5faf0835ca640491e7456a33a6ed8cb8dab74b1af778c1942c5757b07d284b 521452 mx-installer_23.6.06mx23_amd64.deb
+Files:
+ 82671ae0aabc8644e4ae8afceeb8f947 1246 system optional gazelle-installer_23.6.06mx23.dsc
+ 532caf58f83fa0ef8c833e0ef4b531f0 388196 system optional gazelle-installer_23.6.06mx23.tar.xz
+ 79b8a5e7b72d97c63ddaf76d5f7097e0 10671 system optional gazelle-installer_23.6.06mx23_amd64.buildinfo
+ 177a8f67ecbef5bf36fbc6f93709cfbe 521452 system optional mx-installer_23.6.06mx23_amd64.deb
+
+-----BEGIN PGP SIGNATURE-----
+
+iQFHBAEBCgAxFiEE8ndToY6S45N+YzXncJOMeAZ57pgFAmSYm3wTHGFkcmlhbkBt
+eGxpbnV4Lm9yZwAKCRBwk4x4BnnumBFiB/9/m8YVLdcJLBt4fmJCO81+WrwQdSPw
+2gHVFSHldnvlSYxG/yK1t5McXCAEd0Wd0hPdCwxmPdjlrW3365RDkRQ9C/Z6eo2y
+ut9z+Bcgj33iVtE1XE7HIR79QhCoPRky/ugsd08v2UbH85OaWeUfIP8ISZo4UYd7
+lMHEB5rQcSjnWdKHF+c/Y3Z4hGQzt23sP2qHlfmW0aVhWJT911DIMXAYWcuWPFd0
+aH1Yz2MCy5CH4FCNiaRTB8b1lG/KMwdDSCmwov9/ZWrIz5y0RGZZ2kcUmubS8cuH
+dHAd/PV7lQ7C5boEYybJEYr/6GufO4D0dj1gLrqxA8bcHHoRGLszH++N
+=3fO2
+-----END PGP SIGNATURE-----

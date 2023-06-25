@@ -1,3 +1,22 @@
+gazelle-installer (23.6.06mx23) mx; urgency=medium
+
+  * Add some colour to the throbber.
+  * Show terms and keyboard settings in OOBE mode.
+  * Remove short forms for test options.
+  * Add button to hide or show the grid lines in the partition list.
+  * Copy mount option changes for performance.
+  * Fixed: drives that support discard are not recognised if not SSDs.
+  * BTRFS options and template changes.
+  * Since cryptsetup >2.3.4 is now in the base, take advantage of it.
+  * Make --auto work again.
+  * Swap file bug fixes.
+  * Changed default swap file location to /swap/swap.
+  * Remove old /bin and /sbin prefixes from commands.
+  * Improved minstall-launcher security.
+  * Reduce process execution log noise when there are no errors or anomalies.
+
+ -- Adrian <adrian@mxlinux.org>  Sun, 25 Jun 2023 15:39:27 -0400
+
 gazelle-installer (23.6.05mx23) mx; urgency=medium
 
   * Fixed attempt to prepare subvolumes on non-btrfs partitions.
