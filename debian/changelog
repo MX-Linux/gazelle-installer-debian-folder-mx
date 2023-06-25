@@ -1,3 +1,10 @@
+gazelle-installer (23.6.02) mx; urgency=medium
+
+  * Improved minstall-launcher security.
+  * Reduce process execution log noise when there are no errors or anomalies.
+
+ -- Adrian <adrian@mxlinux.org>  Sun, 25 Jun 2023 16:08:16 -0400
+
 gazelle-installer (23.6.01) mx; urgency=medium
 
   * Rebuild for Bullseye
