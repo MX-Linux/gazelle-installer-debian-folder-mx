@@ -15,8 +15,8 @@ dpkg-source: info: building gazelle-installer in gazelle-installer_23.7.01mx23.d
 dpkg-genchanges: info: including full source code in upload
 [1;33mW: cgroups are not available on the host, not using them.[0m
 [0mI: pbuilder: network access will be disabled during build[0m
-[0mI: Current time: Thu Jul  6 07:09:21 EDT 2023[0m
-[0mI: pbuilder-time-stamp: 1688641761[0m
+[0mI: Current time: Thu Jul  6 09:27:17 EDT 2023[0m
+[0mI: pbuilder-time-stamp: 1688650037[0m
 [0mI: Building the build Environment[0m
 [0mI: extracting base tarball [/media/dataext/development/pbuilder/debian-bookworm-amd64-base.tgz][0m
 [0mI: copying local configuration[0m
@@ -80,13 +80,10 @@ The following NEW packages will be installed:
   qtattributionsscanner-qt5 qtbase5-dev qtbase5-dev-tools qtchooser
   qttools5-dev-tools readline-common sensible-utils shared-mime-info
   x11-common x11proto-dev xkb-data xorg-sgml-doctools xtrans-dev
-0 upgraded, 194 newly installed, 0 to remove and 0 not upgraded.
-Need to get 1728 kB/150 MB of archives.
-After this operation, 648 MB of additional disk space will be used.
-Get:1 http://ftp.us.debian.org/debian bookworm/main amd64 libzxcvbn0 amd64 2.5+dfsg-1 [862 kB]
-Get:2 http://ftp.us.debian.org/debian bookworm/main amd64 libzxcvbn-dev amd64 2.5+dfsg-1 [866 kB]
 debconf: delaying package configuration, since apt-utils is not installed
-Fetched 1728 kB in 1s (2336 kB/s)
+0 upgraded, 194 newly installed, 0 to remove and 0 not upgraded.
+Need to get 0 B/150 MB of archives.
+After this operation, 648 MB of additional disk space will be used.
 Selecting previously unselected package libglib2.0-0:amd64.
 (Reading database ... (Reading database ... 5%(Reading database ... 10%(Reading database ... 15%(Reading database ... 20%(Reading database ... 25%(Reading database ... 30%(Reading database ... 35%(Reading database ... 40%(Reading database ... 45%(Reading database ... 50%(Reading database ... 55%(Reading database ... 60%(Reading database ... 65%(Reading database ... 70%(Reading database ... 75%(Reading database ... 80%(Reading database ... 85%(Reading database ... 90%(Reading database ... 95%(Reading database ... 100%(Reading database ... 12116 files and directories currently installed.)
 Preparing to unpack .../000-libglib2.0-0_2.74.6-2_amd64.deb ...
@@ -899,8 +896,6 @@ Processing triggers for man-db (2.11.2-2) ...
 Not building database; man-db/auto-update is not 'true'.
 Processing triggers for libc-bin (2.36-9) ...
 [0mI: Copying back the cached apt archive contents[0m
-[0mI: new cache content 'libzxcvbn0_2.5+dfsg-1_amd64.deb' added[0m
-[0mI: new cache content 'libzxcvbn-dev_2.5+dfsg-1_amd64.deb' added[0m
 [0mI: Building the package[0m
 [0mI: Running cd /build/gazelle-installer-23.7.01mx23/ && env PATH="/usr/sbin:/usr/bin:/sbin:/bin" HOME="/nonexistent" dpkg-buildpackage -us -uc  -B -j4 && env PATH="/usr/sbin:/usr/bin:/sbin:/bin" HOME="/nonexistent" dpkg-genchanges -S  > ../gazelle-installer_23.7.01mx23_source.changes[0m
 dpkg-buildpackage: info: source package gazelle-installer
@@ -1371,6 +1366,6 @@ dpkg-genchanges: info: including full source code in upload
 [0mI: unmounting proc filesystem[0m
 [0mI: unmounting sys filesystem[0m
 [0mI: cleaning the build env [0m
-[0mI: removing directory /media/dataext/development/pbuilder/build/15336 and its subdirectories[0m
-[0mI: Current time: Thu Jul  6 07:09:54 EDT 2023[0m
-[0mI: pbuilder-time-stamp: 1688641794[0m
+[0mI: removing directory /media/dataext/development/pbuilder/build/11095 and its subdirectories[0m
+[0mI: Current time: Thu Jul  6 09:27:54 EDT 2023[0m
+[0mI: pbuilder-time-stamp: 1688650074[0m

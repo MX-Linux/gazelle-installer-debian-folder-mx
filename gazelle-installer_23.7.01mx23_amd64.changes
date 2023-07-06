@@ -1,6 +1,3 @@
------BEGIN PGP SIGNED MESSAGE-----
-Hash: SHA512
-
 Format: 1.8
 Date: Thu, 06 Jul 2023 07:01:59 -0400
 Source: gazelle-installer
@@ -16,59 +13,36 @@ Description:
 Changes:
  gazelle-installer (23.7.01mx23) mx; urgency=medium
  .
-   *  Fixed: swap file cannot be created in a volume smaller than root.
-   *  Fixed disk space warning with unselected BIOS-GRUB partition.
-   *  Fixed unbootable setup warning with existing BIOS-GRUB partition.
-   *  Fixed: changing from encrypted volume to un-encryptable will encrypt it anyway.
-   *  Fixed: BIOS-GRUB ESP and boot are selectable for subvolumes.
-   *  GRUB-related EFI NVRAM fixes.
-   *  Fixed: live /etc/default/grub corrupted if hibernation is selected.
-   *  Fixed lingering window on close while waiting for info.
-   *  Fixed stall during passphrase text box popup menu.
-   *  Improved disk space requirement warning.
-   *  Don't set the wait cursor when running the external partition manager.
-   *  If the user really wants to encrypt /boot do not stop them.
-   *  Thorough cleanup: unmount everything in /mnt/antiX first.
-   *  Do not unmount special file systems at the end if --mount-keep is used.
-   *  Add --media-check and --no-media-check to command options parser.
-   *  Do not lazy-unmount when starting or finishing the installation.
-   *  Enable clear button on password text boxes.
-   *  Improved random passphrase generator.
-   *  Auto-fill user experience improvements.
-   *  Changed naming scheme from ".fsm" to ".luks" to reflect the true purpose.
-   *  New format for services.list and installer.conf listed services.
-   *  Start zram at the beginning to aid LUKS on memory constrained systems.
-   *  Added some more mount point presets.
-   *  Warn if the default user passphrase is empty.
-   *  Hide the percentage when waiting for operator input.
-   *  Use keyscript=decrypt_keyctl instead of key files.
-   *  Make sure systemd services that are to be enabled are unmasked.
-   *  Setup the chroot environment earlier so systemctl unmask works.
-   *  Improvements to various warning and confirmation messages.
-   *  Error handling and logging improvements,
+   * Fixed: swap file cannot be created in a volume smaller than root.
+   * Fixed: disk space warning with unselected BIOS-GRUB partition.
+   * Fixed: unbootable setup warning with existing BIOS-GRUB partition.
+   * Fixed: changing from encrypted volume to un-encryptable will encrypt it anyway.
+   * Fixed: BIOS-GRUB ESP and boot are selectable for subvolumes.
+   * GRUB-related EFI NVRAM fixes.
+   * Fixed: live /etc/default/grub corrupted if hibernation is selected.
+   * Fixed: lingering window on close while waiting for info.
+   * Fixed: stall during passphrase text box popup menu.
+   * Services setup fixes.
+   * Fixed: work area and chroot environment management.
+   * Fixed: btrfs allowed uses not updated after changing parent volume size.
+   * Add --media-check and --no-media-check to command options parser.
+   * Improved random passphrase generator.
+   * Changed naming scheme from ".fsm" to ".luks" to reflect the true purpose.
+   * New format for services.list and installer.conf listed services.
+   * Start zram at the beginning to aid LUKS on memory constrained systems.
+   * Warn if the default user passphrase is empty.
+   * Hide the percentage when waiting for operator input.
+   * Use keyscript=decrypt_keyctl instead of key files.
+   * Take advantage of cryptsetup 2.4.0 automatic sector size detection.
+   * GUI and user experience tweaks.
+   * Improvements and fixes to various warning and confirmation messages.
+   * Error handling and logging improvements.
 Checksums-Sha1:
- b5cab2f3be0ee01422042dc53982d89a592f76ed 10575 gazelle-installer_23.7.01mx23_amd64.buildinfo
- 00a0412e0c2f17325a3a5bd7684bddd2dadb37e4 516760 mx-installer_23.7.01mx23_amd64.deb
+ 324488fc120c25eb251044e0ae33237650b04e6c 9692 gazelle-installer_23.7.01mx23_amd64.buildinfo
+ c986750cc1b216394a20a55fb0521532737c4c22 516536 mx-installer_23.7.01mx23_amd64.deb
 Checksums-Sha256:
- 1be5611cbc1210e11817a29894d2cdceb3dada623bfe047d65c1db8ee3b06ec3 10575 gazelle-installer_23.7.01mx23_amd64.buildinfo
- f470091d11f40271010055e01d2d0fd438392b249c7fe3362aff66c116b099bc 516760 mx-installer_23.7.01mx23_amd64.deb
+ 34d6da1e7c2bba6a1743cfa203061d3857a71eba1044730fe7209b1a12949b93 9692 gazelle-installer_23.7.01mx23_amd64.buildinfo
+ 14a8a8b20b169f85b0035c3a4a94820c61a2b4b14eeec8a2aff2fd26841ebc35 516536 mx-installer_23.7.01mx23_amd64.deb
 Files:
- cfc39d293fb7950b080c7d5772db836e 10575 system optional gazelle-installer_23.7.01mx23_amd64.buildinfo
- 25cc14016c3033137f04dbe4ea3fb654 516760 system optional mx-installer_23.7.01mx23_amd64.deb
-
------BEGIN PGP SIGNATURE-----
-
-iQIzBAEBCgAdFiEE9i7eqjrnCpyZ2sQYm2ih6Lm2N1wFAmSmoRgACgkQm2ih6Lm2
-N1wZLw/7BOSobgGoMrx/lR+KO7+/oAJClEQcl4W82Qbp4cfKL3P8z7ljRWB72Sjj
-bH2EMqnOyZZ6YdsLkKmJ4WPAkeHOltOA4nGjhWlGqhtcYdT91RPIJw/YGxRBzhDh
-8uUvtLTfTVIANPAAmqoCvj4C5rP0LdR8UQzNvI4X9Q2i6MIQYwSsGhJU0lZ0RdOU
-a0eyqicQ5titsolKoz4mIfa43+N1fpByMLXzs8XHl3q29IQlaE/gPWupnhOT5PKt
-9yOI3OKuehC53hN9GUcHkSKoVcepKFJAfNZ31f8omXeh5RWozyZ97Bn0xh0nKE2T
-A6k+StWSiimnI4yKFfiBWBSjrQWs4tsPlszNKCQbWleaXt16Qb8oNiGMvUg4yBGy
-QnkYsOsh5bqQK4IZPnseQ3K6h4NLij0jsop9x5GtgyO21R+w4OkPyYXNMopbEVjv
-mb0JzGYyrwxpDdPVnLlcaopqbpSpHzdxhXTSxtB8D3lot3vS16431QBMhc0/Q5Ey
-nc2agZRA4ZeAuzbQnRPtKIjthzpvm+apOVkeQ+aDfijsEygNk8e7m8v1TFMpiNS/
-Z6bQE9i60ciIXCTyrqYnhmt3QuAKjCWSDa0u3Bpo1KlR38z1FYNj0jTGkIIc3sD+
-5f7xrCYX4sRcsDRq4uOXRaSLrJfxnUjK/P5esACwhqFQytp97is=
-=rr8q
------END PGP SIGNATURE-----
+ c4bb641dfc2310b1cede6412d1d07629 9692 system optional gazelle-installer_23.7.01mx23_amd64.buildinfo
+ 12de2ae63c63e98d15a3247ec201d3b1 516536 system optional mx-installer_23.7.01mx23_amd64.deb
