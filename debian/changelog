@@ -1,3 +1,38 @@
+gazelle-installer (23.6.06mx23+nmu1) UNRELEASED; urgency=medium
+
+  *  Fixed: swap file cannot be created in a volume smaller than root.
+  *  Fixed disk space warning with unselected BIOS-GRUB partition.
+  *  Fixed unbootable setup warning with existing BIOS-GRUB partition.
+  *  Fixed: changing from encrypted volume to un-encryptable will encrypt it anyway.
+  *  Fixed: BIOS-GRUB ESP and boot are selectable for subvolumes.
+  *  GRUB-related EFI NVRAM fixes.
+  *  Fixed: live /etc/default/grub corrupted if hibernation is selected.
+  *  Fixed lingering window on close while waiting for info.
+  *  Fixed stall during passphrase text box popup menu.
+  *  Improved disk space requirement warning.
+  *  Don't set the wait cursor when running the external partition manager.
+  *  If the user really wants to encrypt /boot do not stop them.
+  *  Thorough cleanup: unmount everything in /mnt/antiX first.
+  *  Do not unmount special file systems at the end if --mount-keep is used.
+  *  Add --media-check and --no-media-check to command options parser.
+  *  Do not lazy-unmount when starting or finishing the installation.
+  *  Enable clear button on password text boxes.
+  *  Improved random passphrase generator.
+  *  Auto-fill user experience improvements.
+  *  Changed naming scheme from ".fsm" to ".luks" to reflect the true purpose.
+  *  New format for services.list and installer.conf listed services.
+  *  Start zram at the beginning to aid LUKS on memory constrained systems.
+  *  Added some more mount point presets.
+  *  Warn if the default user passphrase is empty.
+  *  Hide the percentage when waiting for operator input.
+  *  Use keyscript=decrypt_keyctl instead of key files.
+  *  Make sure systemd services that are to be enabled are unmasked.
+  *  Setup the chroot environment earlier so systemctl unmask works.
+  *  Improvements to various warning and confirmation messages.
+  *  Error handling and logging improvements, 
+
+ -- Dolphin Oracle <dolphinoracle@gmail.com>  Thu, 06 Jul 2023 07:01:59 -0400
+
 gazelle-installer (23.6.06mx23) mx; urgency=medium
 
   * Add some colour to the throbber.
