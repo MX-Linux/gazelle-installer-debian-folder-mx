@@ -1,20 +1,17 @@
------BEGIN PGP SIGNED MESSAGE-----
-Hash: SHA512
-
 Format: 1.0
 Source: gazelle-installer
 Binary: mx-installer
 Architecture: amd64
 Version: 23.7.01mx23
 Checksums-Md5:
- 25cc14016c3033137f04dbe4ea3fb654 516760 mx-installer_23.7.01mx23_amd64.deb
+ 12de2ae63c63e98d15a3247ec201d3b1 516536 mx-installer_23.7.01mx23_amd64.deb
 Checksums-Sha1:
- 00a0412e0c2f17325a3a5bd7684bddd2dadb37e4 516760 mx-installer_23.7.01mx23_amd64.deb
+ c986750cc1b216394a20a55fb0521532737c4c22 516536 mx-installer_23.7.01mx23_amd64.deb
 Checksums-Sha256:
- f470091d11f40271010055e01d2d0fd438392b249c7fe3362aff66c116b099bc 516760 mx-installer_23.7.01mx23_amd64.deb
+ 14a8a8b20b169f85b0035c3a4a94820c61a2b4b14eeec8a2aff2fd26841ebc35 516536 mx-installer_23.7.01mx23_amd64.deb
 Build-Origin: Debian
 Build-Architecture: amd64
-Build-Date: Thu, 06 Jul 2023 11:09:54 +0000
+Build-Date: Thu, 06 Jul 2023 13:27:53 +0000
 Build-Path: /build/gazelle-installer-23.7.01mx23
 Installed-Build-Depends:
  autoconf (= 2.71-3),
@@ -344,20 +341,3 @@ Environment:
  LANG="C"
  LC_ALL="C"
  SOURCE_DATE_EPOCH="1688641319"
-
------BEGIN PGP SIGNATURE-----
-
-iQIzBAEBCgAdFiEE9i7eqjrnCpyZ2sQYm2ih6Lm2N1wFAmSmoRQACgkQm2ih6Lm2
-N1w8axAA4yzm/F1IVlPZ5y/uY0UPcIO6OEyxErg9QXrfuE4o4JgX0wlLOSsEGk5d
-ppRK4b8bKMOFVOWKJryb7T3wXfwV2on9Wo+DCttDaD1M1bnNSWlCuFVvhnzW171n
-wWV3znPCXy7wWzubSroJO2pMTIFHGwPcdyPDZKGBhJYQqkm/1HnIbiXfa3bSpbnu
-LUXwA0mI5kH6eN8AoMMyvCFnXyqRBogEJhZIxIWy3+kNqms2iT/igU7QkPbAypG1
-Riss1/efetRd9wr03vpW3uMVybkwNr7HQtRTsChrveP4aYbfDrxU+78n1podnjxN
-/ZTyjb+PM1WBC874MdaY/qhhJobd/ed9Ij8Pq/CN4x+DlbKrJCE44k6O+esn1Bas
-NM82r8+4PygXlFx5x+NqDv4KApd9VR6oXE1NqXOwHs0d6xjK/ozyB5ixQ7SxwNGH
-41x3aW49T38FEssho32wK9Hac0388aJr38cxm5DO/88huMHMd49Ihrz5VxicPLhZ
-M2wfsdlAtX2U9MayOx6YuCOqdV06rUszhXywV7tANsdqnZz55KxRcnqkoCVCMBdC
-/7KvqJ5YEDDBO2oQOwPpE2YtsDFHiYK1tBhw1KXVCebqc41mvpyhE+4X3z9GBjrn
-h/30Sdi2TlETVR61+bc9h/Thshf1mdfeas7bcDMuBZc4cjtC//8=
-=8VZu
------END PGP SIGNATURE-----
