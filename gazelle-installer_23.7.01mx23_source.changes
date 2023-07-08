@@ -1,3 +1,6 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
 Format: 1.8
 Date: Thu, 06 Jul 2023 07:01:59 -0400
 Source: gazelle-installer
@@ -34,15 +37,33 @@ Changes:
    * GUI and user experience tweaks.
    * Improvements and fixes to various warning and confirmation messages.
    * Error handling and logging improvements.
+   * Turn off partman grid by default
 Checksums-Sha1:
- 804986963a811a5a2d8fd625f346d28a2f199f0f 684 gazelle-installer_23.7.01mx23.dsc
- aa0a88e6db3a53e302a238f4c6d9185c3ea95dc8 390176 gazelle-installer_23.7.01mx23.tar.xz
- 324488fc120c25eb251044e0ae33237650b04e6c 9692 gazelle-installer_23.7.01mx23_amd64.buildinfo
+ 6c1a163bf94351f7a9bd9caa9e252f67f58ebd6b 684 gazelle-installer_23.7.01mx23.dsc
+ 1464a7c82278904bbf354419921af0c8b32c3438 393988 gazelle-installer_23.7.01mx23.tar.xz
+ 950523944b00480dd62f29c03243f0c9b294a35f 10575 gazelle-installer_23.7.01mx23_amd64.buildinfo
 Checksums-Sha256:
- 88e34020298d9530a6870b1583ef6d3253e98361bcf81304ca92e97055a77bbd 684 gazelle-installer_23.7.01mx23.dsc
- 47aafce5643066fb9bb20c25f01c428cfabcb6bf1a067dc0e657f8996f1a5a15 390176 gazelle-installer_23.7.01mx23.tar.xz
- 34d6da1e7c2bba6a1743cfa203061d3857a71eba1044730fe7209b1a12949b93 9692 gazelle-installer_23.7.01mx23_amd64.buildinfo
+ 24bc6f49da1a901c676aa805b111bb818a38ac1ddbcc66feb657d9de87730590 684 gazelle-installer_23.7.01mx23.dsc
+ e33d926573e525d74417aff6cbaab3ffa75da0816e342251243f6717c885c41f 393988 gazelle-installer_23.7.01mx23.tar.xz
+ a12ec4448512e4695d71b7d2986ea889829ac0bbabecd0dd069ebf89ffe9c149 10575 gazelle-installer_23.7.01mx23_amd64.buildinfo
 Files:
- ef925cbb2e35c84256378fe0289a3791 684 system optional gazelle-installer_23.7.01mx23.dsc
- c6fa398f501acdd66e88ca97e0847569 390176 system optional gazelle-installer_23.7.01mx23.tar.xz
- c4bb641dfc2310b1cede6412d1d07629 9692 system optional gazelle-installer_23.7.01mx23_amd64.buildinfo
+ 54c4ebe0c09acdf7c712c6f944400588 684 system optional gazelle-installer_23.7.01mx23.dsc
+ ef7c263bcc3703b83f6b8d2a3f43f971 393988 system optional gazelle-installer_23.7.01mx23.tar.xz
+ 697ebdf0314b8941173260be5c37dbf8 10575 system optional gazelle-installer_23.7.01mx23_amd64.buildinfo
+
+-----BEGIN PGP SIGNATURE-----
+
+iQIzBAEBCgAdFiEE9i7eqjrnCpyZ2sQYm2ih6Lm2N1wFAmSpmV8ACgkQm2ih6Lm2
+N1zfnQ//WB80fznChFoMfZQ+I8UGyWQRHxwPzL7sO48OY8gOYQGaLOOeoQtZn8M7
+8ayQ9vuZlqm6nkLpVlQaE09jctf99XaqA2h5jOheYCN7Gy3TMNQLGNxril/xFuj8
+PgURtZLhgsoxdzd1wJdFyVeo/pl3DhHg5BlkVGK6lzMspH9EJNM1IX8q41lLPWqn
+P3j97Ax8qQX0x7YhvyGsqNHl71ngB85O0vuQYVb25OtCzh9rsJ+/VxDGBwx2Dm3z
+eemsqfdZOUDbdMzH7NvRQi8eC/JhbL0/o9/PQv2IapKrw9yVOUi/FK0Qk6jcpoiI
+nTdhgUPai8428fLz19oja9ohmbm2ErL32FV7CNFk78dsgzAQndgXjgBN3w1glouj
+yjaNtnezj6AaMO+7Kzg/nBrJnl2WITBw4Qds3TFWMOFmSyWdQBczQqbJBRQFrfXe
+Wk9O/kpHuzCggLUkeWa9vCLA/zTMGmLx9I3+uOMvbnorZQVZQ8LvgCxozOfeBPKG
+5Rg/fxwFFa5K+J97AohnBvlx/RjkOKak8KM1gVYE0o9eJp8iReoodNy6H+sqkxJS
+d3mQoW9dimqDcWsBOGyco7wNETzoPkeq/4+0WSovpNGv56FA/7S1Kr/IDNONEV7L
+2iToHuse55uzUKtGyJmOVQ6JtG3tx1Hz7wbsiz+k/9gbTpgi8IM=
+=9e6D
+-----END PGP SIGNATURE-----
