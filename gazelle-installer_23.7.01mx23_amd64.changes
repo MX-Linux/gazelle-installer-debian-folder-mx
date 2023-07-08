@@ -1,3 +1,6 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
 Format: 1.8
 Date: Thu, 06 Jul 2023 07:01:59 -0400
 Source: gazelle-installer
@@ -37,12 +40,30 @@ Changes:
    * GUI and user experience tweaks.
    * Improvements and fixes to various warning and confirmation messages.
    * Error handling and logging improvements.
+   * Turn off partman grid by default
 Checksums-Sha1:
- 324488fc120c25eb251044e0ae33237650b04e6c 9692 gazelle-installer_23.7.01mx23_amd64.buildinfo
- c986750cc1b216394a20a55fb0521532737c4c22 516536 mx-installer_23.7.01mx23_amd64.deb
+ 950523944b00480dd62f29c03243f0c9b294a35f 10575 gazelle-installer_23.7.01mx23_amd64.buildinfo
+ e913647ac13c801d96b041dbe0bf8998f249c292 519016 mx-installer_23.7.01mx23_amd64.deb
 Checksums-Sha256:
- 34d6da1e7c2bba6a1743cfa203061d3857a71eba1044730fe7209b1a12949b93 9692 gazelle-installer_23.7.01mx23_amd64.buildinfo
- 14a8a8b20b169f85b0035c3a4a94820c61a2b4b14eeec8a2aff2fd26841ebc35 516536 mx-installer_23.7.01mx23_amd64.deb
+ a12ec4448512e4695d71b7d2986ea889829ac0bbabecd0dd069ebf89ffe9c149 10575 gazelle-installer_23.7.01mx23_amd64.buildinfo
+ 777ec5c3813a93652caca8a040574ca79d19c6fdfbc293089259f101e8501543 519016 mx-installer_23.7.01mx23_amd64.deb
 Files:
- c4bb641dfc2310b1cede6412d1d07629 9692 system optional gazelle-installer_23.7.01mx23_amd64.buildinfo
- 12de2ae63c63e98d15a3247ec201d3b1 516536 system optional mx-installer_23.7.01mx23_amd64.deb
+ 697ebdf0314b8941173260be5c37dbf8 10575 system optional gazelle-installer_23.7.01mx23_amd64.buildinfo
+ 80137d2039331696147d18203486af8c 519016 system optional mx-installer_23.7.01mx23_amd64.deb
+
+-----BEGIN PGP SIGNATURE-----
+
+iQIzBAEBCgAdFiEE9i7eqjrnCpyZ2sQYm2ih6Lm2N1wFAmSpmV4ACgkQm2ih6Lm2
+N1xpbhAArqTn0hq19mzUALZdhWYBneQ6eJe1j7u6dA5vcEfoukzZ4FDNG+4iSeJW
+9ShzjcBi+oz5pwJkm1w6VjSL4Q0ZOuA2XeSr6hdGyX/vTOrvC+X+zEFY6p5qwilh
+7m2RedecRx2xKw9oUc3mq0BS35+AaFbyEWRwLZ5gHNFOjRRhxm6OPk70WsTru13y
+ykSRO+AT6zs6WDhWYn6cWcNntLBnjhl/TtKrNQLwGAvSvxFYDuctFi81MbA6QLTi
+VkIYCn8ja7TbAfOtTBEJA7Y3uEpBEoMfU5mYuCOfOwwXo8NkNPi/lNQ2cM3HAmOb
+fE2uRr/4UrZhA8ioo0bBl+x3hQKKk0B7yyVbmA+yw4dbC8t41aP1p9CzIYDz5AqK
++5wfc2ufrcW7bgOzt+DQ+ekCKtfQ6AHUNy2UmQw6BanyYlqHen7TTXrT3DX3gdVq
+vR0IIDQ6qyC6H+lQ5xNsb/rz41RIWTWaDKOC5sPJSRrqU4hzB/KHArvI9UhuR5DM
+3BZFcXQED29yyqDU4h5fS4drVhrxMaUIMgOTf5JxX9OrLEy5ungda57z/ldFfZJB
+oenuapz8HbjVJ1gPaZmu2Alu7PCVAocawS2mCScMtDMyXk7JuvsX3jbA8zw5+9EW
+3ju9Lj3x3+c9J3i/I7ocjylnFQgdFCcFn9W/bUQFvV3SkyMNfT8=
+=YhmP
+-----END PGP SIGNATURE-----

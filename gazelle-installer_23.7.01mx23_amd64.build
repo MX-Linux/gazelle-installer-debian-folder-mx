@@ -15,8 +15,8 @@ dpkg-source: info: building gazelle-installer in gazelle-installer_23.7.01mx23.d
 dpkg-genchanges: info: including full source code in upload
 [1;33mW: cgroups are not available on the host, not using them.[0m
 [0mI: pbuilder: network access will be disabled during build[0m
-[0mI: Current time: Thu Jul  6 09:27:17 EDT 2023[0m
-[0mI: pbuilder-time-stamp: 1688650037[0m
+[0mI: Current time: Sat Jul  8 13:13:00 EDT 2023[0m
+[0mI: pbuilder-time-stamp: 1688836380[0m
 [0mI: Building the build Environment[0m
 [0mI: extracting base tarball [/media/dataext/development/pbuilder/debian-bookworm-amd64-base.tgz][0m
 [0mI: copying local configuration[0m
@@ -933,8 +933,8 @@ Updating '/build/gazelle-installer-23.7.01mx23/translations/gazelle-installer_ar
     Generated 11 translation(s) (11 finished and 0 unfinished)
     Ignored 377 untranslated source text(s)
 Updating '/build/gazelle-installer-23.7.01mx23/translations/gazelle-installer_be.qm'...
-    Generated 0 translation(s) (0 finished and 0 unfinished)
-    Ignored 388 untranslated source text(s)
+    Generated 1 translation(s) (1 finished and 0 unfinished)
+    Ignored 387 untranslated source text(s)
 Updating '/build/gazelle-installer-23.7.01mx23/translations/gazelle-installer_bg.qm'...
     Generated 16 translation(s) (16 finished and 0 unfinished)
     Ignored 372 untranslated source text(s)
@@ -966,8 +966,8 @@ Updating '/build/gazelle-installer-23.7.01mx23/translations/gazelle-installer_da
     Generated 88 translation(s) (88 finished and 0 unfinished)
     Ignored 300 untranslated source text(s)
 Updating '/build/gazelle-installer-23.7.01mx23/translations/gazelle-installer_de.qm'...
-    Generated 337 translation(s) (334 finished and 3 unfinished)
-    Ignored 51 untranslated source text(s)
+    Generated 364 translation(s) (361 finished and 3 unfinished)
+    Ignored 24 untranslated source text(s)
 Updating '/build/gazelle-installer-23.7.01mx23/translations/gazelle-installer_el.qm'...
     Generated 364 translation(s) (361 finished and 3 unfinished)
     Ignored 24 untranslated source text(s)
@@ -1029,8 +1029,8 @@ Updating '/build/gazelle-installer-23.7.01mx23/translations/gazelle-installer_gl
     Generated 319 translation(s) (316 finished and 3 unfinished)
     Ignored 69 untranslated source text(s)
 Updating '/build/gazelle-installer-23.7.01mx23/translations/gazelle-installer_gl.qm'...
-    Generated 0 translation(s) (0 finished and 0 unfinished)
-    Ignored 388 untranslated source text(s)
+    Generated 1 translation(s) (1 finished and 0 unfinished)
+    Ignored 387 untranslated source text(s)
 Updating '/build/gazelle-installer-23.7.01mx23/translations/gazelle-installer_gu.qm'...
     Generated 5 translation(s) (5 finished and 0 unfinished)
     Ignored 383 untranslated source text(s)
@@ -1044,8 +1044,8 @@ Updating '/build/gazelle-installer-23.7.01mx23/translations/gazelle-installer_he
     Generated 171 translation(s) (168 finished and 3 unfinished)
     Ignored 217 untranslated source text(s)
 Updating '/build/gazelle-installer-23.7.01mx23/translations/gazelle-installer_he.qm'...
-    Generated 0 translation(s) (0 finished and 0 unfinished)
-    Ignored 388 untranslated source text(s)
+    Generated 1 translation(s) (1 finished and 0 unfinished)
+    Ignored 387 untranslated source text(s)
 Updating '/build/gazelle-installer-23.7.01mx23/translations/gazelle-installer_hi.qm'...
     Generated 239 translation(s) (239 finished and 0 unfinished)
     Ignored 149 untranslated source text(s)
@@ -1128,8 +1128,8 @@ Updating '/build/gazelle-installer-23.7.01mx23/translations/gazelle-installer_mr
     Generated 7 translation(s) (7 finished and 0 unfinished)
     Ignored 381 untranslated source text(s)
 Updating '/build/gazelle-installer-23.7.01mx23/translations/gazelle-installer_ms.qm'...
-    Generated 0 translation(s) (0 finished and 0 unfinished)
-    Ignored 388 untranslated source text(s)
+    Generated 1 translation(s) (1 finished and 0 unfinished)
+    Ignored 387 untranslated source text(s)
 Updating '/build/gazelle-installer-23.7.01mx23/translations/gazelle-installer_mt.qm'...
     Generated 0 translation(s) (0 finished and 0 unfinished)
     Ignored 388 untranslated source text(s)
@@ -1179,8 +1179,8 @@ Updating '/build/gazelle-installer-23.7.01mx23/translations/gazelle-installer_ru
     Generated 2 translation(s) (2 finished and 0 unfinished)
     Ignored 378 untranslated source text(s)
 Updating '/build/gazelle-installer-23.7.01mx23/translations/gazelle-installer_ru_RU.qm'...
-    Generated 0 translation(s) (0 finished and 0 unfinished)
-    Ignored 388 untranslated source text(s)
+    Generated 2 translation(s) (2 finished and 0 unfinished)
+    Ignored 386 untranslated source text(s)
 Updating '/build/gazelle-installer-23.7.01mx23/translations/gazelle-installer_ru.qm'...
     Generated 349 translation(s) (346 finished and 3 unfinished)
     Ignored 39 untranslated source text(s)
@@ -1366,6 +1366,6 @@ dpkg-genchanges: info: including full source code in upload
 [0mI: unmounting proc filesystem[0m
 [0mI: unmounting sys filesystem[0m
 [0mI: cleaning the build env [0m
-[0mI: removing directory /media/dataext/development/pbuilder/build/11095 and its subdirectories[0m
-[0mI: Current time: Thu Jul  6 09:27:54 EDT 2023[0m
-[0mI: pbuilder-time-stamp: 1688650074[0m
+[0mI: removing directory /media/dataext/development/pbuilder/build/27392 and its subdirectories[0m
+[0mI: Current time: Sat Jul  8 13:13:35 EDT 2023[0m
+[0mI: pbuilder-time-stamp: 1688836415[0m

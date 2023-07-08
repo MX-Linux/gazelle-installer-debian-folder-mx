@@ -24,6 +24,7 @@ gazelle-installer (23.7.01mx23) mx; urgency=medium
   * GUI and user experience tweaks.
   * Improvements and fixes to various warning and confirmation messages.
   * Error handling and logging improvements.
+  * Turn off partman grid by default
 
  -- Dolphin Oracle <dolphinoracle@gmail.com>  Thu, 06 Jul 2023 07:01:59 -0400
 
