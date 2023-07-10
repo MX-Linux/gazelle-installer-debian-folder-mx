@@ -1,0 +1,40 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+Format: 1.8
+Date: Mon, 10 Jul 2023 19:04:59 -0400
+Source: gazelle-installer
+Architecture: source
+Version: 23.7.02mx23
+Distribution: mx
+Urgency: medium
+Maintainer: dolphinoracle <dolphinoracle@gmail.com>
+Changed-By: Adrian <adrian@mxlinux.org>
+Changes:
+ gazelle-installer (23.7.02mx23) mx; urgency=medium
+ .
+   * Update translations
+Checksums-Sha1:
+ 7f4f2ead423624856dc505718a02ae3a8504f662 1246 gazelle-installer_23.7.02mx23.dsc
+ 1284bc5d7908ed0a06747264aaee7105e227c9ff 394208 gazelle-installer_23.7.02mx23.tar.xz
+ adc228787ce6c47debf6534dcf4fe2022258e34a 10671 gazelle-installer_23.7.02mx23_amd64.buildinfo
+Checksums-Sha256:
+ 77b2091d69742797ca43cdb0ccc4bd25da1ebc0c370d52d7b704a74f680ed881 1246 gazelle-installer_23.7.02mx23.dsc
+ 1614a48cd37b707615d7c5f15aa7933e6225c6ef79606be9d3494d7e02e9ae8f 394208 gazelle-installer_23.7.02mx23.tar.xz
+ f5f02efd9ecab7d986173c4c53022560c3abe13c3e613ac6c284e4e8b7f9507f 10671 gazelle-installer_23.7.02mx23_amd64.buildinfo
+Files:
+ 983f2aea7f775643f085d10546083817 1246 system optional gazelle-installer_23.7.02mx23.dsc
+ cd4148c4c5c2e79f1e2a3ca288097a1d 394208 system optional gazelle-installer_23.7.02mx23.tar.xz
+ f21e414c3dd63f73dae9c9400a44f01c 10671 system optional gazelle-installer_23.7.02mx23_amd64.buildinfo
+
+-----BEGIN PGP SIGNATURE-----
+
+iQFHBAEBCgAxFiEE8ndToY6S45N+YzXncJOMeAZ57pgFAmSsjzITHGFkcmlhbkBt
+eGxpbnV4Lm9yZwAKCRBwk4x4BnnumCvQB/4qtmySXIK76S8EFM5kOLG4Y+OMBC4c
+3lU2MxjVUFsGSMBRTy7xzf8FIVhB06aoCbezqv/MxLXZDdMhduEPhNczJzq1QxJQ
+4mQdfe1pGvKjsUZXETFlS+umo+yT8eEuSodA0TGISiGYHvnzPWv5syIFbcr1B9is
+x5RgDRdCD2Q9PZCC9L8icyDuMdUJ5ca7Fg8jKQUxU7XjvV5AsO93szGeu67SZGPx
+blaKyxbxCQHwsU3+KdZGZSgnRDhxBUx/KAaL7sQ+awJ0YzUfIaWoNuN4wpU2nktt
++1rtCI2wcWr9NcrOp19S367VubqLoWe2SNCSIJdTD3IgFPiGhZ582uSj
+=RkRh
+-----END PGP SIGNATURE-----

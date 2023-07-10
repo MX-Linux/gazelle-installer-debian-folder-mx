@@ -1,3 +1,9 @@
+gazelle-installer (23.7.02mx23) mx; urgency=medium
+
+  * Update translations
+
+ -- Adrian <adrian@mxlinux.org>  Mon, 10 Jul 2023 19:04:59 -0400
+
 gazelle-installer (23.7.01mx23) mx; urgency=medium
 
   * Fixed: swap file cannot be created in a volume smaller than root.
