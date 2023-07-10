@@ -1,0 +1,46 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+Format: 1.8
+Date: Mon, 10 Jul 2023 19:04:59 -0400
+Source: gazelle-installer
+Binary: mx-installer
+Architecture: source amd64
+Version: 23.7.02mx23
+Distribution: mx
+Urgency: medium
+Maintainer: dolphinoracle <dolphinoracle@gmail.com>
+Changed-By: Adrian <adrian@mxlinux.org>
+Description:
+ mx-installer - Customizable GUI installer for MX Linux and antiX Linux
+Changes:
+ gazelle-installer (23.7.02mx23) mx; urgency=medium
+ .
+   * Update translations
+Checksums-Sha1:
+ 7f4f2ead423624856dc505718a02ae3a8504f662 1246 gazelle-installer_23.7.02mx23.dsc
+ 1284bc5d7908ed0a06747264aaee7105e227c9ff 394208 gazelle-installer_23.7.02mx23.tar.xz
+ adc228787ce6c47debf6534dcf4fe2022258e34a 10671 gazelle-installer_23.7.02mx23_amd64.buildinfo
+ cce90e0096a7dc12420aa7c552fec03dde857905 523424 mx-installer_23.7.02mx23_amd64.deb
+Checksums-Sha256:
+ 77b2091d69742797ca43cdb0ccc4bd25da1ebc0c370d52d7b704a74f680ed881 1246 gazelle-installer_23.7.02mx23.dsc
+ 1614a48cd37b707615d7c5f15aa7933e6225c6ef79606be9d3494d7e02e9ae8f 394208 gazelle-installer_23.7.02mx23.tar.xz
+ f5f02efd9ecab7d986173c4c53022560c3abe13c3e613ac6c284e4e8b7f9507f 10671 gazelle-installer_23.7.02mx23_amd64.buildinfo
+ 0b66d2ffa80f9c0509c9fb62eada3c13b8cb07338e833f49417673b995a7316f 523424 mx-installer_23.7.02mx23_amd64.deb
+Files:
+ 983f2aea7f775643f085d10546083817 1246 system optional gazelle-installer_23.7.02mx23.dsc
+ cd4148c4c5c2e79f1e2a3ca288097a1d 394208 system optional gazelle-installer_23.7.02mx23.tar.xz
+ f21e414c3dd63f73dae9c9400a44f01c 10671 system optional gazelle-installer_23.7.02mx23_amd64.buildinfo
+ 55ed84e09c56c06ad76f768d72b15bca 523424 system optional mx-installer_23.7.02mx23_amd64.deb
+
+-----BEGIN PGP SIGNATURE-----
+
+iQFHBAEBCgAxFiEE8ndToY6S45N+YzXncJOMeAZ57pgFAmSsjzITHGFkcmlhbkBt
+eGxpbnV4Lm9yZwAKCRBwk4x4BnnumKbxB/9BvhapODeQwsewC6UQ6X5gbyVedolt
+kJqTEtJuYSvYIhtgQmmhy781WQ9tukwUS9tMYLmKMp7pRsiPmRJojRq9pqaTR5XM
+ATWC0lYpTyAFWS7v7MCg/25DLaxCDqNeVkk0fQEZfwcrHukj5jU1xbnj16LeiDS9
+C1iJE0NWhas82iDvpOPTMNZZUilKtaov6JkBzNY5F3khGYOQKZwXFmX9Catxoa1Z
+O7v/bdcLHZx42P0sZncLcTjevvfIy7/H4tCvx+qOVV5Psty/C8FaM3nzZXkRaNjY
+7GMehPV5Si7xITaS2doF5+w4uBNMyudGoAWq7AeBJ8I07XPSaUZJfvKQ
+=XRqg
+-----END PGP SIGNATURE-----

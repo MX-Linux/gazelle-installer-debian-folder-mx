@@ -1,0 +1,25 @@
+Format: 1.8
+Date: Mon, 10 Jul 2023 19:04:59 -0400
+Source: gazelle-installer
+Binary: mx-installer
+Architecture: i386
+Version: 23.7.02mx23
+Distribution: mx
+Urgency: medium
+Maintainer: dolphinoracle <dolphinoracle@gmail.com>
+Changed-By: Adrian <adrian@mxlinux.org>
+Description:
+ mx-installer - Customizable GUI installer for MX Linux and antiX Linux
+Changes:
+ gazelle-installer (23.7.02mx23) mx; urgency=medium
+ .
+   * Update translations
+Checksums-Sha1:
+ dcf83a2adba684d15d46ca418bc9dec938d3a172 9786 gazelle-installer_23.7.02mx23_i386.buildinfo
+ c102aed50437222e0928f0b2f270c325ac82176f 544084 mx-installer_23.7.02mx23_i386.deb
+Checksums-Sha256:
+ a8b602019478247f248888294d0db888f5febc7defd0866827955cc6d14909da 9786 gazelle-installer_23.7.02mx23_i386.buildinfo
+ 024f9e71506c3f0c63ad3288da14f0fb8881f9bbd964eca9b09cf6b3f55819f4 544084 mx-installer_23.7.02mx23_i386.deb
+Files:
+ 57d6b085a1145ddf949a739dff928c71 9786 system optional gazelle-installer_23.7.02mx23_i386.buildinfo
+ 685ba84619e4c4c1b262f8f4baa3422d 544084 system optional mx-installer_23.7.02mx23_i386.deb
