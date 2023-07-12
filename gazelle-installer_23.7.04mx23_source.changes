@@ -1,0 +1,41 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+Format: 1.8
+Date: Wed, 12 Jul 2023 14:31:24 -0400
+Source: gazelle-installer
+Architecture: source
+Version: 23.7.04mx23
+Distribution: mx
+Urgency: medium
+Maintainer: dolphinoracle <dolphinoracle@gmail.com>
+Changed-By: Adrian <adrian@mxlinux.org>
+Changes:
+ gazelle-installer (23.7.04mx23) mx; urgency=medium
+ .
+   * Fixed: fallback skin in Fluxbox due to lack of XDG_CURRENT_DESKTOP variable.
+   * Fixed: Next button enabled in OEM mode during installation.
+Checksums-Sha1:
+ 74bcc914d36637ca18e34ac445b04dc303a9ec96 1246 gazelle-installer_23.7.04mx23.dsc
+ f1e4725523077ec86edbf55c9865663f2ba1bbb8 394248 gazelle-installer_23.7.04mx23.tar.xz
+ f76179b81ebd611a062f20a2246a9b79a6b62216 10671 gazelle-installer_23.7.04mx23_amd64.buildinfo
+Checksums-Sha256:
+ 8047de87d7b8f6f89fb9b6756b12165052a404c8b925f9f92e5263d8d87a651f 1246 gazelle-installer_23.7.04mx23.dsc
+ 67d899da2c28092b9c3929c6408bc48808669cbf173761a4e1f1f8a40e61db60 394248 gazelle-installer_23.7.04mx23.tar.xz
+ 83c77ffa251d7f53f6c72a21835579b932dd9ed6ea09737ced57609510db5e69 10671 gazelle-installer_23.7.04mx23_amd64.buildinfo
+Files:
+ 5c534bd5dd4f543103f1b2e963b4296d 1246 system optional gazelle-installer_23.7.04mx23.dsc
+ 95e3f66346c3397b2753a9893e55da28 394248 system optional gazelle-installer_23.7.04mx23.tar.xz
+ db43df203278781fc289120e32c9c723 10671 system optional gazelle-installer_23.7.04mx23_amd64.buildinfo
+
+-----BEGIN PGP SIGNATURE-----
+
+iQFHBAEBCgAxFiEE8ndToY6S45N+YzXncJOMeAZ57pgFAmSu8gcTHGFkcmlhbkBt
+eGxpbnV4Lm9yZwAKCRBwk4x4BnnumPHOCACygktX8vhcfdJg4d+vFug/pkJBuhb2
+V1FP81q+AqsBA0av+Ju3bY8hJGnZJAJvCFUK3SGzoFOJGbJSXTY6+iKpfaFvBkaI
+Mdb9f2V8gaxEX4NtmaerXarslGD51brHWVNGmqTvaq6Wd2fYjstAH06cPr+s8wzf
+6eweTUrBr4FYaPx9TuC3axAXT2Jp3LqlxiYHvVWifQvHh1I3DPGGNhyKlkNFQY+g
+US5pOeUen4S2413bXyJNIbgIjhYYcFx9ph8NoPOQuimGHhQVoBeHdtXp60wOXXVh
+F/EX45VViPQGJLUYfzJkmGjRJwK/qLiTvd3qk1YR/jTmR0cEgnU4m9Cw
+=BRWH
+-----END PGP SIGNATURE-----

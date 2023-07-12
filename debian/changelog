@@ -1,3 +1,10 @@
+gazelle-installer (23.7.04mx23) mx; urgency=medium
+
+  * Fixed: fallback skin in Fluxbox due to lack of XDG_CURRENT_DESKTOP variable.
+  * Fixed: Next button enabled in OEM mode during installation.
+
+ -- Adrian <adrian@mxlinux.org>  Wed, 12 Jul 2023 14:31:24 -0400
+
 gazelle-installer (23.7.03mx23) mx; urgency=medium
 
   * Retire support for "root", "boot", and "home" use names.
