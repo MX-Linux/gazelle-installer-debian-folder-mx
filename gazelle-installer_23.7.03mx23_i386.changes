@@ -1,0 +1,49 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+Format: 1.8
+Date: Tue, 11 Jul 2023 21:43:25 -0400
+Source: gazelle-installer
+Binary: mx-installer
+Architecture: i386
+Version: 23.7.03mx23
+Distribution: mx
+Urgency: medium
+Maintainer: dolphinoracle <dolphinoracle@gmail.com>
+Changed-By: Dolphin Oracle <dolphinoracle@gmail.com>
+Description:
+ mx-installer - Customizable GUI installer for MX Linux and antiX Linux
+Changes:
+ gazelle-installer (23.7.03mx23) mx; urgency=medium
+ .
+   * Retire support for "root", "boot", and "home" use names.
+   * Fixed crash when using the Layout Builder.
+   * Restrict slider with hibernation checkbox.
+   * Do not preserve mounts from list (except /home) by default.
+   * Add --good-luks option to use luks-<UUID> mapping for all LUKS volumes.
+Checksums-Sha1:
+ 193ef0e83ae85de64b1f26f0f207b09b6ff915c3 10518 gazelle-installer_23.7.03mx23_i386.buildinfo
+ 27a26c3ac5d8b0f96932627374d1b6126f86e258 539964 mx-installer_23.7.03mx23_i386.deb
+Checksums-Sha256:
+ e7a94185b7aa9ca575e440a612ae7d1279e156e5b428dda26f982db200226b78 10518 gazelle-installer_23.7.03mx23_i386.buildinfo
+ 6c310b9d0cd1f2d3303281a5ad8b5f38d66472acb5faa74a9c1e54172af61d1b 539964 mx-installer_23.7.03mx23_i386.deb
+Files:
+ 1eb7bf08bf2a074e57da8eff5bf7b5c5 10518 system optional gazelle-installer_23.7.03mx23_i386.buildinfo
+ e7e24f78a56425b9d389c92f504b5497 539964 system optional mx-installer_23.7.03mx23_i386.deb
+
+-----BEGIN PGP SIGNATURE-----
+
+iQIzBAEBCgAdFiEE9i7eqjrnCpyZ2sQYm2ih6Lm2N1wFAmSuBrEACgkQm2ih6Lm2
+N1x4JA//RcLbLE+V9mQR/tCBkSyoxzA0jYicBxsz3UZXx7woxy8ga52fdLgp39Gx
+z1/deihjwVeQWQd5rNCsiaw90LcYHVQusZnfj3hWggaYpOSa6KgV1p5cesC2ltCe
+9J7ojVqgDdoKKb642plqg5Py/HttmHRUHa1Rj8DWrD79e+OjnN0obeEzLlWsoPx9
+G7cNlimWAcBzGnOdWorD3W3HwCri0bnZkXyDnPJBNkRldeRgw3bm2SBTLzSyiXQn
+2Gi0OfsWFggLN0OzCKFUBURpPgDNNf1ISF0352cOybkUWiGgdpKC4Yi46xG3dzsw
+g0JwQTICIduOQoirw0/tJ98gxF2Hr7oQAyTUmMqx7Ok55tf/hfel8v0sH61BkD/A
+Yv6SYQT4iQFqjn/Xf+nT5WtT+RuPgQ/OF6uDdWR4BEOAnkQKbaw9SmUzBwXzL2Hx
++tM0zGsYx9EramQD7/lWo2NJObgpnDDPKOLbIc1JiaAN9e2nqq+Qgq9piuOkX15D
+Dvx4r8DBdrCKNH+sWJr6Z1Ygog01PsCB0umABNu3yCo8Skq2G4pDpqUWlYH9FpE9
+QiONoT/EypUdx6yGAkDigBMWjrztbex9/bAemYkPXcQfy4MhrW/WJFnVUAMQI0tB
+bWJWpaPu/OODC59NTwtWk++5DmsTjKMX1KpYbUz0KI8/jceZvPw=
+=O0c0
+-----END PGP SIGNATURE-----
