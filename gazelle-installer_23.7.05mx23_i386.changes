@@ -1,0 +1,27 @@
+Format: 1.8
+Date: Thu, 13 Jul 2023 07:59:03 -0400
+Source: gazelle-installer
+Binary: mx-installer
+Architecture: i386
+Version: 23.7.05mx23
+Distribution: mx
+Urgency: medium
+Maintainer: dolphinoracle <dolphinoracle@gmail.com>
+Changed-By: Adrian <adrian@mxlinux.org>
+Description:
+ mx-installer - Customizable GUI installer for MX Linux and antiX Linux
+Changes:
+ gazelle-installer (23.7.05mx23) mx; urgency=medium
+ .
+   * Move zram startup to the beginning of the preparation phase.
+   * Add a border to windows for the default skin, use CDE style.
+   * Secure config and log file permissions on the target.
+Checksums-Sha1:
+ 1c7c3dc25d8dda2b5d28392fe29fb5ae96a4908d 9786 gazelle-installer_23.7.05mx23_i386.buildinfo
+ 7542fff744353a035ea46e71042627a07f7aa2b7 545072 mx-installer_23.7.05mx23_i386.deb
+Checksums-Sha256:
+ e99ed41c530f9dccc0787b8fe3f2d52ee76e8c10327acbb20ff408ac2b8ebb63 9786 gazelle-installer_23.7.05mx23_i386.buildinfo
+ da3295a0478341cb46c82aec7eccebe0e9425e20a9c675d9900206144e19689c 545072 mx-installer_23.7.05mx23_i386.deb
+Files:
+ f21151dba6f9d43577daf215002a5778 9786 system optional gazelle-installer_23.7.05mx23_i386.buildinfo
+ c4c15393e6ee81777abb292bb2a6d3a8 545072 system optional mx-installer_23.7.05mx23_i386.deb
