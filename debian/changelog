@@ -1,3 +1,11 @@
+gazelle-installer (23.7.05mx23) mx; urgency=medium
+
+  * Move zram startup to the beginning of the preparation phase.
+  * Add a border to windows for the default skin, use CDE style.
+  * Secure config and log file permissions on the target.
+
+ -- Adrian <adrian@mxlinux.org>  Thu, 13 Jul 2023 07:59:03 -0400
+
 gazelle-installer (23.7.04mx23) mx; urgency=medium
 
   * Fixed: fallback skin in Fluxbox due to lack of XDG_CURRENT_DESKTOP variable.

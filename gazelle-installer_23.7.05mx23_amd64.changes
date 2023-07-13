@@ -1,0 +1,48 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+Format: 1.8
+Date: Thu, 13 Jul 2023 07:59:03 -0400
+Source: gazelle-installer
+Binary: mx-installer
+Architecture: source amd64
+Version: 23.7.05mx23
+Distribution: mx
+Urgency: medium
+Maintainer: dolphinoracle <dolphinoracle@gmail.com>
+Changed-By: Adrian <adrian@mxlinux.org>
+Description:
+ mx-installer - Customizable GUI installer for MX Linux and antiX Linux
+Changes:
+ gazelle-installer (23.7.05mx23) mx; urgency=medium
+ .
+   * Move zram startup to the beginning of the preparation phase.
+   * Add a border to windows for the default skin, use CDE style.
+   * Secure config and log file permissions on the target.
+Checksums-Sha1:
+ ec369c0ecec1316ded2338761d06fa0def129aff 1246 gazelle-installer_23.7.05mx23.dsc
+ ad7f9a12a592c52085a124ee1c5e2fa6a4b3cb6c 393660 gazelle-installer_23.7.05mx23.tar.xz
+ aa27187c96aa8d7f09e71f1220d9c2d1138e202f 10671 gazelle-installer_23.7.05mx23_amd64.buildinfo
+ e31b82259bd3ec8501d9bf520420441922bdce60 524460 mx-installer_23.7.05mx23_amd64.deb
+Checksums-Sha256:
+ fc3967b3cabfb7764f6f9e30f29278ba91f7315fe7e89e9fa69a80f2d9957398 1246 gazelle-installer_23.7.05mx23.dsc
+ 1d27c286d1cc3f5a668111e29320f489f75f3935ff9eab1ce6ca26485ee8d741 393660 gazelle-installer_23.7.05mx23.tar.xz
+ 9f1eab2b64c1ff547cab5464e15b6564a636ea769dba03b58d3477b7197ce542 10671 gazelle-installer_23.7.05mx23_amd64.buildinfo
+ 2fe00df6623ee5850eda51bd507ef8feebe2f2b972c8d53e72b321b89cfe8894 524460 mx-installer_23.7.05mx23_amd64.deb
+Files:
+ 2b2fb633d85f44d13392c28b92965aaf 1246 system optional gazelle-installer_23.7.05mx23.dsc
+ 62ca630be0c503d0853d7aa2d989be40 393660 system optional gazelle-installer_23.7.05mx23.tar.xz
+ db7f825b23b0e5017fcdc26a6d74941c 10671 system optional gazelle-installer_23.7.05mx23_amd64.buildinfo
+ aa9dbf66fbfe81cb85700748d9c30f27 524460 system optional mx-installer_23.7.05mx23_amd64.deb
+
+-----BEGIN PGP SIGNATURE-----
+
+iQFHBAEBCgAxFiEE8ndToY6S45N+YzXncJOMeAZ57pgFAmSv568THGFkcmlhbkBt
+eGxpbnV4Lm9yZwAKCRBwk4x4BnnumAOSCACfyeChyLP4cNEucWZnKRiLaZyWmRae
+nE+FOGBPdjKZbUZX8Kr4bDIwuMeBDQQZexwuofQ9fTB6cWfoNCND4CT/3TefngcD
+ihJ5Dy6DMWtUCm0rvJ4XiU4fBwWMiDo6dg2TQD8z8zq44HMRL5fIxEWBr6MxNdk2
+H8pB8kD/gNNHIgm0x4s/8lKf7ABLrm3fTprB3jO1MQBJQLG4q1sGuy4tIZJQQIlE
+XbIIi5FJMK5jNwC4ePtri+HgN9BqxjsOPDPlrTSoQVwOkHfvTCuEPb2Kd8BrFWFD
+xS5q6RZfrFbok9M2/NB82GJMjYI/gSGsc/3+kZW47qomBXPB44gedInE
+=iDLm
+-----END PGP SIGNATURE-----
