@@ -1,0 +1,25 @@
+Format: 1.8
+Date: Fri, 14 Jul 2023 20:46:00 -0400
+Source: gazelle-installer
+Binary: mx-installer
+Architecture: amd64
+Version: 23.7.06mx23
+Distribution: mx
+Urgency: medium
+Maintainer: dolphinoracle <dolphinoracle@gmail.com>
+Changed-By: Dolphin Oracle <dolphinoracle@gmail.com>
+Description:
+ mx-installer - Customizable GUI installer for MX Linux and antiX Linux
+Changes:
+ gazelle-installer (23.7.06mx23) mx; urgency=medium
+ .
+   * preserve ESP by default
+Checksums-Sha1:
+ 6015e3fb6872575943c6bd25cf80865c95e0fdc7 9692 gazelle-installer_23.7.06mx23_amd64.buildinfo
+ 337146b003578f3a079736f44847660ba77423f5 519856 mx-installer_23.7.06mx23_amd64.deb
+Checksums-Sha256:
+ 8fddf26930e85af48f6fe43bd0aee55b27a50daab00f88cd0b8083cd99f36bff 9692 gazelle-installer_23.7.06mx23_amd64.buildinfo
+ 4df447516c2b0bd55fbf1b28361943b6071a8e4dd451a504c2ef02d4e82a0b4f 519856 mx-installer_23.7.06mx23_amd64.deb
+Files:
+ 5f56377aeb2352b424f115df9535d9a1 9692 system optional gazelle-installer_23.7.06mx23_amd64.buildinfo
+ a7b6ed4ee9016bbd4808cb7e6013d066 519856 system optional mx-installer_23.7.06mx23_amd64.deb
