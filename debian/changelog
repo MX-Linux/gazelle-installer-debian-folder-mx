@@ -1,4 +1,4 @@
-gazelle-installer (23.7.07mx23) mx; urgency=medium
+gazelle-installer (23.7.08mx23) mx; urgency=medium
 
   * Only select ESP in partition manager (/boot/efi). Disable boot manager combo box.
   * Fixed: do not attempt to change ESP flag if ESP status is not changed.
