@@ -1,0 +1,27 @@
+Format: 1.8
+Date: Sat, 15 Jul 2023 21:16:05 -0400
+Source: gazelle-installer
+Binary: mx-installer
+Architecture: i386
+Version: 23.7.07mx23
+Distribution: mx
+Urgency: medium
+Maintainer: dolphinoracle <dolphinoracle@gmail.com>
+Changed-By: Dolphin Oracle <dolphinoracle@gmail.com>
+Description:
+ mx-installer - Customizable GUI installer for MX Linux and antiX Linux
+Changes:
+ gazelle-installer (23.7.07mx23) mx; urgency=medium
+ .
+   * stop-gap build for MX-23 RC series (stopgap branch of gazelle-installer git)
+   * relax error check during partition creation
+   * don't adjust initramfs.conf
+Checksums-Sha1:
+ a0872f30cd39efd88420e253742e220af89b475a 9635 gazelle-installer_23.7.07mx23_i386.buildinfo
+ 4e552ba2adcb30b97f5a25c882d9ed8ea890fa60 540520 mx-installer_23.7.07mx23_i386.deb
+Checksums-Sha256:
+ 27b87b79f2d6353aa45eab48996a4af3fa09ba10a56789adcafad257286cb65b 9635 gazelle-installer_23.7.07mx23_i386.buildinfo
+ 629dd9509c29635b55e2caae4f78bb1aafd71f056afe6c2faa02209e608f5a63 540520 mx-installer_23.7.07mx23_i386.deb
+Files:
+ 3676f0fd9711876e4390c09a3c19b3ce 9635 system optional gazelle-installer_23.7.07mx23_i386.buildinfo
+ e3206cb696501671865324ff49012abb 540520 system optional mx-installer_23.7.07mx23_i386.deb

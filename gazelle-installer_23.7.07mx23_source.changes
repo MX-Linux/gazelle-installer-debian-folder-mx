@@ -1,0 +1,27 @@
+Format: 1.8
+Date: Sat, 15 Jul 2023 21:16:05 -0400
+Source: gazelle-installer
+Architecture: source
+Version: 23.7.07mx23
+Distribution: mx
+Urgency: medium
+Maintainer: dolphinoracle <dolphinoracle@gmail.com>
+Changed-By: Dolphin Oracle <dolphinoracle@gmail.com>
+Changes:
+ gazelle-installer (23.7.07mx23) mx; urgency=medium
+ .
+   * stop-gap build for MX-23 RC series (stopgap branch of gazelle-installer git)
+   * relax error check during partition creation
+   * don't adjust initramfs.conf
+Checksums-Sha1:
+ 745d4acc1be96a102217ef6759b4dd81cf86d3be 684 gazelle-installer_23.7.07mx23.dsc
+ 092ca8eac57518a482ac04f68cbd62b85e9477da 394676 gazelle-installer_23.7.07mx23.tar.xz
+ b2a5c2be36ff02ccb0bc164e7f890252087048f3 9692 gazelle-installer_23.7.07mx23_amd64.buildinfo
+Checksums-Sha256:
+ de7cc631d9961581eb2602e191eb936f37ae7ba7b20c7ef77de67c1806160423 684 gazelle-installer_23.7.07mx23.dsc
+ 1c0141faedd237ff2892b96d344f78cd61b88a69567efa5ef59493e6936adf18 394676 gazelle-installer_23.7.07mx23.tar.xz
+ 53146f609ca2cf7599a2766d7f7c4874310948e1024057cdc3746cd6c1b540ae 9692 gazelle-installer_23.7.07mx23_amd64.buildinfo
+Files:
+ 9e5770968e9ce6f00c95e1d6632b1f89 684 system optional gazelle-installer_23.7.07mx23.dsc
+ 476d754421dbffdf21fc7b34ebe822cd 394676 system optional gazelle-installer_23.7.07mx23.tar.xz
+ c3f4955784279d0cb3ef77d633aee906 9692 system optional gazelle-installer_23.7.07mx23_amd64.buildinfo
