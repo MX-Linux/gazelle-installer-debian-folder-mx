@@ -1,5 +1,5 @@
 Format: 1.8
-Date: Sat, 15 Jul 2023 21:16:05 -0400
+Date: Sun, 16 Jul 2023 09:35:26 -0400
 Source: gazelle-installer
 Binary: mx-installer
 Architecture: amd64
@@ -13,15 +13,17 @@ Description:
 Changes:
  gazelle-installer (23.7.07mx23) mx; urgency=medium
  .
-   * stop-gap build for MX-23 RC series (stopgap branch of gazelle-installer git)
-   * relax error check during partition creation
-   * don't adjust initramfs.conf
+   * Only select ESP in partition manager (/boot/efi). Disable boot manager combo box.
+   * Fixed: do not attempt to change ESP flag if ESP status is not changed.
+   * Relax exception handling for partprobe.
+   * Updated partition manager help pane text.
+   * Remove Mac detection and safeguards.
 Checksums-Sha1:
- b2a5c2be36ff02ccb0bc164e7f890252087048f3 9692 gazelle-installer_23.7.07mx23_amd64.buildinfo
- 7f18db9cc6c8357883371a8f060538f1b677b152 519436 mx-installer_23.7.07mx23_amd64.deb
+ a43aa5aeacfc1a1abaab01faa46aa41ed9764504 9692 gazelle-installer_23.7.07mx23_amd64.buildinfo
+ 05f465710a5e1b4e8a7fd9daa8261ce57c22d449 519284 mx-installer_23.7.07mx23_amd64.deb
 Checksums-Sha256:
- 53146f609ca2cf7599a2766d7f7c4874310948e1024057cdc3746cd6c1b540ae 9692 gazelle-installer_23.7.07mx23_amd64.buildinfo
- d447c21217e70697d26697fa7b3bc6e9aa5881817eff9e031fac30241e7d53c0 519436 mx-installer_23.7.07mx23_amd64.deb
+ d550bf790ea736a066dc8ac225544964b46976e022991008371a42292ae358d3 9692 gazelle-installer_23.7.07mx23_amd64.buildinfo
+ cb7fcaefd727f69104470858105f75c1359c1ada8aba0861f5e362b99a274967 519284 mx-installer_23.7.07mx23_amd64.deb
 Files:
- c3f4955784279d0cb3ef77d633aee906 9692 system optional gazelle-installer_23.7.07mx23_amd64.buildinfo
- 4888a2b37de45a1e0e994f24c8bf8259 519436 system optional mx-installer_23.7.07mx23_amd64.deb
+ 211cc2535a4934fc0d8ccb114480a79c 9692 system optional gazelle-installer_23.7.07mx23_amd64.buildinfo
+ d244afdcfa430455aae28fb9d6bd52fc 519284 system optional mx-installer_23.7.07mx23_amd64.deb
