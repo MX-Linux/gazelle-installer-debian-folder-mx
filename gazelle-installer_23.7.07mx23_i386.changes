@@ -1,3 +1,6 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
 Format: 1.8
 Date: Sun, 16 Jul 2023 09:35:26 -0400
 Source: gazelle-installer
@@ -19,11 +22,28 @@ Changes:
    * Updated partition manager help pane text.
    * Remove Mac detection and safeguards.
 Checksums-Sha1:
- 53e8befac8369ea358b48224aeba7820474e3582 9635 gazelle-installer_23.7.07mx23_i386.buildinfo
- e95b765117aca7f66762fd6b00432088ed4ee8cd 540300 mx-installer_23.7.07mx23_i386.deb
+ d4f8c4deb381ccb25ca2ad5ab3786dc2211ab1a5 10518 gazelle-installer_23.7.07mx23_i386.buildinfo
+ 836d16987c10b534c4b635d06729f693862c8109 537112 mx-installer_23.7.07mx23_i386.deb
 Checksums-Sha256:
- 28548303c35e108e1d5538b496b55839a438ccd00c8f9e7dc4c37450f5a27d70 9635 gazelle-installer_23.7.07mx23_i386.buildinfo
- 43af0fdd946c9e54e3b738209755ad6713d6f586dc546e299de117f47680b6cb 540300 mx-installer_23.7.07mx23_i386.deb
+ 5322a969ddbcfb2828cbabb5f87215bf3203520eed96f422dc693a981cb90007 10518 gazelle-installer_23.7.07mx23_i386.buildinfo
+ 6e3165e0c4ad00aaeb70e52700b41e20328aead8a0d271ffc50ff31d993aa988 537112 mx-installer_23.7.07mx23_i386.deb
 Files:
- 3af8e58c4d3592cf1dba44052dd310ee 9635 system optional gazelle-installer_23.7.07mx23_i386.buildinfo
- f154288b82b0f55c98ebb73ed3d12d8a 540300 system optional mx-installer_23.7.07mx23_i386.deb
+ 4f076615f552093bdaaba9a266278bac 10518 system optional gazelle-installer_23.7.07mx23_i386.buildinfo
+ 47d4abb7b8ce1c2b4265f5c65d539729 537112 system optional mx-installer_23.7.07mx23_i386.deb
+
+-----BEGIN PGP SIGNATURE-----
+
+iQIzBAEBCgAdFiEE9i7eqjrnCpyZ2sQYm2ih6Lm2N1wFAmS0D8oACgkQm2ih6Lm2
+N1xEyg/+PAKMHD+JlQGTgmACsUVRyqChWRzF2TS6kqMN3mi9Dk1xRQCw8Eixraa4
+Os2nFG6NOFpa8aV95qrexLT5ZsHvW8VVIzniQv5pCU3L0lUGkrqxz45H8g0ZSF6h
+vlS0X4nf+ndxrbaM9d+Ad8PTw+W0SLkaAXSiN4tKVZxcDWrO9Tmx3qoFhjvaXgDg
+2owShvLAT/Ag4BywhErn/6Df/GtqRZaVT2gpxVKB2KD6cQMIA4wdIKE0cl2mQFDN
+dN7FjZOCa6yr4ALBFFRT+L9Emjw1Q1hmI/h1DIcDIjq4/CdhidiNGJfZRfHG16HZ
+kXL2Wrlo0J/Goo3LgmloqtklrxGYpitY4X4ZYO6htAFlxOthuU+hCplnI8FHlLfP
+kwrPQWAnZaqHQA1BJtkF8Kzx6oEEPANWxkWBU1vIbVJzjXIXSPCMo3y4iBqyAKr+
+ge3CvzyjM48TX6+VHbTii4GbkS9Nug5KEJBS4MrHLjw7qIhbhru7G9X9fc1ojJYQ
+Eboxg9HhRIPeJwZpnzMVpk7+S9a41xMj68OZD/vR6H+Df5347SCkts1oaXQMv7HC
+yeFQSOjuUubEa/ZJKaMcS7hChlZ2OltGlOBTgAdXWvDoBJAC1PhkbExvD1mkEFRe
+tdpjUSXNQ3KgezV1BitnAMz+9TOFWAYki/S2YkHbxIytFUfKap8=
+=rak/
+-----END PGP SIGNATURE-----
