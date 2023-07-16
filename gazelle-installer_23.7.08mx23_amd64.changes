@@ -1,3 +1,6 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
 Format: 1.8
 Date: Sun, 16 Jul 2023 09:35:26 -0400
 Source: gazelle-installer
@@ -19,11 +22,28 @@ Changes:
    * Updated partition manager help pane text.
    * Remove Mac detection and safeguards.
 Checksums-Sha1:
- c778a79e71945a0955776fccbdb44dc07bd52fb4 9692 gazelle-installer_23.7.08mx23_amd64.buildinfo
+ 7b8f86b21ce5548f591c077e01e607a5b08a4211 10575 gazelle-installer_23.7.08mx23_amd64.buildinfo
  740c7121a04db377c9c1fff83609deed24988864 516084 mx-installer_23.7.08mx23_amd64.deb
 Checksums-Sha256:
- b7509279a5770f631dadd6187b524f50a079f86472c57f09a371bc8fc288e66b 9692 gazelle-installer_23.7.08mx23_amd64.buildinfo
+ d61ef26bd569fdd9dd8b2e5788c63c1293b9d691c214809a6de7408447028e8f 10575 gazelle-installer_23.7.08mx23_amd64.buildinfo
  7c2ceb457bfd643326ede60f6b8065c22d09a4bd22db43ebf62e83a178d22142 516084 mx-installer_23.7.08mx23_amd64.deb
 Files:
- 2a5757190b7b99333c56b65533bbbbe8 9692 system optional gazelle-installer_23.7.08mx23_amd64.buildinfo
+ 906f6fe0bbcb0e55978dc20ef63b1c6f 10575 system optional gazelle-installer_23.7.08mx23_amd64.buildinfo
  6600ad6223874553f90e10ea303c919d 516084 system optional mx-installer_23.7.08mx23_amd64.deb
+
+-----BEGIN PGP SIGNATURE-----
+
+iQIzBAEBCgAdFiEE9i7eqjrnCpyZ2sQYm2ih6Lm2N1wFAmS0FcgACgkQm2ih6Lm2
+N1y4YBAAucSvsHPc2dH6Kfhd1lpkFbWMElMT3ohuJPpNNlYAZU2Yr/DReHVRa226
+CaBGHR3epm8XXqXrWnSfdmG0sNGk964SOMo0Msqj7CYa6L0LaB8YX9fe8Gjdta4U
+AJicpQF3fCb12QbhXGTH32c/thW9OIJKW92uy5LxpECUC+NHjuy0GiakVBFsF3MG
+/QTWKpb87YPhpEIg1+s7dNsxVGT5YZh8rTyBX324XzuAC0UVolq+IvoH1ALbV5BZ
+d5jji4fcCJ45rE1NPTOrsO7XrIv7xSNgXxDugrmyzCe1Q4lf8fX66Kiy5NL/HO13
+fk3oFn/KCj5w+gY5xSRtZeFqbZwk6Sw7CBsHzF5uuBOnuyCX8z6qpjX95U8rp0X1
+07fjhbUSFMfxnU4QdHqekmjAn5hNNyzCSbY4mgqAYvo9PJKEvhi86EAqjXxCrWkN
+iRrsJe61EQF68lPogbExIF6QXAG4PXnGA2ZyBwhY8BF60gt1G9ieliMYKYEiZawS
+NwLq+Qbj+Ikty97XW4Naj33e85SG9qCtZQuE1enyFqd6+JgWcVpQcN3ZZzojEoH5
+rDtkrrlTLdmBeR1Xzt9FZzGp5/GbbZIY5kHCMDaE7yvzGPGFpNsw+awS5wTqncnn
+se5+SYr4IfNSO90Ydu4JmpVKAk6spX8JtUIk+IUj74Y6COij0n4=
+=a9W2
+-----END PGP SIGNATURE-----
