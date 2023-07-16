@@ -1,21 +1,18 @@
------BEGIN PGP SIGNED MESSAGE-----
-Hash: SHA512
-
 Format: 1.0
 Source: gazelle-installer
 Binary: mx-installer
 Architecture: i386
-Version: 23.7.07mx23
+Version: 23.7.08mx23
 Checksums-Md5:
- 47d4abb7b8ce1c2b4265f5c65d539729 537112 mx-installer_23.7.07mx23_i386.deb
+ c8ca0390e410129959e17d2386b0ecab 538060 mx-installer_23.7.08mx23_i386.deb
 Checksums-Sha1:
- 836d16987c10b534c4b635d06729f693862c8109 537112 mx-installer_23.7.07mx23_i386.deb
+ 759b1af618822f76224479c4e51ef7a59aa8b51a 538060 mx-installer_23.7.08mx23_i386.deb
 Checksums-Sha256:
- 6e3165e0c4ad00aaeb70e52700b41e20328aead8a0d271ffc50ff31d993aa988 537112 mx-installer_23.7.07mx23_i386.deb
+ c3d17849e01ae2afd400a3d5d9c2f73cad5502bba432987ba2887f0c5401c336 538060 mx-installer_23.7.08mx23_i386.deb
 Build-Origin: Debian
 Build-Architecture: i386
-Build-Date: Sun, 16 Jul 2023 15:39:50 +0000
-Build-Path: /build/gazelle-installer-23.7.07mx23
+Build-Date: Sun, 16 Jul 2023 16:05:23 +0000
+Build-Path: /build/gazelle-installer-23.7.08mx23
 Installed-Build-Depends:
  autoconf (= 2.71-3),
  automake (= 1:1.16.5-1.3),
@@ -342,20 +339,3 @@ Environment:
  LANG="C"
  LC_ALL="C"
  SOURCE_DATE_EPOCH="1689514526"
-
------BEGIN PGP SIGNATURE-----
-
-iQIzBAEBCgAdFiEE9i7eqjrnCpyZ2sQYm2ih6Lm2N1wFAmS0D8oACgkQm2ih6Lm2
-N1zg+w//aNRIcv7fvkK6bbxyDC14+EPulRWKJ00IZz9ICHMgg2YzsFGNd53MR+qm
-X24sXvJnKkK1D9mNuPYOb8laaBHz95i4WLgAo6DLaaUO0Ov5zynbxSyvMUTSoTMr
-DHSl7+ZJQRbD2dqLBpL3uC877hctUpkMPeUK/1QfO0cxjJoG2iLrehnZ6GV9dGDY
-cNvGsblz8ZpPqTPt8PFjAhzgw5au9o4pZeRWRjsgb465+3ejcFPv9qxAJof+6GUc
-mYUJXkHpS3dCc5ADfWpUr50hM+8EFYr6lY+JG7x5+0cYRH9Il3wQvzcTgs+OlMN9
-QoMEHM/4AXTBhfCr1FKTm1ZIULVoqJ4hI9xalbLT5pBh1Fw+M4+8A80iatMeyrwF
-6r36SwcqLGLd2Ey66P72rPoqzA9VEzFvq291XopQVLG2CcO+fZUW8Z7IfeRVH/FQ
-GspzSG6DA0oXuWKv1E2uUVATw8VyU1Nz72A+68DoJN6VMTARslIAHMzQEBKtipUV
-b2d6Vf2or3kXe76b3Zrc5I5cXW3KcwgCxI2np/PUxLXdMB4z0oAjez75uPdNlOJM
-1uFbVN8XTt8h9yaBJkejrjcXufLhJ/rB8jdoznLi89jsOI5a46eM5wre7Kb36aNQ
-k8bs5dnYHT5aLHZVVsFKhl6ySNBwIrQJvXZNPJCpoDwWVOKE9Sw=
-=dbxO
------END PGP SIGNATURE-----

@@ -1,21 +1,18 @@
------BEGIN PGP SIGNED MESSAGE-----
-Hash: SHA512
-
 Format: 1.0
 Source: gazelle-installer
 Binary: mx-installer
 Architecture: amd64
-Version: 23.7.07mx23
+Version: 23.7.08mx23
 Checksums-Md5:
- 829b750a70ba9067bb5bbd462603b363 515964 mx-installer_23.7.07mx23_amd64.deb
+ 6600ad6223874553f90e10ea303c919d 516084 mx-installer_23.7.08mx23_amd64.deb
 Checksums-Sha1:
- a7fee73ef67144e085a5c0f62e008c7c11bc5733 515964 mx-installer_23.7.07mx23_amd64.deb
+ 740c7121a04db377c9c1fff83609deed24988864 516084 mx-installer_23.7.08mx23_amd64.deb
 Checksums-Sha256:
- acb3c2347f41012c9f2a06407b7ff38ba8c2b148e0fd37443bb9a4f23ffe5f32 515964 mx-installer_23.7.07mx23_amd64.deb
+ 7c2ceb457bfd643326ede60f6b8065c22d09a4bd22db43ebf62e83a178d22142 516084 mx-installer_23.7.08mx23_amd64.deb
 Build-Origin: Debian
 Build-Architecture: amd64
-Build-Date: Sun, 16 Jul 2023 15:40:03 +0000
-Build-Path: /build/gazelle-installer-23.7.07mx23
+Build-Date: Sun, 16 Jul 2023 16:05:27 +0000
+Build-Path: /build/gazelle-installer-23.7.08mx23
 Installed-Build-Depends:
  autoconf (= 2.71-3),
  automake (= 1:1.16.5-1.3),
@@ -344,20 +341,3 @@ Environment:
  LANG="C"
  LC_ALL="C"
  SOURCE_DATE_EPOCH="1689514526"
-
------BEGIN PGP SIGNATURE-----
-
-iQIzBAEBCgAdFiEE9i7eqjrnCpyZ2sQYm2ih6Lm2N1wFAmS0D8YACgkQm2ih6Lm2
-N1zrHhAAhsvhhfxkyE8sMwcZROZuBNDEXPRCj/AfzJ4dXWZNGSuN7p1jW8xTmman
-iRRa7beqR6RL3Re14dl8waExLYNUr0KlA1vz2AgvrwJiioU72aYlztIZ8z58wW5B
-k+tNS7NxTevD4Zcs2gssH1ZnbUKg6CGgF81ro/OPN8tAZSDQOZAE4KUj5iwWzuu7
-ypqXTKDw8M3BWliIrSCBTBxmUgryeK8Umhyd9ksVXcSLj6KkyoLFK1jU3XlJWohv
-zWEMnH6zmb+OsywpgtX+xcRq5sqk8GcmXhTdSs7LoyHavp3fm/X0zNKl+3gIk8YQ
-CaCkKVWZLLXyaay9zeF8Mc6KQKlsdmgeq1tIiQY/4pe2o5o9Kz98h+QQO3obAvJ3
-u+KAMmRne5xmidgPLy116gXJX0IYfpwWZ4ozjCEF1NFLhFpVt/0HmugfGbHXf8Cu
-dJxh/Hv+73PVetZjjQX+/mJVDA97G3RPRbvu+JT2mht2iUDUy1zjb3phsfF3eA3Y
-O1Q6eldH//awuEZxkN2i1NKQO7liMaZlbup0F18QycfGIU3p32zWXi6HaCmhFN/l
-2Rut3eKC5HwgEnyiggpy03hY/YxggZqhnjffhpvactQEtgKGlzaoLDHRWMtppcnd
-vqHtnKXAD0m8ttO5RlxRZjQTd/UQzXHZ+m5yaWLMU+wfe9/ym+0=
-=9SSw
------END PGP SIGNATURE-----

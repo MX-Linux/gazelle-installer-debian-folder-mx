@@ -1,0 +1,29 @@
+Format: 1.8
+Date: Sun, 16 Jul 2023 09:35:26 -0400
+Source: gazelle-installer
+Binary: mx-installer
+Architecture: amd64
+Version: 23.7.08mx23
+Distribution: mx
+Urgency: medium
+Maintainer: dolphinoracle <dolphinoracle@gmail.com>
+Changed-By: Dolphin Oracle <dolphinoracle@gmail.com>
+Description:
+ mx-installer - Customizable GUI installer for MX Linux and antiX Linux
+Changes:
+ gazelle-installer (23.7.08mx23) mx; urgency=medium
+ .
+   * Only select ESP in partition manager (/boot/efi). Disable boot manager combo box.
+   * Fixed: do not attempt to change ESP flag if ESP status is not changed.
+   * Relax exception handling for partprobe.
+   * Updated partition manager help pane text.
+   * Remove Mac detection and safeguards.
+Checksums-Sha1:
+ c778a79e71945a0955776fccbdb44dc07bd52fb4 9692 gazelle-installer_23.7.08mx23_amd64.buildinfo
+ 740c7121a04db377c9c1fff83609deed24988864 516084 mx-installer_23.7.08mx23_amd64.deb
+Checksums-Sha256:
+ b7509279a5770f631dadd6187b524f50a079f86472c57f09a371bc8fc288e66b 9692 gazelle-installer_23.7.08mx23_amd64.buildinfo
+ 7c2ceb457bfd643326ede60f6b8065c22d09a4bd22db43ebf62e83a178d22142 516084 mx-installer_23.7.08mx23_amd64.deb
+Files:
+ 2a5757190b7b99333c56b65533bbbbe8 9692 system optional gazelle-installer_23.7.08mx23_amd64.buildinfo
+ 6600ad6223874553f90e10ea303c919d 516084 system optional mx-installer_23.7.08mx23_amd64.deb
