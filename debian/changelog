@@ -1,5 +1,15 @@
 gazelle-installer (23.7.07mx23) mx; urgency=medium
 
+  * Only select ESP in partition manager (/boot/efi). Disable boot manager combo box.
+  * Fixed: do not attempt to change ESP flag if ESP status is not changed.
+  * Relax exception handling for partprobe.
+  * Updated partition manager help pane text.
+  * Remove Mac detection and safeguards.
+
+ -- Dolphin Oracle <dolphinoracle@gmail.com>  Sun, 16 Jul 2023 09:35:26 -0400
+
+gazelle-installer (23.7.07mx23) mx; urgency=medium
+
   * stop-gap build for MX-23 RC series (stopgap branch of gazelle-installer git)
   * relax error check during partition creation
   * don't adjust initramfs.conf
