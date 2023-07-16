@@ -1,3 +1,11 @@
+gazelle-installer (23.7.07mx23) mx; urgency=medium
+
+  * stop-gap build for MX-23 RC series (stopgap branch of gazelle-installer git)
+  * relax error check during partition creation
+  * don't adjust initramfs.conf
+
+ -- Dolphin Oracle <dolphinoracle@gmail.com>  Sat, 15 Jul 2023 21:16:05 -0400
+
 gazelle-installer (23.7.06mx23) mx; urgency=medium
 
   * preserve ESP by default
