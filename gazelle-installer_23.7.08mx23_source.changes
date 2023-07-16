@@ -1,0 +1,29 @@
+Format: 1.8
+Date: Sun, 16 Jul 2023 09:35:26 -0400
+Source: gazelle-installer
+Architecture: source
+Version: 23.7.08mx23
+Distribution: mx
+Urgency: medium
+Maintainer: dolphinoracle <dolphinoracle@gmail.com>
+Changed-By: Dolphin Oracle <dolphinoracle@gmail.com>
+Changes:
+ gazelle-installer (23.7.08mx23) mx; urgency=medium
+ .
+   * Only select ESP in partition manager (/boot/efi). Disable boot manager combo box.
+   * Fixed: do not attempt to change ESP flag if ESP status is not changed.
+   * Relax exception handling for partprobe.
+   * Updated partition manager help pane text.
+   * Remove Mac detection and safeguards.
+Checksums-Sha1:
+ 4ea4204f09d46c3c220a80ee78d12db3793b3c2a 684 gazelle-installer_23.7.08mx23.dsc
+ 67b9b8a31ffce18894d9aa735b99c76eccca8a53 395976 gazelle-installer_23.7.08mx23.tar.xz
+ c778a79e71945a0955776fccbdb44dc07bd52fb4 9692 gazelle-installer_23.7.08mx23_amd64.buildinfo
+Checksums-Sha256:
+ 2aa952e2fa3559c9d953ce91c50dad7b0a842d3db94c286cfee8e5e28b9d2265 684 gazelle-installer_23.7.08mx23.dsc
+ d3a7b5940c1b304af591b8baf1e5e33c9af2cba46b5664ef0ead3b3d0911dac9 395976 gazelle-installer_23.7.08mx23.tar.xz
+ b7509279a5770f631dadd6187b524f50a079f86472c57f09a371bc8fc288e66b 9692 gazelle-installer_23.7.08mx23_amd64.buildinfo
+Files:
+ d8c71f48420c16dcf6f15feb24bdd5ab 684 system optional gazelle-installer_23.7.08mx23.dsc
+ 12052844f058367e49db4e5f60267cd8 395976 system optional gazelle-installer_23.7.08mx23.tar.xz
+ 2a5757190b7b99333c56b65533bbbbe8 9692 system optional gazelle-installer_23.7.08mx23_amd64.buildinfo
