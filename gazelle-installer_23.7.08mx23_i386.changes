@@ -1,3 +1,6 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
 Format: 1.8
 Date: Sun, 16 Jul 2023 09:35:26 -0400
 Source: gazelle-installer
@@ -19,11 +22,28 @@ Changes:
    * Updated partition manager help pane text.
    * Remove Mac detection and safeguards.
 Checksums-Sha1:
- fec16d5a16c17e4b6dbc9c360800f585aa2aef4f 9635 gazelle-installer_23.7.08mx23_i386.buildinfo
+ f572e623c7b195fb65049dc6bfe9d088059a5baf 10518 gazelle-installer_23.7.08mx23_i386.buildinfo
  759b1af618822f76224479c4e51ef7a59aa8b51a 538060 mx-installer_23.7.08mx23_i386.deb
 Checksums-Sha256:
- 149f79b7426d1a0af4114e561c107d1df4a1d901009305e76e00ac1c1807d9e1 9635 gazelle-installer_23.7.08mx23_i386.buildinfo
+ 9b58d32e3652f283688657059cbb65c0c50c66b6cb8dba28c81a5022346f76e7 10518 gazelle-installer_23.7.08mx23_i386.buildinfo
  c3d17849e01ae2afd400a3d5d9c2f73cad5502bba432987ba2887f0c5401c336 538060 mx-installer_23.7.08mx23_i386.deb
 Files:
- 05fda3961b049262af6967bceb8de2d5 9635 system optional gazelle-installer_23.7.08mx23_i386.buildinfo
+ ff9e8aae9c4ecd915e62d8b4e8c408c7 10518 system optional gazelle-installer_23.7.08mx23_i386.buildinfo
  c8ca0390e410129959e17d2386b0ecab 538060 system optional mx-installer_23.7.08mx23_i386.deb
+
+-----BEGIN PGP SIGNATURE-----
+
+iQIzBAEBCgAdFiEE9i7eqjrnCpyZ2sQYm2ih6Lm2N1wFAmS0FcgACgkQm2ih6Lm2
+N1yWNg//avjU3YmipyEAxMWfy8VUBdDb4xyaJJcZ/BLXAQkRDCo2aKU5X2YLrWWx
+KL5dtajR72pSzjyBmEaD3W019H5rVluIggGY+3rfeMBwURsz4VeTfp1pX2ikYuaA
+HsxHs+GFJ33Bpdsr6MQ8d8KDf8WvH18NNAGnLyMHPfNVIh1Z9LBKfODi92ap6T5o
+VsIvZGEYBoWgnwLTk5qJlA135freXX0sa16DhYPnbnAojNQWdnNL8SwrZdAeLbRP
+6+jlGsuo9UYEzOt742r5/T07k/xJ4Vd7IP5b6btoGQUdS+5BmYa1CIfalWTBpkxx
+Apy7LTAYj3lqsfWBcQZMN3QwRWX7HhvuuOzc+I8GLs4SXwehiDAP8IxOueiZdpHb
+QcEg502EiVqFv6UkLML6eba6xc58Xc6eVvc3YaAEkCgeNMOB6sA1EGCRUHHnWFlj
+Hmafizxf+CIbWXcddQTnySSlm1rM2gClA7u9hdA7hmHg9eCRbbOxhiCcgGFYMEJu
+lzz35QMNR3577apcx0mMy4/axCDepJTo5NQTFw6Wcrgxu9UJz4tLvh4lac+7v+tV
+m4UEJWEkJdLueJPRhbgLyDkcAkj+6T8yNB1d9uWxK3O7VkwaUjHv27ZWIqOIY453
+xOj2EmUaTI1WLBy3GZ2JMypmZBkk2rfEb+HwOQJvXZWGFHfDuxk=
+=rOTU
+-----END PGP SIGNATURE-----
