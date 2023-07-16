@@ -4,14 +4,14 @@ Binary: mx-installer
 Architecture: amd64
 Version: 23.7.07mx23
 Checksums-Md5:
- 4888a2b37de45a1e0e994f24c8bf8259 519436 mx-installer_23.7.07mx23_amd64.deb
+ d244afdcfa430455aae28fb9d6bd52fc 519284 mx-installer_23.7.07mx23_amd64.deb
 Checksums-Sha1:
- 7f18db9cc6c8357883371a8f060538f1b677b152 519436 mx-installer_23.7.07mx23_amd64.deb
+ 05f465710a5e1b4e8a7fd9daa8261ce57c22d449 519284 mx-installer_23.7.07mx23_amd64.deb
 Checksums-Sha256:
- d447c21217e70697d26697fa7b3bc6e9aa5881817eff9e031fac30241e7d53c0 519436 mx-installer_23.7.07mx23_amd64.deb
+ cb7fcaefd727f69104470858105f75c1359c1ada8aba0861f5e362b99a274967 519284 mx-installer_23.7.07mx23_amd64.deb
 Build-Origin: Debian
 Build-Architecture: amd64
-Build-Date: Sun, 16 Jul 2023 01:18:55 +0000
+Build-Date: Sun, 16 Jul 2023 13:37:40 +0000
 Build-Path: /build/gazelle-installer-23.7.07mx23
 Installed-Build-Depends:
  autoconf (= 2.71-3),
@@ -340,4 +340,4 @@ Environment:
  DEB_BUILD_OPTIONS="parallel=4"
  LANG="C"
  LC_ALL="C"
- SOURCE_DATE_EPOCH="1689470165"
+ SOURCE_DATE_EPOCH="1689514526"
