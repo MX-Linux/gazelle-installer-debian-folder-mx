@@ -1,3 +1,18 @@
+gazelle-installer (23.7.09mx23) mx; urgency=medium
+
+  * Only probe modified drives for partition changes.
+  * Reduced partition safety margin from 8MB to 2MB.
+  * Eliminate fsck for /boot partition.
+  * Stop and start udev at the end, so the file manager detects partitions.
+  * Fixed: file system info is forgotten at the configuration phase.
+  * Make addition to crypttab optional for future LUKS containers.
+  * Eliminate dd before setting the BIOS-GRUB flag.
+  * Use blkdiscard instead of dd; -z for devices without discard support.
+  * Btrfs default subvolume is now user selectable with the context menu.
+  * GUI operation and defaults tweaks and fixes.
+
+ -- Adrian <adrian@mxlinux.org>  Tue, 18 Jul 2023 13:49:40 -0400
+
 gazelle-installer (23.7.08mx23) mx; urgency=medium
 
   * Only select ESP in partition manager (/boot/efi). Disable boot manager combo box.
