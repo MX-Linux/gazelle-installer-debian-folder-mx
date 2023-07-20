@@ -15,26 +15,26 @@ Changes:
  .
    * Fixed: unable to distinguish between drive and partition in config file.
 Checksums-Sha1:
- 4c477d597d0c562e768d0aa85569605ee41d7d86 1246 gazelle-installer_23.7.11mx23.dsc
- a0e769d2b569b9c5db3d3a61b02a17f058f54926 397928 gazelle-installer_23.7.11mx23.tar.xz
- b8e21559f8d261fa60382b4b9bbc47c29cbfc1ef 10671 gazelle-installer_23.7.11mx23_amd64.buildinfo
+ 407f61248bb34d9c5dd35b5cb157cbd35de7a528 1246 gazelle-installer_23.7.11mx23.dsc
+ 437f220cfb2aea730643aafb7d7db32fe3a70168 397160 gazelle-installer_23.7.11mx23.tar.xz
+ 68b0bcc6424617a85a16e96f8f03c38f2a49bf82 10671 gazelle-installer_23.7.11mx23_amd64.buildinfo
 Checksums-Sha256:
- 2403e34f952794b066490abf2b7e9f7182b8889b0d3a2d9af4814e0a404acd23 1246 gazelle-installer_23.7.11mx23.dsc
- 7a380b0b25da9368e2a4cad297c04a1181e8f98ebcee0746ee97349f1bcd09dc 397928 gazelle-installer_23.7.11mx23.tar.xz
- dac52bfe45000fe73f001cf5687e23e9657bb893f3c0cf889aae119247886124 10671 gazelle-installer_23.7.11mx23_amd64.buildinfo
+ c0e50a30027ec3393015f461fa2bcf7d58eafed20f5ef30ae9dca68b2f2bddea 1246 gazelle-installer_23.7.11mx23.dsc
+ 15b1275834c787e1ad125641ac968fe621f204351bd3e8480e2d0babc7cb0f9c 397160 gazelle-installer_23.7.11mx23.tar.xz
+ 87ed6ea75a69d18799a871390e7396ccddeb18df3cf5cb96130ef9d2eb73c958 10671 gazelle-installer_23.7.11mx23_amd64.buildinfo
 Files:
- ab88cc6cdcc3d20840ab1b66d56fd610 1246 system optional gazelle-installer_23.7.11mx23.dsc
- d28fba43a74d1f63109e07a815d99dd8 397928 system optional gazelle-installer_23.7.11mx23.tar.xz
- 7cc9c1368bcb14ffeda7dbd9d41411d8 10671 system optional gazelle-installer_23.7.11mx23_amd64.buildinfo
+ d34c86f59711e458697b93218a54606e 1246 system optional gazelle-installer_23.7.11mx23.dsc
+ fca8d59fdbde43adcd52b30ed4dd8a8f 397160 system optional gazelle-installer_23.7.11mx23.tar.xz
+ b948e50bb79311f821fad843b4c6464d 10671 system optional gazelle-installer_23.7.11mx23_amd64.buildinfo
 
 -----BEGIN PGP SIGNATURE-----
 
-iQFHBAEBCgAxFiEE8ndToY6S45N+YzXncJOMeAZ57pgFAmS5wS4THGFkcmlhbkBt
-eGxpbnV4Lm9yZwAKCRBwk4x4BnnumEx6CADMoNJO4afj67wZWc0taCTRwEyapEYb
-C0R6bwcb8HlSiY/zvU+AAYqr4Im6wZl3rDms8Fg3dcgAdD9k2lG2XpCt1hXW/3mS
-YwYgz2uYDdvagh4V93DeUWfo2FNnlplgTl31YIs2sAIL3rrGebiB5j5PZBUigOqy
-MKLKuIW47z51vgnrysu/V5+Un6r8A14ELkcyyIJXEKbEO4g7OC2ZqL/Saej40bl3
-2fzz9buEbaJnNSgYkDPI0hPQkKOyv0/qfFOvJSA0OQ3auPFwfDIIG6KDmpxKavZL
-48wiXa+prTIr/fV9URUDS5jJGL47Vl8WBvW5KBq/uTAy58kw5Snw3uEc
-=R+R0
+iQFHBAEBCgAxFiEE8ndToY6S45N+YzXncJOMeAZ57pgFAmS5yDITHGFkcmlhbkBt
+eGxpbnV4Lm9yZwAKCRBwk4x4BnnumM4oB/97IGAu3QGQZDRVIA2sj4JAeGCj63p6
+UF7+oU84ed+P28xFLR3Vl8KQQ1s+lQ+dIN0HNDPHdGfrhMnUH++DO7M93zXgwGHH
+gpvRurmFLvMrFa9y+dLc2ePAxyJpIncJ0icfNwyK1jtA9n6Ok7bwyWQOoXvYrtWU
++OCe3YS45v4Z/q6PwwgA0abu8ZyIVLVRTVevNH/6F7FBDTXoz2p/oC7jD7bmutiQ
+3nKUqk0znJKEZ7b5HIzpKMrxR2khCCFQhC1MRbhEUy0KlpAcSVwwejP6gcRTQZIs
+ruKRdEcrQfRonK5PsWf9TXZEnUX5Hd+NDy6+0yUvDkPjBrz7TDCt85sv
+=b9VR
 -----END PGP SIGNATURE-----

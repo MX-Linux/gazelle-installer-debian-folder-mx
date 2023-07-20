@@ -18,29 +18,29 @@ Changes:
  .
    * Fixed: unable to distinguish between drive and partition in config file.
 Checksums-Sha1:
- 4c477d597d0c562e768d0aa85569605ee41d7d86 1246 gazelle-installer_23.7.11mx23.dsc
- a0e769d2b569b9c5db3d3a61b02a17f058f54926 397928 gazelle-installer_23.7.11mx23.tar.xz
- b8e21559f8d261fa60382b4b9bbc47c29cbfc1ef 10671 gazelle-installer_23.7.11mx23_amd64.buildinfo
- 527417ef368bade2aa8ea4b611536f6bf883c8f2 526980 mx-installer_23.7.11mx23_amd64.deb
+ 407f61248bb34d9c5dd35b5cb157cbd35de7a528 1246 gazelle-installer_23.7.11mx23.dsc
+ 437f220cfb2aea730643aafb7d7db32fe3a70168 397160 gazelle-installer_23.7.11mx23.tar.xz
+ 68b0bcc6424617a85a16e96f8f03c38f2a49bf82 10671 gazelle-installer_23.7.11mx23_amd64.buildinfo
+ ca3dd4b78f3fb86245ef67e1dcb8205e83e71f2f 525892 mx-installer_23.7.11mx23_amd64.deb
 Checksums-Sha256:
- 2403e34f952794b066490abf2b7e9f7182b8889b0d3a2d9af4814e0a404acd23 1246 gazelle-installer_23.7.11mx23.dsc
- 7a380b0b25da9368e2a4cad297c04a1181e8f98ebcee0746ee97349f1bcd09dc 397928 gazelle-installer_23.7.11mx23.tar.xz
- dac52bfe45000fe73f001cf5687e23e9657bb893f3c0cf889aae119247886124 10671 gazelle-installer_23.7.11mx23_amd64.buildinfo
- 3f82c2f6783775d1755bdd03a190e50db974a660412d6af53ac55a9220c38756 526980 mx-installer_23.7.11mx23_amd64.deb
+ c0e50a30027ec3393015f461fa2bcf7d58eafed20f5ef30ae9dca68b2f2bddea 1246 gazelle-installer_23.7.11mx23.dsc
+ 15b1275834c787e1ad125641ac968fe621f204351bd3e8480e2d0babc7cb0f9c 397160 gazelle-installer_23.7.11mx23.tar.xz
+ 87ed6ea75a69d18799a871390e7396ccddeb18df3cf5cb96130ef9d2eb73c958 10671 gazelle-installer_23.7.11mx23_amd64.buildinfo
+ f1004c0188f64035badb4c76be159df58c7b8447d181520406ffe3a31d8c11af 525892 mx-installer_23.7.11mx23_amd64.deb
 Files:
- ab88cc6cdcc3d20840ab1b66d56fd610 1246 system optional gazelle-installer_23.7.11mx23.dsc
- d28fba43a74d1f63109e07a815d99dd8 397928 system optional gazelle-installer_23.7.11mx23.tar.xz
- 7cc9c1368bcb14ffeda7dbd9d41411d8 10671 system optional gazelle-installer_23.7.11mx23_amd64.buildinfo
- 60febe0cd3c4763897b1b8c76dc083b7 526980 system optional mx-installer_23.7.11mx23_amd64.deb
+ d34c86f59711e458697b93218a54606e 1246 system optional gazelle-installer_23.7.11mx23.dsc
+ fca8d59fdbde43adcd52b30ed4dd8a8f 397160 system optional gazelle-installer_23.7.11mx23.tar.xz
+ b948e50bb79311f821fad843b4c6464d 10671 system optional gazelle-installer_23.7.11mx23_amd64.buildinfo
+ 8def23aff2696f5d58f674613ec353c1 525892 system optional mx-installer_23.7.11mx23_amd64.deb
 
 -----BEGIN PGP SIGNATURE-----
 
-iQFHBAEBCgAxFiEE8ndToY6S45N+YzXncJOMeAZ57pgFAmS5wS4THGFkcmlhbkBt
-eGxpbnV4Lm9yZwAKCRBwk4x4BnnumIcsCACX3QGAFGP2d4QgoRlPsRQ8bM16CAMC
-2diqbv0Z+d76g9+fYKQYiMuDXC+TUzExY7hTyXOt9p56hOHY06+eCUqeiKQdYhIm
-7REv9luS91MepBWf0paU52Srp8IB1FPX/9do+atfnwbfRiZ6DCHD11lkWe+ppyz/
-QraKQi6L9xREhUKX3yk+lUX/B9a1bSdtBTQM4fNW1evgfNiz/ZQVQrnKeNIpfN42
-fQT0DZ7QxeEcMlP9TnBV/E0gAajo/irSDnCp2gkCq1nY8qQ4M3uGkj+V3zOmdT+3
-Fz82aWHPHsaFuIsPrq0WaYW/RNzVRmag/ZmFJSApoeBveS0GvGag8FD7
-=KCHN
+iQFHBAEBCgAxFiEE8ndToY6S45N+YzXncJOMeAZ57pgFAmS5yDITHGFkcmlhbkBt
+eGxpbnV4Lm9yZwAKCRBwk4x4BnnumGztCACKUiQS7SaKFf81P+/cNIl6ugb1vQ+h
+8zR4wqbuF2Hu5M0aAOIpRliqqb49bSudJ+PCBw9VFs+uza6/320gmDK+l/k4tXVa
+ilhsvAReBltZI+KAzFmNNNB81RKsxr9b0ymAnfclElQOCdh75pTsriGHBfX+oglC
+J+Mt3hQrMVLKZbXcNuva7++ipM3qOWZBpcpBwSY3fGssH/St+Q+ZeEYXtwgl9NEB
+E5ktUpPDvMP5DGKUBUy5mZpoK6mGwkYfVZyRpQ24APFn7REkqRNraVyvNQnnZccg
+8eX85985bJzYx7UpRYE9+a4Hc10MoJ6b4P3hPTVsyXeyw0+0C5up47TN
+=5MdX
 -----END PGP SIGNATURE-----
