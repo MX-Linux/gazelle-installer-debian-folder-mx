@@ -1,0 +1,25 @@
+Format: 1.8
+Date: Thu, 20 Jul 2023 19:16:08 -0400
+Source: gazelle-installer
+Binary: mx-installer
+Architecture: i386
+Version: 23.7.11mx23
+Distribution: mx
+Urgency: medium
+Maintainer: dolphinoracle <dolphinoracle@gmail.com>
+Changed-By: Adrian <adrian@mxlinux.org>
+Description:
+ mx-installer - Customizable GUI installer for MX Linux and antiX Linux
+Changes:
+ gazelle-installer (23.7.11mx23) mx; urgency=medium
+ .
+   * Fixed: unable to distinguish between drive and partition in config file.
+Checksums-Sha1:
+ 0c58820d05ba8c2f7cbd064466d844526f20c57a 9786 gazelle-installer_23.7.11mx23_i386.buildinfo
+ 901af5db1fedab9a9f3a1398180dc09bcfed53e7 547976 mx-installer_23.7.11mx23_i386.deb
+Checksums-Sha256:
+ 90078ae1e4a3723436e909f02638da34049a352a738029426fdfe8adc3100d8e 9786 gazelle-installer_23.7.11mx23_i386.buildinfo
+ 904bfe3065343fcd728d01480c95e3fcf0770e80a2bcf4b82e7b4ea01563ae77 547976 mx-installer_23.7.11mx23_i386.deb
+Files:
+ febe07be57d942f73f7fa277ca7fa795 9786 system optional gazelle-installer_23.7.11mx23_i386.buildinfo
+ 4279a965d091bebfda8f136512b2a1bd 547976 system optional mx-installer_23.7.11mx23_i386.deb

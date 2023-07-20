@@ -1,3 +1,9 @@
+gazelle-installer (23.7.11mx23) mx; urgency=medium
+
+  * Fixed: unable to distinguish between drive and partition in config file.
+
+ -- Adrian <adrian@mxlinux.org>  Thu, 20 Jul 2023 19:16:08 -0400
+
 gazelle-installer (23.7.10mx23) mx; urgency=medium
 
   * Configuration file fixes.
