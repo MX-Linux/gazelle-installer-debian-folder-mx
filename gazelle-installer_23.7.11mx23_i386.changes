@@ -15,11 +15,11 @@ Changes:
  .
    * Fixed: unable to distinguish between drive and partition in config file.
 Checksums-Sha1:
- 0c58820d05ba8c2f7cbd064466d844526f20c57a 9786 gazelle-installer_23.7.11mx23_i386.buildinfo
- 901af5db1fedab9a9f3a1398180dc09bcfed53e7 547976 mx-installer_23.7.11mx23_i386.deb
+ 92a2b552f686be14403fcf8129d98fa6bb095100 9786 gazelle-installer_23.7.11mx23_i386.buildinfo
+ 11207cf6658d3017b648fa0ba7cc107eb6ff12cd 546964 mx-installer_23.7.11mx23_i386.deb
 Checksums-Sha256:
- 90078ae1e4a3723436e909f02638da34049a352a738029426fdfe8adc3100d8e 9786 gazelle-installer_23.7.11mx23_i386.buildinfo
- 904bfe3065343fcd728d01480c95e3fcf0770e80a2bcf4b82e7b4ea01563ae77 547976 mx-installer_23.7.11mx23_i386.deb
+ b77a13941416f88c3a79670d42b9874615377dd7e9574f53688907c84c48e710 9786 gazelle-installer_23.7.11mx23_i386.buildinfo
+ 371645c01e29774c324be03e9bd623064186126442324b38881dfe5fc6ba324e 546964 mx-installer_23.7.11mx23_i386.deb
 Files:
- febe07be57d942f73f7fa277ca7fa795 9786 system optional gazelle-installer_23.7.11mx23_i386.buildinfo
- 4279a965d091bebfda8f136512b2a1bd 547976 system optional mx-installer_23.7.11mx23_i386.deb
+ 97b2f82a8fe63855f7ff75d1b4f446f1 9786 system optional gazelle-installer_23.7.11mx23_i386.buildinfo
+ bc7158bd20b87895e664037457da22bb 546964 system optional mx-installer_23.7.11mx23_i386.deb
