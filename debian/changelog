@@ -1,3 +1,15 @@
+gazelle-installer (23.7.10mx23) mx; urgency=medium
+
+  * Configuration file fixes.
+  * Wipe the old partition with blkdiscard before setting BIOS-GRUB flag.
+  * Fixed: invalid config warning at swap size despite being acceptable.
+  * Fixed: /boot/efi destroyed when preserving /home on root file system.
+  * Live log scrolling is now only active when the bar is at the bottom.
+  * Fixed minstall-launcher auto-mount routines.
+  * Fixed minstall-launcher $XDG_RUNTIME_DIR errors. 
+
+ -- Adrian <adrian@mxlinux.org>  Thu, 20 Jul 2023 11:30:30 -0400
+
 gazelle-installer (23.7.09mx23) mx; urgency=medium
 
   * Only probe modified drives for partition changes.

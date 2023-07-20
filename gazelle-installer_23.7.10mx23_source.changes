@@ -1,0 +1,46 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+Format: 1.8
+Date: Thu, 20 Jul 2023 11:30:30 -0400
+Source: gazelle-installer
+Architecture: source
+Version: 23.7.10mx23
+Distribution: mx
+Urgency: medium
+Maintainer: dolphinoracle <dolphinoracle@gmail.com>
+Changed-By: Adrian <adrian@mxlinux.org>
+Changes:
+ gazelle-installer (23.7.10mx23) mx; urgency=medium
+ .
+   * Configuration file fixes.
+   * Wipe the old partition with blkdiscard before setting BIOS-GRUB flag.
+   * Fixed: invalid config warning at swap size despite being acceptable.
+   * Fixed: /boot/efi destroyed when preserving /home on root file system.
+   * Live log scrolling is now only active when the bar is at the bottom.
+   * Fixed minstall-launcher auto-mount routines.
+   * Fixed minstall-launcher $XDG_RUNTIME_DIR errors.
+Checksums-Sha1:
+ dd4285a327d6722aa973c7b63baede9ec019c228 1246 gazelle-installer_23.7.10mx23.dsc
+ e63c8d70a33e5bc524002cbaf6a8caffb7bf7377 397872 gazelle-installer_23.7.10mx23.tar.xz
+ 4e5b1d1f1f9bbb963a4c6ae5d800bfb843a6ca00 10671 gazelle-installer_23.7.10mx23_amd64.buildinfo
+Checksums-Sha256:
+ 5cc9cdbabcedd78ae522ff47afa145b8295221bb0bd3db65c27efbf6a663ffcb 1246 gazelle-installer_23.7.10mx23.dsc
+ 39b659b41787f91ef73e2a28f7883d9992715254f4c84178fddd642ea517cf2a 397872 gazelle-installer_23.7.10mx23.tar.xz
+ fa6bef136089c771d06e9a291c207b695ad92d2343b377499a8743706596c30c 10671 gazelle-installer_23.7.10mx23_amd64.buildinfo
+Files:
+ f3ad991f315ea5766f47372fdea06daa 1246 system optional gazelle-installer_23.7.10mx23.dsc
+ 079352eefab68c7d0437e1120e608d04 397872 system optional gazelle-installer_23.7.10mx23.tar.xz
+ 014e944f8cddf7a596072afe61b36a7d 10671 system optional gazelle-installer_23.7.10mx23_amd64.buildinfo
+
+-----BEGIN PGP SIGNATURE-----
+
+iQFHBAEBCgAxFiEE8ndToY6S45N+YzXncJOMeAZ57pgFAmS5jWgTHGFkcmlhbkBt
+eGxpbnV4Lm9yZwAKCRBwk4x4BnnumHBcCACVmkAHc7tFptWVOnXiKUW0Q4PgZrA5
+B6E/IRDrzMYHE+eWCfT2HIxz2yoEh61ABUPZ9fWo9ZmgymGJtYu9c6LBZRLr21rH
+9WN8EZiqXyw2V6MfkxxJ3F80NSl3VzNkbwxFNqy6hwh6YeEPvirqWsZ3YzzgQIgH
+TvVsOztt3Bh1jEK2dI/qx/fbsM8X6oV/cOgybbXOGp47u4uiSfQNkgA4B3A9YS0i
+kPcs0skLfEqNHsO1OkVwVUisfyIJCHof1tJUSX/QtUw9GMhxrRb7YToNERi+HFeZ
+9NU8wmJMWuTNr8zp93aPM17vchbZ1IyUPfmR/69WvMPeGSKmIIEMzCSI
+=hZcc
+-----END PGP SIGNATURE-----
