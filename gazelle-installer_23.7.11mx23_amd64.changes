@@ -1,0 +1,46 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+Format: 1.8
+Date: Thu, 20 Jul 2023 19:16:08 -0400
+Source: gazelle-installer
+Binary: mx-installer
+Architecture: source amd64
+Version: 23.7.11mx23
+Distribution: mx
+Urgency: medium
+Maintainer: dolphinoracle <dolphinoracle@gmail.com>
+Changed-By: Adrian <adrian@mxlinux.org>
+Description:
+ mx-installer - Customizable GUI installer for MX Linux and antiX Linux
+Changes:
+ gazelle-installer (23.7.11mx23) mx; urgency=medium
+ .
+   * Fixed: unable to distinguish between drive and partition in config file.
+Checksums-Sha1:
+ 4c477d597d0c562e768d0aa85569605ee41d7d86 1246 gazelle-installer_23.7.11mx23.dsc
+ a0e769d2b569b9c5db3d3a61b02a17f058f54926 397928 gazelle-installer_23.7.11mx23.tar.xz
+ b8e21559f8d261fa60382b4b9bbc47c29cbfc1ef 10671 gazelle-installer_23.7.11mx23_amd64.buildinfo
+ 527417ef368bade2aa8ea4b611536f6bf883c8f2 526980 mx-installer_23.7.11mx23_amd64.deb
+Checksums-Sha256:
+ 2403e34f952794b066490abf2b7e9f7182b8889b0d3a2d9af4814e0a404acd23 1246 gazelle-installer_23.7.11mx23.dsc
+ 7a380b0b25da9368e2a4cad297c04a1181e8f98ebcee0746ee97349f1bcd09dc 397928 gazelle-installer_23.7.11mx23.tar.xz
+ dac52bfe45000fe73f001cf5687e23e9657bb893f3c0cf889aae119247886124 10671 gazelle-installer_23.7.11mx23_amd64.buildinfo
+ 3f82c2f6783775d1755bdd03a190e50db974a660412d6af53ac55a9220c38756 526980 mx-installer_23.7.11mx23_amd64.deb
+Files:
+ ab88cc6cdcc3d20840ab1b66d56fd610 1246 system optional gazelle-installer_23.7.11mx23.dsc
+ d28fba43a74d1f63109e07a815d99dd8 397928 system optional gazelle-installer_23.7.11mx23.tar.xz
+ 7cc9c1368bcb14ffeda7dbd9d41411d8 10671 system optional gazelle-installer_23.7.11mx23_amd64.buildinfo
+ 60febe0cd3c4763897b1b8c76dc083b7 526980 system optional mx-installer_23.7.11mx23_amd64.deb
+
+-----BEGIN PGP SIGNATURE-----
+
+iQFHBAEBCgAxFiEE8ndToY6S45N+YzXncJOMeAZ57pgFAmS5wS4THGFkcmlhbkBt
+eGxpbnV4Lm9yZwAKCRBwk4x4BnnumIcsCACX3QGAFGP2d4QgoRlPsRQ8bM16CAMC
+2diqbv0Z+d76g9+fYKQYiMuDXC+TUzExY7hTyXOt9p56hOHY06+eCUqeiKQdYhIm
+7REv9luS91MepBWf0paU52Srp8IB1FPX/9do+atfnwbfRiZ6DCHD11lkWe+ppyz/
+QraKQi6L9xREhUKX3yk+lUX/B9a1bSdtBTQM4fNW1evgfNiz/ZQVQrnKeNIpfN42
+fQT0DZ7QxeEcMlP9TnBV/E0gAajo/irSDnCp2gkCq1nY8qQ4M3uGkj+V3zOmdT+3
+Fz82aWHPHsaFuIsPrq0WaYW/RNzVRmag/ZmFJSApoeBveS0GvGag8FD7
+=KCHN
+-----END PGP SIGNATURE-----
