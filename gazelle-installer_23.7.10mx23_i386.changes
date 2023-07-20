@@ -1,0 +1,31 @@
+Format: 1.8
+Date: Thu, 20 Jul 2023 11:30:30 -0400
+Source: gazelle-installer
+Binary: mx-installer
+Architecture: i386
+Version: 23.7.10mx23
+Distribution: mx
+Urgency: medium
+Maintainer: dolphinoracle <dolphinoracle@gmail.com>
+Changed-By: Adrian <adrian@mxlinux.org>
+Description:
+ mx-installer - Customizable GUI installer for MX Linux and antiX Linux
+Changes:
+ gazelle-installer (23.7.10mx23) mx; urgency=medium
+ .
+   * Configuration file fixes.
+   * Wipe the old partition with blkdiscard before setting BIOS-GRUB flag.
+   * Fixed: invalid config warning at swap size despite being acceptable.
+   * Fixed: /boot/efi destroyed when preserving /home on root file system.
+   * Live log scrolling is now only active when the bar is at the bottom.
+   * Fixed minstall-launcher auto-mount routines.
+   * Fixed minstall-launcher $XDG_RUNTIME_DIR errors.
+Checksums-Sha1:
+ b57b93befdcb04310a7160529c5c01ff52a92a11 9786 gazelle-installer_23.7.10mx23_i386.buildinfo
+ b11774df4657c6faa996c47350d037816f042d7f 547548 mx-installer_23.7.10mx23_i386.deb
+Checksums-Sha256:
+ 1cb0522e77cee42710786e328bc843d5587600ac3476e032c7cc7867c0f640f4 9786 gazelle-installer_23.7.10mx23_i386.buildinfo
+ 5c365243269ae6714dd47aaef2084301728c335946e69ab85fb8bbe6142aa9b0 547548 mx-installer_23.7.10mx23_i386.deb
+Files:
+ a506413d4b3815f5cf6c7b10498600b3 9786 system optional gazelle-installer_23.7.10mx23_i386.buildinfo
+ 9e28f9b30004335116dc8bda472ba512 547548 system optional mx-installer_23.7.10mx23_i386.deb
