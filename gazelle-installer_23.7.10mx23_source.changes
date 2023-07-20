@@ -21,26 +21,26 @@ Changes:
    * Fixed minstall-launcher auto-mount routines.
    * Fixed minstall-launcher $XDG_RUNTIME_DIR errors.
 Checksums-Sha1:
- dd4285a327d6722aa973c7b63baede9ec019c228 1246 gazelle-installer_23.7.10mx23.dsc
- e63c8d70a33e5bc524002cbaf6a8caffb7bf7377 397872 gazelle-installer_23.7.10mx23.tar.xz
- 4e5b1d1f1f9bbb963a4c6ae5d800bfb843a6ca00 10671 gazelle-installer_23.7.10mx23_amd64.buildinfo
+ 3d736327d1be6a55eb379c66c69de868a2bfc31d 1246 gazelle-installer_23.7.10mx23.dsc
+ 24e31bf3d84c91fb2f742876ad7e35203f7cf5b7 397852 gazelle-installer_23.7.10mx23.tar.xz
+ 92a344de9c6a948ef80366d593a79d67562842db 10671 gazelle-installer_23.7.10mx23_amd64.buildinfo
 Checksums-Sha256:
- 5cc9cdbabcedd78ae522ff47afa145b8295221bb0bd3db65c27efbf6a663ffcb 1246 gazelle-installer_23.7.10mx23.dsc
- 39b659b41787f91ef73e2a28f7883d9992715254f4c84178fddd642ea517cf2a 397872 gazelle-installer_23.7.10mx23.tar.xz
- fa6bef136089c771d06e9a291c207b695ad92d2343b377499a8743706596c30c 10671 gazelle-installer_23.7.10mx23_amd64.buildinfo
+ f2fcc4235d20b52f836dbc670077dd7f02447f24d402660f617ec0ba91b87698 1246 gazelle-installer_23.7.10mx23.dsc
+ 58008b72ba6a7dc98eca722c7b181a4053ec68aeaff5ed9da6fa8813697dfb07 397852 gazelle-installer_23.7.10mx23.tar.xz
+ ca41b3742a03b9faf6aa7a74b03b476ba2194fde77d08e5c9419af8b02727260 10671 gazelle-installer_23.7.10mx23_amd64.buildinfo
 Files:
- f3ad991f315ea5766f47372fdea06daa 1246 system optional gazelle-installer_23.7.10mx23.dsc
- 079352eefab68c7d0437e1120e608d04 397872 system optional gazelle-installer_23.7.10mx23.tar.xz
- 014e944f8cddf7a596072afe61b36a7d 10671 system optional gazelle-installer_23.7.10mx23_amd64.buildinfo
+ 2e86493c83b550f662c9d05193edf51a 1246 system optional gazelle-installer_23.7.10mx23.dsc
+ 63a0189d0c2849f3988384a0369b8e02 397852 system optional gazelle-installer_23.7.10mx23.tar.xz
+ 0ddd6bac012cde84fb3923e20f0aea5b 10671 system optional gazelle-installer_23.7.10mx23_amd64.buildinfo
 
 -----BEGIN PGP SIGNATURE-----
 
-iQFHBAEBCgAxFiEE8ndToY6S45N+YzXncJOMeAZ57pgFAmS5jWgTHGFkcmlhbkBt
-eGxpbnV4Lm9yZwAKCRBwk4x4BnnumHBcCACVmkAHc7tFptWVOnXiKUW0Q4PgZrA5
-B6E/IRDrzMYHE+eWCfT2HIxz2yoEh61ABUPZ9fWo9ZmgymGJtYu9c6LBZRLr21rH
-9WN8EZiqXyw2V6MfkxxJ3F80NSl3VzNkbwxFNqy6hwh6YeEPvirqWsZ3YzzgQIgH
-TvVsOztt3Bh1jEK2dI/qx/fbsM8X6oV/cOgybbXOGp47u4uiSfQNkgA4B3A9YS0i
-kPcs0skLfEqNHsO1OkVwVUisfyIJCHof1tJUSX/QtUw9GMhxrRb7YToNERi+HFeZ
-9NU8wmJMWuTNr8zp93aPM17vchbZ1IyUPfmR/69WvMPeGSKmIIEMzCSI
-=hZcc
+iQFHBAEBCgAxFiEE8ndToY6S45N+YzXncJOMeAZ57pgFAmS5jjMTHGFkcmlhbkBt
+eGxpbnV4Lm9yZwAKCRBwk4x4BnnumO4dB/9s0+FYHpAhmK//mzzp2S1u/wYLL5jU
+FOmxL68m4/Mt0CS8S25pgt8rrdRdkNgsbH5IfUWu2a7h9/wLHBBTai3RzvvlqFSZ
+uFVeQZ9Ci7VDh8gSsTtq3HvThzfOcywfcML43gQ0MsHBBO05RLCW/CVfPujouKR5
+TwlhQyQeCjIIoTVQdqFTdUDChOf20wwTkfPqBEzl3y+wnpo5lJXI1rZTe+QD77iv
+gRNQWUNnJgNRS/51EhjToMpdo+31iKbMhz0lqglpndxwMt6SaYi2jxr4JfKngobK
+GjgGUVUcf464i9Cl3ItbmiYODYcc1BgILHYcPTBbVHU4MuN2S5hnxQps
+=a9x2
 -----END PGP SIGNATURE-----

@@ -21,11 +21,11 @@ Changes:
    * Fixed minstall-launcher auto-mount routines.
    * Fixed minstall-launcher $XDG_RUNTIME_DIR errors.
 Checksums-Sha1:
- b57b93befdcb04310a7160529c5c01ff52a92a11 9786 gazelle-installer_23.7.10mx23_i386.buildinfo
- b11774df4657c6faa996c47350d037816f042d7f 547548 mx-installer_23.7.10mx23_i386.deb
+ 8d4bbb06d9c278503946573b147eadd54672ffa4 9786 gazelle-installer_23.7.10mx23_i386.buildinfo
+ 295ca8c152b8227fe9d254c54e270bbf53aa40d9 548136 mx-installer_23.7.10mx23_i386.deb
 Checksums-Sha256:
- 1cb0522e77cee42710786e328bc843d5587600ac3476e032c7cc7867c0f640f4 9786 gazelle-installer_23.7.10mx23_i386.buildinfo
- 5c365243269ae6714dd47aaef2084301728c335946e69ab85fb8bbe6142aa9b0 547548 mx-installer_23.7.10mx23_i386.deb
+ d1a554d2edf80af663c475ff89f5dcd4ad1f2a38fe0111af2fa3dc912631b2fd 9786 gazelle-installer_23.7.10mx23_i386.buildinfo
+ 2272af79d0b956825af59c00bd3885a3dd8cf389a19d7af8c5f20634ceada9d6 548136 mx-installer_23.7.10mx23_i386.deb
 Files:
- a506413d4b3815f5cf6c7b10498600b3 9786 system optional gazelle-installer_23.7.10mx23_i386.buildinfo
- 9e28f9b30004335116dc8bda472ba512 547548 system optional mx-installer_23.7.10mx23_i386.deb
+ 851bbd7e968caacea932470715876780 9786 system optional gazelle-installer_23.7.10mx23_i386.buildinfo
+ 49b3e2ef87b6790d9161790fe3c00d85 548136 system optional mx-installer_23.7.10mx23_i386.deb
