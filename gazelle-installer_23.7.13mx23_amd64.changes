@@ -1,0 +1,45 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+Format: 1.8
+Date: Sat, 22 Jul 2023 16:20:43 -0400
+Source: gazelle-installer
+Binary: mx-installer
+Architecture: amd64
+Version: 23.7.13mx23
+Distribution: mx
+Urgency: medium
+Maintainer: dolphinoracle <dolphinoracle@gmail.com>
+Changed-By: Dolphin Oracle <dolphinoracle@gmail.com>
+Description:
+ mx-installer - Customizable GUI installer for MX Linux and antiX Linux
+Changes:
+ gazelle-installer (23.7.13mx23) mx; urgency=medium
+ .
+   * update language processing
+Checksums-Sha1:
+ 1abf11742a1270bf7ab165320d047320b0a1db30 10575 gazelle-installer_23.7.13mx23_amd64.buildinfo
+ 340322488237d15213d34d00d502f4715e69a179 525600 mx-installer_23.7.13mx23_amd64.deb
+Checksums-Sha256:
+ 6228a880019c612eb10185650acc8df9c1280e8699529f9ad2f345e302df1768 10575 gazelle-installer_23.7.13mx23_amd64.buildinfo
+ 30baf13700d96119ba912d27a2e27831b8c85569949cc2bc2a96da206f936982 525600 mx-installer_23.7.13mx23_amd64.deb
+Files:
+ a29521b3a43fd216942361578c8bb52c 10575 system optional gazelle-installer_23.7.13mx23_amd64.buildinfo
+ e2d83248298c0029e17fc04418e4134c 525600 system optional mx-installer_23.7.13mx23_amd64.deb
+
+-----BEGIN PGP SIGNATURE-----
+
+iQIzBAEBCgAdFiEE9i7eqjrnCpyZ2sQYm2ih6Lm2N1wFAmS8PFUACgkQm2ih6Lm2
+N1ym8RAAihsTXBX34Xuuw1E7cOAwBQ1ue0waOiNk/QmqXzJl9o7JEAg/BXKFJmeK
+Gl1iF175u7tql6vUUKNMlA+sx4tRDCdisAikPUkgY+jzvwcRIDSBPyixFECXVi6V
+SkBtFQJCYnXxgcJQ65n7G9vcaHbIaTEzmgRuBH7vu2ODae49UwrVrY21aQCQlSUL
+ERBqzZAXgltdmQeMSlPpKtB6f1TBQAGBU+nG39QoGz3/qPwHUA9V4oDiYciwkrUQ
+3IvcQYPrBHCAsKjp1GcMvPsxNFFCXBcYol8pwZ4a10lW6l3tmg3iKABUjsH/5KrE
+7LuZoD7fmxKS6/N/CGkw5mtyo5G9V6QJf06LNTnnAdrgVABVY8gjpuX9jeg32yZZ
+aq6Z7RPD3ejxvICTWoPgVrnZH7EYDfnnumiNaaafcgYjpxuYibzjYSLV1coPraJE
+5Cwg+57xzbjyTpNA2hpjrfJIUgVxXEq1GZ3zoDZRbJR+VgZkUNBo9DHF5VRmsJtZ
+N54jPOFxde8XXBxC9vPDkln8yBqpERmS+/36Ju+9qtS4bStQGBKeNhrNuKiFv8Kf
+YMxvjecXm2RLEDoc0gefNKTsufSXfwmSnuoem61DhmwSXuue1+6bwI4WXFRMR0Kh
+5XGybVOkumTJDyANwT7gNpbNT3RQh6tX/EcUHPozys/hN5c6+cQ=
+=ZKsM
+-----END PGP SIGNATURE-----
