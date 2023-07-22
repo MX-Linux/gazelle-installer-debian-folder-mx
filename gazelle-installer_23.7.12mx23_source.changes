@@ -1,0 +1,45 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+Format: 1.8
+Date: Sat, 22 Jul 2023 01:18:22 -0400
+Source: gazelle-installer
+Architecture: source
+Version: 23.7.12mx23
+Distribution: mx
+Urgency: medium
+Maintainer: dolphinoracle <dolphinoracle@gmail.com>
+Changed-By: Dolphin Oracle <dolphinoracle@gmail.com>
+Changes:
+ gazelle-installer (23.7.12mx23) mx; urgency=medium
+ .
+   * Fixed:  fstab creation with btrfs
+Checksums-Sha1:
+ f8971847b6e0592d793fb355c35c1a3ae1b30a64 684 gazelle-installer_23.7.12mx23.dsc
+ cb2b5df6597b7df07f5415c3eeb8322e100a9906 399144 gazelle-installer_23.7.12mx23.tar.xz
+ f2bbbfa8c9e4e204e0ce7efb18b10ca411cc9ecd 10575 gazelle-installer_23.7.12mx23_amd64.buildinfo
+Checksums-Sha256:
+ b559f96ddbb4cbaeaff1841e470be23b31bdc1ab153346e53a5d7b00b906e941 684 gazelle-installer_23.7.12mx23.dsc
+ 5499c732d67bc100a5669bdc96ad006a47045975166a14690407c49d998f8410 399144 gazelle-installer_23.7.12mx23.tar.xz
+ 24bbd531697ee5d7cae624ff1d4b1123d8c1ccd1ce8726aebe0d4a84dafea0f7 10575 gazelle-installer_23.7.12mx23_amd64.buildinfo
+Files:
+ 2914af86e39a637e43cdcb129794cc0f 684 system optional gazelle-installer_23.7.12mx23.dsc
+ 4d5753043a54eefd567b74a481ee4872 399144 system optional gazelle-installer_23.7.12mx23.tar.xz
+ 3a4ed7be7e3d7da2da1abd16d24b6d1e 10575 system optional gazelle-installer_23.7.12mx23_amd64.buildinfo
+
+-----BEGIN PGP SIGNATURE-----
+
+iQIzBAEBCgAdFiEE9i7eqjrnCpyZ2sQYm2ih6Lm2N1wFAmS7Z3UACgkQm2ih6Lm2
+N1yX0A//anVZZekQ8SlYqR5RqFkvFOGjaE5vqikHpJ3qvqI9QJg6rxWlS525p4HP
+VRO6nPJqpIlRZXjXnqbHwAwNczs1UbqyQMzPCo615capqImEphyw06TUP5kB3xMT
+VBHONBWyf8V6SDlII2hF1VwUnumaqtGAkvGt/qWQLTxEQrXV8XX4RprbcIWoknjY
+F6jlu5tmIA8tRo+OQXN+PDBnA447NfFgqWIeU/VGqLXqdUJYsvKT0cgiF8fIPhHc
+N4O8QeiG9iXVO3T2aBHhNEXubTCphlOMqy8ysh46QLdbvVbrdy87c0riDMUy0tG5
+bRb086KeKCjNInZv0Vfqf1882tECwLECo9p58ETzhvH0C5VnvJ17QmrQIa/3/XR9
+uVJqkeiS7ip0Q5cW2fGMhQ9avpsKrid/J/DhX+G7ffThDXJxItUvmfzSAX2L/ob1
+ziyqjK2OWwej0wMKQbfK3fu/llLOZxRZaIcqAxN1kmtRVtNrt5UEfTbd4LPizvgH
+q6OxAHXtd7oKlVEwdHQDkFPRJZONlbKdEmP5LYQ11FNl+1vof+DtZTnr9kfPd0w4
+TmFFJHOd9xPBxaY8waTIqnrThtZlKOEXJ/oEDB4sVjVa+drwIWQG81xyhKErGvuA
+pbmsxPIGLC+YIxvkUBmtLC4Ii+xM2WQUFri1AwOm9M633YKIJvQ=
+=EdSL
+-----END PGP SIGNATURE-----

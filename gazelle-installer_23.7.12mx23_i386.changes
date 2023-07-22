@@ -1,0 +1,45 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+Format: 1.8
+Date: Sat, 22 Jul 2023 01:18:22 -0400
+Source: gazelle-installer
+Binary: mx-installer
+Architecture: i386
+Version: 23.7.12mx23
+Distribution: mx
+Urgency: medium
+Maintainer: dolphinoracle <dolphinoracle@gmail.com>
+Changed-By: Dolphin Oracle <dolphinoracle@gmail.com>
+Description:
+ mx-installer - Customizable GUI installer for MX Linux and antiX Linux
+Changes:
+ gazelle-installer (23.7.12mx23) mx; urgency=medium
+ .
+   * Fixed:  fstab creation with btrfs
+Checksums-Sha1:
+ 191a964aa8c5754797efbfe5e327aa93ae75eef1 10518 gazelle-installer_23.7.12mx23_i386.buildinfo
+ ca176b62cb9b06bd881aeffdaebcd768a0d68248 546272 mx-installer_23.7.12mx23_i386.deb
+Checksums-Sha256:
+ 52b3c5e1bce9b958815a8bea67a3207314f5b4d7d7e987d53d2b1783925177fe 10518 gazelle-installer_23.7.12mx23_i386.buildinfo
+ 305f49d87ec688e8e6c8e27b963f7fd5a60bf4a1c25eda4b148ab6df0bea644d 546272 mx-installer_23.7.12mx23_i386.deb
+Files:
+ 676d150967d37f51227cbe501208125b 10518 system optional gazelle-installer_23.7.12mx23_i386.buildinfo
+ 2fca562eb53a8787c69217887fd3f39d 546272 system optional mx-installer_23.7.12mx23_i386.deb
+
+-----BEGIN PGP SIGNATURE-----
+
+iQIzBAEBCgAdFiEE9i7eqjrnCpyZ2sQYm2ih6Lm2N1wFAmS7Z3MACgkQm2ih6Lm2
+N1zLLQ/+OSNui9Ykshl5qrlUBdMvzkvOGZCwCv7gF0CBLCzHD5x67YGeL1rfKAlz
+nj0MbF3z+Vi24er78OAnZ869hYxRfq1hw3Xlk+GV2a+Dz8RmMu0NBtOeQLx1RaR9
+jFvSdIwau8LYTdK7FuXxiu2T9wtHAziSTTSLEQEQeih+HMx7d/JsfKFsUZJXJ2De
+nKyNqFcVwoudsPdEDsEDuur4yKji9UUvl7zyj2sq3Mo4Ujeuu0jLtiMJkMeWrhi1
+EZL6XgNp5iZ+0ZZU7Q7XdtCs9mLXkiCa4YCqnU4qf7KqVrwFLeJwpgffKGObwXjv
+ODngJyuVhmNk9lcjiJUXbDAxEDsLl3qX4XYtJijEew0dP2QSwhJyNOMHW/GGiqVY
+rTGd0o25i1vuPWsKV7jlwLePoJA5Qs6LcYI/eFNzUbcEH5p3E+UZV6UiJTRYFAA8
+yE/7TcTUElEMSMyTry9l/SCPEF0iEXNnIEDnh/Ljv64ZRBgDHK2ezKJsSFStKkJD
+qO5zYj9WUa1sHAQwk1FpzKtC50vf6Bc0ql/gUsm38MhuOBzzuzSU9XfMSd4V2zBw
+/UJnxiD4PkptUhM9tA72omBfeTXin3TEnnAUSB4Yw4YQjzNj6sLSE90H1uVVmnp1
+sTxi90L30KyPr2IIo6f1wrjG4bC7VuhYrKGtQDY1mkSj76yqhbM=
+=ldsq
+-----END PGP SIGNATURE-----
