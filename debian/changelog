@@ -1,3 +1,9 @@
+gazelle-installer (23.7.13mx23) mx; urgency=medium
+
+  * update language processing
+
+ -- Dolphin Oracle <dolphinoracle@gmail.com>  Sat, 22 Jul 2023 16:20:43 -0400
+
 gazelle-installer (23.7.12mx23) mx; urgency=medium
 
   * Fixed:  fstab creation with btrfs
