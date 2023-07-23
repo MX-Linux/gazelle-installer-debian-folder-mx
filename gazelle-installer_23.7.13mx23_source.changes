@@ -14,32 +14,34 @@ Changes:
  gazelle-installer (23.7.13mx23) mx; urgency=medium
  .
    * update language processing
+   * update translations
+   * additional information in virtual device tooltips
 Checksums-Sha1:
- 5b013bd7dac18a379e5675af5f4ae6d229f250fd 684 gazelle-installer_23.7.13mx23.dsc
- fb20830b802bbb3e01ce8e6cbf41c3783314c00b 399032 gazelle-installer_23.7.13mx23.tar.xz
- 1abf11742a1270bf7ab165320d047320b0a1db30 10575 gazelle-installer_23.7.13mx23_amd64.buildinfo
+ 2bab42f1ad743577cf4be07cd6c35a18f74f5d86 684 gazelle-installer_23.7.13mx23.dsc
+ c31d05b6e56272c29e1697100e55db2762afe6d3 405852 gazelle-installer_23.7.13mx23.tar.xz
+ c9e7e5f450a201a7fea07be01b07ee1956668186 10575 gazelle-installer_23.7.13mx23_amd64.buildinfo
 Checksums-Sha256:
- 7caf7820b0f83c41c7caac779888429686e214418d325371fcc195b24225ddc2 684 gazelle-installer_23.7.13mx23.dsc
- 78ec45457d4f45d8102b27ea3df604d29017e32a352fa297766da468e17e5109 399032 gazelle-installer_23.7.13mx23.tar.xz
- 6228a880019c612eb10185650acc8df9c1280e8699529f9ad2f345e302df1768 10575 gazelle-installer_23.7.13mx23_amd64.buildinfo
+ 7f9665985c771c4631996243b6546e0f1b5a7e3d227615627bd93ed950127d37 684 gazelle-installer_23.7.13mx23.dsc
+ 349259e9fa1b5a8e2e4c5861eecc56ad9b2439b8ce6a23c8a86ce2e69c81174b 405852 gazelle-installer_23.7.13mx23.tar.xz
+ 89c64f9d545aca6ad8c6d11ef4ce4160347c469752b2b4610dd504d45178886f 10575 gazelle-installer_23.7.13mx23_amd64.buildinfo
 Files:
- 963f85c194e704b1ea4de5aa5fbc7532 684 system optional gazelle-installer_23.7.13mx23.dsc
- 5b1e80d7b28a5250ddbde987181fc68b 399032 system optional gazelle-installer_23.7.13mx23.tar.xz
- a29521b3a43fd216942361578c8bb52c 10575 system optional gazelle-installer_23.7.13mx23_amd64.buildinfo
+ 3789169ca6e009ecfd8595a1ec84539f 684 system optional gazelle-installer_23.7.13mx23.dsc
+ ac272ed77bea55f4016864daa40522e1 405852 system optional gazelle-installer_23.7.13mx23.tar.xz
+ 79fa87652c032180a7db6af3566ea5a8 10575 system optional gazelle-installer_23.7.13mx23_amd64.buildinfo
 
 -----BEGIN PGP SIGNATURE-----
 
-iQIzBAEBCgAdFiEE9i7eqjrnCpyZ2sQYm2ih6Lm2N1wFAmS8PFYACgkQm2ih6Lm2
-N1xjehAAnwBaMVCKaLWLs8/srcplSr3O++bqQpzXlTvi7JVbw6ivoqhr69LsNlJe
-prwuqcElqVDoRRUJ4yo4PbpHny/9p2p8EbogAYyuiUVVug3op/dvd7sxq+JJYEd4
-vafhyCnNywmJu/Iw7tHn6LqLivztttChJC82jOPHJIXNSFUvTTKOBL665WMxyIH+
-Z130tCwitT0YS9S0nT5kKTBB7zq5jc83EjPvF9gGv1A63tk6kg/iLurTYPflThPY
-WXzGf7RKCTw0PiV2rt1JQ92Bl6bck3D+4x6KkYZLmCvPKESVjGg3ao6WSnTukEPZ
-t+Dkz2YQmguugKAomN+7NJBfa9XcMTB6bu6UKkHtyTy3y9m0RWnKgZ1m1X/1PP2Z
-M14w1aFFKfkBqfhAEboDHq6CAUUNsON0bcMTZJT0cpzo9A7UBR+Ip8RikUGN049W
-j/NXsvXkIiFBkrS2wpPhUGXTNFOLNZYNgqrLIKBKZ0o67qz2zFr3/WmPLc9vWf5p
-KqONpDxaHK1l2ugptRwiafIJQiCeR6xLbuzAf+nOIEFNVUtzFLo/ymDJX6yktf5u
-Q4KzSb6pp9Q3JwsDw/J7EB24i0W60sAQkVphyD9zLY5PXku00Yl3tqL+ryoNZy+6
-7HKlzUNK0QaWd4+3zaLSu0HXBCXScGwlr4Hcqk4mOiOTvDBVahY=
-=OPl1
+iQIzBAEBCgAdFiEE9i7eqjrnCpyZ2sQYm2ih6Lm2N1wFAmS9iMUACgkQm2ih6Lm2
+N1wCdA/9EVw0aWNJhrqz8E+AiuIVzGu3OefLPU9Z2gQgdmyy9VxzZ2D3WIHfqR4v
+NUIkXe36GUcvQDQljuXH3GZ6TaEMX/setChuTHbNJ5I15nUwErl915TBCgESmaLr
+bPfw6Bb+R3LVoNIyOLDE0kWx9qCvK8yqdza9GfvQiAogSACkGTZcw9tcEQclyixr
+mrDl94IRQHi2AbNxzG+B/Vh/VkIfaUqEEpZkjKGaau1234WxVfq9SAYhb7QspG2n
+9OGldJSoYABaZ3ML4hT4NngA6KilGNMLxpCIbozxN/lsyJV+LGSEaXqz04I1+YUs
+sCXGRqcZt5hGKLwnPbeZEy7k9S4ZDO5G0513D9d4/9lnp9sdXgpCt+wsaUbtqThF
+n1s60YfPbIYAu+YlfwXOor8/+11j9bu8mN2G3Tbw63AlwLj/1PZJUOZOgWAPSdxs
+gJlxOGNu0oZZ80X0lgKiKJIRZnCTntx2+SqAX9DSk2eTALM/Th35h/Zld2w/Vz5k
+4kEkI9MeQN4FpMP70zkMvSt9LrkfsggS32pcIt7yblJ7q9XYg1X4y/ZRlYgm4a4I
+SCXcBDdR0bmNXX5nxqt8YXZ/gmXmdMCD161hvksBIwiOtXBFy3ZhY63TFX2ONXGV
+YafBF+xepcFUzsJlkzilKN9TcU+bpkmAO9CD4ho0qhvurcWxNj4=
+=F19j
 -----END PGP SIGNATURE-----

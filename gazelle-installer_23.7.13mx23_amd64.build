@@ -15,8 +15,8 @@ dpkg-source: info: building gazelle-installer in gazelle-installer_23.7.13mx23.d
 dpkg-genchanges: info: including full source code in upload
 [1;33mW: cgroups are not available on the host, not using them.[0m
 [0mI: pbuilder: network access will be disabled during build[0m
-[0mI: Current time: Sat Jul 22 16:28:51 EDT 2023[0m
-[0mI: pbuilder-time-stamp: 1690057731[0m
+[0mI: Current time: Sun Jul 23 16:06:17 EDT 2023[0m
+[0mI: pbuilder-time-stamp: 1690142777[0m
 [0mI: Building the build Environment[0m
 [0mI: extracting base tarball [/media/dataext/development/pbuilder/debian-bookworm-amd64-base.tgz][0m
 [0mI: copying local configuration[0m
@@ -925,340 +925,352 @@ make[1]: Entering directory '/build/gazelle-installer-23.7.13mx23'
 lrelease src.pro
 Updating '/build/gazelle-installer-23.7.13mx23/translations/gazelle-installer_af.qm'...
     Generated 0 translation(s) (0 finished and 0 unfinished)
-    Ignored 395 untranslated source text(s)
+    Ignored 394 untranslated source text(s)
 Updating '/build/gazelle-installer-23.7.13mx23/translations/gazelle-installer_am.qm'...
-    Generated 61 translation(s) (61 finished and 0 unfinished)
-    Ignored 334 untranslated source text(s)
+    Generated 59 translation(s) (59 finished and 0 unfinished)
+    Ignored 335 untranslated source text(s)
 Updating '/build/gazelle-installer-23.7.13mx23/translations/gazelle-installer_ar.qm'...
     Generated 11 translation(s) (11 finished and 0 unfinished)
-    Ignored 384 untranslated source text(s)
+    Ignored 383 untranslated source text(s)
 Updating '/build/gazelle-installer-23.7.13mx23/translations/gazelle-installer_be.qm'...
     Generated 1 translation(s) (1 finished and 0 unfinished)
-    Ignored 394 untranslated source text(s)
+    Ignored 393 untranslated source text(s)
 Updating '/build/gazelle-installer-23.7.13mx23/translations/gazelle-installer_bg.qm'...
     Generated 16 translation(s) (16 finished and 0 unfinished)
-    Ignored 379 untranslated source text(s)
+    Ignored 378 untranslated source text(s)
 Updating '/build/gazelle-installer-23.7.13mx23/translations/gazelle-installer_bn.qm'...
     Generated 0 translation(s) (0 finished and 0 unfinished)
-    Ignored 395 untranslated source text(s)
+    Ignored 394 untranslated source text(s)
 Updating '/build/gazelle-installer-23.7.13mx23/translations/gazelle-installer_bs.qm'...
     Generated 0 translation(s) (0 finished and 0 unfinished)
-    Ignored 395 untranslated source text(s)
+    Ignored 394 untranslated source text(s)
 Updating '/build/gazelle-installer-23.7.13mx23/translations/gazelle-installer_ca.qm'...
-    Generated 395 translation(s) (395 finished and 0 unfinished)
+    Generated 391 translation(s) (386 finished and 5 unfinished)
+    Ignored 3 untranslated source text(s)
 Updating '/build/gazelle-installer-23.7.13mx23/translations/gazelle-installer_ceb.qm'...
     Generated 0 translation(s) (0 finished and 0 unfinished)
-    Ignored 395 untranslated source text(s)
+    Ignored 394 untranslated source text(s)
 Updating '/build/gazelle-installer-23.7.13mx23/translations/gazelle-installer_co.qm'...
     Generated 0 translation(s) (0 finished and 0 unfinished)
-    Ignored 395 untranslated source text(s)
+    Ignored 394 untranslated source text(s)
 Updating '/build/gazelle-installer-23.7.13mx23/translations/gazelle-installer_cs.qm'...
-    Generated 69 translation(s) (69 finished and 0 unfinished)
-    Ignored 326 untranslated source text(s)
+    Generated 67 translation(s) (67 finished and 0 unfinished)
+    Ignored 327 untranslated source text(s)
 Updating '/build/gazelle-installer-23.7.13mx23/translations/gazelle-installer_cy.qm'...
     Generated 0 translation(s) (0 finished and 0 unfinished)
-    Ignored 395 untranslated source text(s)
+    Ignored 394 untranslated source text(s)
 Updating '/build/gazelle-installer-23.7.13mx23/translations/gazelle-installer_da.qm'...
-    Generated 89 translation(s) (89 finished and 0 unfinished)
-    Ignored 306 untranslated source text(s)
+    Generated 87 translation(s) (87 finished and 0 unfinished)
+    Ignored 307 untranslated source text(s)
 Updating '/build/gazelle-installer-23.7.13mx23/translations/gazelle-installer_de.qm'...
-    Generated 395 translation(s) (395 finished and 0 unfinished)
+    Generated 391 translation(s) (386 finished and 5 unfinished)
+    Ignored 3 untranslated source text(s)
 Updating '/build/gazelle-installer-23.7.13mx23/translations/gazelle-installer_el.qm'...
-    Generated 378 translation(s) (378 finished and 0 unfinished)
-    Ignored 17 untranslated source text(s)
+    Generated 391 translation(s) (386 finished and 5 unfinished)
+    Ignored 3 untranslated source text(s)
 Updating '/build/gazelle-installer-23.7.13mx23/translations/gazelle-installer_en_GB.qm'...
     Generated 0 translation(s) (0 finished and 0 unfinished)
-    Ignored 395 untranslated source text(s)
+    Ignored 394 untranslated source text(s)
 Updating '/build/gazelle-installer-23.7.13mx23/translations/gazelle-installer_en_US.qm'...
     Generated 0 translation(s) (0 finished and 0 unfinished)
-    Ignored 395 untranslated source text(s)
+    Ignored 394 untranslated source text(s)
 Updating '/build/gazelle-installer-23.7.13mx23/translations/gazelle-installer_eo.qm'...
     Generated 0 translation(s) (0 finished and 0 unfinished)
-    Ignored 395 untranslated source text(s)
+    Ignored 394 untranslated source text(s)
 Updating '/build/gazelle-installer-23.7.13mx23/translations/gazelle-installer_es_ES.qm'...
-    Generated 395 translation(s) (395 finished and 0 unfinished)
+    Generated 391 translation(s) (386 finished and 5 unfinished)
+    Ignored 3 untranslated source text(s)
 Updating '/build/gazelle-installer-23.7.13mx23/translations/gazelle-installer_es.qm'...
-    Generated 395 translation(s) (395 finished and 0 unfinished)
+    Generated 391 translation(s) (386 finished and 5 unfinished)
+    Ignored 3 untranslated source text(s)
 Updating '/build/gazelle-installer-23.7.13mx23/translations/gazelle-installer_et.qm'...
     Generated 5 translation(s) (5 finished and 0 unfinished)
-    Ignored 390 untranslated source text(s)
+    Ignored 389 untranslated source text(s)
 Updating '/build/gazelle-installer-23.7.13mx23/translations/gazelle-installer_eu.qm'...
     Generated 4 translation(s) (4 finished and 0 unfinished)
-    Ignored 391 untranslated source text(s)
+    Ignored 390 untranslated source text(s)
 Updating '/build/gazelle-installer-23.7.13mx23/translations/gazelle-installer_fa.qm'...
     Generated 9 translation(s) (9 finished and 0 unfinished)
-    Ignored 386 untranslated source text(s)
+    Ignored 385 untranslated source text(s)
 Updating '/build/gazelle-installer-23.7.13mx23/translations/gazelle-installer_fil_PH.qm'...
-    Generated 81 translation(s) (81 finished and 0 unfinished)
+    Generated 80 translation(s) (79 finished and 1 unfinished)
     Ignored 314 untranslated source text(s)
 Updating '/build/gazelle-installer-23.7.13mx23/translations/gazelle-installer_fil.qm'...
     Generated 0 translation(s) (0 finished and 0 unfinished)
-    Ignored 395 untranslated source text(s)
+    Ignored 394 untranslated source text(s)
 Updating '/build/gazelle-installer-23.7.13mx23/translations/gazelle-installer_fi.qm'...
-    Generated 250 translation(s) (250 finished and 0 unfinished)
-    Ignored 145 untranslated source text(s)
+    Generated 247 translation(s) (244 finished and 3 unfinished)
+    Ignored 147 untranslated source text(s)
 Updating '/build/gazelle-installer-23.7.13mx23/translations/gazelle-installer_fr_BE.qm'...
-    Generated 395 translation(s) (395 finished and 0 unfinished)
+    Generated 391 translation(s) (386 finished and 5 unfinished)
+    Ignored 3 untranslated source text(s)
 Updating '/build/gazelle-installer-23.7.13mx23/translations/gazelle-installer_fr.qm'...
-    Generated 395 translation(s) (395 finished and 0 unfinished)
+    Generated 391 translation(s) (386 finished and 5 unfinished)
+    Ignored 3 untranslated source text(s)
 Updating '/build/gazelle-installer-23.7.13mx23/translations/gazelle-installer_fy.qm'...
     Generated 0 translation(s) (0 finished and 0 unfinished)
-    Ignored 395 untranslated source text(s)
+    Ignored 394 untranslated source text(s)
 Updating '/build/gazelle-installer-23.7.13mx23/translations/gazelle-installer_ga.qm'...
     Generated 0 translation(s) (0 finished and 0 unfinished)
-    Ignored 395 untranslated source text(s)
+    Ignored 394 untranslated source text(s)
 Updating '/build/gazelle-installer-23.7.13mx23/translations/gazelle-installer_gd.qm'...
     Generated 0 translation(s) (0 finished and 0 unfinished)
-    Ignored 395 untranslated source text(s)
+    Ignored 394 untranslated source text(s)
 Updating '/build/gazelle-installer-23.7.13mx23/translations/gazelle-installer_gl_ES.qm'...
-    Generated 311 translation(s) (311 finished and 0 unfinished)
-    Ignored 84 untranslated source text(s)
+    Generated 307 translation(s) (303 finished and 4 unfinished)
+    Ignored 87 untranslated source text(s)
 Updating '/build/gazelle-installer-23.7.13mx23/translations/gazelle-installer_gl.qm'...
     Generated 1 translation(s) (1 finished and 0 unfinished)
-    Ignored 394 untranslated source text(s)
+    Ignored 393 untranslated source text(s)
 Updating '/build/gazelle-installer-23.7.13mx23/translations/gazelle-installer_gu.qm'...
     Generated 5 translation(s) (5 finished and 0 unfinished)
-    Ignored 390 untranslated source text(s)
+    Ignored 389 untranslated source text(s)
 Updating '/build/gazelle-installer-23.7.13mx23/translations/gazelle-installer_ha.qm'...
     Generated 0 translation(s) (0 finished and 0 unfinished)
-    Ignored 395 untranslated source text(s)
+    Ignored 394 untranslated source text(s)
 Updating '/build/gazelle-installer-23.7.13mx23/translations/gazelle-installer_haw.qm'...
     Generated 0 translation(s) (0 finished and 0 unfinished)
-    Ignored 395 untranslated source text(s)
+    Ignored 394 untranslated source text(s)
 Updating '/build/gazelle-installer-23.7.13mx23/translations/gazelle-installer_he_IL.qm'...
-    Generated 163 translation(s) (163 finished and 0 unfinished)
-    Ignored 232 untranslated source text(s)
+    Generated 159 translation(s) (154 finished and 5 unfinished)
+    Ignored 235 untranslated source text(s)
 Updating '/build/gazelle-installer-23.7.13mx23/translations/gazelle-installer_he.qm'...
     Generated 1 translation(s) (1 finished and 0 unfinished)
-    Ignored 394 untranslated source text(s)
+    Ignored 393 untranslated source text(s)
 Updating '/build/gazelle-installer-23.7.13mx23/translations/gazelle-installer_hi.qm'...
-    Generated 240 translation(s) (240 finished and 0 unfinished)
-    Ignored 155 untranslated source text(s)
+    Generated 238 translation(s) (237 finished and 1 unfinished)
+    Ignored 156 untranslated source text(s)
 Updating '/build/gazelle-installer-23.7.13mx23/translations/gazelle-installer_hr.qm'...
-    Generated 41 translation(s) (41 finished and 0 unfinished)
+    Generated 40 translation(s) (39 finished and 1 unfinished)
     Ignored 354 untranslated source text(s)
 Updating '/build/gazelle-installer-23.7.13mx23/translations/gazelle-installer_ht.qm'...
     Generated 0 translation(s) (0 finished and 0 unfinished)
-    Ignored 395 untranslated source text(s)
+    Ignored 394 untranslated source text(s)
 Updating '/build/gazelle-installer-23.7.13mx23/translations/gazelle-installer_hu.qm'...
-    Generated 323 translation(s) (323 finished and 0 unfinished)
-    Ignored 72 untranslated source text(s)
+    Generated 391 translation(s) (386 finished and 5 unfinished)
+    Ignored 3 untranslated source text(s)
 Updating '/build/gazelle-installer-23.7.13mx23/translations/gazelle-installer_hy.qm'...
     Generated 0 translation(s) (0 finished and 0 unfinished)
-    Ignored 395 untranslated source text(s)
+    Ignored 394 untranslated source text(s)
 Updating '/build/gazelle-installer-23.7.13mx23/translations/gazelle-installer_id.qm'...
     Generated 10 translation(s) (10 finished and 0 unfinished)
-    Ignored 385 untranslated source text(s)
+    Ignored 384 untranslated source text(s)
 Updating '/build/gazelle-installer-23.7.13mx23/translations/gazelle-installer_is.qm'...
     Generated 10 translation(s) (10 finished and 0 unfinished)
-    Ignored 385 untranslated source text(s)
+    Ignored 384 untranslated source text(s)
 Updating '/build/gazelle-installer-23.7.13mx23/translations/gazelle-installer_it.qm'...
-    Generated 395 translation(s) (395 finished and 0 unfinished)
+    Generated 391 translation(s) (386 finished and 5 unfinished)
+    Ignored 3 untranslated source text(s)
 Updating '/build/gazelle-installer-23.7.13mx23/translations/gazelle-installer_ja.qm'...
-    Generated 395 translation(s) (395 finished and 0 unfinished)
+    Generated 391 translation(s) (386 finished and 5 unfinished)
+    Ignored 3 untranslated source text(s)
 Updating '/build/gazelle-installer-23.7.13mx23/translations/gazelle-installer_jv.qm'...
     Generated 0 translation(s) (0 finished and 0 unfinished)
-    Ignored 395 untranslated source text(s)
+    Ignored 394 untranslated source text(s)
 Updating '/build/gazelle-installer-23.7.13mx23/translations/gazelle-installer_ka.qm'...
     Generated 0 translation(s) (0 finished and 0 unfinished)
-    Ignored 395 untranslated source text(s)
+    Ignored 394 untranslated source text(s)
 Updating '/build/gazelle-installer-23.7.13mx23/translations/gazelle-installer_kk.qm'...
     Generated 14 translation(s) (14 finished and 0 unfinished)
-    Ignored 381 untranslated source text(s)
+    Ignored 380 untranslated source text(s)
 Updating '/build/gazelle-installer-23.7.13mx23/translations/gazelle-installer_km.qm'...
     Generated 0 translation(s) (0 finished and 0 unfinished)
-    Ignored 395 untranslated source text(s)
+    Ignored 394 untranslated source text(s)
 Updating '/build/gazelle-installer-23.7.13mx23/translations/gazelle-installer_kn.qm'...
     Generated 0 translation(s) (0 finished and 0 unfinished)
-    Ignored 395 untranslated source text(s)
+    Ignored 394 untranslated source text(s)
 Updating '/build/gazelle-installer-23.7.13mx23/translations/gazelle-installer_ko.qm'...
     Generated 7 translation(s) (7 finished and 0 unfinished)
-    Ignored 388 untranslated source text(s)
+    Ignored 387 untranslated source text(s)
 Updating '/build/gazelle-installer-23.7.13mx23/translations/gazelle-installer_ku.qm'...
     Generated 0 translation(s) (0 finished and 0 unfinished)
-    Ignored 395 untranslated source text(s)
+    Ignored 394 untranslated source text(s)
 Updating '/build/gazelle-installer-23.7.13mx23/translations/gazelle-installer_ky.qm'...
     Generated 0 translation(s) (0 finished and 0 unfinished)
-    Ignored 395 untranslated source text(s)
+    Ignored 394 untranslated source text(s)
 Updating '/build/gazelle-installer-23.7.13mx23/translations/gazelle-installer_lb.qm'...
     Generated 0 translation(s) (0 finished and 0 unfinished)
-    Ignored 395 untranslated source text(s)
+    Ignored 394 untranslated source text(s)
 Updating '/build/gazelle-installer-23.7.13mx23/translations/gazelle-installer_lo.qm'...
     Generated 0 translation(s) (0 finished and 0 unfinished)
-    Ignored 395 untranslated source text(s)
+    Ignored 394 untranslated source text(s)
 Updating '/build/gazelle-installer-23.7.13mx23/translations/gazelle-installer_lt.qm'...
-    Generated 128 translation(s) (128 finished and 0 unfinished)
-    Ignored 267 untranslated source text(s)
+    Generated 126 translation(s) (121 finished and 5 unfinished)
+    Ignored 268 untranslated source text(s)
 Updating '/build/gazelle-installer-23.7.13mx23/translations/gazelle-installer_lv.qm'...
     Generated 0 translation(s) (0 finished and 0 unfinished)
-    Ignored 395 untranslated source text(s)
+    Ignored 394 untranslated source text(s)
 Updating '/build/gazelle-installer-23.7.13mx23/translations/gazelle-installer_mg.qm'...
     Generated 0 translation(s) (0 finished and 0 unfinished)
-    Ignored 395 untranslated source text(s)
+    Ignored 394 untranslated source text(s)
 Updating '/build/gazelle-installer-23.7.13mx23/translations/gazelle-installer_mi.qm'...
     Generated 0 translation(s) (0 finished and 0 unfinished)
-    Ignored 395 untranslated source text(s)
+    Ignored 394 untranslated source text(s)
 Updating '/build/gazelle-installer-23.7.13mx23/translations/gazelle-installer_mk.qm'...
     Generated 6 translation(s) (6 finished and 0 unfinished)
-    Ignored 389 untranslated source text(s)
+    Ignored 388 untranslated source text(s)
 Updating '/build/gazelle-installer-23.7.13mx23/translations/gazelle-installer_ml.qm'...
     Generated 0 translation(s) (0 finished and 0 unfinished)
-    Ignored 395 untranslated source text(s)
+    Ignored 394 untranslated source text(s)
 Updating '/build/gazelle-installer-23.7.13mx23/translations/gazelle-installer_mn.qm'...
     Generated 0 translation(s) (0 finished and 0 unfinished)
-    Ignored 395 untranslated source text(s)
+    Ignored 394 untranslated source text(s)
 Updating '/build/gazelle-installer-23.7.13mx23/translations/gazelle-installer_mr.qm'...
     Generated 7 translation(s) (7 finished and 0 unfinished)
-    Ignored 388 untranslated source text(s)
+    Ignored 387 untranslated source text(s)
 Updating '/build/gazelle-installer-23.7.13mx23/translations/gazelle-installer_ms.qm'...
     Generated 1 translation(s) (1 finished and 0 unfinished)
-    Ignored 394 untranslated source text(s)
+    Ignored 393 untranslated source text(s)
 Updating '/build/gazelle-installer-23.7.13mx23/translations/gazelle-installer_mt.qm'...
     Generated 0 translation(s) (0 finished and 0 unfinished)
-    Ignored 395 untranslated source text(s)
+    Ignored 394 untranslated source text(s)
 Updating '/build/gazelle-installer-23.7.13mx23/translations/gazelle-installer_my.qm'...
     Generated 0 translation(s) (0 finished and 0 unfinished)
-    Ignored 395 untranslated source text(s)
+    Ignored 394 untranslated source text(s)
 Updating '/build/gazelle-installer-23.7.13mx23/translations/gazelle-installer_nb_NO.qm'...
     Generated 9 translation(s) (9 finished and 0 unfinished)
-    Ignored 386 untranslated source text(s)
+    Ignored 385 untranslated source text(s)
 Updating '/build/gazelle-installer-23.7.13mx23/translations/gazelle-installer_nb.qm'...
-    Generated 378 translation(s) (378 finished and 0 unfinished)
-    Ignored 17 untranslated source text(s)
+    Generated 391 translation(s) (386 finished and 5 unfinished)
+    Ignored 3 untranslated source text(s)
 Updating '/build/gazelle-installer-23.7.13mx23/translations/gazelle-installer_ne.qm'...
     Generated 0 translation(s) (0 finished and 0 unfinished)
-    Ignored 395 untranslated source text(s)
+    Ignored 394 untranslated source text(s)
 Updating '/build/gazelle-installer-23.7.13mx23/translations/gazelle-installer_nl_BE.qm'...
     Generated 29 translation(s) (29 finished and 0 unfinished)
-    Ignored 366 untranslated source text(s)
+    Ignored 365 untranslated source text(s)
 Updating '/build/gazelle-installer-23.7.13mx23/translations/gazelle-installer_nl.qm'...
-    Generated 395 translation(s) (395 finished and 0 unfinished)
+    Generated 391 translation(s) (386 finished and 5 unfinished)
+    Ignored 3 untranslated source text(s)
 Updating '/build/gazelle-installer-23.7.13mx23/translations/gazelle-installer_ny.qm'...
     Generated 0 translation(s) (0 finished and 0 unfinished)
-    Ignored 395 untranslated source text(s)
+    Ignored 394 untranslated source text(s)
 Updating '/build/gazelle-installer-23.7.13mx23/translations/gazelle-installer_or.qm'...
     Generated 0 translation(s) (0 finished and 0 unfinished)
-    Ignored 395 untranslated source text(s)
+    Ignored 394 untranslated source text(s)
 Updating '/build/gazelle-installer-23.7.13mx23/translations/gazelle-installer_pa.qm'...
     Generated 0 translation(s) (0 finished and 0 unfinished)
-    Ignored 395 untranslated source text(s)
+    Ignored 394 untranslated source text(s)
 Updating '/build/gazelle-installer-23.7.13mx23/translations/gazelle-installer_pl.qm'...
-    Generated 336 translation(s) (336 finished and 0 unfinished)
-    Ignored 59 untranslated source text(s)
+    Generated 391 translation(s) (386 finished and 5 unfinished)
+    Ignored 3 untranslated source text(s)
 Updating '/build/gazelle-installer-23.7.13mx23/translations/gazelle-installer_ps.qm'...
     Generated 0 translation(s) (0 finished and 0 unfinished)
-    Ignored 395 untranslated source text(s)
+    Ignored 394 untranslated source text(s)
 Updating '/build/gazelle-installer-23.7.13mx23/translations/gazelle-installer_pt_BR.qm'...
-    Generated 395 translation(s) (395 finished and 0 unfinished)
+    Generated 391 translation(s) (386 finished and 5 unfinished)
+    Ignored 3 untranslated source text(s)
 Updating '/build/gazelle-installer-23.7.13mx23/translations/gazelle-installer_pt.qm'...
-    Generated 395 translation(s) (395 finished and 0 unfinished)
+    Generated 391 translation(s) (386 finished and 5 unfinished)
+    Ignored 3 untranslated source text(s)
 Updating '/build/gazelle-installer-23.7.13mx23/translations/gazelle-installer_ro.qm'...
-    Generated 323 translation(s) (323 finished and 0 unfinished)
-    Ignored 72 untranslated source text(s)
+    Generated 319 translation(s) (314 finished and 5 unfinished)
+    Ignored 75 untranslated source text(s)
 Updating '/build/gazelle-installer-23.7.13mx23/translations/gazelle-installer_rue.qm'...
     Generated 2 translation(s) (2 finished and 0 unfinished)
     Ignored 393 untranslated source text(s)
 Updating '/build/gazelle-installer-23.7.13mx23/translations/gazelle-installer_ru.qm'...
-    Generated 344 translation(s) (344 finished and 0 unfinished)
-    Ignored 51 untranslated source text(s)
+    Generated 340 translation(s) (335 finished and 5 unfinished)
+    Ignored 54 untranslated source text(s)
 Updating '/build/gazelle-installer-23.7.13mx23/translations/gazelle-installer_rw.qm'...
     Generated 0 translation(s) (0 finished and 0 unfinished)
-    Ignored 395 untranslated source text(s)
+    Ignored 394 untranslated source text(s)
 Updating '/build/gazelle-installer-23.7.13mx23/translations/gazelle-installer_sd.qm'...
     Generated 0 translation(s) (0 finished and 0 unfinished)
-    Ignored 395 untranslated source text(s)
+    Ignored 394 untranslated source text(s)
 Updating '/build/gazelle-installer-23.7.13mx23/translations/gazelle-installer_si.qm'...
     Generated 0 translation(s) (0 finished and 0 unfinished)
-    Ignored 395 untranslated source text(s)
+    Ignored 394 untranslated source text(s)
 Updating '/build/gazelle-installer-23.7.13mx23/translations/gazelle-installer_sk.qm'...
-    Generated 66 translation(s) (66 finished and 0 unfinished)
-    Ignored 329 untranslated source text(s)
+    Generated 64 translation(s) (64 finished and 0 unfinished)
+    Ignored 330 untranslated source text(s)
 Updating '/build/gazelle-installer-23.7.13mx23/translations/gazelle-installer_sl.qm'...
-    Generated 360 translation(s) (360 finished and 0 unfinished)
-    Ignored 35 untranslated source text(s)
+    Generated 356 translation(s) (351 finished and 5 unfinished)
+    Ignored 38 untranslated source text(s)
 Updating '/build/gazelle-installer-23.7.13mx23/translations/gazelle-installer_sm.qm'...
     Generated 0 translation(s) (0 finished and 0 unfinished)
-    Ignored 395 untranslated source text(s)
+    Ignored 394 untranslated source text(s)
 Updating '/build/gazelle-installer-23.7.13mx23/translations/gazelle-installer_sn.qm'...
     Generated 0 translation(s) (0 finished and 0 unfinished)
-    Ignored 395 untranslated source text(s)
+    Ignored 394 untranslated source text(s)
 Updating '/build/gazelle-installer-23.7.13mx23/translations/gazelle-installer_so.qm'...
     Generated 0 translation(s) (0 finished and 0 unfinished)
-    Ignored 395 untranslated source text(s)
+    Ignored 394 untranslated source text(s)
 Updating '/build/gazelle-installer-23.7.13mx23/translations/gazelle-installer_sq.qm'...
-    Generated 377 translation(s) (377 finished and 0 unfinished)
-    Ignored 18 untranslated source text(s)
+    Generated 390 translation(s) (385 finished and 5 unfinished)
+    Ignored 4 untranslated source text(s)
 Updating '/build/gazelle-installer-23.7.13mx23/translations/gazelle-installer_sr.qm'...
     Generated 6 translation(s) (6 finished and 0 unfinished)
-    Ignored 389 untranslated source text(s)
+    Ignored 388 untranslated source text(s)
 Updating '/build/gazelle-installer-23.7.13mx23/translations/gazelle-installer_st.qm'...
     Generated 0 translation(s) (0 finished and 0 unfinished)
-    Ignored 395 untranslated source text(s)
+    Ignored 394 untranslated source text(s)
 Updating '/build/gazelle-installer-23.7.13mx23/translations/gazelle-installer_su.qm'...
     Generated 0 translation(s) (0 finished and 0 unfinished)
-    Ignored 395 untranslated source text(s)
+    Ignored 394 untranslated source text(s)
 Updating '/build/gazelle-installer-23.7.13mx23/translations/gazelle-installer_sv.qm'...
-    Generated 395 translation(s) (395 finished and 0 unfinished)
+    Generated 391 translation(s) (386 finished and 5 unfinished)
+    Ignored 3 untranslated source text(s)
 Updating '/build/gazelle-installer-23.7.13mx23/translations/gazelle-installer_sw.qm'...
     Generated 0 translation(s) (0 finished and 0 unfinished)
-    Ignored 395 untranslated source text(s)
+    Ignored 394 untranslated source text(s)
 Updating '/build/gazelle-installer-23.7.13mx23/translations/gazelle-installer_ta.qm'...
     Generated 0 translation(s) (0 finished and 0 unfinished)
-    Ignored 395 untranslated source text(s)
+    Ignored 394 untranslated source text(s)
 Updating '/build/gazelle-installer-23.7.13mx23/translations/gazelle-installer_te.qm'...
     Generated 0 translation(s) (0 finished and 0 unfinished)
-    Ignored 395 untranslated source text(s)
+    Ignored 394 untranslated source text(s)
 Updating '/build/gazelle-installer-23.7.13mx23/translations/gazelle-installer_tg.qm'...
     Generated 0 translation(s) (0 finished and 0 unfinished)
-    Ignored 395 untranslated source text(s)
+    Ignored 394 untranslated source text(s)
 Updating '/build/gazelle-installer-23.7.13mx23/translations/gazelle-installer_th.qm'...
-    Generated 112 translation(s) (112 finished and 0 unfinished)
+    Generated 111 translation(s) (110 finished and 1 unfinished)
     Ignored 283 untranslated source text(s)
 Updating '/build/gazelle-installer-23.7.13mx23/translations/gazelle-installer_tk.qm'...
     Generated 0 translation(s) (0 finished and 0 unfinished)
-    Ignored 395 untranslated source text(s)
+    Ignored 394 untranslated source text(s)
 Updating '/build/gazelle-installer-23.7.13mx23/translations/gazelle-installer_tr.qm'...
-    Generated 323 translation(s) (323 finished and 0 unfinished)
-    Ignored 72 untranslated source text(s)
+    Generated 391 translation(s) (386 finished and 5 unfinished)
+    Ignored 3 untranslated source text(s)
 Updating '/build/gazelle-installer-23.7.13mx23/translations/gazelle-installer_tt.qm'...
     Generated 0 translation(s) (0 finished and 0 unfinished)
-    Ignored 395 untranslated source text(s)
+    Ignored 394 untranslated source text(s)
 Updating '/build/gazelle-installer-23.7.13mx23/translations/gazelle-installer_ug.qm'...
     Generated 0 translation(s) (0 finished and 0 unfinished)
-    Ignored 395 untranslated source text(s)
+    Ignored 394 untranslated source text(s)
 Updating '/build/gazelle-installer-23.7.13mx23/translations/gazelle-installer_uk.qm'...
-    Generated 322 translation(s) (322 finished and 0 unfinished)
-    Ignored 73 untranslated source text(s)
+    Generated 318 translation(s) (313 finished and 5 unfinished)
+    Ignored 76 untranslated source text(s)
 Updating '/build/gazelle-installer-23.7.13mx23/translations/gazelle-installer_ur.qm'...
     Generated 0 translation(s) (0 finished and 0 unfinished)
-    Ignored 395 untranslated source text(s)
+    Ignored 394 untranslated source text(s)
 Updating '/build/gazelle-installer-23.7.13mx23/translations/gazelle-installer_uz.qm'...
     Generated 0 translation(s) (0 finished and 0 unfinished)
-    Ignored 395 untranslated source text(s)
+    Ignored 394 untranslated source text(s)
 Updating '/build/gazelle-installer-23.7.13mx23/translations/gazelle-installer_vi.qm'...
-    Generated 16 translation(s) (16 finished and 0 unfinished)
-    Ignored 379 untranslated source text(s)
+    Generated 16 translation(s) (15 finished and 1 unfinished)
+    Ignored 378 untranslated source text(s)
 Updating '/build/gazelle-installer-23.7.13mx23/translations/gazelle-installer_xh.qm'...
     Generated 0 translation(s) (0 finished and 0 unfinished)
-    Ignored 395 untranslated source text(s)
+    Ignored 394 untranslated source text(s)
 Updating '/build/gazelle-installer-23.7.13mx23/translations/gazelle-installer_yi.qm'...
     Generated 0 translation(s) (0 finished and 0 unfinished)
-    Ignored 395 untranslated source text(s)
+    Ignored 394 untranslated source text(s)
 Updating '/build/gazelle-installer-23.7.13mx23/translations/gazelle-installer_yo.qm'...
     Generated 0 translation(s) (0 finished and 0 unfinished)
-    Ignored 395 untranslated source text(s)
+    Ignored 394 untranslated source text(s)
 Updating '/build/gazelle-installer-23.7.13mx23/translations/gazelle-installer_yue_CN.qm'...
     Generated 0 translation(s) (0 finished and 0 unfinished)
-    Ignored 395 untranslated source text(s)
+    Ignored 394 untranslated source text(s)
 Updating '/build/gazelle-installer-23.7.13mx23/translations/gazelle-installer_zh_CN.qm'...
-    Generated 34 translation(s) (34 finished and 0 unfinished)
-    Ignored 361 untranslated source text(s)
+    Generated 35 translation(s) (34 finished and 1 unfinished)
+    Ignored 359 untranslated source text(s)
 Updating '/build/gazelle-installer-23.7.13mx23/translations/gazelle-installer_zh_HK.qm'...
     Generated 5 translation(s) (5 finished and 0 unfinished)
-    Ignored 390 untranslated source text(s)
+    Ignored 389 untranslated source text(s)
 Updating '/build/gazelle-installer-23.7.13mx23/translations/gazelle-installer_zh_TW.qm'...
     Generated 29 translation(s) (29 finished and 0 unfinished)
-    Ignored 366 untranslated source text(s)
+    Ignored 365 untranslated source text(s)
 head -n1 debian/changelog | sed -e "s/.*(\([^(]*\)).*/#define VERSION \"\1\"/" > version.h
 dh_auto_build -- QMAKE=qmake-qt5 LRELEASE=lrelease-qt5 
 	make -j4 QMAKE=qmake-qt5 LRELEASE=lrelease-qt5
@@ -1342,6 +1354,6 @@ dpkg-genchanges: info: including full source code in upload
 [0mI: unmounting proc filesystem[0m
 [0mI: unmounting sys filesystem[0m
 [0mI: cleaning the build env [0m
-[0mI: removing directory /media/dataext/development/pbuilder/build/107406 and its subdirectories[0m
-[0mI: Current time: Sat Jul 22 16:29:25 EDT 2023[0m
-[0mI: pbuilder-time-stamp: 1690057765[0m
+[0mI: removing directory /media/dataext/development/pbuilder/build/41352 and its subdirectories[0m
+[0mI: Current time: Sun Jul 23 16:06:49 EDT 2023[0m
+[0mI: pbuilder-time-stamp: 1690142809[0m
