@@ -2,6 +2,7 @@ gazelle-installer (23.7.13mx23) mx; urgency=medium
 
   * update language processing
   * update translations
+  * additional information in virtual device tooltips
 
  -- Dolphin Oracle <dolphinoracle@gmail.com>  Sat, 22 Jul 2023 16:20:43 -0400
 
