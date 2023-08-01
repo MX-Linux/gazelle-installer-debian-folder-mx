@@ -1,3 +1,12 @@
+gazelle-installer (23.8mx23) mx; urgency=medium
+
+  * Release and Debug build configurations.
+  * Enable link-time optimisations.
+  * Installer can now be compiled for Qt 6.
+  * Fixed: MD5 checks not saved in minstall.log file.
+
+ -- Adrian <adrian@mxlinux.org>  Tue, 01 Aug 2023 19:36:45 -0400
+
 gazelle-installer (23.7.14mx23) mx; urgency=medium
 
   * Fixed: no resume UUID when the swap file is on a BTRFS subvolume.
