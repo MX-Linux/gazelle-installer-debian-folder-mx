@@ -1,0 +1,28 @@
+Format: 1.8
+Date: Tue, 01 Aug 2023 19:36:45 -0400
+Source: gazelle-installer
+Binary: mx-installer
+Architecture: i386
+Version: 23.8mx23
+Distribution: mx
+Urgency: medium
+Maintainer: dolphinoracle <dolphinoracle@gmail.com>
+Changed-By: Adrian <adrian@mxlinux.org>
+Description:
+ mx-installer - Customizable GUI installer for MX Linux and antiX Linux
+Changes:
+ gazelle-installer (23.8mx23) mx; urgency=medium
+ .
+   * Release and Debug build configurations.
+   * Enable link-time optimisations.
+   * Installer can now be compiled for Qt 6.
+   * Fixed: MD5 checks not saved in minstall.log file.
+Checksums-Sha1:
+ e304040e14d7d0ec1fa3dc52fe3d81737646d871 9771 gazelle-installer_23.8mx23_i386.buildinfo
+ 741b0542906fcc371f7f16bfbe0a520fa0b87eff 539384 mx-installer_23.8mx23_i386.deb
+Checksums-Sha256:
+ 131ae8ed068251f0f40265d29b20659e0acced9005ec4c15c803abaa9e3f444b 9771 gazelle-installer_23.8mx23_i386.buildinfo
+ 78b6a95feded576e53c2c61fb0cfb000616af0c0564eb89ce8932578533c6573 539384 mx-installer_23.8mx23_i386.deb
+Files:
+ 0db8c008435491ec086414e44a25a760 9771 system optional gazelle-installer_23.8mx23_i386.buildinfo
+ 9e3e3e139fd449e1a86049efe46ac82d 539384 system optional mx-installer_23.8mx23_i386.deb
