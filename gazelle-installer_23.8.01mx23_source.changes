@@ -1,0 +1,44 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+Format: 1.8
+Date: Sat, 05 Aug 2023 18:17:54 -0400
+Source: gazelle-installer
+Architecture: source
+Version: 23.8.01mx23
+Distribution: mx
+Urgency: medium
+Maintainer: dolphinoracle <dolphinoracle@gmail.com>
+Changed-By: Adrian <adrian@mxlinux.org>
+Changes:
+ gazelle-installer (23.8.01mx23) mx; urgency=medium
+ .
+   * Remove LUKS compatibility setting.
+   * Make "ESP" and "/boot/efi" distinguishable uses.
+   * Configuration files can now be created under pretend mode.
+   * Progress for pretend mode no longer determined by a timer.
+   * Fixed: cannot abort install with a bad SMART check.
+Checksums-Sha1:
+ 4099b5db0ff0e8e2b07f84c747c1d171c86b66af 1246 gazelle-installer_23.8.01mx23.dsc
+ 19931117204b7c0d37538880f482b84e70eaffef 402452 gazelle-installer_23.8.01mx23.tar.xz
+ 925d13c397996aebabc3df0e94ec8eaa571f8536 10671 gazelle-installer_23.8.01mx23_amd64.buildinfo
+Checksums-Sha256:
+ e708bd5b78f2243a13c6542d6ddbb9492e8adac0556d9dc32dbfcb8470329dce 1246 gazelle-installer_23.8.01mx23.dsc
+ 54419c87c5389f777d7dd2b04460eec10811ad1bf1951d86a4ebfc89e3ca8929 402452 gazelle-installer_23.8.01mx23.tar.xz
+ eb4a0145b6b86f895e54eb777eec181fb6598ecaf462d6b1b8af6ca484ab4f32 10671 gazelle-installer_23.8.01mx23_amd64.buildinfo
+Files:
+ ddad3d458be846e5f9c7624ca21a989c 1246 system optional gazelle-installer_23.8.01mx23.dsc
+ 346e7fade621aca12d179d8f2d477771 402452 system optional gazelle-installer_23.8.01mx23.tar.xz
+ e63a8e75e91040c7a65c6c3a4479b8ea 10671 system optional gazelle-installer_23.8.01mx23_amd64.buildinfo
+
+-----BEGIN PGP SIGNATURE-----
+
+iQFHBAEBCgAxFiEE8ndToY6S45N+YzXncJOMeAZ57pgFAmTOyzkTHGFkcmlhbkBt
+eGxpbnV4Lm9yZwAKCRBwk4x4BnnumHv6B/0WJqTk8SrOs1NtOKK+dwqSaZyGaeLF
+qLqWQjDrVeIH/J4AYdSXG134hQ9HN75C0Kww2fnyhyamy0eaNpr+wFwM/uQAcd2m
+NK5W5x9kovK0+dLaK8xrbk9SlAmB1H+RoA7K52XEdASu2U2nqvtBR8K6iDmDB621
+lIwOy1CL7AMcWa5WqqNnp5vqsvEZFRfibSLy3q9kPFMoCcMvj+XvG2373Eng6/zm
+kM6blgVT+7XdrpttaGZGJ4mscKccw8js/TIWr79MUDxpWq116MSfr0c3p8L6oXJf
+bNsiPW7l19uNr4eVQJFQ93eh595eIpxTdsYmCZc+tFoK2+dprdWGv8rz
+=TR2C
+-----END PGP SIGNATURE-----
