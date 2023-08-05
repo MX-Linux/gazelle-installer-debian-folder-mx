@@ -1,3 +1,13 @@
+gazelle-installer (23.8.01mx23) mx; urgency=medium
+
+  * Remove LUKS compatibility setting.
+  * Make "ESP" and "/boot/efi" distinguishable uses.
+  * Configuration files can now be created under pretend mode.
+  * Progress for pretend mode no longer determined by a timer.
+  * Fixed: cannot abort install with a bad SMART check. 
+
+ -- Adrian <adrian@mxlinux.org>  Sat, 05 Aug 2023 18:17:54 -0400
+
 gazelle-installer (23.8mx23) mx; urgency=medium
 
   * Release and Debug build configurations.
