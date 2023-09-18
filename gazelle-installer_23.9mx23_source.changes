@@ -1,0 +1,40 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+Format: 1.8
+Date: Sun, 17 Sep 2023 21:25:07 -0400
+Source: gazelle-installer
+Architecture: source
+Version: 23.9mx23
+Distribution: mx
+Urgency: medium
+Maintainer: dolphinoracle <dolphinoracle@gmail.com>
+Changed-By: Adrian <adrian@mxlinux.org>
+Changes:
+ gazelle-installer (23.9mx23) mx; urgency=medium
+ .
+   * Make 6 column fstab entry for swap
+Checksums-Sha1:
+ ba0dde31d16ad6c2d45e1f494033c1ae5b448af2 1234 gazelle-installer_23.9mx23.dsc
+ b6661fad1b6a10e3fff13240f1db13339bbe87d3 402840 gazelle-installer_23.9mx23.tar.xz
+ 64ddc0c0d6f0fd8486b6d119560acb940cde8d3e 10498 gazelle-installer_23.9mx23_amd64.buildinfo
+Checksums-Sha256:
+ a2b865c273ee3720762d89aebe8257419c2e70666ef0ba504804f220239bb2a2 1234 gazelle-installer_23.9mx23.dsc
+ 7a66478fd2f8329c0a2e28373624f8dab27b2c1092366dcfec634389a1b0688e 402840 gazelle-installer_23.9mx23.tar.xz
+ a91a7f127acebc3a695f890e32ae18add46ef45e6126e0855b2f0216d98bdaaa 10498 gazelle-installer_23.9mx23_amd64.buildinfo
+Files:
+ f3e98c90fecd00657ef34385ef86777c 1234 system optional gazelle-installer_23.9mx23.dsc
+ 37f532561fa40bbccfffb25c60258e65 402840 system optional gazelle-installer_23.9mx23.tar.xz
+ 6cfe6e4c7104e396335455e2fa01a1ae 10498 system optional gazelle-installer_23.9mx23_amd64.buildinfo
+
+-----BEGIN PGP SIGNATURE-----
+
+iQFHBAEBCgAxFiEE8ndToY6S45N+YzXncJOMeAZ57pgFAmUHp3ATHGFkcmlhbkBt
+eGxpbnV4Lm9yZwAKCRBwk4x4BnnumCPxCADFrQQEoPpTxrWHS1AdO7s5G6Jnm9if
+PSJW0Katgi8YVCrFHi+GFwKd4uFTj/NQayRAlE4dHiUlAADgHqmyd/t3mbrzYuiC
++JBBkH+g2bCW5JtLvXeYrISLKgTIPRgDI5x7VefTdyAVuJqWwZXGPpjfWTJrCXEQ
+29anIK7KIDNmy2C+BvMB7d7SmvcgTCkE5Sbm3OZIO4eJ0KgpLS73eamTpqNHxTG7
+f/ZfTzC5FrIr5aT26NFhb8msW9EYIagRt/R46ke+eXcfei2JKZ6dJ12MxVpCHe13
+9Y6y9D51AZOJs9lLS52AUrzVmCub1jJTt8huBLXrMIUc85OXQ5qSLWPQ
+=UaiA
+-----END PGP SIGNATURE-----

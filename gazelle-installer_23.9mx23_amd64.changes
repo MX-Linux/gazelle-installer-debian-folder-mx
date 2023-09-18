@@ -1,0 +1,46 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+Format: 1.8
+Date: Sun, 17 Sep 2023 21:25:07 -0400
+Source: gazelle-installer
+Binary: mx-installer
+Architecture: source amd64
+Version: 23.9mx23
+Distribution: mx
+Urgency: medium
+Maintainer: dolphinoracle <dolphinoracle@gmail.com>
+Changed-By: Adrian <adrian@mxlinux.org>
+Description:
+ mx-installer - Customizable GUI installer for MX Linux and antiX Linux
+Changes:
+ gazelle-installer (23.9mx23) mx; urgency=medium
+ .
+   * Make 6 column fstab entry for swap
+Checksums-Sha1:
+ ba0dde31d16ad6c2d45e1f494033c1ae5b448af2 1234 gazelle-installer_23.9mx23.dsc
+ b6661fad1b6a10e3fff13240f1db13339bbe87d3 402840 gazelle-installer_23.9mx23.tar.xz
+ 64ddc0c0d6f0fd8486b6d119560acb940cde8d3e 10498 gazelle-installer_23.9mx23_amd64.buildinfo
+ 3d5728cf7a6cdc8d864d691b203211b949cd1b03 517824 mx-installer_23.9mx23_amd64.deb
+Checksums-Sha256:
+ a2b865c273ee3720762d89aebe8257419c2e70666ef0ba504804f220239bb2a2 1234 gazelle-installer_23.9mx23.dsc
+ 7a66478fd2f8329c0a2e28373624f8dab27b2c1092366dcfec634389a1b0688e 402840 gazelle-installer_23.9mx23.tar.xz
+ a91a7f127acebc3a695f890e32ae18add46ef45e6126e0855b2f0216d98bdaaa 10498 gazelle-installer_23.9mx23_amd64.buildinfo
+ ab22653289e17b9df643f8c37393f2f9943a301cb286898302c39ca5cec8a017 517824 mx-installer_23.9mx23_amd64.deb
+Files:
+ f3e98c90fecd00657ef34385ef86777c 1234 system optional gazelle-installer_23.9mx23.dsc
+ 37f532561fa40bbccfffb25c60258e65 402840 system optional gazelle-installer_23.9mx23.tar.xz
+ 6cfe6e4c7104e396335455e2fa01a1ae 10498 system optional gazelle-installer_23.9mx23_amd64.buildinfo
+ 367e060de16ba0e15395f7a225db55bd 517824 system optional mx-installer_23.9mx23_amd64.deb
+
+-----BEGIN PGP SIGNATURE-----
+
+iQFHBAEBCgAxFiEE8ndToY6S45N+YzXncJOMeAZ57pgFAmUHp3ATHGFkcmlhbkBt
+eGxpbnV4Lm9yZwAKCRBwk4x4BnnumCXeB/45cceNvL/ls7CFJ9Q+Rq/+8h/l+wzm
+Ow+7XMfFDO9U4n99LdekiylNQreGUtP22NBB5DTTGPAIlEF9Eem9e5rJaHs8U61C
+iQpkWm/KzpESYzNtZp0aaxQxcS9GpqTI+2H5ymUtNRROnpT1v+E1jvl1vVpOkA/z
+tGXZwtHKaUDLV+A6lVhUGOKmftdaDOmyWDWLzaA1Hs8Oafy9dkNctUuvlhDjJOUP
+ufxiPX15ZAAmBbQK1bkzr++I6lfl6tv93RPozledHSwhwRHXU9mFvOr6JlSpb2Uy
+ufxZ34Fz86I1HDxniRL0+hOmX+amYPCC5rbp1sp38OdglvPL3JtWHlEF
+=7B7N
+-----END PGP SIGNATURE-----
