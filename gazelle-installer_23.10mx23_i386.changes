@@ -1,0 +1,25 @@
+Format: 1.8
+Date: Fri, 06 Oct 2023 17:50:35 -0400
+Source: gazelle-installer
+Binary: mx-installer
+Architecture: i386
+Version: 23.10mx23
+Distribution: mx
+Urgency: medium
+Maintainer: dolphinoracle <dolphinoracle@gmail.com>
+Changed-By: Adrian <adrian@mxlinux.org>
+Description:
+ mx-installer - Customizable GUI installer for MX Linux and antiX Linux
+Changes:
+ gazelle-installer (23.10mx23) mx; urgency=medium
+ .
+   * Fix: enable services in oobe
+Checksums-Sha1:
+ ec3534b1168a05035c7bc6f2957ff12be8cf0ddd 9626 gazelle-installer_23.10mx23_i386.buildinfo
+ ceadc99944b577d4ccfbeb0fbc3d287168b6c6c2 535836 mx-installer_23.10mx23_i386.deb
+Checksums-Sha256:
+ 6e2f8d919aed9cc40883e0b513b7ad5dc6c6baac94dc896ac3f104e0d4472909 9626 gazelle-installer_23.10mx23_i386.buildinfo
+ f6d09feed1acb9de45ddb94f9aa1a07fad0b01df55deef837a1df7b5eadc1a78 535836 mx-installer_23.10mx23_i386.deb
+Files:
+ b22d697f7b91da5f1769fd33ef75964b 9626 system optional gazelle-installer_23.10mx23_i386.buildinfo
+ 4f940795e28dcc23e2b4ca2262c4c3a3 535836 system optional mx-installer_23.10mx23_i386.deb
