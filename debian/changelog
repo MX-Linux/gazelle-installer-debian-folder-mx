@@ -1,3 +1,9 @@
+gazelle-installer (23.10mx23) mx; urgency=medium
+
+  * Fix: enable services in oobe
+
+ -- Adrian <adrian@mxlinux.org>  Fri, 06 Oct 2023 17:50:35 -0400
+
 gazelle-installer (23.9mx23) mx; urgency=medium
 
   * Make 6 column fstab entry for swap
