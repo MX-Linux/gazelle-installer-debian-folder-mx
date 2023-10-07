@@ -15,11 +15,11 @@ Changes:
  .
    * Fix: enable services in oobe
 Checksums-Sha1:
- ec3534b1168a05035c7bc6f2957ff12be8cf0ddd 9626 gazelle-installer_23.10mx23_i386.buildinfo
- ceadc99944b577d4ccfbeb0fbc3d287168b6c6c2 535836 mx-installer_23.10mx23_i386.deb
+ df3901d8ca1a3273718ef170f98a6e2519e71160 9626 gazelle-installer_23.10mx23_i386.buildinfo
+ dd396e1d7cebca5bda51c8667d0c14d5d33c7b5d 533976 mx-installer_23.10mx23_i386.deb
 Checksums-Sha256:
- 6e2f8d919aed9cc40883e0b513b7ad5dc6c6baac94dc896ac3f104e0d4472909 9626 gazelle-installer_23.10mx23_i386.buildinfo
- f6d09feed1acb9de45ddb94f9aa1a07fad0b01df55deef837a1df7b5eadc1a78 535836 mx-installer_23.10mx23_i386.deb
+ abd983762da0e358cd2fde74e12b190010d9dd1550534dbad7a0aca5e3d2c866 9626 gazelle-installer_23.10mx23_i386.buildinfo
+ e34f36173c699c905fe6926e2ef33e88b022f8816d62e7522584bf29fe9d1aac 533976 mx-installer_23.10mx23_i386.deb
 Files:
- b22d697f7b91da5f1769fd33ef75964b 9626 system optional gazelle-installer_23.10mx23_i386.buildinfo
- 4f940795e28dcc23e2b4ca2262c4c3a3 535836 system optional mx-installer_23.10mx23_i386.deb
+ 1ec3e27148794b9caeebd6ee99cfca81 9626 system optional gazelle-installer_23.10mx23_i386.buildinfo
+ 53772bd4947da820530a519fce081677 533976 system optional mx-installer_23.10mx23_i386.deb
