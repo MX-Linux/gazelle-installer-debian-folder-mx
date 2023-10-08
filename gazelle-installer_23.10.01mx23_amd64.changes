@@ -1,0 +1,46 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+Format: 1.8
+Date: Sun, 08 Oct 2023 14:38:08 -0400
+Source: gazelle-installer
+Binary: mx-installer
+Architecture: source amd64
+Version: 23.10.01mx23
+Distribution: mx
+Urgency: medium
+Maintainer: dolphinoracle <dolphinoracle@gmail.com>
+Changed-By: Adrian <adrian@mxlinux.org>
+Description:
+ mx-installer - Customizable GUI installer for MX Linux and antiX Linux
+Changes:
+ gazelle-installer (23.10.01mx23) mx; urgency=medium
+ .
+   * Use UUID for resume of the opened luks-partition and Remove leftover resume parameter from grub and kernel commandline
+Checksums-Sha1:
+ 950cb3079a90b0b55d7c5d19a71a98937e37f7e8 1250 gazelle-installer_23.10.01mx23.dsc
+ e6f08777617b2d6a799cb7e840cddfdc8f734482 402892 gazelle-installer_23.10.01mx23.tar.xz
+ 2bf30c5d3f18dd9917eda9b75385eb56c3929adf 10531 gazelle-installer_23.10.01mx23_amd64.buildinfo
+ dceadb2ede494dc2232e10154c243f6ac6353716 518416 mx-installer_23.10.01mx23_amd64.deb
+Checksums-Sha256:
+ e60be6c6b7d8640add6a885fce59b2ef25cfbec78ccad4703b3d893e4a124ae7 1250 gazelle-installer_23.10.01mx23.dsc
+ 79b524ab7212f3f56424fb9590652b046ebd698999fa9c2c842c44821e4b1bbe 402892 gazelle-installer_23.10.01mx23.tar.xz
+ a482e348420a0f9078e8a937be791345156338f5ed3955e00b54f15f87082600 10531 gazelle-installer_23.10.01mx23_amd64.buildinfo
+ df4d12fd69a543c87c1bb601ce3eb99e4728be4f5c03e4fbf8746e1119d0e7c5 518416 mx-installer_23.10.01mx23_amd64.deb
+Files:
+ 545050ee74b993102498496938f3a143 1250 system optional gazelle-installer_23.10.01mx23.dsc
+ 6eb332415e671e95a8f323c169f9f686 402892 system optional gazelle-installer_23.10.01mx23.tar.xz
+ d9cd60db4e63ffff852f73f4f0461e45 10531 system optional gazelle-installer_23.10.01mx23_amd64.buildinfo
+ bec4a71f0f7837747fed590c2ecc553d 518416 system optional mx-installer_23.10.01mx23_amd64.deb
+
+-----BEGIN PGP SIGNATURE-----
+
+iQFHBAEBCgAxFiEE8ndToY6S45N+YzXncJOMeAZ57pgFAmUi96gTHGFkcmlhbkBt
+eGxpbnV4Lm9yZwAKCRBwk4x4BnnumFMrB/96rwFZBJMUC/9X7jFJcWfOb0m8gNoB
+RLJGL4QJTnx4NQx2RXJYEqnRquEFSyCorGqc0B0Rlt5it2OpKr2P741eHoLRbO4x
+dbBm+vaEJdQCvmy5xXwKPzbkEuVOEQIJPFsa5LVkQeHdnsTDp9s1y+YI7AAl0lhd
+tOEpoGu1LM/IlwhSop3CIup9i90zDNyDA6S6QDboBHwc7rWLhN+J+Uvynctsazic
+xa1QzcIi8Pb0z0FC40psyu5zNWllthx2rLcaOG6A2PPjegvMWH2Y6fpqO8z60v5N
+tGFiAQ3WBvdqw2Cq+p/jjEBjKq12Qvw98q5ioRFUYmjK2iRKgzwViY1A
+=4t/t
+-----END PGP SIGNATURE-----
