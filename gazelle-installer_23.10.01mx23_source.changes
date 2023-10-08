@@ -1,0 +1,40 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+Format: 1.8
+Date: Sun, 08 Oct 2023 14:38:08 -0400
+Source: gazelle-installer
+Architecture: source
+Version: 23.10.01mx23
+Distribution: mx
+Urgency: medium
+Maintainer: dolphinoracle <dolphinoracle@gmail.com>
+Changed-By: Adrian <adrian@mxlinux.org>
+Changes:
+ gazelle-installer (23.10.01mx23) mx; urgency=medium
+ .
+   * Use UUID for resume of the opened luks-partition and Remove leftover resume parameter from grub and kernel commandline
+Checksums-Sha1:
+ 950cb3079a90b0b55d7c5d19a71a98937e37f7e8 1250 gazelle-installer_23.10.01mx23.dsc
+ e6f08777617b2d6a799cb7e840cddfdc8f734482 402892 gazelle-installer_23.10.01mx23.tar.xz
+ 2bf30c5d3f18dd9917eda9b75385eb56c3929adf 10531 gazelle-installer_23.10.01mx23_amd64.buildinfo
+Checksums-Sha256:
+ e60be6c6b7d8640add6a885fce59b2ef25cfbec78ccad4703b3d893e4a124ae7 1250 gazelle-installer_23.10.01mx23.dsc
+ 79b524ab7212f3f56424fb9590652b046ebd698999fa9c2c842c44821e4b1bbe 402892 gazelle-installer_23.10.01mx23.tar.xz
+ a482e348420a0f9078e8a937be791345156338f5ed3955e00b54f15f87082600 10531 gazelle-installer_23.10.01mx23_amd64.buildinfo
+Files:
+ 545050ee74b993102498496938f3a143 1250 system optional gazelle-installer_23.10.01mx23.dsc
+ 6eb332415e671e95a8f323c169f9f686 402892 system optional gazelle-installer_23.10.01mx23.tar.xz
+ d9cd60db4e63ffff852f73f4f0461e45 10531 system optional gazelle-installer_23.10.01mx23_amd64.buildinfo
+
+-----BEGIN PGP SIGNATURE-----
+
+iQFHBAEBCgAxFiEE8ndToY6S45N+YzXncJOMeAZ57pgFAmUi96gTHGFkcmlhbkBt
+eGxpbnV4Lm9yZwAKCRBwk4x4BnnumIfQB/0S9BInZdeHZ7x+Mpu+5COdHZCCvQ/R
+APAYCNJf6DCWDWtvOkK1FWqE4ipiQSM3mqgW3AfRApPSHo4Uq5nP1+2x+w9lznZC
++9YX0pC+LE6WASMsD6dAwjrqFCJr/aLzkMtX17tOWwyLXKFBnJc6ecLoBhLX7nPa
+YO65rTDhdNzHb1DBz+PY+FOEkUHUUi3EFFHae+iqbFWAW8BwvXcx+uPW5kQDY02/
+wObmSbR2CmZJjelwTHe+a9c1yfBXiBP39j1UlvUgy+tK8o0eRHR81ddjq/PAAB7q
+AAFpKbiPUXkyygqL8YXxe1pmb33qRiXG8gXS0+Qpz9IiaJYYvBhhHqge
+=f0BH
+-----END PGP SIGNATURE-----
