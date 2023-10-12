@@ -1,0 +1,25 @@
+Format: 1.8
+Date: Thu, 20 Jul 2023 16:23:29 -0400
+Source: mx-cleanup
+Binary: mx-cleanup
+Architecture: arm64
+Version: 23.7.01
+Distribution: mx
+Urgency: medium
+Maintainer: Adrian <adrian@mxlinux.org>
+Changed-By: Adrian <adrian@mxlinux.org>
+Description:
+ mx-cleanup - mx-cleanup
+Changes:
+ mx-cleanup (23.7.01) mx; urgency=medium
+ .
+   * Update translations
+Checksums-Sha1:
+ 437b271682943f4ac38a7b57b1fb849fb33acbd1 9586 mx-cleanup_23.7.01_arm64.buildinfo
+ deb29afcffc95d9e01a851cd4192e7311d777e1d 141900 mx-cleanup_23.7.01_arm64.deb
+Checksums-Sha256:
+ e978f85d7b01f63e0c1d1a57d24f0861e7b07af00f2115c26769cc5dfce4b5bb 9586 mx-cleanup_23.7.01_arm64.buildinfo
+ 3626be639b68c9194ed9af0fd5dd13df1aba3f49dfa6b4905af66431274d4c1b 141900 mx-cleanup_23.7.01_arm64.deb
+Files:
+ 93d1facce83078f4e8c9cea14443119d 9586 admin optional mx-cleanup_23.7.01_arm64.buildinfo
+ 4d3640f1ddfe74284908d59068f772c3 141900 admin optional mx-cleanup_23.7.01_arm64.deb

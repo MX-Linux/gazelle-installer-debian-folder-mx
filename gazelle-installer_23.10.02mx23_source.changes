@@ -1,0 +1,40 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+Format: 1.8
+Date: Thu, 12 Oct 2023 18:53:38 -0400
+Source: gazelle-installer
+Architecture: source
+Version: 23.10.02mx23
+Distribution: mx
+Urgency: medium
+Maintainer: dolphinoracle <dolphinoracle@gmail.com>
+Changed-By: Adrian <adrian@mxlinux.org>
+Changes:
+ gazelle-installer (23.10.02mx23) mx; urgency=medium
+ .
+   * Add backup code for writing correct UUID for Btrfs partitions
+Checksums-Sha1:
+ 9183a1a8f2f1a993f1e845fc28997b57906773a1 1250 gazelle-installer_23.10.02mx23.dsc
+ c5bfa12c62aa7bee0b476eff47dbc54a9d53dd60 403084 gazelle-installer_23.10.02mx23.tar.xz
+ 910a8eb462e9400ea4b5c7042b48ede078bc7c47 10610 gazelle-installer_23.10.02mx23_amd64.buildinfo
+Checksums-Sha256:
+ c93b9ff652e5a846a754fb88832119bc6e42937e8ded23acb124feda9f04bd7c 1250 gazelle-installer_23.10.02mx23.dsc
+ 561613f23b9331ed4c2a4586a2f48cc658a88e6697d8577e71aebb5800b985d0 403084 gazelle-installer_23.10.02mx23.tar.xz
+ 57aa86910c22a8314e20c34f4922c85428bb9b94267bd85e8ee11f5a368864d8 10610 gazelle-installer_23.10.02mx23_amd64.buildinfo
+Files:
+ 63b399b974053a10e7207691047b1647 1250 system optional gazelle-installer_23.10.02mx23.dsc
+ a583a18effba29b2f654503839ae7bf9 403084 system optional gazelle-installer_23.10.02mx23.tar.xz
+ 2918d796dcfbab9855b41667c4062721 10610 system optional gazelle-installer_23.10.02mx23_amd64.buildinfo
+
+-----BEGIN PGP SIGNATURE-----
+
+iQFHBAEBCgAxFiEE8ndToY6S45N+YzXncJOMeAZ57pgFAmUoeZUTHGFkcmlhbkBt
+eGxpbnV4Lm9yZwAKCRBwk4x4BnnumDhJB/9R5YHepRYBfKWnzFTfCguMX0+rT83D
+J08CMv8oWZbzTWwsgX1D0TVmjGLIn7SEAHdSxjzm0a4qkCFIeiKm6+wEoo38V1rN
+a5b54SGFR5cWnz2wHfkmSJ7/BmIdglLzWaS30+5O4tpLlAsXogSBvbqHouQmgzK6
+1xitrb2wLn6TT0324VKZiFvdXPEpzplAfmLRiL7IMqx/QWJ4zqqixmyhJa0Z9Wu1
+lkmlaOhLJq5MDo9jDB4MUIVdv5LcA3d10Zu3DKxKtzhx7mwq9AF5+8tZn+l2K5U+
+s85bMBlC+jbSHf8ZsBptnGqXGxKL3usl4zWNCS3GiTiwKfoBdLaS94ya
+=pX63
+-----END PGP SIGNATURE-----
