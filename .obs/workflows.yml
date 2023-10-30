@@ -2,7 +2,7 @@ workflow:
   steps:
     - rebuild_package:
         project: home:mx-packaging
-        package: %{SCM_REPOSITORY_NAME}
+        package: mx-installer 
   filters:
     event: push
     branches:
