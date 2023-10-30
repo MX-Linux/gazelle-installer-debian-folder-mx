@@ -1,18 +1,21 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
 Format: 1.0
 Source: gazelle-installer
 Binary: mx-installer
 Architecture: arm64
-Version: 23.10.03mx23
+Version: 23.10.04mx23
 Checksums-Md5:
- 10cdf1fcaf77d493b50b575a25cfe636 494100 mx-installer_23.10.03mx23_arm64.deb
+ e6211f0bffc52cefb4302387eecd17b2 494292 mx-installer_23.10.04mx23_arm64.deb
 Checksums-Sha1:
- 17577e55cc6c8f0f1851941e94496fe32f3118e2 494100 mx-installer_23.10.03mx23_arm64.deb
+ d559533efe3aa5268d1be9c92a00191a48eac924 494292 mx-installer_23.10.04mx23_arm64.deb
 Checksums-Sha256:
- 85304d96a8d130520288ab6e5062ef7e73cdbc28c636a69517b723c7546b3847 494100 mx-installer_23.10.03mx23_arm64.deb
+ db9e0cad78e84e14d8234d079dd60d5d64c185329150eae4a08ea09b0d094203 494292 mx-installer_23.10.04mx23_arm64.deb
 Build-Origin: Debian
 Build-Architecture: arm64
-Build-Date: Sat, 28 Oct 2023 18:59:10 +0000
-Build-Path: /build/gazelle-installer-23.10.03mx23
+Build-Date: Mon, 30 Oct 2023 22:15:05 +0000
+Build-Path: /build/gazelle-installer-23.10.04mx23
 Installed-Build-Depends:
  autoconf (= 2.71-3),
  automake (= 1:1.16.5-1.3),
@@ -338,4 +341,21 @@ Environment:
  DEB_BUILD_OPTIONS="parallel=4"
  LANG="C"
  LC_ALL="C"
- SOURCE_DATE_EPOCH="1698518758"
+ SOURCE_DATE_EPOCH="1698703503"
+
+-----BEGIN PGP SIGNATURE-----
+
+iQIzBAEBCgAdFiEE9i7eqjrnCpyZ2sQYm2ih6Lm2N1wFAmVALAIACgkQm2ih6Lm2
+N1wbahAA12SMn11Nbrt/3Nsc94JZdivGKOa9qWdbxPf6qudcDNK2skb/1CqCNEsb
+eYJoyryGYe4Wlm50rOnrvMEqaLMTy9Y+xWo4KYHy0DIV1jFw1YxhXo28yP1oTrtk
+xrRmfsxrfW/ESP8pSLCLKStxyTsZvqrp3iK6BmG2Bt8tOuXFSNbNsT6oCaJjOTIZ
+QbGMdyeNvU20MeDvXYX6+XbY5CcFsbdIUHuU8TqBOyjR7e3+OXzLzRaX+UcTng4I
+hFkjQTvOMTai/7+R3AZJzcwtWdbt0SaHHpX+boXjf2ncuPzNonhc6IqqbNyCzYUi
+T9s0yA95y+mQfSqJ/fOtwjC9ivI0TPiwAnvITH44VhFkPM+8OPuOB3ej+6zgJhPq
+tVjxr0Pg/7eWcO02QJrTWmB5MFDB6RLI2DomfCExAPari4lGx1IWwPrJxG9p0ghI
+8rGRlwzgG0Msxy6zhWYTuGZgD32zbVF6O9x+m/DtVKupDDIRoauGydj2Qhl0i0aC
+fE4LeXgA1EB34xISRDFn3zvOdEJcExz0zNWvX0tCm6x05vpRdKk9xr6C6Rn9rlyE
+Vg7wYsrN8LbuxU5Od2LvJ/1fI9jFQEOoHs4i/REKI3/kjhEeZ/664iJMK1bHUgCp
+2jnLMos1Yz5fGG9EpctHsOTCsJQsdIXSCZ9gzEXl7aPCHrOGa1k=
+=Irqs
+-----END PGP SIGNATURE-----
