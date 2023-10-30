@@ -1,8 +1,8 @@
 workflow:
   steps:
-    - rebuild_package:
+    - trigger_services:
         project: home:mx-packaging
-        package: mx-installer 
+        package: mx-installer
   filters:
     event: push
     branches:
