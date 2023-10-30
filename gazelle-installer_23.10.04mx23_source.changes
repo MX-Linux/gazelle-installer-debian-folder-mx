@@ -1,0 +1,45 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+Format: 1.8
+Date: Mon, 30 Oct 2023 18:05:03 -0400
+Source: gazelle-installer
+Architecture: source
+Version: 23.10.04mx23
+Distribution: mx
+Urgency: medium
+Maintainer: dolphinoracle <dolphinoracle@gmail.com>
+Changed-By: Dolphin Oracle <dolphinoracle@gmail.com>
+Changes:
+ gazelle-installer (23.10.04mx23) mx; urgency=medium
+ .
+   * fix fallback lsblk mode in makefstab
+Checksums-Sha1:
+ f6927e1873f41c6eed45cc0b8e9f953e5785fb4a 688 gazelle-installer_23.10.04mx23.dsc
+ dbfcd9d2551d356a7a1f9f82a0250eabea346a9d 404928 gazelle-installer_23.10.04mx23.tar.xz
+ 475741b975f589e0d59943ead2f2ca059eca28f4 10580 gazelle-installer_23.10.04mx23_amd64.buildinfo
+Checksums-Sha256:
+ 6c858909831c7a5b1767cd45e56475d6dee9f33248ec895c396f43a8bd9f3dbe 688 gazelle-installer_23.10.04mx23.dsc
+ 230320fcd0eab752f7699f327d3f7b175a3226e1704695efab3574678b2a82eb 404928 gazelle-installer_23.10.04mx23.tar.xz
+ 0a0dc4a69384be65e8587e7b46c8fea5bfacdd44968dbef814e32d8476a2796c 10580 gazelle-installer_23.10.04mx23_amd64.buildinfo
+Files:
+ 577e8dadaa653006b16142e9121f19aa 688 system optional gazelle-installer_23.10.04mx23.dsc
+ e4000837f61bbcc8e3f5202249523b97 404928 system optional gazelle-installer_23.10.04mx23.tar.xz
+ 79c3597552e574ea690f4c46a24d74d3 10580 system optional gazelle-installer_23.10.04mx23_amd64.buildinfo
+
+-----BEGIN PGP SIGNATURE-----
+
+iQIzBAEBCgAdFiEE9i7eqjrnCpyZ2sQYm2ih6Lm2N1wFAmVALAQACgkQm2ih6Lm2
+N1yDjxAAkB5P8psmYyxnimkQPJLavbSdcfidqNyXVYZMtPkD/KGr8GNVt9n3/oQo
+9sS13Y69e5tRkhKOnSGSWraB0EIB+dRn9RmyUJroaaCpvsx7vM7ZkewFTHuYF3zy
+9TjhCpnJJ4XEI9Vd9DokpXzvcPSEUGeHWxEfElLIYm1GWwiXbq5VCFtc87y+yKys
+sxjpRL3Q4rn3Aw3T3HOkc56Uiz9oka6z37kWe8wsnyyJdiEd9VZvJjFE+A1u+rWA
+s+tdP+QYXRLRxGzNxEMf28dmGvIGWHejeWbVrsL1ghhFvYKJokmFLvw7XcOA4BqB
+G4OqtU90Xp+HcilCtGVLtdhmnNFETtVWk/hdxMdNqmjoRE7S+H0zrwgreMwTI4nj
+WR47LV53xFnSWrcoz6NNpjduk477V2jfhjkKNt0YCquy1DyWmD8AW7bnGjUqA8ei
+7ZxA/B3aGrKK9LzoBHQI17o9jUDw8FWnOW7Sv53Q16jaw1a3n4NCaKizO5WRjYQQ
+JrfAmeqnVnzCf2pdGqpy+7J0Q1+pX1NmHFyez3lxhOjYxyLoBFX1fAT/vOWuT9HE
+Gso0WCdxI2UOE7FP6hCeBakdAM5+SZ8mIVM56Xz2BUU13x+vWdnOAQ/0578Trzbo
+aaxOi1wuxChjLatbcAgrk2zr9MQMv97HghCIB5QkWV0Maqt/DTM=
+=Cvb0
+-----END PGP SIGNATURE-----

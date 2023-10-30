@@ -1,18 +1,21 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
 Format: 1.0
 Source: gazelle-installer
 Binary: mx-installer
 Architecture: i386
-Version: 23.10.03mx23
+Version: 23.10.04mx23
 Checksums-Md5:
- cad0184699606674934c700862454cf6 533968 mx-installer_23.10.03mx23_i386.deb
+ a829a67f2bf8a2a5e86b0c1c8bd908a6 534100 mx-installer_23.10.04mx23_i386.deb
 Checksums-Sha1:
- 44cf0a8a93c01b3bdafe4bfd60d946ecc58411c4 533968 mx-installer_23.10.03mx23_i386.deb
+ 63b9eff861214658a21ca942949a250cd33fa3b4 534100 mx-installer_23.10.04mx23_i386.deb
 Checksums-Sha256:
- 80dbb76a57084edc29960e63d775b6919e011c9824361af48625e114082f43dd 533968 mx-installer_23.10.03mx23_i386.deb
+ cf4e000f35cba9c4e1cd1fdd5261711de144587fa57f6779c41b1d43c75e6318 534100 mx-installer_23.10.04mx23_i386.deb
 Build-Origin: Debian
 Build-Architecture: i386
-Build-Date: Sat, 28 Oct 2023 18:59:57 +0000
-Build-Path: /build/gazelle-installer-23.10.03mx23
+Build-Date: Mon, 30 Oct 2023 22:10:52 +0000
+Build-Path: /build/gazelle-installer-23.10.04mx23
 Installed-Build-Depends:
  autoconf (= 2.71-3),
  automake (= 1:1.16.5-1.3),
@@ -338,4 +341,21 @@ Environment:
  DEB_BUILD_OPTIONS="parallel=4"
  LANG="C"
  LC_ALL="C"
- SOURCE_DATE_EPOCH="1698518758"
+ SOURCE_DATE_EPOCH="1698703503"
+
+-----BEGIN PGP SIGNATURE-----
+
+iQIzBAEBCgAdFiEE9i7eqjrnCpyZ2sQYm2ih6Lm2N1wFAmVALAIACgkQm2ih6Lm2
+N1wiXxAA5SsX9wzSD9cbmbndAdhi+edLLy2qNkUj44l2kj41BOIWwz99JYGeJJGn
+O/q2kZz9tMosgjtPLgSNj8pH/oMcVyBBmnqKQZKzcsIiqnvWtd+7gM+PiXXtXeRy
+j5QJ53i02NO0nkRY0hrfUVmykaOeiDE2YwmnNqh0u8C0OfdreNGorDfcx7VSU6ov
+X/v/LGj8APJ03sopckZhv4lx/BLEGrzqMzDyy3bgzEYKmbaO5HcypuHNUuKIrc4B
+Ve1HExu0rjM2zEa9GXlJ93fYkrPfIKg8MOf0BiISNcPFT9mDFNHygSXTPMVPxFQS
+/Y8HaEQ8iT8iwjyaRpJQnFCklIzfooy7TbzbyDvrcJWBqB4CSxd7wk0Lg5OMJWjz
+wuvhmOBA2mW7GfdPDzfVcQtKOl3binmafZnkyHuCRr6+9iTDYSrDJGI+i+Xrnh5X
+vG+L72UmflPNumZAdqSgOge3w2+QCa+S9LfZ89/aJIKHcjWiXfmtVQVBwDaQNrjy
+vO/uUby3sQhVi17H5jcLg5XNguji7/OAYQbrRwUiJEC/SPuS1Z9wbBitV0cfBp+/
+06cazIyZnZBBswVm0kQ2jWtEAeJkGUTXYZvG53jT06wc02Zhz6qIEkGCDt2TvsOv
+dLpf3Fhi1UWxW1fIFZ+y3DaEDv0Et3wx+NoTRMDuhcQ/wwJHP78=
+=bczO
+-----END PGP SIGNATURE-----

@@ -1,3 +1,9 @@
+gazelle-installer (23.10.04mx23) mx; urgency=medium
+
+  * fix fallback lsblk mode in makefstab
+
+ -- Dolphin Oracle <dolphinoracle@gmail.com>  Mon, 30 Oct 2023 18:05:03 -0400
+
 gazelle-installer (23.10.03mx23) mx; urgency=medium
 
   * modify control file, arch specific depends changes
