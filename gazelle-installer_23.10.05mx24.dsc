@@ -2,7 +2,7 @@ Format: 3.0 (native)
 Source: gazelle-installer
 Binary: mx-installer
 Architecture: any
-Version: 23.10.04mx23
+Version: 23.10.05mx24
 Maintainer: dolphinoracle <dolphinoracle@gmail.com>
 Homepage: https://github.com/gazelle-installer
 Standards-Version: 3.9.8
@@ -10,8 +10,8 @@ Build-Depends: debhelper (>= 10), libzxcvbn-dev, qtbase5-dev, qttools5-dev-tools
 Package-List:
  mx-installer deb system optional arch=any
 Checksums-Sha1:
- dbfcd9d2551d356a7a1f9f82a0250eabea346a9d 404928 gazelle-installer_23.10.04mx23.tar.xz
+ 26c4009452c688bed737539eb2c3e2f57a402fa1 406000 gazelle-installer_23.10.05mx24.tar.xz
 Checksums-Sha256:
- 230320fcd0eab752f7699f327d3f7b175a3226e1704695efab3574678b2a82eb 404928 gazelle-installer_23.10.04mx23.tar.xz
+ 8115a3deaf4a6bedd69c886c640a9a6431e97de2c49dfa95b9119fd9be803057 406000 gazelle-installer_23.10.05mx24.tar.xz
 Files:
- e4000837f61bbcc8e3f5202249523b97 404928 gazelle-installer_23.10.04mx23.tar.xz
+ 772eae76e5d7370267373b8d7a602116 406000 gazelle-installer_23.10.05mx24.tar.xz
