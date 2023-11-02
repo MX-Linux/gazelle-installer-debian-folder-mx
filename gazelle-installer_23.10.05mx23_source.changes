@@ -1,3 +1,6 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
 Format: 1.8
 Date: Thu, 02 Nov 2023 12:03:58 -0400
 Source: gazelle-installer
@@ -15,12 +18,29 @@ Changes:
 Checksums-Sha1:
  a444eb77dfd87daf2ca20f5af4eb43f7cb2d0f3e 688 gazelle-installer_23.10.05mx23.dsc
  1a28116268d5db09003832253c33128f38e05075 406020 gazelle-installer_23.10.05mx23.tar.xz
- 182a1d409c0b266e88c1bb3a9791735c8b3f78cc 10350 gazelle-installer_23.10.05mx23_source.buildinfo
+ 1b4fbf16cc3e21b9fb3fe2f0115950657ee70d73 10580 gazelle-installer_23.10.05mx23_amd64.buildinfo
 Checksums-Sha256:
  20966ea611425a4899ef8bd29cac07e0b26b1ffade4ac6ee4de3157e3d5e0797 688 gazelle-installer_23.10.05mx23.dsc
  b1b1345d28ef4a0d4c19ec03c9242c7e4fa08ad46f594f96d0cb8dd1156806de 406020 gazelle-installer_23.10.05mx23.tar.xz
- 98a33d14280de7447c42536e98ddd5ad3c07928ab0ee1195553055cf226ac831 10350 gazelle-installer_23.10.05mx23_source.buildinfo
+ 82b7d5e1ea18bdebc7acff5c97be7b3cf7b353f421ab28336bed158131d32342 10580 gazelle-installer_23.10.05mx23_amd64.buildinfo
 Files:
  52181b666e059efabd4b4f222e75e379 688 system optional gazelle-installer_23.10.05mx23.dsc
  cbcfa6e1dbe5da901cba1a7d0a315fe5 406020 system optional gazelle-installer_23.10.05mx23.tar.xz
- 30ea2b798b390bca5588465c7d053469 10350 system optional gazelle-installer_23.10.05mx23_source.buildinfo
+ 6a51d66076fbc49c59b9ef9d88c727fd 10580 system optional gazelle-installer_23.10.05mx23_amd64.buildinfo
+
+-----BEGIN PGP SIGNATURE-----
+
+iQIzBAEBCgAdFiEE9i7eqjrnCpyZ2sQYm2ih6Lm2N1wFAmVD2uUACgkQm2ih6Lm2
+N1zgXRAAyi+dasT/8fu6+9+TIN7D+37HB1ALN4Gm0tfdTYrhegvRZ16NqCAhuaOn
+VsF7dGFKBSUraH/o3jw40z13qUDtbddu2xqSAsm0WaaTtF8tuyNTq2LD+g4MG7Rp
+Gxm8DlaWOCOUnydaQw6HofKgCjQQ4hBgbsHiXY7BW/FHbVLtetOKJXEVaeRmq67B
+tXU6CWyW6Hks1Eq8545f+2rfJDagQ5zbu5FTGagZqmoGb1oRVss4cQZtk54ady7k
+OQdgZolCOmsl3hYtgqFVux9Uu6nCj8FQj268n4BTyXDNHVU+Psnm9rcUtVUHZ2XU
+k9PFW0NArhYe/VNm7XGt6GupYkfyg/6DlZmgpypHNKNvhGt2D79IT8gAzZ0Vv7Qs
+cRxRotP+8AeoC1zM/FBplEmyOaxVF0+xmS0bRhwbNrxHpddZWtEwWEcpJyIThvnX
+KGCn3k7szJTl//cXwmmrQ7gFQo6Y/GPhuo9zsZSW9Y99qA8xlQM9XaAehmUNEIC9
+aSqYELxXJS/Ls+0FF9yLKt3wQg7WacZfQ60i8fG8LdFo4ukvRsJw+VNR/72P9GAK
+2yU59YLqcwMP2PddVSZi5PKja7CQ5IeFUFDFIg7bxZ4k5FQqLP5zF5oLC+woNNE2
+A+C17rxGpZe7QyNiicODEcf4U5Xq9emeeYpUvMDnzmiCtQsQhF4=
+=JuKr
+-----END PGP SIGNATURE-----
