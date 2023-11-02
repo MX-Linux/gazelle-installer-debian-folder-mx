@@ -1,16 +1,16 @@
 Format: 1.0
 Source: gazelle-installer
 Architecture: source
-Version: 23.10.05mx24
+Version: 23.10.05mx23
 Checksums-Md5:
- 6d777ed11e5933fd1b391d9968f7d25e 688 gazelle-installer_23.10.05mx24.dsc
+ 52181b666e059efabd4b4f222e75e379 688 gazelle-installer_23.10.05mx23.dsc
 Checksums-Sha1:
- 68e97c63eb54ea9b4fd75d36921ee0ab9ff8cb0d 688 gazelle-installer_23.10.05mx24.dsc
+ a444eb77dfd87daf2ca20f5af4eb43f7cb2d0f3e 688 gazelle-installer_23.10.05mx23.dsc
 Checksums-Sha256:
- 5fbfb4ce73a8b52bd7e0d334562ba888ad2ffb9ff732f012b2cf8e7ed98af6c6 688 gazelle-installer_23.10.05mx24.dsc
+ 20966ea611425a4899ef8bd29cac07e0b26b1ffade4ac6ee4de3157e3d5e0797 688 gazelle-installer_23.10.05mx23.dsc
 Build-Origin: Debian
 Build-Architecture: amd64
-Build-Date: Thu, 02 Nov 2023 12:21:14 -0400
+Build-Date: Thu, 02 Nov 2023 12:28:25 -0400
 Build-Tainted-By:
  merged-usr-via-aliased-dirs
  usr-local-has-libraries
