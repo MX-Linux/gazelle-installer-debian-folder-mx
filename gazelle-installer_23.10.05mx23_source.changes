@@ -1,0 +1,26 @@
+Format: 1.8
+Date: Thu, 02 Nov 2023 12:03:58 -0400
+Source: gazelle-installer
+Architecture: source
+Version: 23.10.05mx23
+Distribution: mx
+Urgency: medium
+Maintainer: dolphinoracle <dolphinoracle@gmail.com>
+Changed-By: Dolphin Oracle <dolphinoracle@gmail.com>
+Changes:
+ gazelle-installer (23.10.05mx23) mx; urgency=medium
+ .
+   * fix UUID fallback mode, wait for output in makeFstab
+   * use lsbk again
+Checksums-Sha1:
+ a444eb77dfd87daf2ca20f5af4eb43f7cb2d0f3e 688 gazelle-installer_23.10.05mx23.dsc
+ 1a28116268d5db09003832253c33128f38e05075 406020 gazelle-installer_23.10.05mx23.tar.xz
+ 182a1d409c0b266e88c1bb3a9791735c8b3f78cc 10350 gazelle-installer_23.10.05mx23_source.buildinfo
+Checksums-Sha256:
+ 20966ea611425a4899ef8bd29cac07e0b26b1ffade4ac6ee4de3157e3d5e0797 688 gazelle-installer_23.10.05mx23.dsc
+ b1b1345d28ef4a0d4c19ec03c9242c7e4fa08ad46f594f96d0cb8dd1156806de 406020 gazelle-installer_23.10.05mx23.tar.xz
+ 98a33d14280de7447c42536e98ddd5ad3c07928ab0ee1195553055cf226ac831 10350 gazelle-installer_23.10.05mx23_source.buildinfo
+Files:
+ 52181b666e059efabd4b4f222e75e379 688 system optional gazelle-installer_23.10.05mx23.dsc
+ cbcfa6e1dbe5da901cba1a7d0a315fe5 406020 system optional gazelle-installer_23.10.05mx23.tar.xz
+ 30ea2b798b390bca5588465c7d053469 10350 system optional gazelle-installer_23.10.05mx23_source.buildinfo
