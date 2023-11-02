@@ -1,3 +1,10 @@
+gazelle-installer (23.10.05mx24) mx; urgency=medium
+
+  * fix UUID fallback mode, wait for output in makeFstab
+  * use lsbk again
+
+ -- Dolphin Oracle <dolphinoracle@gmail.com>  Thu, 02 Nov 2023 12:03:58 -0400
+
 gazelle-installer (23.10.04mx23) mx; urgency=medium
 
   * fix fallback lsblk mode in makefstab
