@@ -1,4 +1,4 @@
-gazelle-installer (23.10.05mx24) mx; urgency=medium
+gazelle-installer (23.10.05mx23) mx; urgency=medium
 
   * fix UUID fallback mode, wait for output in makeFstab
   * use lsbk again
