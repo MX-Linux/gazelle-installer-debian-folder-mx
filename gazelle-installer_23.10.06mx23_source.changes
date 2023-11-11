@@ -1,0 +1,45 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+Format: 1.8
+Date: Fri, 10 Nov 2023 19:13:22 -0500
+Source: gazelle-installer
+Architecture: source
+Version: 23.10.06mx23
+Distribution: mx
+Urgency: medium
+Maintainer: dolphinoracle <dolphinoracle@gmail.com>
+Changed-By: Dolphin Oracle <dolphinoracle@gmail.com>
+Changes:
+ gazelle-installer (23.10.06mx23) mx; urgency=medium
+ .
+   * modify hosts on 127.0.1.1 as well (pi oobe)
+Checksums-Sha1:
+ 5e00d13bf1060b1525eee994ab7ee97dca61b125 688 gazelle-installer_23.10.06mx23.dsc
+ 97abe652a9ac13eedd2ccc4b8affd7216fb429eb 406040 gazelle-installer_23.10.06mx23.tar.xz
+ 14d8a6a77d084b84a5bda0520feb63d629fc2540 10580 gazelle-installer_23.10.06mx23_amd64.buildinfo
+Checksums-Sha256:
+ e30f9380f978f0c33e294f29a2c2b4f5e616987e6a3a9c352084a710e729189e 688 gazelle-installer_23.10.06mx23.dsc
+ 2f4a3b94a7b893b41c7a9f13af4d67f759146d8376368bf86b89ac088f046bed 406040 gazelle-installer_23.10.06mx23.tar.xz
+ 249c897cffa81edd4b6944239f18dcb432e7f284c5e256d8216777ebd00f6419 10580 gazelle-installer_23.10.06mx23_amd64.buildinfo
+Files:
+ 714a0729903591f373752f0850989b2a 688 system optional gazelle-installer_23.10.06mx23.dsc
+ 7810a4fcbaa4c2595f40b483b24eba3b 406040 system optional gazelle-installer_23.10.06mx23.tar.xz
+ 736fe305a02da31fcc8d1674d11b6e57 10580 system optional gazelle-installer_23.10.06mx23_amd64.buildinfo
+
+-----BEGIN PGP SIGNATURE-----
+
+iQIzBAEBCgAdFiEE9i7eqjrnCpyZ2sQYm2ih6Lm2N1wFAmVOzB4ACgkQm2ih6Lm2
+N1wIDBAA1kkUuPn+XYO9RDkDdmikCAiROFsVrt3FiGIP5ZrfWLpNv1JBdio+tpUU
+26JU8LOzY2sR8fpi3d7PPm0+CqtXMCO3qRWTll7WAnFXP5UdLj3yqDCHVz7XXPuQ
+387L1uQh2/GziFYrL1pNT4LDMQWHXGf3zfMsmO4x4y4r846Lm4kqG5/FoS92YuCC
+kiIwhGOeSfD+WzG0EItk++OaFuaEPSnrQ4I91yCkiQvnGWYaYVQ9Ceb5xQZWFg2X
+YrC8mJd/Q+JfpxeeUyDJnS8glNcp2pl0EYHublkQjuaXrjkcbMtL9R+/pSjxpLAi
+U+VvLCTpTl8YCGyF7sJIPlarp5D0Uc16Y/3U3ElCI0WPN3z5U4YRRE4ua/9UOYgH
+UapvwJKHnU1usXN8iVvuK2vGbh6mJq7jQlIoBRW8mP8QtbXRLPnD1F7oeP2dUdIS
+fPDw/JBmcYMm05WOH5zLbdjBOJhKmKy2mZ5FTT0Z5bdPUnAXijp9QVo1dN10nqy8
+FkISRjlRrs8j6ojeqeusHipQqjonOjfAZDwoonD6JL0RehiKoV1/OASHB6Mv/jip
+wV9KtnwqiV6EowD+uTqjutjK9R6AwHdeHeFBfith/gODNkLveO+6L94hYCoedo7X
+lCaNNfL1hzTbLS9+lopnezfMnXvViZhbFycqOZyHkbwPDnhixZw=
+=Z49A
+-----END PGP SIGNATURE-----
