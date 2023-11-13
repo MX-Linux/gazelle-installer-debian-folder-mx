@@ -1,0 +1,45 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+Format: 1.8
+Date: Mon, 13 Nov 2023 18:26:08 -0500
+Source: gazelle-installer
+Architecture: source
+Version: 23.10.07mx23
+Distribution: mx
+Urgency: medium
+Maintainer: dolphinoracle <dolphinoracle@gmail.com>
+Changed-By: Dolphin Oracle <dolphinoracle@gmail.com>
+Changes:
+ gazelle-installer (23.10.07mx23) mx; urgency=medium
+ .
+   * fix UUID fallback mode in makeFstab (again)
+Checksums-Sha1:
+ 310af24c843c8a71bf40f35f9916df7a39eaf287 688 gazelle-installer_23.10.07mx23.dsc
+ f4c37a33166f695f0e74dfd0e2365c541f519900 406168 gazelle-installer_23.10.07mx23.tar.xz
+ 42fa35701380648abca741eba02da8d852f1d5cd 10580 gazelle-installer_23.10.07mx23_amd64.buildinfo
+Checksums-Sha256:
+ 7361c7f19928b75deced9ddfe16d179aa5986c50055db3afa2113e391fcedb1b 688 gazelle-installer_23.10.07mx23.dsc
+ 3d17a148cf76efa27d850a681ae7e1c693c49ceca62dc49cf34f608e62d74a0d 406168 gazelle-installer_23.10.07mx23.tar.xz
+ 628b984060019b9fb8ec0fe770471f5a47b2b933ac795098d82917f214187f11 10580 gazelle-installer_23.10.07mx23_amd64.buildinfo
+Files:
+ 0a931fa973ed5ecc8ae0d868ef974fbe 688 system optional gazelle-installer_23.10.07mx23.dsc
+ f45f7f3dafbce15bdcb1977a88e8b840 406168 system optional gazelle-installer_23.10.07mx23.tar.xz
+ 259e89c94a305569ff7a43213c7b2f9d 10580 system optional gazelle-installer_23.10.07mx23_amd64.buildinfo
+
+-----BEGIN PGP SIGNATURE-----
+
+iQIzBAEBCgAdFiEE9i7eqjrnCpyZ2sQYm2ih6Lm2N1wFAmVSsmQACgkQm2ih6Lm2
+N1w3Ww//QxmEAiBip+YKCa3ARwNXM6ATgpiZtgUXRHgjIBI/d7omSOV3ANGBKT3P
+vmZNAUESv8kdo1Qle7sAJ5eYx7VOeLNhmbJAFgqNn60ALNhPelVnA/Kkr4lT9AGp
+L9JAdMLXAdcUHDgdvhp9sksyZm9fky1OLyLfCU6NuRoHWgL6gPzep4UffJT7ARli
+dYWgjwNcEyn+VBYjY8b3PfISo6EqgRDJsLPnjfPfB/Y/rQiRvm2TdYfvXrBL3KlQ
+GWhvqsbzR1dpUB4KeJOEcG5rxczwt2KVxUVAE7dXQu9yDjFwOez6zrGRwgEQ/B+E
+x4zNpbCkPZLcaxe5EnVh4veDm8QShyXRVmTOeoFOgq2gnvSVg/qgH63g8Q4jFMG6
+jdZGais88NAfim8SN3mfoWghVZki5x761/ueQglmZ9OX/ZE7lc/tj+Un0QZMIltr
+XxbHwWQRi89ygKVLtqf/Fff1cPjbDGCXug+llbARiInGU+SWiSwnF0BG90UB/O7p
+L6FT7j16XG7fGH1k3MjhA7BGonzWnhSm/LuUa9BzC4Ziu6PI9H32MBjLIQ9uV6wg
+F24NXAn0t8MuM8uB45HDJXikUH5YMo2DofMJWbXnLL487uIm7fzQdFSOz2GB01Yg
+temdyChJqFkEiMPrVBw6llaIlUct0yicBWT3dP4SM0NX8wAudbA=
+=egOD
+-----END PGP SIGNATURE-----
