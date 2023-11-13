@@ -1,0 +1,45 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+Format: 1.8
+Date: Mon, 13 Nov 2023 18:26:08 -0500
+Source: gazelle-installer
+Binary: mx-installer
+Architecture: amd64
+Version: 23.10.07mx23
+Distribution: mx
+Urgency: medium
+Maintainer: dolphinoracle <dolphinoracle@gmail.com>
+Changed-By: Dolphin Oracle <dolphinoracle@gmail.com>
+Description:
+ mx-installer - Customizable GUI installer for MX Linux and antiX Linux
+Changes:
+ gazelle-installer (23.10.07mx23) mx; urgency=medium
+ .
+   * fix UUID fallback mode in makeFstab (again)
+Checksums-Sha1:
+ 42fa35701380648abca741eba02da8d852f1d5cd 10580 gazelle-installer_23.10.07mx23_amd64.buildinfo
+ b29efc4658c2050e2d9af3546aa5ef07a16a8a66 516940 mx-installer_23.10.07mx23_amd64.deb
+Checksums-Sha256:
+ 628b984060019b9fb8ec0fe770471f5a47b2b933ac795098d82917f214187f11 10580 gazelle-installer_23.10.07mx23_amd64.buildinfo
+ 8919756e2101a7acfba2c1b2efa201db33aa22720e8c3fa17a53dde45771d0b8 516940 mx-installer_23.10.07mx23_amd64.deb
+Files:
+ 259e89c94a305569ff7a43213c7b2f9d 10580 system optional gazelle-installer_23.10.07mx23_amd64.buildinfo
+ dfe7b5b2cfa60fd978276ec9c66d3ce7 516940 system optional mx-installer_23.10.07mx23_amd64.deb
+
+-----BEGIN PGP SIGNATURE-----
+
+iQIzBAEBCgAdFiEE9i7eqjrnCpyZ2sQYm2ih6Lm2N1wFAmVSsmIACgkQm2ih6Lm2
+N1w62xAAqW02zt8lOU0ctflAPIf33wdzR6wsg4Oqcm1BAJQxclL9eQHdeW7BLzkQ
+zk8JpLCDBuEls4NjFHtQSncFTpXAFMfEj0utQov+IDw33q6cUUHO6x8DXsezODge
+HWP/5+PGzlKoygLhiey2w/d+ExFwJyE0Ok7Kh1cGy+u3Eg/5vn3V+BbKXb3WefEg
+p1gBw+x5lQFbPj8eERXb8Qeo/DshRz2PAzO4napBVVeiK9KHouFE0wZ7SxrvcJk9
+JMkO6Aw77x63S7FJl1soIaO3p+MTwA/5g5nlQCiMNvWXol2rdlo1gZvpABM/UaKF
+Nw3Cd+miiQfCsXwYpgmUyZqF+nJNPbBQlnxYNhvTfDsKJKR58ZgqmB4h+HVwYWec
+/M0QrHVvdROpVZSQ8tIvyDybgkt4dcUcXsNesY3Pg2IIdtN8MhDjj8hGjPls7/Fb
+O1CFr3BNfBjs1al0xe6wgtBwnf0ugZ4RybMnA4RiQssIwAhBu1jQSt9oLgPiC6zD
+Gi9qYlsFBkHaDVokWkUAYd0jCerYgo5j9mOUhX66f1S5Ie0/gCBLsFqgtRm1uKy6
+Ou8d9XkqW+VBcqGWrAD3bC9XwZSRIOp5bQj3OphU2dy7TzO00fOHbWB53AIogkAu
+CxkOJZ6nZl1FTbRMxLSJ4wKjjNw08CAXyJ9CxuorUU2JZtCz7/A=
+=cxs+
+-----END PGP SIGNATURE-----

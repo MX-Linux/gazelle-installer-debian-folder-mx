@@ -1,0 +1,45 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+Format: 1.8
+Date: Mon, 13 Nov 2023 18:26:08 -0500
+Source: gazelle-installer
+Binary: mx-installer
+Architecture: i386
+Version: 23.10.07mx23
+Distribution: mx
+Urgency: medium
+Maintainer: dolphinoracle <dolphinoracle@gmail.com>
+Changed-By: Dolphin Oracle <dolphinoracle@gmail.com>
+Description:
+ mx-installer - Customizable GUI installer for MX Linux and antiX Linux
+Changes:
+ gazelle-installer (23.10.07mx23) mx; urgency=medium
+ .
+   * fix UUID fallback mode in makeFstab (again)
+Checksums-Sha1:
+ 280af2021df2d22306fd0ee6015301cfca7dd610 10523 gazelle-installer_23.10.07mx23_i386.buildinfo
+ 67cb59e6ddcb21a2053bdeb92e67879306af57bc 534076 mx-installer_23.10.07mx23_i386.deb
+Checksums-Sha256:
+ 12729d5e33d0dd92bd61ea2e0e2ca65b9a7373e8c0428148af3a9da9e0847a55 10523 gazelle-installer_23.10.07mx23_i386.buildinfo
+ d0c8c4c5674057c6f6a90597ce67b7c713618581cb0b9a43f2cc6240907e59b7 534076 mx-installer_23.10.07mx23_i386.deb
+Files:
+ 31a3524e68fb2a665db4a2081828a915 10523 system optional gazelle-installer_23.10.07mx23_i386.buildinfo
+ 58f23f22da931bf492351c927428a59b 534076 system optional mx-installer_23.10.07mx23_i386.deb
+
+-----BEGIN PGP SIGNATURE-----
+
+iQIzBAEBCgAdFiEE9i7eqjrnCpyZ2sQYm2ih6Lm2N1wFAmVSsmIACgkQm2ih6Lm2
+N1xOnRAA5qNBpM3vWjDd2uGe4hxLABfF6lsdmzn8UcSTPtXPpg1XvnGALwIrrUkQ
+ux7dq3/Ohxm7GEzL6PSH8oztt3N3ff7YOBhQF+ohhVYqB4Hy+0hPLQLyGBXSp/9Z
+2KJHAOO3dR2hReIFxflFUXLReUYI7GZb03dKgRkZ9YdzgQL5evO2zcD/ZHpnOdca
+qIaxOlVO/X+MVXnpuZZpfDQANGOiVNvjuWkRpleBhPGlbY+mEKb7FVSx4pVLxuoj
+1XaZDjAe01rk7LmEZ6lPiIJZKFp+rsWvD6djIk4wvTTDJl/McQUHT5lyzeBWjJNp
+8KyB6twyivHyq2ExFafPK6AhAhs4zhf8Bp8LpqPay1AkTxIfZHHGMto1y/MH6/ji
+pwp7YENxUKgDfkhvPYaFCRs/w75nj+ZgUlEcjzZOZoXIPxylthUHbSHG4Ub0I0f0
+tzvdipS68XyUxtZhWoofiGa5V0KyHDR2cu7cLSi0SlGV5tnw7LmpvTOHjxUirjYw
+5zUshk+SZhG5RE6fTpKc44ELRdJwYRNKQzI7fqDEH+jlWsDiJCfrz6rx3k+Fh2qF
+BDHsNfuST/GrpDrzDgeHnuwxZONYy2z9OtJglu8vG3a37gywYwSFbLD9MloQzO9h
+z10fttQDpLp/XlNyYUCiACSzMKg/CMpWGYRvza1uYbrW4PVMIKU=
+=Mno+
+-----END PGP SIGNATURE-----
