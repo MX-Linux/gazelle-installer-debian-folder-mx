@@ -1,3 +1,9 @@
+gazelle-installer (23.10.08mx23) mx; urgency=medium
+
+  * wait for UUID information in fallback before trying to use it
+
+ -- Dolphin Oracle <dolphinoracle@gmail.com>  Thu, 16 Nov 2023 18:05:42 -0500
+
 gazelle-installer (23.10.07mx23) mx; urgency=medium
 
   * fix UUID fallback mode in makeFstab (again)
