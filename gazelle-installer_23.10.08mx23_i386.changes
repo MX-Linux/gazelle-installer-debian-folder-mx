@@ -1,0 +1,45 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+Format: 1.8
+Date: Thu, 16 Nov 2023 18:05:42 -0500
+Source: gazelle-installer
+Binary: mx-installer
+Architecture: i386
+Version: 23.10.08mx23
+Distribution: mx
+Urgency: medium
+Maintainer: dolphinoracle <dolphinoracle@gmail.com>
+Changed-By: Dolphin Oracle <dolphinoracle@gmail.com>
+Description:
+ mx-installer - Customizable GUI installer for MX Linux and antiX Linux
+Changes:
+ gazelle-installer (23.10.08mx23) mx; urgency=medium
+ .
+   * wait for UUID information in fallback before trying to use it
+Checksums-Sha1:
+ 1e10a39d52ef7b5494cf4b7b1862361a1cbf76b8 10523 gazelle-installer_23.10.08mx23_i386.buildinfo
+ 033af1b95aa2623298aede27e5aab6c5c6edf8f9 534084 mx-installer_23.10.08mx23_i386.deb
+Checksums-Sha256:
+ 6ddd2e4d004df0797a616e5ab9e1ddcb6eff877f4fdc18537f39b9ef4ddc02d8 10523 gazelle-installer_23.10.08mx23_i386.buildinfo
+ 8fd9317e00b02eecb9a027e10d9501c6d6fa33541213702568382c6be480c984 534084 mx-installer_23.10.08mx23_i386.deb
+Files:
+ 060221352ff05c170887a9ab7311dca4 10523 system optional gazelle-installer_23.10.08mx23_i386.buildinfo
+ 6cc2fb88eb70b378aef88716c1b1815c 534084 system optional mx-installer_23.10.08mx23_i386.deb
+
+-----BEGIN PGP SIGNATURE-----
+
+iQIzBAEBCgAdFiEE9i7eqjrnCpyZ2sQYm2ih6Lm2N1wFAmVWojIACgkQm2ih6Lm2
+N1wkrQ/+MFlI7GBHIL2+vbetryAbBWWy4vSLfLLwfmsxiDBkp+J+NZmPKWnd4WaW
+2ku60mS92Jggp6k+Dy6QxWfCtuz/kxfl6IVQb3Mhn610aw2f5vK2U4pbm4F2BscH
+L8ZBb0vnf+8Alj6iT6MdyQwZRNSUsvr2HYfc9P0BRU2jcupXSyQGzBnNLqx2RPo2
+9oci+WK6Cn6n90rMpd4r84VfftVAd0sDjBvyC7ETwD1wMnBP5SRSrDUSVIVwpsVW
+uR5W0/JsbLTwghJvEnl422ZUtmBG9c1M6bDR2c2+P84Ew2jw4diNne0ay1LLGTWK
+HntjsVsW6caTGz704V0Te3vyzG86rO+1WzJBqIETP2JVin4n4MaG97qJIXLtcYnV
++Xy3at86mav9lUuJp2iEcr9/QIeV0BqELO8slwakcQoqTGJtzin/Glyb1ogGQrHU
+wX40znNNMNeQgzs+jdso1l7KxQne9HIBWqmQyIv0H4Hl7gYUun66g6w7te0Rw0Oo
+Lo5bB641sbP51pRrKErgmrkxIa/0Kfbk3GFhVl5cr05l5xTmdcUFyQWHSoXf4OeZ
+USkwFbLZnKdCNQF8eIluiNk9S9AulDOmGWPjakM+lajINa0gFNfDfdnBCf5edwUW
+4/mDnKMLhiaQ2k3dq781EpH0D0CU3DJ4TSNiUFb/W3Luu4JTVNo=
+=C4zg
+-----END PGP SIGNATURE-----
