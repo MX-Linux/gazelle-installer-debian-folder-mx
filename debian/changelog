@@ -1,3 +1,9 @@
+gazelle-installer (23.11.01mx23) mx; urgency=medium
+
+  * adjust oobe to not use full screen
+
+ -- Dolphin Oracle <dolphinoracle@gmail.com>  Sat, 18 Nov 2023 22:04:55 -0500
+
 gazelle-installer (23.10.08mx23) mx; urgency=medium
 
   * wait for UUID information in fallback before trying to use it
