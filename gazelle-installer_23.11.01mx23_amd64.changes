@@ -1,0 +1,45 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+Format: 1.8
+Date: Sat, 18 Nov 2023 22:04:55 -0500
+Source: gazelle-installer
+Binary: mx-installer
+Architecture: amd64
+Version: 23.11.01mx23
+Distribution: mx
+Urgency: medium
+Maintainer: dolphinoracle <dolphinoracle@gmail.com>
+Changed-By: Dolphin Oracle <dolphinoracle@gmail.com>
+Description:
+ mx-installer - Customizable GUI installer for MX Linux and antiX Linux
+Changes:
+ gazelle-installer (23.11.01mx23) mx; urgency=medium
+ .
+   * adjust oobe to not use full screen
+Checksums-Sha1:
+ 3066793f7f5d96341bd9babbaa2319d1f4de74bd 10580 gazelle-installer_23.11.01mx23_amd64.buildinfo
+ ab294ac764c177473199e1f99940eb5aac87442a 517044 mx-installer_23.11.01mx23_amd64.deb
+Checksums-Sha256:
+ 12bcf1d6719c5eca74ab0ab944a4bd1302b62f06cc4922e320bad85383bb04d3 10580 gazelle-installer_23.11.01mx23_amd64.buildinfo
+ 8c343475626c1028b14d8d055f2add12f342efe72475de037c27f4d8e296c9e1 517044 mx-installer_23.11.01mx23_amd64.deb
+Files:
+ c5dea7f3643e3bc81763f34add12c380 10580 system optional gazelle-installer_23.11.01mx23_amd64.buildinfo
+ 977b649bc0c7612151c13adf260a4d66 517044 system optional mx-installer_23.11.01mx23_amd64.deb
+
+-----BEGIN PGP SIGNATURE-----
+
+iQIzBAEBCgAdFiEE9i7eqjrnCpyZ2sQYm2ih6Lm2N1wFAmVhSrgACgkQm2ih6Lm2
+N1w0mg//S9dRzqY2TafNrVL3ZJw/guIB+aYysaN7LjUdmYmltk3XD89d4XOrULmn
+HVvXUYlJykbQfN2I/+WpPjLECYhNywsf1p41GXuuPZM/KHhKp9mC6Ozmhbov7Ja8
+feKTUtflKNdfU066RCx/cNk3dg4XqpwLsO+ccHtSg8ODDYNeABCKQu/KhM0hes6X
+r/KxEBbEXf5546bBbnSPcGC4qI9/l4EqkKGG2fdYl2lTV3sgHFO3YXSmT0TS5/aj
+wQkg23kujrI5wY3gxcwZEe9skVFDBNvVLC4CERgvKjf1fWA2WWP1mFVMnkXxlfPY
+hi9zuWXzBIYCQn8w0JUzUqnYxt0mvNTc0aRcyQKEGWMcGygJdMEAFJMPsCVoX1aF
+6H+F3h0u6G7YuD0AsOmFGR0BTKhIxPzkO1OdRmLRoH3Ku+xN9x1V89d+rFueVPBm
+YcFBJD9569tPunGSTeuIQx/QBOw4tXDxA9B11w3rVb4JNAOCjSA7bs7m1PB/bD4N
+yKVqRCXCRAFa92Ag+DfD37hQkR8A2oUQOaFX7r1k5mOD2n1SnLhXk6xGptk9x2U1
+Yb0xgh75a3zRV+0+jVR71LEH3nlhpXW1hZaF223VyAmVCNIWfuEr6aj6Ma0QS7aB
+2JKSkl2O74SQP+33ymDL3jO3uMGWVab0+EDExl/DToOWD/5MQnw=
+=WyJD
+-----END PGP SIGNATURE-----

@@ -5,17 +5,17 @@ Format: 1.0
 Source: gazelle-installer
 Binary: mx-installer
 Architecture: amd64
-Version: 23.10.08mx23
+Version: 23.11.01mx23
 Checksums-Md5:
- 63ff60fb9d83c3319d8a20fee10d7cb2 516984 mx-installer_23.10.08mx23_amd64.deb
+ 977b649bc0c7612151c13adf260a4d66 517044 mx-installer_23.11.01mx23_amd64.deb
 Checksums-Sha1:
- c9ea5c53fa87f4b75162ab3b0dcef8a432811b36 516984 mx-installer_23.10.08mx23_amd64.deb
+ ab294ac764c177473199e1f99940eb5aac87442a 517044 mx-installer_23.11.01mx23_amd64.deb
 Checksums-Sha256:
- c0957376b510355b3dae473a568e9826a03d854fda665b7d7ee50acb337030db 516984 mx-installer_23.10.08mx23_amd64.deb
+ 8c343475626c1028b14d8d055f2add12f342efe72475de037c27f4d8e296c9e1 517044 mx-installer_23.11.01mx23_amd64.deb
 Build-Origin: Debian
 Build-Architecture: amd64
-Build-Date: Thu, 16 Nov 2023 23:12:28 +0000
-Build-Path: /build/gazelle-installer-23.10.08mx23
+Build-Date: Sun, 19 Nov 2023 03:12:36 +0000
+Build-Path: /build/gazelle-installer-23.11.01mx23
 Installed-Build-Depends:
  autoconf (= 2.71-3),
  automake (= 1:1.16.5-1.3),
@@ -343,21 +343,21 @@ Environment:
  DEB_BUILD_OPTIONS="parallel=4"
  LANG="C"
  LC_ALL="C"
- SOURCE_DATE_EPOCH="1700175942"
+ SOURCE_DATE_EPOCH="1700363095"
 
 -----BEGIN PGP SIGNATURE-----
 
-iQIzBAEBCgAdFiEE9i7eqjrnCpyZ2sQYm2ih6Lm2N1wFAmVWoi0ACgkQm2ih6Lm2
-N1xaCQ/7BXszhoNGp5pduuuADysPmN3nxoOc8R4W3cltPjpd9JPKRFUaKV9jnPIm
-xNq33Z6DTWfHgwvzsBSEMFIURZjAPnfiFOwvXh9DM43Tc7bGfNaCmeuRJcC2HD4d
-3b8n38ZHhmRNz90qPIRxhHqj+GpmLQwfcaNHk5/do3CXBkj3QsfZ8968oUfKKPbM
-wjEyG60QkhfhWMUtGrg0iVTSlEQ6Fz42x/p4PDHMzXy2toMuu5qkdTpwrwKjsRr7
-NnT3/R2Vdh69dDDxxMuZmwx8ilcTvK6qM0al7aqXrrpHuEFj3Q7hjLJV7CVvkHGW
-Vap1zZsbFtubUqdpxA0s9V/1LkYUUTJWvIPSgngKiaPnGhuXX1SNXT4m4AdW2cu6
-pUYFjJKaoyno+xgtkJyiBkIP8KOT+oMES6cvLgBICbbgamhwonq3N8VZi0Xzakey
-oiNFEOf7nFWnfbiQBEkVlIdMHmUC4EHyhIhf3j4uyYMGkUWnZvDXeErUtiIFU4Yz
-3uuV+gkLhJztL8JQK5YZ9Lrm2mBn+bsphx15/wmpSxSzM6OjB5GR8fzoe+2EeTvc
-5MTYhNCO5b4C1tjztUKk9VIX8Tp8Khr0OzaDhp5/x4SiuQx3UULR7iq/lIfS6c6T
-ZuYcYs/rC76mJUfs1lC2F9rHx3rgMfVcnX0tuMy62TMqg25mYso=
-=o96E
+iQIzBAEBCgAdFiEE9i7eqjrnCpyZ2sQYm2ih6Lm2N1wFAmVhSrMACgkQm2ih6Lm2
+N1yT7Q//eVVgymruFm7ve2Nc6tSxkqwPNIudzzRFXt/u3xJx7LH+YaIRgZ/y58o7
+BGHqdjzGVfOq+9j37YA18SRo4EL1/vqhijl7HSI6jDbp2bSH0BSwsc8gUbaZOT+u
+Gr+LApxFoJVgJC8c+BvuXWt9c8mkKUysCYptn70FnXYFFHKlLvR66EguFJIX1sAG
+1qS2SQ2FensnHoJgyZKghib9kARo376nqatHISffwiTabYq3iivRbaTXHPI4XWYd
+X95iCL0ox1Ztxn5fpTvflkKjNZ5PJBnEQxln1Rqi01gQjvFsUovzZqUKOIYujcVH
+IjgVVFGPtzn5pyAOk99cERXVfb6ee3qlE7UCZlWBqL1+09P/+wruCUPqhFF9wTAL
+P7GNmWJKR4MYMmGQ0ePrbRESHt/vU820w3vumhg1C46GQndqGgqj3TaWM59B74xY
+nvB4aqkLIwOydn67D8Q7zSOYE9QoBXeue13qpeNE/b9PyhG6PphM+3E02rI2P0zL
+02XuJGWodHRK4+iJfAP8ynJCOmhLNl2mcwmUMn9lm2+l9966jl09wljDvZTspnsK
+j2h4UgtFjn/nUoOSEh13CL9Qtt3fyM2z/+qbNU8bpWNha8xSNJQuicTxQCzCfZKY
+47fE3KqhedhhCT+iNmUBREETLUWzS6B8WkVIm7HGKdaG4Snw/h4=
+=NAim
 -----END PGP SIGNATURE-----
