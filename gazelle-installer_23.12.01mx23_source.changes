@@ -1,0 +1,48 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+Format: 1.8
+Date: Wed, 13 Dec 2023 19:30:27 -0500
+Source: gazelle-installer
+Architecture: source
+Version: 23.12.01mx23
+Distribution: mx
+Urgency: medium
+Maintainer: dolphinoracle <dolphinoracle@gmail.com>
+Changed-By: Dolphin Oracle <dolphinoracle@gmail.com>
+Changes:
+ gazelle-installer (23.12.01mx23) mx; urgency=medium
+ .
+   * ui adjustments (ak-47)
+   * set /etc/papersize (dolphinoracle)
+   * adjustments to oobe to deal with pi first starts
+   * update translations
+Checksums-Sha1:
+ 18fc1893e9a2ea3553f39f0c7660bd8df128433e 688 gazelle-installer_23.12.01mx23.dsc
+ 121b259998ebdf7961266bd959a7086cea48b88a 374940 gazelle-installer_23.12.01mx23.tar.xz
+ 6d7208295bd3c4ff442cb4a0215744becb0f2481 10580 gazelle-installer_23.12.01mx23_amd64.buildinfo
+Checksums-Sha256:
+ 70e8614ebc44e71f37ff6bd7ca11d3750ec8f222c0a65de35d8867d2462f2793 688 gazelle-installer_23.12.01mx23.dsc
+ 58d87abe5886a9690e412e1efc097c84de0b8a36acda89fe964e419c3c6e2b73 374940 gazelle-installer_23.12.01mx23.tar.xz
+ 318786fd076ec03015f3c6eae22b54070e296a4f226986605cd321685b1d670d 10580 gazelle-installer_23.12.01mx23_amd64.buildinfo
+Files:
+ 9639ac97ef2bc9823e8110c91f306239 688 system optional gazelle-installer_23.12.01mx23.dsc
+ 5ee24b95ad52f0615470b6741083b86c 374940 system optional gazelle-installer_23.12.01mx23.tar.xz
+ bbb1a31dee3708bf9d7b97cf179b86f7 10580 system optional gazelle-installer_23.12.01mx23_amd64.buildinfo
+
+-----BEGIN PGP SIGNATURE-----
+
+iQIzBAEBCgAdFiEE9i7eqjrnCpyZ2sQYm2ih6Lm2N1wFAmV6TmMACgkQm2ih6Lm2
+N1z05g/+N67Cff1qdkvgpnDy4OFIkbkAq3Ze36YdCwwKroVfFrfDolcR8LQz6HCA
+NolFAf2T0VrgpMfN2QsjcFy8sqpusAUBk614O11JQ7ALcTV3DfOUlfHH7NBqpd8I
+cajLnEJ2a015tNbhsEkAlYUDSSRNgAFToVBTaupvmfFKie6MAcONCOUUH796Xxdi
+BLm2mp1wph7uYGZnuz4Sj4fzJssh5Hf79rkvilAOFzWeEmWAz6g9eHksPKdNxbAj
+Cd3giSp9lGuklVgg4c3DbufTi1K782Dlrcmd0l8ORmkZMDMhsI181Ow0h/aIDhye
+f1qUsLsDNYQ9NkThhKz0MMgDVf+mwnbpSd7rAKzn2rMpTsctDyBIlkWJw/WW9Cxk
+sqmjh5ziuYNlp2qtq9qb2Y39vvUavfkGCP2sO8PNy9MkziawobT3aRcpByJx7pEP
+RxVtV4gyvzY7Mz1eGV3GVG/OG22OhHykyjWvbwN3eeYLv9aZXb4p7Tt/b9E01pkx
+xIY21gY5npTRHmBzDXu2Nnd3YlDA5qxKruJte8e4NVYdGvJ+AbHkB00jujDXQ8PN
+1E/nALZSPotKF2P4kVTOXQvTsA1fa1gBIJwo59NSxHZ+LT8Uh91VjZNciXm28ZqO
+G6YEwxDmHGZ5KwUBY4umzlDvc+Y8ktNG8aO/Qph1PC0sxFjCJ84=
+=D+xY
+-----END PGP SIGNATURE-----
