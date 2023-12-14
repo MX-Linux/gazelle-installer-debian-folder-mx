@@ -1,3 +1,12 @@
+gazelle-installer (23.12.01mx23) mx; urgency=medium
+
+  * ui adjustments (ak-47)
+  * set /etc/papersize (dolphinoracle)
+  * adjustments to oobe to deal with pi first starts
+  * update translations
+
+ -- Dolphin Oracle <dolphinoracle@gmail.com>  Wed, 13 Dec 2023 19:30:27 -0500
+
 gazelle-installer (23.11.01mx23) mx; urgency=medium
 
   * adjust oobe to not use full screen
