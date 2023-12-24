@@ -1,3 +1,11 @@
+gazelle-installer (23.12.02mx23) mx; urgency=medium
+
+  * use blkid -p instead of lsblk for fallback UUID harvest
+  * remove autofill of ESP (mitigates btrfs add subvolume bug)
+  * update translations
+
+ -- Dolphin Oracle <dolphinoracle@gmail.com>  Sun, 24 Dec 2023 16:10:13 -0500
+
 gazelle-installer (23.12.01mx23) mx; urgency=medium
 
   * ui adjustments (ak-47)

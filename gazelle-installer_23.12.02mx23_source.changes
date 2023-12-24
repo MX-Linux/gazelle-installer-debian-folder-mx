@@ -1,0 +1,47 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+Format: 1.8
+Date: Sun, 24 Dec 2023 16:10:13 -0500
+Source: gazelle-installer
+Architecture: source
+Version: 23.12.02mx23
+Distribution: mx
+Urgency: medium
+Maintainer: dolphinoracle <dolphinoracle@gmail.com>
+Changed-By: Dolphin Oracle <dolphinoracle@gmail.com>
+Changes:
+ gazelle-installer (23.12.02mx23) mx; urgency=medium
+ .
+   * use blkid -p instead of lsblk for fallback UUID harvest
+   * remove autofill of ESP (mitigates btrfs add subvolume bug)
+   * update translations
+Checksums-Sha1:
+ 7922c26b7fe7d6b95fad553fe6eab311d6c4b48f 688 gazelle-installer_23.12.02mx23.dsc
+ c2c0016dc77d8526d3057eb540e266f347cf31f6 377248 gazelle-installer_23.12.02mx23.tar.xz
+ adfcd91723cbc6e7952c9577624e4eb386b66fcd 10580 gazelle-installer_23.12.02mx23_amd64.buildinfo
+Checksums-Sha256:
+ 6c1e4e2a74fbbd2744161d75dca5a2f7a2f1a9a5f78082b26adc4f7fce0d1b93 688 gazelle-installer_23.12.02mx23.dsc
+ 23fd14c179e17dc2ce8f1dda43beb0b824b7c1ac48b3b3d121fd0cf8fda0f884 377248 gazelle-installer_23.12.02mx23.tar.xz
+ d709412c0bc8476872107130f52b1417edb0946d9910ca3da528e5dc57f7e9c4 10580 gazelle-installer_23.12.02mx23_amd64.buildinfo
+Files:
+ ba41fce29d655c065bbca8b672766341 688 system optional gazelle-installer_23.12.02mx23.dsc
+ f9f78695ea37ff2c3e3194c6fb359ab3 377248 system optional gazelle-installer_23.12.02mx23.tar.xz
+ a3e832738174a470348d15b8a0e19737 10580 system optional gazelle-installer_23.12.02mx23_amd64.buildinfo
+
+-----BEGIN PGP SIGNATURE-----
+
+iQIzBAEBCgAdFiEE9i7eqjrnCpyZ2sQYm2ih6Lm2N1wFAmWIoO8ACgkQm2ih6Lm2
+N1xFVA//aFU6DXUWX3fjfVtIDPxoQTnLYcu0fBHEbeL1NwrNxjtcRd9ewQDQ/Aww
+SwzbsK5EYc/gTpohhhrvn9ywuYKgPXVK3a7R6EC/ro52c4U0/iWRsACzbJPVxhV+
+z3CKskNrHoaThocQDTj+T34f1Ccmk803xn0zjo8E2LwYteBywYKwlN9FWzx8Mmeh
+DZ1AMM738vjLu9GfVBNq7Norwuomej4yn/jAQUZsJET8t0tZ6URUNFPntdArbEUb
+NFnbZG5RpSJnSZnF4rT7JcR8FfpE43SaKzximdG1COvo1VqCLcO3QCUu2ZgfZ6n/
+zFhPJC8bEAtCbNg7FxDGjNWlys7PCyyLzopiNKHv8CivrVhyOLTQ38pH+EyIEMaD
+H+jGXRsQ3FkvQIsIbVUwfCvKuyIxy+yafx/cwZGyUk5shWXS2nYvmMjHCk1NzfIc
+jN/VSwlIk02EF7G/yiiX7EK1Nk6OlsOvkzuXRzQ3RFX02K/vUJidBbjF+VdeQrpu
+HhE0z183gjuSdg1F6dnfswuiP3pYIZmjCZbusFn3lm03Ib3fiaKXMCsF64JbX0Qp
+c7wGtRR8fsT+1Z0ui9ei9vJ/HWSIO8Nu0hBtTjqVw17QAMW0CREVtMR0yWdXA459
+zrs+OJIbs9gaGXByx8aHHAkzGj058Lqf9YmHSiiFNRdRB6kYNL4=
+=e6FB
+-----END PGP SIGNATURE-----
