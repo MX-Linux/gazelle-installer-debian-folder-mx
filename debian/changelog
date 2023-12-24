@@ -3,6 +3,8 @@ gazelle-installer (23.12.02mx23) mx; urgency=medium
   * use blkid -p instead of lsblk for fallback UUID harvest
   * remove autofill of ESP (mitigates btrfs add subvolume bug)
   * update translations
+  * Encryption settings (password) moved into separate page.
+  * Volume flags are now selected in the list instead of context menu.
 
  -- Dolphin Oracle <dolphinoracle@gmail.com>  Sun, 24 Dec 2023 16:10:13 -0500
 
