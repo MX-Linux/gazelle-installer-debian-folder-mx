@@ -1,0 +1,47 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+Format: 1.8
+Date: Sun, 24 Dec 2023 16:10:13 -0500
+Source: gazelle-installer
+Binary: mx-installer
+Architecture: i386
+Version: 23.12.02mx23
+Distribution: mx
+Urgency: medium
+Maintainer: dolphinoracle <dolphinoracle@gmail.com>
+Changed-By: Dolphin Oracle <dolphinoracle@gmail.com>
+Description:
+ mx-installer - Customizable GUI installer for MX Linux and antiX Linux
+Changes:
+ gazelle-installer (23.12.02mx23) mx; urgency=medium
+ .
+   * use blkid -p instead of lsblk for fallback UUID harvest
+   * remove autofill of ESP (mitigates btrfs add subvolume bug)
+   * update translations
+Checksums-Sha1:
+ 862ecd0a603df2c85ec6e69ad79396b2c6740377 10523 gazelle-installer_23.12.02mx23_i386.buildinfo
+ 9b70fcdac6b5974b7355a549a33e6a745bfee490 520208 mx-installer_23.12.02mx23_i386.deb
+Checksums-Sha256:
+ f3b234bebcef390d4852cf820b7e3a8a68c33ce1b0990b6e8325cd866654fd75 10523 gazelle-installer_23.12.02mx23_i386.buildinfo
+ 2d91db2bf8d385b0c7e537aef670273b82e48f157f4a684a14f996a7ee264c9d 520208 mx-installer_23.12.02mx23_i386.deb
+Files:
+ 09f5a9f24d3cf569a6c96a79da6cda0d 10523 system optional gazelle-installer_23.12.02mx23_i386.buildinfo
+ 3426a5e6c03692866c52d64c8a640583 520208 system optional mx-installer_23.12.02mx23_i386.deb
+
+-----BEGIN PGP SIGNATURE-----
+
+iQIzBAEBCgAdFiEE9i7eqjrnCpyZ2sQYm2ih6Lm2N1wFAmWIoO4ACgkQm2ih6Lm2
+N1z5OA//W5HtnfJArw4+hlwcc2J9qIjGGsHuOUkJh9Koup/g7nDvs/sBPwJqmCQK
+iBOWHwuvLP3AVzvNrAz0f8cgHu8Z24SeYHfobxojwEO++4hm/D2TpNOgCRuuN4po
+tGKKyP/vH6zvvzCTvEs/zu8hJG7tPiOhbwzH/6OfrxQf2k1sOpQdnup3ZEik+KZC
+lO6EfnRxL67hBd8xDr8gQDHhEzj9MUoty4osGJWTPP9YGvR66BizSUGuzl61/9zt
+f3Dk/zC1K6jgFZ6OTd6tyEm6R9jgk23A8ZDmkFLOLf9MKkHpbxvLpIph5uFoeyrB
+aCYzAzcEK1ZiW0O7tTQPqCeYlRe/seYJzviTbHWla2DbYQTRRlev4kzORdplv110
+xwEkNclHtx0wYBcFftVMNjAvt2Ar04xy8GUoNBsjHDz63uywl+ODOF0Riakg8XPA
+cZt5e81OScP6U2uwHrn0G1DKpl5gGO43/nUVZSPjPYOgaFyUmB8N2G7eKy/QqiRb
+lbAittNjzPISjsi7yOBtz9e+bthjLDd9SQbLj1NXY7x0sh4PqFCRBZyUByYxBkz/
+eHr3MKSuf5pCI+NGdjFTNqGlqzz1N+j74HPe/YEnxb/qKBHzkxdZeJ6vWdZPqOB/
+7fevDiJ3lx0b3AwC3yx84cC0xHtfWYXh4atrWlze/161Q0ssVis=
+=CSPA
+-----END PGP SIGNATURE-----

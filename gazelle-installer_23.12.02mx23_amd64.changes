@@ -1,0 +1,47 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+Format: 1.8
+Date: Sun, 24 Dec 2023 16:10:13 -0500
+Source: gazelle-installer
+Binary: mx-installer
+Architecture: amd64
+Version: 23.12.02mx23
+Distribution: mx
+Urgency: medium
+Maintainer: dolphinoracle <dolphinoracle@gmail.com>
+Changed-By: Dolphin Oracle <dolphinoracle@gmail.com>
+Description:
+ mx-installer - Customizable GUI installer for MX Linux and antiX Linux
+Changes:
+ gazelle-installer (23.12.02mx23) mx; urgency=medium
+ .
+   * use blkid -p instead of lsblk for fallback UUID harvest
+   * remove autofill of ESP (mitigates btrfs add subvolume bug)
+   * update translations
+Checksums-Sha1:
+ adfcd91723cbc6e7952c9577624e4eb386b66fcd 10580 gazelle-installer_23.12.02mx23_amd64.buildinfo
+ 82072d9b51dcbcf44be4cf93790b21c2ff214c46 503728 mx-installer_23.12.02mx23_amd64.deb
+Checksums-Sha256:
+ d709412c0bc8476872107130f52b1417edb0946d9910ca3da528e5dc57f7e9c4 10580 gazelle-installer_23.12.02mx23_amd64.buildinfo
+ b8fb1b88d54782cdc1231996bf22c48cf4335dd973ba594e21039fbb83fd7ae7 503728 mx-installer_23.12.02mx23_amd64.deb
+Files:
+ a3e832738174a470348d15b8a0e19737 10580 system optional gazelle-installer_23.12.02mx23_amd64.buildinfo
+ 9440a320c78e49fc9f47c2b7cd513529 503728 system optional mx-installer_23.12.02mx23_amd64.deb
+
+-----BEGIN PGP SIGNATURE-----
+
+iQIzBAEBCgAdFiEE9i7eqjrnCpyZ2sQYm2ih6Lm2N1wFAmWIoO4ACgkQm2ih6Lm2
+N1y1bA//UF+rJPXlo8NuBJHFHsfpr94iUumoSe5t9qL1/vc3pFYw+AfElHNbWQaL
+LAT8WksbSgqXuQWL4rN89EiKauEVzoCWJRb8sJLghLJ2AT4NWZtBIm4ZOa6UTix/
+yR3oGzVIbHt8HS3fckpOE4Z4thtOLQGDZiTTK0WXajjDO/NLVa6hNKFaXIQrHPpU
+7vfW51O1nzMcfh6TnJkUJHmXhIxSQLKkjdLu6YfIpKhXkg9RTgApK86ezMlBEjPh
+qe/G3MxfmjonfUZQ53/8QyMd1c3tP0dbrkwfSG5WXDHwDN2e+hmdLZN/PC2b79Bf
+Qnmv7BMjnCRUUDGUDL2YhSkqEBADnB3yp+5oC65LJEYPp9MWguAqHNbcPCiGxIEK
+Z2CYeZPf0ixSSc7Ej4uB1aRJR+5I8tOBOEBvnXVMD7Mc5T0z2Lh+oIfkWRzn5TKS
+5p6ninAVBin4P+nuEvXmKM3OfrMu0Zu1EXNnXD71q8WIIgkXc8wDrwia8JG0HsUp
+xc5+OpDGqbhidBDKRZZcuqQuItvaLJwd5NVBOXLhAPANYtzKm0v11kk5+yF4JweY
+TFVnDXkwWmO/hd5miLJtuzk8jq3PEA5SsXXeWxAPwIv84ByZc4nhQq9nukq4bjqR
+fKS7MLwkEr7DPoe39+u7jvl6u+Uskb3y2r058QOqhPk719lKwQY=
+=JXl3
+-----END PGP SIGNATURE-----
