@@ -1,0 +1,45 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+Format: 1.8
+Date: Mon, 25 Dec 2023 18:53:30 -0500
+Source: gazelle-installer
+Architecture: source
+Version: 23.12.03mx23
+Distribution: mx
+Urgency: medium
+Maintainer: dolphinoracle <dolphinoracle@gmail.com>
+Changed-By: Dolphin Oracle <dolphinoracle@gmail.com>
+Changes:
+ gazelle-installer (23.12.03mx23) mx; urgency=medium
+ .
+   * ensure unique machine-id on oobe setups from images
+Checksums-Sha1:
+ 6e1134dbef67791783624b0ca7b7e4042b1068e8 688 gazelle-installer_23.12.03mx23.dsc
+ 6a771e0f0a5db9899eb218bd32ad89014a36cd68 377444 gazelle-installer_23.12.03mx23.tar.xz
+ c6803aeca3d587a93b8ea1c9b88acefd391b04ff 10580 gazelle-installer_23.12.03mx23_amd64.buildinfo
+Checksums-Sha256:
+ 822918185635b4a2e2a64b950aa03999cc92cbcf7c6c4ed645ef8f66689f1eb3 688 gazelle-installer_23.12.03mx23.dsc
+ 4b908062f019c792787c006657660070ef6d0522b37493a190bcd0ab56f3afe2 377444 gazelle-installer_23.12.03mx23.tar.xz
+ 7444514113ff6b1fe57a9c8257931264771c9f96067e1a0584c3bb811a1f5f16 10580 gazelle-installer_23.12.03mx23_amd64.buildinfo
+Files:
+ 163d1bb685ded53624e2435c01943a88 688 system optional gazelle-installer_23.12.03mx23.dsc
+ a3869f8fba1fb6676c8a697784cc0273 377444 system optional gazelle-installer_23.12.03mx23.tar.xz
+ b2a3b1800aea292e615eb7cc5a6ba8dc 10580 system optional gazelle-installer_23.12.03mx23_amd64.buildinfo
+
+-----BEGIN PGP SIGNATURE-----
+
+iQIzBAEBCgAdFiEE9i7eqjrnCpyZ2sQYm2ih6Lm2N1wFAmWKR7QACgkQm2ih6Lm2
+N1yRcRAAuSpVegz5sDfH1Fi+864Kz3S9rFD2vh0/RJgSMEhAbTTFDHoBHAWeNHQs
+23V2pPES7GMc7++XEfNr1k67cssTiHeGtwKXduM8KzvyCavPdCIX9+81kXDJvImr
+92DOMvHoTb9N9rLHEZIVO9n/X0PoWE/NWt6K4tAbL0MYOF6k/ePYlQvQnLY6jYkI
+q2dA3s79QHWCwHZNZmrxC51/C3HpnTdLMRcsFfyuxcSHALVOP1MGJUiSgJMFZcli
+eqCzZsdYtLNAJqWK1ipmqGFsR4ip3lNOBivP3pzv/ftl9DUeEFi/iIcTr03oMeR4
+Re9k6fRdl5m82H3i8Cp6lNM7czjPVeK1eWLSGZK9f5r2ZWu0VmFF5fvAS1QSbl4w
+ISABlpiBjdQobXE5uZdR4HbnnJBSDFAchtABKVYHvb7DX/rAI61VqJv5tkLxQNOk
+7M8RlJFLSeOZMMBZaj4nChW7amvOCYJoU7E0j3dzuUd6UENNWXs74CUMB4qqvHwX
+D5w0RkfKwjHGe/MtyjLe+aoR2x2j+Qgtp1LII7AiWEv+w5BUGaParfTyAlElzYIn
+ohx6A+9DQgp9c/AtpfGMfM+ThPbX92AM+2q+KQ6p/74cfmlMDFa7HJVjYiS3wS2D
+7/U34ZULIGGUflpSz83Xq2saGguUhwMAwA779lps4gZkV2QU2iE=
+=KFjf
+-----END PGP SIGNATURE-----
