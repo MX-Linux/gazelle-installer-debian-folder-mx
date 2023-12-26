@@ -1,3 +1,9 @@
+gazelle-installer (23.12.03mx23) mx; urgency=medium
+
+  * ensure unique machine-id on oobe setups from images 
+
+ -- Dolphin Oracle <dolphinoracle@gmail.com>  Mon, 25 Dec 2023 18:53:30 -0500
+
 gazelle-installer (23.12.02mx23) mx; urgency=medium
 
   * use blkid -p instead of lsblk for fallback UUID harvest
