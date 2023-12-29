@@ -1,3 +1,9 @@
+gazelle-installer (23.12.04mx23) mx; urgency=medium
+
+  * fix typo
+
+ -- Dolphin Oracle <dolphinoracle@gmail.com>  Thu, 28 Dec 2023 20:41:06 -0500
+
 gazelle-installer (23.12.03mx23) mx; urgency=medium
 
   * ensure unique machine-id on oobe setups from images 
