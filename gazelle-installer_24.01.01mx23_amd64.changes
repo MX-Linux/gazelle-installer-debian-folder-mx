@@ -16,30 +16,31 @@ Description:
 Changes:
  gazelle-installer (24.01.01mx23) mx; urgency=medium
  .
-   * ignore libx32 if it doesn't exist
+   * ignore certain folders if they doesn't exist (toram fix)
+   * show/hide button for advanced parition options
 Checksums-Sha1:
- e0a3c9032ae3bafa4d4d0c9842ea5f15811f504f 10580 gazelle-installer_24.01.01mx23_amd64.buildinfo
- 1bdf21e6ce09b8b6837dc7a6fce0cdf7e420687c 504732 mx-installer_24.01.01mx23_amd64.deb
+ 812cb2c30af60ebccb4c6a4184006c3222013641 10580 gazelle-installer_24.01.01mx23_amd64.buildinfo
+ c13ac2f8e5b710bc93182a2eae9920a335074c2d 506984 mx-installer_24.01.01mx23_amd64.deb
 Checksums-Sha256:
- 0259b021f85f0fc4f98a4084c346a19488fbeb975cd193597fb9dfaf5c845db7 10580 gazelle-installer_24.01.01mx23_amd64.buildinfo
- 4ce64d9104ef863307a559d2c38bd0c182d94c90ad6e0de2cbecfa0d29409737 504732 mx-installer_24.01.01mx23_amd64.deb
+ cef6222e57b9856e114dc95aeb2d86a0ead34be694aa5be8bff11ee3c1317237 10580 gazelle-installer_24.01.01mx23_amd64.buildinfo
+ 167e01ecdd18ad64ff1a3e8de7f49de3cda6dc8e4487d2b144279a61c7104933 506984 mx-installer_24.01.01mx23_amd64.deb
 Files:
- 315af87d81a7852f065b24ecc05091fa 10580 system optional gazelle-installer_24.01.01mx23_amd64.buildinfo
- 89a61704f3a834b0a8f7cf65eed25863 504732 system optional mx-installer_24.01.01mx23_amd64.deb
+ 425a2265792fa819b070b343dd75334e 10580 system optional gazelle-installer_24.01.01mx23_amd64.buildinfo
+ 7ca97c32202212aa42faaced49af97be 506984 system optional mx-installer_24.01.01mx23_amd64.deb
 
 -----BEGIN PGP SIGNATURE-----
 
-iQIzBAEBCgAdFiEE9i7eqjrnCpyZ2sQYm2ih6Lm2N1wFAmWtJB8ACgkQm2ih6Lm2
-N1yG8RAAydeHOQ+/uO3JYATwhHA7hCNZoYnFQY1uiXxHnjcEGGNgv8Cmq46HYg6J
-DtZLUMBiUMeyZfKx3C4IGQ3VdZHcKePV0iF8m5CtIuNiGSa9q/eANtexlUuqjC3Y
-Gx1B2ULwPbM9rfGuIT1rLwryt6UcayzjvVquCYmwd6711YzsjLahhvPxGaCbOmPr
-nge/pfkkIvP9KdjuWzXT7wkW/d5nZFpMh99OBgaGB2s8AYDsy2SBI1HKM/szFDhB
-qSy5IPbaLL4CYxAy8mUB3paN4/0dY0QVlItDJktH4mV5n2YMJYL7RQMzGrHw8MjD
-+u0KCrAqAMsux00aDCV22SC3COmwP3MVNcaHlx63EV0eVFujKQTu09BrodOJouzS
-sn3mdiCWOQezrramnldZrxMubC+J+OiCdhuWNNbghmqQZJwISgqF2M8WvkxIkVG3
-WgNtmRhJ4yUDVwwgQPwGsWRUa8LrB04NYuu3ICqVBgA0e3j39gYdkKMleu9wW9+7
-rBOcYO1lCQJoWk9csNmjsl6ubhSwRWwkcF7yGWDYhfOU+ij4Q4OqXRtiw6pcxt8G
-0NT+ZF9E+kO6hEAvS+2fHPJ73YuO7Qp2nCOyin/uEDW9sFJqkb5G+syxsroElpjK
-lUT2RrohYeRVi94M3IvibeWergLDpN0kuJYyRzmcT1RKfGGu+Wk=
-=EqXN
+iQIzBAEBCgAdFiEE9i7eqjrnCpyZ2sQYm2ih6Lm2N1wFAmWtTwsACgkQm2ih6Lm2
+N1w0yRAAs5Z3u45bO6TNeC1wjn4Fx6HdfZQ/1V6i7S9a3A34CEKYDCfROkdGjq4M
++L1Zbmp4Lnn7jrUmX6CfKBh54Uarvi9ES/MlzQB9ac0DZJisX+SuV7YrOqv/AKYH
+Nb1KlQa09h/LYai0bfUTc3P2HUIaja1jF5q604F02VaYM09lQIjZYLmjfjds34RC
+Qud34vF52Y3Io7XyhynircPrMdq+hwAInXeQ0HOAXJ7YsZ0cLrJoEvbXvMZKq/Op
+9kNeOkgIe4n19/rRTP0XB1yHgBkeMNQS33VZ/X+oSrBPI46Rwue/JCr0ec0SHkUN
+VS2wWa78xUnNcEzpEYfIi/+lnRSeKCVSEt44kGphc8FsVCPgPwPRGNVZhw6w8qMW
+P4Iq8lpCSB9jR55S3oHLX2+pALTUyfp5W0Wh+jmNfpe2A9sMjzdB2ktuZ3VVdW/l
+3b1BiDT7cZaDGBj55XNUZXK6iZIMEbRP8oMKQ/Sw1d+qQPkoz4bPZ1DQvpZvRxgU
+2HP/t9uT2nidAx/7FjNULqJ0kxayiNHY5xQ+vaNKCxjRk8pf2qkInJCi7xUYefeW
+OS74tHYNXXZP3KiyFmrW6EAeSWjKEAD/nJ20ZDo3ac8Qcc0TRxmnqsZxc4xEoAGv
+pnVA0KVLd8fQiLS/KQxc9sLNnoyOFmctlIJr7VQG9GKr5I3nuqg=
+=0P0+
 -----END PGP SIGNATURE-----
