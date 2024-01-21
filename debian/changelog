@@ -1,3 +1,9 @@
+gazelle-installer (24.01.01mx23) mx; urgency=medium
+
+  * ignore libx32 if it doesn't exist 
+
+ -- Dolphin Oracle <dolphinoracle@gmail.com>  Sat, 20 Jan 2024 23:12:39 -0500
+
 gazelle-installer (23.12.04mx23) mx; urgency=medium
 
   * fix typo
