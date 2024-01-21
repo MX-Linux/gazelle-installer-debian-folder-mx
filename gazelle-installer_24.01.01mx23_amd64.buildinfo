@@ -7,14 +7,14 @@ Binary: mx-installer
 Architecture: amd64
 Version: 24.01.01mx23
 Checksums-Md5:
- 2cb1a14cecebf3e2b944d5e02a8db029 504204 mx-installer_24.01.01mx23_amd64.deb
+ 89a61704f3a834b0a8f7cf65eed25863 504732 mx-installer_24.01.01mx23_amd64.deb
 Checksums-Sha1:
- dd3d89fafdbbcf7d4e0a0b8919f538aab4d8c964 504204 mx-installer_24.01.01mx23_amd64.deb
+ 1bdf21e6ce09b8b6837dc7a6fce0cdf7e420687c 504732 mx-installer_24.01.01mx23_amd64.deb
 Checksums-Sha256:
- 35e9ec29365f9b11c37edf7bcfb1dd19c586c93d161b44a9e5640941cccff7ab 504204 mx-installer_24.01.01mx23_amd64.deb
+ 4ce64d9104ef863307a559d2c38bd0c182d94c90ad6e0de2cbecfa0d29409737 504732 mx-installer_24.01.01mx23_amd64.deb
 Build-Origin: Debian
 Build-Architecture: amd64
-Build-Date: Sun, 21 Jan 2024 04:25:59 +0000
+Build-Date: Sun, 21 Jan 2024 13:42:45 +0000
 Build-Path: /build/gazelle-installer-24.01.01mx23
 Installed-Build-Depends:
  autoconf (= 2.71-3),
@@ -347,17 +347,17 @@ Environment:
 
 -----BEGIN PGP SIGNATURE-----
 
-iQIzBAEBCgAdFiEE9i7eqjrnCpyZ2sQYm2ih6Lm2N1wFAmWsnpoACgkQm2ih6Lm2
-N1xTvhAAubEkcs+kCD/DX3jQ4b4XaVrKm3rPIVNb+y23gHIWRbTsy8eesqj4je9i
-e1Mxy8Z4B0mMIcWWQX8KpWLGzGqC+TBxZFK/u/MdPICgzkyS95fD9s6v4LE07XYL
-93xzBQj2IqnlcPIXO/Qzy1vAx28x5rSs6rDOnAaqW4elPAmHzVuE2+k14ebQPWrm
-DUc9T4nbPHKP5CYN+CGYLtry5hiCy3DN53dspO/4miMLRqsN5PDwBzlcp9uaJuf8
-wJk4Pf4uUovPIxwWf2enEhNXohwO0vfLo8QoXBKNC5XE0tm+UjM8eLBtnIiWeskD
-OODAtQSp3TSFqa77b0wYSo4rvueuysF3Cjaho4HDdpx2WrMr1tFqT6BCrDEz1aY/
-Z8+EiejaoMJfORNqiQILpNoFXIc9BkP8wxPOfEyljBjdCs3hapHyqJRrvZRFCkZQ
-V6qixFMN8fA/Y8ftjZ5R9Mv+F78QUdKJSbM7iJHOaNcgmUgO7cplktPWhoYXICWg
-twEWGzTHxooF9CSO1SbpMIsxRdTTeDYLHubQNVKTtXIVuKb0qR1yziMWNP8ndywX
-0r1Tz2QJwxeqqgpQpjwbOjMp0RolefNh80A4uvHOeFGFha7ffwKjI5SRnjNwzZO5
-ReLkRXSNQPmu1YGRM/ht3dNUwYc/GiJrnyQEnkCFc9qWFV+YzRI=
-=/Xy9
+iQIzBAEBCgAdFiEE9i7eqjrnCpyZ2sQYm2ih6Lm2N1wFAmWtJBoACgkQm2ih6Lm2
+N1wkTw/+Nk6CGR82dGKALYe8vcXfKQk+gqeauZVO5BUVqC/njK6g6WykT00ikyTV
+TKOP9MsmrfVg25Tg+EmdCoXYlezmefX1j6xZ8ENaxZxXp3Pa3cBn0fUaAHXIk5kr
+VPQHpPGzm7cltjGLN/wIi81vzmVFsM8GGZmQySrURPSlLwyobxUfV7g1bE1My+nT
+2bCoaIMbgZMYTRKOh6lNWoHVx55qXRIebQKufzDMNNkzqSxbuCKz2y3EAADPBBb9
+bLJ4wBkiskFKqc7Q8sfKQA+FlSmypXdTvhcRzcB2bXjf4cWO2YuF4Z3EE+vAdMsS
+NSjj5/lm2c0/l4vRtKz/YBK6kvhSrZch/v//0OadDaWU+r3TfvmhkFuz2LRRMY1C
+vDRDEYKdhUegaaUT3ZEbnYydTp/9j9O0KQZ7Sc7tCWi8jjfQS7n21Ov8C0yvIRDo
+McTG7jwvD/60PM034ONXhqmpiPhtEcaNxOoAaqcLWwB+x1dKgjvXAlDdKGNBKUk7
+f8XN2vp87/V+LcLIlgeDaMfHjKW7Tq43TXY7KH6U66VVnU6ih9F/6Uh5kXfAxC0P
+SJvYMw84ASs+K1yehH5HsFnW5+4CiLQDQIzlNAc+WczI+iAFu5QOBjkQmVk5hpgu
+70jOBIrERc21krFrFBa3q7rb9Z4FJwMreMPevOmcTtqXzxyqEDo=
+=FMma
 -----END PGP SIGNATURE-----
