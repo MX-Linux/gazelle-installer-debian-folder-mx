@@ -1,0 +1,45 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+Format: 1.8
+Date: Sat, 20 Jan 2024 23:12:39 -0500
+Source: gazelle-installer
+Binary: mx-installer
+Architecture: i386
+Version: 24.01.01mx23
+Distribution: mx
+Urgency: medium
+Maintainer: dolphinoracle <dolphinoracle@gmail.com>
+Changed-By: Dolphin Oracle <dolphinoracle@gmail.com>
+Description:
+ mx-installer - Customizable GUI installer for MX Linux and antiX Linux
+Changes:
+ gazelle-installer (24.01.01mx23) mx; urgency=medium
+ .
+   * ignore libx32 if it doesn't exist
+Checksums-Sha1:
+ fb524c0c049d59bf57f69656276abf70b0d4c995 10523 gazelle-installer_24.01.01mx23_i386.buildinfo
+ bed41839718a9e7bc98301e2b1a51ebad03991ab 521788 mx-installer_24.01.01mx23_i386.deb
+Checksums-Sha256:
+ cec15adc0f586220b96073bebddb61132033a63c43580bdec06c037371fb4182 10523 gazelle-installer_24.01.01mx23_i386.buildinfo
+ 9c578fd6d60a0be7d452280387ed6a8f94eb5860620ac5dad90de84a4c1c3c9d 521788 mx-installer_24.01.01mx23_i386.deb
+Files:
+ 565c5c2656b276315305fd6b073b1671 10523 system optional gazelle-installer_24.01.01mx23_i386.buildinfo
+ 44f4b1910b8ec3c8c965d9d4718b13dc 521788 system optional mx-installer_24.01.01mx23_i386.deb
+
+-----BEGIN PGP SIGNATURE-----
+
+iQIzBAEBCgAdFiEE9i7eqjrnCpyZ2sQYm2ih6Lm2N1wFAmWsnpoACgkQm2ih6Lm2
+N1xHjBAAjdum/UHz7eEB2woWmg4LlaeiBBNhFg82VD/FK2BmiLji0qtpookIh5Yx
+m2mCXaZ8SbpvWkBI+jnWs6+fStfCFfXpG+8/+m1R6TrMlc4tiyXsLeEn2UckbRiN
+Abj/JQRqMMx0NMzHqiGIquhOUrLxhqIFG0AhyFiOl5Vbkjl5xfc0V/zbIcPiaOxS
+b9DGJ/gML6MSwom3MZspRLFBSA7S4t9SNGXPTpu4MKTUVYiOAXSPbNPj1dfGV7Ck
+ECZcVgcidSGAzpcQvFp2t+89P9WgcSGiUVqcpkRB1tzHheJePXtiMYppzVekLDN4
+scbqd71s4aKZjJem25mNe+LFSTF30Vz4k7yri9jhNqC8LnzE6envKzeCab5Q3Yvy
+wrY9oCfqd4ej+7uqCuB8FWSWFGoWYPOxtbNA2yqxNPkZ9ii7Djnslskfnk+kJ1Rx
+3zH6NM9tiyzBIRUeGpXtsW7aoLvNw+7iKf2auEQ1Mp43DjyNFs5tblJ2FYFV5SG6
+5eh2rc+RxugLS85kYuiTi56ITXtHbRAzIqGvl5ig8Y1V+qupdzEdaGYBgluh7rbD
+HC82hTrSt4pReYE2GHxFhq6EFBdS/lRET0udG+0tgLvu9a7xAwrKWdEAqrrSrkcy
+2KH1NbrNZhwLyIz0QOJEvZB6xLhekMMOqXceqLvirkEY+7mEqrM=
+=4auE
+-----END PGP SIGNATURE-----

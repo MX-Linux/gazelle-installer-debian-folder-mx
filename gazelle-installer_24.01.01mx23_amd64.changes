@@ -1,0 +1,45 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+Format: 1.8
+Date: Sat, 20 Jan 2024 23:12:39 -0500
+Source: gazelle-installer
+Binary: mx-installer
+Architecture: amd64
+Version: 24.01.01mx23
+Distribution: mx
+Urgency: medium
+Maintainer: dolphinoracle <dolphinoracle@gmail.com>
+Changed-By: Dolphin Oracle <dolphinoracle@gmail.com>
+Description:
+ mx-installer - Customizable GUI installer for MX Linux and antiX Linux
+Changes:
+ gazelle-installer (24.01.01mx23) mx; urgency=medium
+ .
+   * ignore libx32 if it doesn't exist
+Checksums-Sha1:
+ b6a240f168a3e3260d07787b97975eb3722a526a 10580 gazelle-installer_24.01.01mx23_amd64.buildinfo
+ dd3d89fafdbbcf7d4e0a0b8919f538aab4d8c964 504204 mx-installer_24.01.01mx23_amd64.deb
+Checksums-Sha256:
+ 2560ebafc066d0476cdfedb5ef9c8b8dce04cbdfdf894dfc39d1944d8c529325 10580 gazelle-installer_24.01.01mx23_amd64.buildinfo
+ 35e9ec29365f9b11c37edf7bcfb1dd19c586c93d161b44a9e5640941cccff7ab 504204 mx-installer_24.01.01mx23_amd64.deb
+Files:
+ 6f8305172346fad44f1ec88e843b7c32 10580 system optional gazelle-installer_24.01.01mx23_amd64.buildinfo
+ 2cb1a14cecebf3e2b944d5e02a8db029 504204 system optional mx-installer_24.01.01mx23_amd64.deb
+
+-----BEGIN PGP SIGNATURE-----
+
+iQIzBAEBCgAdFiEE9i7eqjrnCpyZ2sQYm2ih6Lm2N1wFAmWsnpoACgkQm2ih6Lm2
+N1zigRAAzoMsIkUXZyLbEjzHDoTIhTeP50qpqd5NdNj9qZ0D4I+KdY45ofVINfE0
+StUHmB+xKs8tGbm+q/UlsxMbRo5CRykPOp9I13VK++Qnrvx6jeHqRRQtgS72bFKr
+mcnBVsXkmEE0eTWMGgJtjT2E9raq/Iy03jqO4JiQMbdzvr8bNJC8SPVZrqgwF7rk
+LOr/0S9OG0vLNmzKeVSvWP8497wjnoQUFkL5zqrY26AHnuiTniQuhVjFmhKolSry
+uFM/TutTrHLbkiSDehjnFLpkRGvU0P1c4u8+Nsr6E4MCvjcJmMOuzpdYDXZ504Gy
+bPl0bdK1uphu54BbVxoQ8k3FUemzp3DGsY2TCjwgdtG2sSBfVmU3RkFNdylde4eF
+/L7b1IwPHLPaOhWDhuQAMW10vaGRuhGdIFpXOY8B4jlhdsh3o4yuSYaIj+wKgg6x
+7o94GaDvn41TsAsCJ4ga/sQDxdLKmCG6lpwVnbEw75M2gl8EQYLesYHBHxYJ8b8m
+wcqTHP2S4hUhYMJgqV9/homdtq8pqTXN4QODSHcFaCdMy+sZSvOLHq1amuIpbRv6
+lctf+xN0BAD/e9j5O0g0hShbIcZ3gUf+2mTbUxi1gYozKCYmnn7B5+44cng+v8cE
+62WAlhW9RmHQg8xNj4Rqk6DUWuo9M85YnkGyLnaBZmL9uT2wSAA=
+=+Lya
+-----END PGP SIGNATURE-----
