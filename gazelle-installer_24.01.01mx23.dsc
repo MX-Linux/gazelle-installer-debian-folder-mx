@@ -10,8 +10,8 @@ Build-Depends: debhelper (>= 10), libzxcvbn-dev, qtbase5-dev, qttools5-dev-tools
 Package-List:
  mx-installer deb system optional arch=any
 Checksums-Sha1:
- 62951ae1eeb3a2eca26203dfa4fb51dcc8301e63 377796 gazelle-installer_24.01.01mx23.tar.xz
+ a668f69d080916347a7d2caee0f3a778672683ab 378188 gazelle-installer_24.01.01mx23.tar.xz
 Checksums-Sha256:
- e77bafff3efd35a5c28827737a913f24301a080c9a5aa28201903c184c594d4f 377796 gazelle-installer_24.01.01mx23.tar.xz
+ e813dffa301e4df8135656a9126c983abb2fd05387b414bee0f2b1df53839ab0 378188 gazelle-installer_24.01.01mx23.tar.xz
 Files:
- bf37e6f4fd666ac7267deb878ba5a148 377796 gazelle-installer_24.01.01mx23.tar.xz
+ 0cbaf70bb8539759f3602c9a881950bd 378188 gazelle-installer_24.01.01mx23.tar.xz

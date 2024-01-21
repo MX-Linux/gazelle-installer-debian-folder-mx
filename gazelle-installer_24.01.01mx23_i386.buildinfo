@@ -7,14 +7,14 @@ Binary: mx-installer
 Architecture: i386
 Version: 24.01.01mx23
 Checksums-Md5:
- 44f4b1910b8ec3c8c965d9d4718b13dc 521788 mx-installer_24.01.01mx23_i386.deb
+ 569e838c2aab74f336e44fdc4413aba7 522424 mx-installer_24.01.01mx23_i386.deb
 Checksums-Sha1:
- bed41839718a9e7bc98301e2b1a51ebad03991ab 521788 mx-installer_24.01.01mx23_i386.deb
+ 9258a83e6d6f50cc00ef23979c3ad1b6a4ca82f8 522424 mx-installer_24.01.01mx23_i386.deb
 Checksums-Sha256:
- 9c578fd6d60a0be7d452280387ed6a8f94eb5860620ac5dad90de84a4c1c3c9d 521788 mx-installer_24.01.01mx23_i386.deb
+ 01e90fa31d0d8d6945bcbec9ac16fadbdda5e7cf805532aff96602fa354e61be 522424 mx-installer_24.01.01mx23_i386.deb
 Build-Origin: Debian
 Build-Architecture: i386
-Build-Date: Sun, 21 Jan 2024 04:21:17 +0000
+Build-Date: Sun, 21 Jan 2024 13:37:46 +0000
 Build-Path: /build/gazelle-installer-24.01.01mx23
 Installed-Build-Depends:
  autoconf (= 2.71-3),
@@ -345,17 +345,17 @@ Environment:
 
 -----BEGIN PGP SIGNATURE-----
 
-iQIzBAEBCgAdFiEE9i7eqjrnCpyZ2sQYm2ih6Lm2N1wFAmWsnpoACgkQm2ih6Lm2
-N1wP8BAA2we95cTCjSCtK707CN844UeqR3VPtyz3013o2PXl2V9wiMXXtozS0I4V
-Ogtb+fOIsIPBSmt4oT1vx9BBddLXYwhvAkR6Rp9rT+uSDu1t3wFdMWEVx5QJ56aH
-MWWFPqAMwyIWPgk2mtcbzfNicvwaTDWWIIhpbXTAuLJljzA3yaVt+ePnXqxHE3QO
-CWAxDiW9x9xCQXJl/OCu1tsgVcUMY3w+P0oCsvvaeK6BGF+Rsv6wvP8VpowvqKtg
-8XVmZuMD55pCebSkJLGSrWOsoca/mrl/8eYQNRg93brWP4wcs7vrCJ1R2iDNprIU
-QnZnsLDJCZoknqKQ6NFJq482gi0CYiRm3ijDIluMpI5OTe4sFaLypLcRtkudr02B
-2yXXnW+0wKPvuz9syqk8Tk22iN+JU3BkSiy0cXkkQiuWnJ7sh/6CImGazhWcFxr5
-CMtAlqUlYf0gr5VQ3Fk7rRH4SnMmJGGepeJyhHy296Kol2zXjYl3wsm+wUyZjXoi
-6Nx39DS/C/4kAD05PBb9rO0B9Z9rVU81VZ8lwiFcrETdN7gWwEddEDM2IxPRKkoo
-6vx7Q3Ge373OzfOJenhPEksqL+CgNbqWHxQRCrECTgd9/DqZrL7JAAfnIdnIfgn6
-1efGAn4PvXaqjpz7cppvLT0xZ9gdyomC/jqpWQZiMZSCBQ/0N04=
-=aY/F
+iQIzBAEBCgAdFiEE9i7eqjrnCpyZ2sQYm2ih6Lm2N1wFAmWtJB8ACgkQm2ih6Lm2
+N1wvww//cXawtY8WJn7khj6VRth13uFilo60nxX+W2mob7IHk7V593mj02Sh7De6
+qMmnq40H+SIY9jHk2Wpj8dxFTJQWXDa8Z2TRHauWA2DLlaJEEuY0olW5DtyF1N1M
+qGM1exa5wvlmJSYtW2m5NtojvBYfqYiNzEGw55IOvKrnWgVWaWQrXVICdlFPyfE5
+GiyFaxl/sqG/9utMANZCwHAnE5KJnkFzOWXgfJxYG9BXC0LkFg8AqdK8aoqyWgZy
+EOs7TbKp52jvl4AvtiWzLHMd6d/Al0HL+9Xgk0Fi6nsXrjZRBtKCYY+CPsHTq8Mb
+RugfhGjckkoxhdsMPz3hxbwCJ535EsEF61tQtFzLwjLzCiTi5TqAsRLwdW9jiQZZ
+homkYtrKtYcqR0RTZ6vF1Kbnz46t29AJBI22jKdnsLEw2TFKkycmILnTnP9umq+k
+gqPqB7Ygk+euNobYx5z1rYCrij6rxniuDMvReA4xbwzhb1JolatQz82VQyuKgeVu
+3wEN1WU5L8+E9425E3hhAYNNc+y9qwcrvDz8QSNSY13aVsFeAMwvKvhz2/24ULpP
+1+uBFD75TaGnLCssMp7hX0yOvp4ekYSEndYVrfCdskhXXZ4QLQgKDsu3kK2cDC3w
+/1eq9Yo2Ril9DlEi0347RxrQloRh58hDshcfTrJTmiA6P54InjQ=
+=mo1v
 -----END PGP SIGNATURE-----
