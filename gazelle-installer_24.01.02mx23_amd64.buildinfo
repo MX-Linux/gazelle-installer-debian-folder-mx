@@ -4,18 +4,18 @@ Hash: SHA512
 Format: 1.0
 Source: gazelle-installer
 Binary: mx-installer
-Architecture: i386
-Version: 24.01.01mx23
+Architecture: amd64
+Version: 24.01.02mx23
 Checksums-Md5:
- cd99b63247da62c3baf0a42187f55a20 523952 mx-installer_24.01.01mx23_i386.deb
+ 6706c4f58462feff04a37f728c8189b2 507620 mx-installer_24.01.02mx23_amd64.deb
 Checksums-Sha1:
- 0e016986deface161ab5fbfe02a7bd269de4ba68 523952 mx-installer_24.01.01mx23_i386.deb
+ e3c252756983eb66b4dd730b29cc730b2affa0ea 507620 mx-installer_24.01.02mx23_amd64.deb
 Checksums-Sha256:
- eed7ba7c52460923116defced2080a78a5f7f635270b2c759ccfed705b303ae0 523952 mx-installer_24.01.01mx23_i386.deb
+ 2d476af7f2e5d22e52f8fd99aacc4fd5516d6641a5e090eabd25399933071c08 507620 mx-installer_24.01.02mx23_amd64.deb
 Build-Origin: Debian
-Build-Architecture: i386
-Build-Date: Sun, 21 Jan 2024 16:59:18 +0000
-Build-Path: /build/gazelle-installer-24.01.01mx23
+Build-Architecture: amd64
+Build-Date: Mon, 29 Jan 2024 00:20:51 +0000
+Build-Path: /build/gazelle-installer-24.01.02mx23
 Installed-Build-Depends:
  autoconf (= 2.71-3),
  automake (= 1:1.16.5-1.3),
@@ -26,7 +26,7 @@ Installed-Build-Depends:
  bash (= 5.2.15-2+b1),
  binutils (= 2.40-2),
  binutils-common (= 2.40-2),
- binutils-i686-linux-gnu (= 2.40-2),
+ binutils-x86-64-linux-gnu (= 2.40-2),
  bsdextrautils (= 2.38.1-5+b1),
  bsdutils (= 1:2.38.1-5+b1),
  build-essential (= 12.9),
@@ -162,6 +162,7 @@ Installed-Build-Depends:
  libkrb5support0 (= 1.20.1-1+b1),
  libllvm14 (= 1:14.0.6-12),
  libllvm15 (= 1:15.0.6-4+b1),
+ liblsan0 (= 12.2.0-14),
  liblz4-1 (= 1.9.4-1),
  liblzma5 (= 5.4.1-0.2),
  libmagic-mgc (= 1:5.44-3),
@@ -236,6 +237,7 @@ Installed-Build-Depends:
  libtirpc-dev (= 1.3.3+ds-1),
  libtirpc3 (= 1.3.3+ds-1),
  libtool (= 2.4.7-5),
+ libtsan2 (= 12.2.0-14),
  libubsan1 (= 12.2.0-14),
  libuchardet0 (= 0.0.7-1),
  libudev1 (= 252.6-1),
@@ -341,21 +343,21 @@ Environment:
  DEB_BUILD_OPTIONS="parallel=4"
  LANG="C"
  LC_ALL="C"
- SOURCE_DATE_EPOCH="1705810359"
+ SOURCE_DATE_EPOCH="1706487233"
 
 -----BEGIN PGP SIGNATURE-----
 
-iQIzBAEBCgAdFiEE9i7eqjrnCpyZ2sQYm2ih6Lm2N1wFAmWtTwsACgkQm2ih6Lm2
-N1w/sxAAyKIyzdW+KHDE+L0rBpUKNNp1Q/+V1RNILbKMzGF4qWOj1/Ne5DevsemY
-4+XKcL6CduPmu/uBJus8xP2vnvUGjXlLiKOhqywS5hFkhD6U2CYfivJBk/JIUd1n
-rB9J34UHf3bRbx5uNWS9ifEgbMAfgyabwpeVO/0+GYxtWEspbArf5cy48gZHri/D
-TGLArHznhElcyp6+CfceVjPFXibgcgSZul2Doiu/H45lvNTXs1/W6trP403bioMx
-Pdndo5iN4JNaWwskDTtqvlNKRG96ddZxmxQlOo+lIpmmVyDvMujCwxDYno/GREtU
-sO1OIf03L5xiGmfC+FI9Saps57uOtXIxCDP+Xbmi3wW1+vCB6m8LEyXo8GDF4LXF
-ONxVvnq6OuuHX+FS/KOGgIXwgw534fEgNfifs4e5oVjZsvUCpsSs3plMXRUFjgc+
-1k/1kT66uwoCJot426K2MD9RmJrHQNTEsduPdwAehTCFOf2tSiY/EriVUangH0su
-EmIR+sz+CF91MwSLVn8LUB+Z7runxlZAlDCZaix449wZ5Ls32EyTaDMCCrtfaB4h
-iLM1/XhwlX5S/YssyemrxUEd0Ou+hEDiItusD9SVR/rtNoT0EzAz9QsAY1C2f0F7
-zgSGJBW+vb/7/CRyRL9EHH9gycw8UEEArDFcAxPV2fZXn/3sKIU=
-=8IGq
+iQIzBAEBCgAdFiEE9i7eqjrnCpyZ2sQYm2ih6Lm2N1wFAmW28CMACgkQm2ih6Lm2
+N1ztVw//XhySQl9MAY7W52cX0RWpvFIly3O0WbZBH++PFDLNMa4GJTsEd21xd7FB
+4GZWapkWkgqq7xe/lYVR3eKuaYI/xE4CxBTJ73ASF7a8PuqGPptiVohHoiw5GDmR
++V5aqw8BWf+27W1dQflxEMe92FizaxhJNAhETlXm1XkQ1oSjsSO1/QH2C6voLPUK
+HvT8fAmhG13jBmmtetzoWg6xElb2pQln8ORCgfH5eE8rnqJAqSwQEL5DUBPNgVum
+a2PxBWJVKLTGel+uQD0mAreenQ6VVfPFpfQKUFpCUjOc/vISiLUOM+D/GxG5Zhi2
+NsXjzjp5F6WDG+xdAwY4FZT4fG6FYtqNc4yZkWClRhOr5d4cJ6f39DuOCsaurC0k
+lOds94I1eZuWgGbKgUCMOUvx2ICpEhb3nqvwMHRjyibfHPlEsDaeoWzd3WrSMw0k
+iSDfSa1Rujp4OEqvh4TGYaAbD7jaHrsc+kOKbWG96CYC1W+fj1vnvYIc+3bx62lG
+cGUQEVccNsZxNY1DfmR76PtrNNSjXbt66Of/JW69MzclRRi4gURlX8SnN/eHVsl0
+cGPyMHHCbU0HUgJRsRPZRbr92wrFy9bse1deeGFu76jB59lo6qhfrBgZFcD3W43c
+M1CdeagrQFj6oGl/KFGhUjybj6t+f1+R3qt73nE7SwSfX/Wod2c=
+=PK/q
 -----END PGP SIGNATURE-----
