@@ -1,3 +1,6 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
 Format: 1.8
 Date: Sat, 02 Mar 2024 13:50:53 -0500
 Source: gazelle-installer
@@ -13,14 +16,31 @@ Changes:
    * swap file fstab line fixes
    * in oem mode, start mx-locale if it exists to choose lang before oobe starts
 Checksums-Sha1:
- 28187dceebfab8497914327409caea1052cd0606 688 gazelle-installer_24.03.01mx23.dsc
+ 1a916de8c07cd8abb605bcd697b261f2d7fea27c 1571 gazelle-installer_24.03.01mx23.dsc
  c25036705d5b2597c512db440b8b52ee2070c577 382764 gazelle-installer_24.03.01mx23.tar.xz
- 333546a02c177a02d504084cd47f267900c646d1 9697 gazelle-installer_24.03.01mx23_amd64.buildinfo
+ b74ab2a7a25a2096ebfb6a834f3940c0af3a96d4 10580 gazelle-installer_24.03.01mx23_amd64.buildinfo
 Checksums-Sha256:
- f8f967b577018cdf95e1bfb2a21fca4b89b15c15e19468f24d0b46bb8529923e 688 gazelle-installer_24.03.01mx23.dsc
+ c723220f2833d6a1466d59c8248c952f95bd6b960c3044c5e28d516f96776e93 1571 gazelle-installer_24.03.01mx23.dsc
  d834ba54a47a32d1c1a15573be6e2af0a0d350913358dbd9d8c636c1283050c1 382764 gazelle-installer_24.03.01mx23.tar.xz
- 68750f109492b8b782d9a0b26a1cb78dde5bce23eb2cb8e41b5e656670cdab45 9697 gazelle-installer_24.03.01mx23_amd64.buildinfo
+ a3f81654c8d3659179d1c5ed7afc5cd7ea27f5ba991a3a4a268f2a62a44f90fe 10580 gazelle-installer_24.03.01mx23_amd64.buildinfo
 Files:
- 59b4ebbd24a892b80ac3e1949be6dd80 688 system optional gazelle-installer_24.03.01mx23.dsc
+ 999db650a5fffbc8b6af93ce7760b696 1571 system optional gazelle-installer_24.03.01mx23.dsc
  997c18e596bc20d269cb2df696f65480 382764 system optional gazelle-installer_24.03.01mx23.tar.xz
- 9084753b2beed83b68718c8fa3014b17 9697 system optional gazelle-installer_24.03.01mx23_amd64.buildinfo
+ 8d5ee6ac3e1fa71b013c3ec9917d07fe 10580 system optional gazelle-installer_24.03.01mx23_amd64.buildinfo
+
+-----BEGIN PGP SIGNATURE-----
+
+iQIzBAEBCgAdFiEE9i7eqjrnCpyZ2sQYm2ih6Lm2N1wFAmXjd6EACgkQm2ih6Lm2
+N1xk/g/8DuY/sdj5uTK0O6YijHC86Q/QuXwSNJG9dMwRmSATsqET9094znZVCJYm
+B/y8qeKIgt/ldxBousA1R9eVh2KW+AahAc4H8Lrq+net5/amckF3Pq6Lqe5amAAq
+C/YFo6BI27+3j8fY4Gyf4v10zQiD/R+f+Mc0LcOw7iRbfVivhnTe7UePXTUoYFMc
+fp2XrbRo1EZJwnQ8fFJ9LCh7xIB336bMyF/vRt2jCSimKaMbTsHVWZ9+2+PyAUFI
+iOdaC7DOxbUy1K5yI460tHi5hO6tni29XFIPKqgtCo+RVM5649nCRdjD2DK0TJoi
+hHJDqatEu8vyH37+cj7681M1NKN+626C4DDLkVV8YQIlvAGAYcrF9dbG3x1eslIP
+o89YnFSStdSNjFC3oAXOYNA+k25xpdwNuRR+GRldoYLWdfHDInaADzUHxpAeQgQZ
+Ne76+GSHBMjK/A+csq/nyA6zRjkJKrrUbaIvLwUB+qFVgYCLzO6y8c+tLlfdNTgY
+2gmqVeWhtsueND8bCjrfbVsAZmYl7q25+gQay4ABuM3/QFjw2KYoW4Vbr3MkL0R0
+ysk4mH1LUwHO/8LECAlIGH44F8rIoJaF+zqFO2i+ztc77tgVLhr9bJLj63+fPiON
+5ieZztiDsTmzHqV9iGWzNfjFDSforOQKw3kR99S23F4n9p2+mUQ=
+=ZC6F
+-----END PGP SIGNATURE-----
