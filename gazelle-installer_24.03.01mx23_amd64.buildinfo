@@ -1,3 +1,6 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
 Format: 1.0
 Source: gazelle-installer
 Binary: mx-installer
@@ -341,3 +344,20 @@ Environment:
  LANG="C"
  LC_ALL="C"
  SOURCE_DATE_EPOCH="1709405453"
+
+-----BEGIN PGP SIGNATURE-----
+
+iQIzBAEBCgAdFiEE9i7eqjrnCpyZ2sQYm2ih6Lm2N1wFAmXjd6AACgkQm2ih6Lm2
+N1wGsA//bHNMK1FI8+fsATLbEAQJ7/nCzNankZxtZ72kPXJdj+ERYox56uPSKgsG
+CKrgYs8C8iLwXb2sT+H5AC+n/lBemUSnHtQGspksKWND0JvS94gMXVma2UwvobsB
+94cwc6ik55b6BoKtMDsf/6/zorvJfhw6UXxvHuVujM/LhJvulqabqlCd47Je0T+E
+5F/rgrN5yVAp4KTM3C7M7S+ZI6ofKon/sMo8rMLK5JwoFHBrjftZgLdjjJ22R+e+
+b1XcuwZnbvQ5c1rmdG98NxYhiC0TDUKjt0po/1K/k9BWvYF+ka8dVmP30VeEp/fn
+kkN1mRji3TZnLeVJrnslR1UFY7WJQZRh+jqtaUZGC3aI8pZdl0rbwwBSTBUIYZAa
+PR0Qh4lLBmgKTwg3PwemS8u9kAemVTvvh3Bu/VCkUJqQD8ULT0QnfuTTq9Euk0F7
+6jeVjhQ3QBb3EWt5/PoCzb4S4M/yR9trqVJlcyfBo41KsNUxMesP+QH9Z09OSTBC
+uEkbNGhwJUlc7arW1GEcJumajDSN6R9WObKFzEQsdawlFh2VbxpcjRx6Nm2IHCLH
+3rdW0A/Yi5apODUFuYYjbb/geatqCFk2XhmXrobsnSeigoWks81wjhNhyANl24c8
+EhDPPgc5coCjEmzIyHqWVxLgW0+9m2rxeP15l8Tc9onUWcAcQRA=
+=AJCo
+-----END PGP SIGNATURE-----

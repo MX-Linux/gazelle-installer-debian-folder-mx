@@ -1,3 +1,6 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
 Format: 1.8
 Date: Sat, 02 Mar 2024 13:50:53 -0500
 Source: gazelle-installer
@@ -16,11 +19,28 @@ Changes:
    * swap file fstab line fixes
    * in oem mode, start mx-locale if it exists to choose lang before oobe starts
 Checksums-Sha1:
- 333546a02c177a02d504084cd47f267900c646d1 9697 gazelle-installer_24.03.01mx23_amd64.buildinfo
+ b74ab2a7a25a2096ebfb6a834f3940c0af3a96d4 10580 gazelle-installer_24.03.01mx23_amd64.buildinfo
  669346d6516e3e69bbc4b4fdb6ce6307ddc9745a 510204 mx-installer_24.03.01mx23_amd64.deb
 Checksums-Sha256:
- 68750f109492b8b782d9a0b26a1cb78dde5bce23eb2cb8e41b5e656670cdab45 9697 gazelle-installer_24.03.01mx23_amd64.buildinfo
+ a3f81654c8d3659179d1c5ed7afc5cd7ea27f5ba991a3a4a268f2a62a44f90fe 10580 gazelle-installer_24.03.01mx23_amd64.buildinfo
  66d08c4a5e42ba422edaefc92b98feb722b1b4fb5dcfb5ce7860607b006812d2 510204 mx-installer_24.03.01mx23_amd64.deb
 Files:
- 9084753b2beed83b68718c8fa3014b17 9697 system optional gazelle-installer_24.03.01mx23_amd64.buildinfo
+ 8d5ee6ac3e1fa71b013c3ec9917d07fe 10580 system optional gazelle-installer_24.03.01mx23_amd64.buildinfo
  bb8007b8e98e2fb787243af298e7b7b5 510204 system optional mx-installer_24.03.01mx23_amd64.deb
+
+-----BEGIN PGP SIGNATURE-----
+
+iQIzBAEBCgAdFiEE9i7eqjrnCpyZ2sQYm2ih6Lm2N1wFAmXjd6AACgkQm2ih6Lm2
+N1yxNA/+MtorDKSF3ggQBzmacQilrHMfgOmQOia8y0KihBzr/8/4mJmJW1FwJHNV
+cKq4byxBv72ZStghQtRUkC7NAz6GNjR73XNbU0x1ek3WwbZE4J0FJ5NcJkMstKA9
+YC07q/QbKL4gwH30nc+dWlg+U9WlVcytm1JaghKz8LJQbzqO37HjvJq4UdNmx8b/
+5pKOnHIEFUFrlRuQwB4F0XICQVvvZ70zE9HboTNkhgm/2xN7UDC4n1LRTbNm3Oql
+7W+fCNS4jek75hfCHjUGoTaGRehtd+AucJKyTrymRbkdb0WnpN4gWLepjTRrpqa9
+bls9q5KpAdj7X2b70+HHXnU5K0poQZKwvzKGKTh+JBGMitEguWY7mP3Z5dz5aAPd
+5rfmQuUotJAz3aog59f0NW92vxIyUP75paG79Nt5ktspLEqEcqyeSteM4jsqnWKk
+tJBDlJSHtI8A7IV2jHguhLSjZssoGPNeqUMFtOwm60+UnSThXhnDYkMAAPIpHCIN
+AXhUlwZkF/o2REg1a+ZIdJNMf7307F7ll5N4g2Y7Oi9tZWYnDKd3/ne6DziwsbCJ
+FB/6xUbCBy2cRVimEYN4oxnhdN4IqzJMEf/AmZOXvurSl/G3wpcTm1cZT6YKkfKI
+BvjashDwMiNeX/MBPD/x9Iqx76OCWBzpl6l6mizi6azxnS1+zK4=
+=HQoY
+-----END PGP SIGNATURE-----

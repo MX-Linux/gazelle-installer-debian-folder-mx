@@ -1,3 +1,6 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
 Format: 1.8
 Date: Sat, 02 Mar 2024 13:50:53 -0500
 Source: gazelle-installer
@@ -16,11 +19,28 @@ Changes:
    * swap file fstab line fixes
    * in oem mode, start mx-locale if it exists to choose lang before oobe starts
 Checksums-Sha1:
- 4b8a820c1da23e58bfab846bcf5fe953afc67997 9859 gazelle-installer_24.03.01mx23_arm64.buildinfo
+ 69d0eac387b9730a6cac2abe7b44b697bb2e15f8 10742 gazelle-installer_24.03.01mx23_arm64.buildinfo
  d89ae5ce7ad159db505f66e2350bb37a00f4c394 488408 mx-installer_24.03.01mx23_arm64.deb
 Checksums-Sha256:
- 24a2c85b432f3e9774b15373c58b3e081ec07b45543cde2a523a22fa8f62cd41 9859 gazelle-installer_24.03.01mx23_arm64.buildinfo
+ 4bad8fe8f13e6d5cec086ec5ba09c2ea15a4dc6d43895af580e88c80dd3a4af1 10742 gazelle-installer_24.03.01mx23_arm64.buildinfo
  fd31c40aa471d4a50648ec52fe08a920edc2af0c278cb9e697c7b51bd220e658 488408 mx-installer_24.03.01mx23_arm64.deb
 Files:
- ba6838b4d1e8c24b15464b5ac33ba9c7 9859 system optional gazelle-installer_24.03.01mx23_arm64.buildinfo
+ f004634386721389b086747264d20d60 10742 system optional gazelle-installer_24.03.01mx23_arm64.buildinfo
  63e7d392e840ed2b68ff0dea4c1a05cc 488408 system optional mx-installer_24.03.01mx23_arm64.deb
+
+-----BEGIN PGP SIGNATURE-----
+
+iQIzBAEBCgAdFiEE9i7eqjrnCpyZ2sQYm2ih6Lm2N1wFAmXjd6AACgkQm2ih6Lm2
+N1wv2RAAhDOzBlsd3RsWNcJCFWzTwlQHHpdq0fRIDyi5hK9hVm6bG/KMY8neOg0Y
+B9p7N3cvytZUZwDDXgkF8g0oIE7OoGAWwWul1rY7pvaMgVHfFWgXvvUc9U1vmT4D
+Y2pNmC/SDTTew/ZNdMaI0EILSELtWOd1wm3MyRr9to4qFg+BALgpzliMHuGsisAm
+t64KAjKsoNB/09i9x8uu17Uuikv23SfIWsw+v9S+xsn7ce5vgVMu07HryrBVwwA7
+wrO9JwNzVvt72ZTDYzEwU3mdTHVYFOKe+jmndQgsXDAL/4MuCV6TvwP0CYy1RDrf
+jYt7S9w3kN1kisfcdgTWoDlxEbSP4NAsS8Wa23ggkU4yTS3wOZUE4iBLr/M7xzUk
+dsUgDxi2e8qe/w6/OJEEAnyLetTXC1D/cqsVFgFHuYgarQ1Wfx6Q2gRuw2RVxBFx
+/EK9SVP4IxnuiYEIsNl2uFn6XR48yVjLrsc8+Zaqr7ll57hmuO2ZanMceryonip8
+/704FchJv+Kljdkcjs46mPJ+l6dVJ2goc8rzBhGBB6WegiyhsUYZf9yoRnxPJhcU
+3TTSYXm9QHrRlusWZKmtbpWyx2IBTnR9ZgpsE5xLq8F9bV0T/Pd1W4Fo1M+Ws9PF
+++jl9lSCz4uqvunEx0ExrNzsru/n5H/9qT7uAvXghcROda8ro+I=
+=28hd
+-----END PGP SIGNATURE-----
