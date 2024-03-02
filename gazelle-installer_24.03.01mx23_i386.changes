@@ -1,0 +1,26 @@
+Format: 1.8
+Date: Sat, 02 Mar 2024 13:50:53 -0500
+Source: gazelle-installer
+Binary: mx-installer
+Architecture: i386
+Version: 24.03.01mx23
+Distribution: mx
+Urgency: medium
+Maintainer: dolphinoracle <dolphinoracle@gmail.com>
+Changed-By: Dolphin Oracle <dolphinoracle@gmail.com>
+Description:
+ mx-installer - Customizable GUI installer for MX Linux and antiX Linux
+Changes:
+ gazelle-installer (24.03.01mx23) mx; urgency=medium
+ .
+   * swap file fstab line fixes
+   * in oem mode, start mx-locale if it exists to choose lang before oobe starts
+Checksums-Sha1:
+ 8781f4b2708a2c978451404c7ff35d0474ede751 9640 gazelle-installer_24.03.01mx23_i386.buildinfo
+ 2bb95a326d1695a303a7697bb7b4bcc9452f8174 527456 mx-installer_24.03.01mx23_i386.deb
+Checksums-Sha256:
+ af5a37dea7247a14a2320323f10a46ee6ccf510e5a0989855ea1f97e2837c992 9640 gazelle-installer_24.03.01mx23_i386.buildinfo
+ 2a1352413e8d7ff23e7214671c9ecb2fb885e65303ddef1f9fb21b98570f7a17 527456 mx-installer_24.03.01mx23_i386.deb
+Files:
+ 90cacf1a2ec81a6be48509338c4c9d3a 9640 system optional gazelle-installer_24.03.01mx23_i386.buildinfo
+ 2cf2b8dfc06ed8dddcd9842ae3047c23 527456 system optional mx-installer_24.03.01mx23_i386.deb

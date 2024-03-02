@@ -1,0 +1,26 @@
+Format: 1.8
+Date: Sat, 02 Mar 2024 13:50:53 -0500
+Source: gazelle-installer
+Architecture: source
+Version: 24.03.01mx23
+Distribution: mx
+Urgency: medium
+Maintainer: dolphinoracle <dolphinoracle@gmail.com>
+Changed-By: Dolphin Oracle <dolphinoracle@gmail.com>
+Changes:
+ gazelle-installer (24.03.01mx23) mx; urgency=medium
+ .
+   * swap file fstab line fixes
+   * in oem mode, start mx-locale if it exists to choose lang before oobe starts
+Checksums-Sha1:
+ 28187dceebfab8497914327409caea1052cd0606 688 gazelle-installer_24.03.01mx23.dsc
+ c25036705d5b2597c512db440b8b52ee2070c577 382764 gazelle-installer_24.03.01mx23.tar.xz
+ 333546a02c177a02d504084cd47f267900c646d1 9697 gazelle-installer_24.03.01mx23_amd64.buildinfo
+Checksums-Sha256:
+ f8f967b577018cdf95e1bfb2a21fca4b89b15c15e19468f24d0b46bb8529923e 688 gazelle-installer_24.03.01mx23.dsc
+ d834ba54a47a32d1c1a15573be6e2af0a0d350913358dbd9d8c636c1283050c1 382764 gazelle-installer_24.03.01mx23.tar.xz
+ 68750f109492b8b782d9a0b26a1cb78dde5bce23eb2cb8e41b5e656670cdab45 9697 gazelle-installer_24.03.01mx23_amd64.buildinfo
+Files:
+ 59b4ebbd24a892b80ac3e1949be6dd80 688 system optional gazelle-installer_24.03.01mx23.dsc
+ 997c18e596bc20d269cb2df696f65480 382764 system optional gazelle-installer_24.03.01mx23.tar.xz
+ 9084753b2beed83b68718c8fa3014b17 9697 system optional gazelle-installer_24.03.01mx23_amd64.buildinfo
