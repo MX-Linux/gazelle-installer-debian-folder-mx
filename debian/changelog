@@ -1,3 +1,9 @@
+gazelle-installer (24.03.03mx23) mx; urgency=medium
+
+  * Throbber enhanced noticeably.
+
+ -- Adrian <adrian@mxlinux.org>  Sun, 24 Mar 2024 17:57:33 -0400
+
 gazelle-installer (24.03.02mx23) mx; urgency=medium
 
   * fix typo in oobe init.d script
