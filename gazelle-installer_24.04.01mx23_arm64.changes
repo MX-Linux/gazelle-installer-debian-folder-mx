@@ -1,0 +1,45 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+Format: 1.8
+Date: Sun, 31 Mar 2024 17:18:26 -0400
+Source: gazelle-installer
+Binary: mx-installer
+Architecture: arm64
+Version: 24.04.01mx23
+Distribution: mx
+Urgency: medium
+Maintainer: dolphinoracle <dolphinoracle@gmail.com>
+Changed-By: Dolphin Oracle <dolphinoracle@gmail.com>
+Description:
+ mx-installer - Customizable GUI installer for MX Linux and antiX Linux
+Changes:
+ gazelle-installer (24.04.01mx23) mx; urgency=medium
+ .
+   * replace oobe.sh script into usr/bin
+Checksums-Sha1:
+ 7298f4ec88ff61206f38bc3e9206026885cb09a6 10742 gazelle-installer_24.04.01mx23_arm64.buildinfo
+ d18cbaf8c443faf9e4647f968fae2dcfae3b4457 486676 mx-installer_24.04.01mx23_arm64.deb
+Checksums-Sha256:
+ b56065b39cb0bf4f7ea98897b6acd51ca4fbd3d8455fe5fe02c488664ee14090 10742 gazelle-installer_24.04.01mx23_arm64.buildinfo
+ f824c7b92933b6e63c663c8b52bcb1ef8328ebae04f09ab9c5ea68fefc3ee681 486676 mx-installer_24.04.01mx23_arm64.deb
+Files:
+ 9c5f3c4bb0c86f44250287e5d0f5012e 10742 system optional gazelle-installer_24.04.01mx23_arm64.buildinfo
+ 219ffe6182ba30a6f9bf6b5e12a0d3af 486676 system optional mx-installer_24.04.01mx23_arm64.deb
+
+-----BEGIN PGP SIGNATURE-----
+
+iQIzBAEBCgAdFiEE9i7eqjrnCpyZ2sQYm2ih6Lm2N1wFAmYJ1pEACgkQm2ih6Lm2
+N1xgRQ/8CD0f8225XCX8Ih8x6uNuUPHyPcyfn1wZd8FAEzKgf0zOjpUvrNGVshBK
+lZR8cYjnamn/J6Q2bK2EDBRgKM1IOFVH4mwNhgnYAOm3jtucfIdREGbnF3DJWXBv
+RYFgF/24rAtqioP2xftaDxcAgHYK6TJe4ro+y2tFX9XacnE1xluca+YxYltBw0DW
+HyagxVvfV6Rak0a4dSrNwtDLs8jc714PiO9CGdXI5oDiWTwHHtcvnWiBs6eoKJUi
+V9MSjT0G6EDhAiyoh1dqfcNzEzDIZR9qAbpvoAdlP1jVef2wWUgoRyp77c/1zieI
+hlhGQo7XvqRGteE2haPFb7vQ43/jbqmcSkuZ82k5Z/jn3RDgVSrYj+JGKzHVkLMv
+H/p83kVIzUNa633+iHyqtHGyeiEuSCrItuWAXHZOhQ0L5sUFylcxlzjFQgKfxWEl
+BuPRHOJGnGHt8JQxYwhNk198NGiX6LDWMbFUz16JBoeQE00pMae1OO0FmDJJBaxS
+jJqzFwJ0JrXnLqxjRh9WlOcz4gUHt3LULaECzPJ9531FpdB7nFZWFPzwIpkioRzv
+SQBvJmG9+0eoYTTg8x9kEPfAt1O+sVorZJqBIBRQuT4+uQ8+LX5N2CmAG1zlBvgA
+uhO3gW2ZkcvjcZPUOFqRGM1/Mc0wbm9CgL/NAh6OBP0/ZSQDvkc=
+=NGTN
+-----END PGP SIGNATURE-----

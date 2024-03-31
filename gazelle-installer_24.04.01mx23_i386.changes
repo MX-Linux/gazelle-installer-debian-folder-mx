@@ -1,0 +1,45 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+Format: 1.8
+Date: Sun, 31 Mar 2024 17:18:26 -0400
+Source: gazelle-installer
+Binary: mx-installer
+Architecture: i386
+Version: 24.04.01mx23
+Distribution: mx
+Urgency: medium
+Maintainer: dolphinoracle <dolphinoracle@gmail.com>
+Changed-By: Dolphin Oracle <dolphinoracle@gmail.com>
+Description:
+ mx-installer - Customizable GUI installer for MX Linux and antiX Linux
+Changes:
+ gazelle-installer (24.04.01mx23) mx; urgency=medium
+ .
+   * replace oobe.sh script into usr/bin
+Checksums-Sha1:
+ 73dceb5ab19f622b5bb4f6fcb3548d6e7650aca1 10523 gazelle-installer_24.04.01mx23_i386.buildinfo
+ ca2734f4cb585dbc326838f39f2a419f4abdf483 526596 mx-installer_24.04.01mx23_i386.deb
+Checksums-Sha256:
+ b4463c7f2b0cef10942168755e9eb3b18b1363d2a574c563d640a36d3c9ac1cd 10523 gazelle-installer_24.04.01mx23_i386.buildinfo
+ c846a23c15132fb5af00368edd66fd8b5a8a5950a5310056e8ac4268677fb314 526596 mx-installer_24.04.01mx23_i386.deb
+Files:
+ ccb93dfa7a6c8cbb4315b7aaa957f773 10523 system optional gazelle-installer_24.04.01mx23_i386.buildinfo
+ 93e28dc797276524557d9aa28d5b68ae 526596 system optional mx-installer_24.04.01mx23_i386.deb
+
+-----BEGIN PGP SIGNATURE-----
+
+iQIzBAEBCgAdFiEE9i7eqjrnCpyZ2sQYm2ih6Lm2N1wFAmYJ1pEACgkQm2ih6Lm2
+N1xJ+A//f07phPhtexxdi3PXGkCYlq05tWV/DdH/QqJyC3zEV1WzRarJvuNuPLkC
+BV0R/AF9pSvt47Znm7475+yERDfwd/DXvbk1/IxOW+qARU/ufVjLO9CV78p5RIqL
+ZqVUGzMDL9bOnvns+6oreK80DU8xZ6BAzSSOH9YmWqbVCFoKJQ9+HQrJmMuo2k4S
+2qMnD35P007SBOLLVfVq3JJL/kObOswFreqw51leAf+K5JtHOFxShdVHJJFn1jxu
+IKf7yrtcLguQkYzS05Zekiw4VIgRBF9bVwWzTbFacp7nJ/mlAAmCNqxrJahQMbR9
+vRpznmxtMGmFPe4M5W4K2SofFLkYac4cJo1U5Y5j8vG3ZD5O9ac4uVeEMRAGRd75
++kehxF41LiJ/wJSbJUhYLd9JQn9pxaOXtW77MFCgS+sGOF6rNhyyPk1YR/2IqG6/
+cwppLn4BhbQe0zbzM5T2ig0DY2Mis74cXpg2hVrh8f6bf/6vbMvesfzZ99ukUOf2
+QV9nxDTJVu+BlG5q4ba1Qw7RJZJmE5CNDDUEwY0nwBsUTu/quyCUEC3QIX3cUb9u
+NSQHE2czAnyrRNMn5Bk5MNTRZWVt4/eCVL4rqs3bm83NegJUhoX0FHg+7zT4dPdN
+VkMYuT233yjC7B4/LZPvUcq8ShHQXZsfyLWVIR+9GokfUKWqGSQ=
+=/Vbj
+-----END PGP SIGNATURE-----
