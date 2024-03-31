@@ -1,3 +1,9 @@
+gazelle-installer (24.04.01mx23) mx; urgency=medium
+
+  * replace oobe.sh script into usr/bin
+
+ -- Dolphin Oracle <dolphinoracle@gmail.com>  Sun, 31 Mar 2024 17:18:26 -0400
+
 gazelle-installer (24.03.04mx23) mx; urgency=medium
 
   * Load tip text only when the progress bar moves enough for a new tip.

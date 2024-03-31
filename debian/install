@@ -8,4 +8,5 @@ polkit/*			usr/share/polkit-1/actions
 scripts/guess-hwclock		usr/sbin
 scripts/minstall-launcher	usr/bin
 scripts/oobe			etc/init.d
+scripts/oobe.sh			usr/bin
 translations/*.qm		usr/share/gazelle-installer/locale
