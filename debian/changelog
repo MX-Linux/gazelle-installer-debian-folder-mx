@@ -1,3 +1,12 @@
+gazelle-installer (24.03.04mx23) mx; urgency=medium
+
+  * Load tip text only when the progress bar moves enough for a new tip.
+  * Only beg for support once, not three times.
+  * Improved help text sequencing for the splash screen.
+  * Code improvements and some cleanup. 
+
+ -- Adrian <adrian@mxlinux.org>  Sun, 31 Mar 2024 11:49:03 -0400
+
 gazelle-installer (24.03.03mx23) mx; urgency=medium
 
   * Throbber enhanced noticeably.
