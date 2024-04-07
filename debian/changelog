@@ -1,3 +1,11 @@
+gazelle-installer (24.04.02mx23) mx; urgency=medium
+
+  * Fixed random chroot environment when compiled with Qt 6.
+  * Fixed: advanced columns start with zero size.
+  * Mark advanced columns in italic.
+
+ -- Adrian <adrian@mxlinux.org>  Sat, 06 Apr 2024 22:11:34 -0400
+
 gazelle-installer (24.04.01mx23) mx; urgency=medium
 
   * replace oobe.sh script into usr/bin
