@@ -1,3 +1,9 @@
+gazelle-installer (24.05mx23) mx; urgency=medium
+
+  * Fix: use zeros if blkdiscard fails
+
+ -- Adrian <adrian@mxlinux.org>  Tue, 14 May 2024 20:42:56 -0400
+
 gazelle-installer (24.04.03mx23) mx; urgency=medium
 
   *  Fixed: live check
