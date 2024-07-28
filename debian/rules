@@ -2,7 +2,7 @@
 export QT_SELECT=5
 
 QMAKE_OPTS = DEFINES+=NO_DEBUG_ON_CONSOLE
-MAKE_OPTS  = QMAKE=qmake-qt5 LRELEASE=lrelease-qt5 
+MAKE_OPTS  = QMAKE=qmake-qt6 LRELEASE=lrelease-qt6 
 
 override_dh_auto_clean:
 	dh_auto_clean
