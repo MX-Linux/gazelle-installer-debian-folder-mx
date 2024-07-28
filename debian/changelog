@@ -1,3 +1,9 @@
+gazelle-installer (24.7mx25) mx; urgency=medium
+
+  * Trixie build
+
+ -- Adrian <adrian@mxlinux.org>  Sat, 27 Jul 2024 21:53:05 -0400
+
 gazelle-installer (24.05.01mx23) mx; urgency=medium
 
   * Fix: turn except=false to ignore grep test fail
