@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="16" height="16" version="1.1" xmlns="http://www.w3.org/2000/svg">
+	<g stroke-width="1" stroke-linejoin="bevel">
+		<path d="M13.5,1l1.5,1.5l-6,6l-1.5,-1.5Z" fill="#F0F" stroke="#800080"/>
+		<path d="m7,9 -6,1l6,-1 -5.5,2l5.5,-2 -5,3l5,-3 -4.5,4l4.5,-4 -4,4.5l4,-4.5 l-3,5l3,-5 -2,5.5l2,-5.5 l-1,6l1,-6" stroke="#F0F"/>
+		<path d="m7,9 -6,1l6,-1 -5.5,2l5.5,-2 -5,3l5,-3 -4.5,4l4.5,-4 -4,4.5l4,-4.5 -3,5l3,-5 -2,5.5l2,-5.5 l-1,6l1,-6" stroke="#800080" stroke-width=".5"/>
+		<path d="M8,7l-.5,-.5l-2,2l2,2l2,-2Z" fill="#F6F" stroke="#939"/>
+	</g>
+</svg>

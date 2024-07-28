@@ -1,0 +1,28 @@
+#!/bin/sh 
+
+if [ "$1" = "configure" ] || [ "$1" = "abort-upgrade" ] || [ "$1" = "abort-remove" ] ; then
+    
+    #Installer.desktop files to latest
+    for i in "$(ls /home)";
+		do
+			file="/home/$i/Desktop/Installer.desktop"
+			if [ -e "$file" ]; then
+				sed -i s/Exec=.*/Exec=minstall-pkexec/ $file
+			fi
+	done
+	 
+	 #edit version in /usr/local/share/live-files/etc/skel/Desktop/Installer.desktop
+	 file="/usr/local/share/live-files/files/etc/skel/Desktop/Installer.desktop"
+		if [ -e "$file" ]; then
+			sed -i s/Exec=.*/Exec=minstall-pkexec/ $file
+		fi
+		
+	 #edit version in /etc/skel/Desktop/Installer.desktop
+	 file="/etc/skel/Desktop/Installer.desktop"
+		if [ -e "$file" ]; then
+			sed -i s/Exec=.*/Exec=minstall-pkexec/ $file
+		fi
+fi
+
+exit 0
+#DEBHELPER#

@@ -1,0 +1,12 @@
+LICENSE				usr/share/doc/gazelle-installer
+NOTICE				usr/share/doc/gazelle-installer
+copyright			usr/share/doc/gazelle-installer
+locales.template		usr/share/antiX
+minstall			usr/sbin
+minstall.desktop		usr/share/applications
+polkit/*			usr/share/polkit-1/actions
+scripts/guess-hwclock		usr/sbin
+scripts/minstall-launcher	usr/bin
+scripts/oobe			etc/init.d
+scripts/oobe.sh			usr/bin
+translations/*.qm		usr/share/gazelle-installer/locale
