@@ -49,7 +49,7 @@ jobs:
           body: |
             ### Automated release created for tag *${{ github.ref_name }}*
              - Direct download link: [![build service](https://build.opensuse.org/projects/home:mx-packaging/packages/mx-installer/badge.svg?type=default)](https://software.opensuse.org//download.html?project=home%3Amx-packaging&package=mx-installer)
-             - In repos: [![latest packaged version](https://repology.org/badge/latest-versions/mx-installer.svg)](https://repology.org/project/mx-installer/versions)
+             - In repos: [![latest packaged version](https://repology.org/badge/latest-versions/gazelle-installer.svg)](https://repology.org/project/gazelle-installer/versions)
 
             ### Changelog
             ${{ env.changelog }}
