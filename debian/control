@@ -5,8 +5,8 @@ Maintainer: dolphinoracle <dolphinoracle@gmail.com>
 Build-Depends: 
 	debhelper (>= 10),
 	libzxcvbn-dev,
-	qtbase6-dev, 
-	qttools6-dev-tools
+	qt6-base-dev, 
+	qt6-tools-dev
 Standards-Version: 3.9.8
 Homepage: https://github.com/gazelle-installer
 
