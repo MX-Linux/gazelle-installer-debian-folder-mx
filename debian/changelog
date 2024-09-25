@@ -1,3 +1,9 @@
+gazelle-installer (24.09mx23) mx; urgency=medium
+
+  * Set default domain name file
+
+ -- Adrian <adrian@mxlinux.org>  Wed, 25 Sep 2024 17:06:15 -0400
+
 gazelle-installer (24.05.01mx23) mx; urgency=medium
 
   * Fix: turn except=false to ignore grep test fail
