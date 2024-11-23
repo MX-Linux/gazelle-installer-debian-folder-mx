@@ -1,3 +1,12 @@
+gazelle-installer (24.11.01mx23) mx; urgency=medium
+
+  * default window size adjustments
+  * timezone combobox fixes for trixie
+  [fehlix]
+  * blkdiscard fallback mode during partition creation
+
+ -- Dolphin Oracle <dolphinoracle@gmail.com>  Fri, 22 Nov 2024 19:18:57 -0500
+
 gazelle-installer (24.10.01mx23) mx; urgency=medium
 
   * all extra customization options via /etc/gazelle-installer-data/installer.conf file
