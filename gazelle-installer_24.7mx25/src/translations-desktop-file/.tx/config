@@ -1,8 +1,0 @@
-[main]
-host = https://www.transifex.com
-
-[o:anticapitalista:p:antix-development:r:gazelle-installer-desktop]
-file_filter = po/gazelle-installer-desktop_<lang>.po
-source_file = gazelle-installer-desktop.pot
-source_lang = en
-type = po
