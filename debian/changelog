@@ -1,3 +1,9 @@
+gazelle-installer (24.11mx25) mx; urgency=medium
+
+  * current trixie test build (qt6)
+
+ -- Dolphin Oracle <dolphinoracle@gmail.com>  Sun, 24 Nov 2024 12:33:13 -0500
+
 gazelle-installer (24.7mx25) mx; urgency=medium
 
   * Trixie build
