@@ -1,0 +1,23 @@
+Format: 1.8
+Date: Sat, 30 Nov 2024 15:37:19 -0500
+Source: gazelle-installer
+Architecture: source
+Version: 24.11.01mx23+1
+Distribution: mx
+Urgency: medium
+Maintainer: dolphinoracle <dolphinoracle@gmail.com>
+Changed-By: Dolphin Oracle <dolphinoracle@gmail.com>
+Changes:
+ gazelle-installer (24.11.01mx23+1) mx; urgency=medium
+ .
+   * test repo build (bookworm)
+   * qt6
+Checksums-Sha1:
+ 89767fdcde43bee27c332fcba882fc027f0f1e32 692 gazelle-installer_24.11.01mx23+1.dsc
+ 21014bcaa374597902b73b6a52a89e2775983e22 384212 gazelle-installer_24.11.01mx23+1.tar.xz
+Checksums-Sha256:
+ 5fd93877a28251dbc4723ca7f7d072c38676906e721edaf759d22589acdde152 692 gazelle-installer_24.11.01mx23+1.dsc
+ 7694c3af42d757ce5cddcb34e9fb5d557639c7c718cb0c6f9a79470e6428847a 384212 gazelle-installer_24.11.01mx23+1.tar.xz
+Files:
+ 55b1a4937f69210907b5c85afa9990b9 692 system optional gazelle-installer_24.11.01mx23+1.dsc
+ 8ee519aacf40adfacac169d24a271460 384212 system optional gazelle-installer_24.11.01mx23+1.tar.xz
