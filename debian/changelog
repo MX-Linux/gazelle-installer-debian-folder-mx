@@ -1,4 +1,11 @@
-gazelle-installer (24.11mx25) mx; urgency=medium
+gazelle-installer (24.11.01mx23+1) mx; urgency=medium
+
+  * test repo build (bookworm)
+  * qt6
+
+ -- Dolphin Oracle <dolphinoracle@gmail.com>  Sat, 30 Nov 2024 15:37:19 -0500
+
+gazelle-installer (24.11mx23) mx; urgency=medium
 
   * current trixie test build (qt6)
 
