@@ -1,3 +1,10 @@
+gazelle-installer (25.01.01mx23) mx; urgency=medium
+
+  * remove discard from fstab default options
+  * version bump
+
+ -- Dolphin Oracle <dolphinoracle@gmail.com>  Mon, 06 Jan 2025 16:53:04 -0500
+
 gazelle-installer (24.11.01mx23) mx; urgency=medium
 
   * default window size adjustments
