@@ -1,0 +1,46 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+Format: 1.8
+Date: Mon, 06 Jan 2025 16:53:04 -0500
+Source: gazelle-installer
+Architecture: source
+Version: 25.01.01mx23
+Distribution: mx
+Urgency: medium
+Maintainer: dolphinoracle <dolphinoracle@gmail.com>
+Changed-By: Dolphin Oracle <dolphinoracle@gmail.com>
+Changes:
+ gazelle-installer (25.01.01mx23) mx; urgency=medium
+ .
+   * remove discard from fstab default options
+   * version bump
+Checksums-Sha1:
+ 21ffec674de65053ec34f571f033d130ce3f9aad 1571 gazelle-installer_25.01.01mx23.dsc
+ 358fa1263bcce722e1b9e54a1f4c64ea5c58e11c 384780 gazelle-installer_25.01.01mx23.tar.xz
+ e6b33ae020d816dc272419b1a89bd32ae075b6af 11572 gazelle-installer_25.01.01mx23_source.buildinfo
+Checksums-Sha256:
+ 6df24152c8764c32e736f2b08934b680363ee15c4f6b62ca002f4be510bb624f 1571 gazelle-installer_25.01.01mx23.dsc
+ f6386f2d6a86bb039e007c6395ecdfef87058c029a87fcd240665906496ddf93 384780 gazelle-installer_25.01.01mx23.tar.xz
+ 0deaace15f4d94f9357d08908dff4efb496739d2a20691913e63d5e0dec310ab 11572 gazelle-installer_25.01.01mx23_source.buildinfo
+Files:
+ bf4f0f9add5879e25c9d1349497cb6b7 1571 system optional gazelle-installer_25.01.01mx23.dsc
+ ad3778b1a9a4af2b20f86b418b3f5206 384780 system optional gazelle-installer_25.01.01mx23.tar.xz
+ c6e22e89897522ec3ad2335ff61405aa 11572 system optional gazelle-installer_25.01.01mx23_source.buildinfo
+
+-----BEGIN PGP SIGNATURE-----
+
+iQIzBAEBCgAdFiEE9i7eqjrnCpyZ2sQYm2ih6Lm2N1wFAmd8UUgACgkQm2ih6Lm2
+N1zR6g/7B9Q+uxfKvUazc5Y6QZEFE96sc8uChbXvYkYo3qkGKy044A8//vJsSY9c
+8xbt9p0wsFQ8QGBj0/uNNfuCtWGlO0QgJ4zON3BrrZYmlkvwIsa7cTPelAjaYFlZ
+nnhCXExkDLxGLSpHyGw/12PliFY6DTshcdAJngjwKLQgOkOA/2rpCBmAUQSbjPT4
+MbntNQg5vb6wjz+wq1HYRNDRzQjelunNuOoukvAfRVhUa5YNJS+1xXFYEMSQhiRo
+tz+6LK9NeOgb5Bu4OrZTv+pqwN4LOQA7XXREWibuAMDWlCLUcer8BIa6jLI4zRNs
+Oim8qfOPIvettqIxIS6YxTRxRICpC01K7UpTjN8ZMaCBZ7hvuvHN37vScw/fEJsb
+Uo7oFg6AtOZUN7A1vLD6wdHiIWbLvc/1M5LLJ3GNqrLNM/yFfpYXrfk0AdllECPS
+sSzGaPAyTTYNx3ZgOekc2wC1Q9HQw04Ja2PrRlm0l53mH85qAAqFgeoTHx9JNx8Q
+uaWWWcJyNQaNwPCvBKILpO3O8S6MpLDYQUpiixgyAlNzSRZsyEKjx+kW1/Rx5OLk
+NYmJEGFX/upxzPDuCnDn9IH9ChsUaV05x41ZsYaNxR8b7OwyGQnsKKv4HpCdjzpa
+i4VcB/lV/6m+skgr/b1xqyQQX9ZIyub8nBXPpd56wZ+yTO2w6yE=
+=Ffbm
+-----END PGP SIGNATURE-----
