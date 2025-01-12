@@ -1,3 +1,9 @@
+gazelle-installer (25.01.02mx23) mx; urgency=medium
+
+  * Disable ZRam (hang ups with Debian kernel 6.1.0-29-amd64)
+
+ -- Adrian <adrian@mxlinux.org>  Sun, 12 Jan 2025 12:09:43 -0500
+
 gazelle-installer (25.01.01mx23) mx; urgency=medium
 
   * remove discard from fstab default options
