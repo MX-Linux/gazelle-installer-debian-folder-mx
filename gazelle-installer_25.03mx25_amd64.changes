@@ -1,0 +1,49 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+Format: 1.8
+Date: Tue, 18 Mar 2025 21:40:10 -0400
+Source: gazelle-installer
+Binary: mx-installer
+Architecture: source amd64
+Version: 25.03mx25
+Distribution: mx
+Urgency: medium
+Maintainer: dolphinoracle <dolphinoracle@gmail.com>
+Changed-By: Adrian <adrian@mxlinux.org>
+Description:
+ mx-installer - Customizable GUI installer for MX Linux and antiX Linux
+Changes:
+ gazelle-installer (25.03mx25) mx; urgency=medium
+ .
+   * Add file systems only if mkfs for the format is available.
+   * Use dd instead of fallocate for swap files (as recommended by swapon man page).
+   * Allow default root account setup to be configurable.
+   * Make installer.conf consistent and take advantage of sections.
+Checksums-Sha1:
+ ce6a6f05427c23eed320784e405a23fa54630e4e 1234 gazelle-installer_25.03mx25.dsc
+ 1cac23d73e18e32fe1aa1c8a9a1ed09d90f013bb 383444 gazelle-installer_25.03mx25.tar.xz
+ 60421bdc3ac4f4b3d5aad8c2fd3ca1a33b620ac1 10944 gazelle-installer_25.03mx25_amd64.buildinfo
+ 05f0c3e90edb8c72e0d62efb48ab02eca9305eba 499708 mx-installer_25.03mx25_amd64.deb
+Checksums-Sha256:
+ f923494c205bdee3c94271f600effc5b04fbb744a9560518a5d28c4be2671afa 1234 gazelle-installer_25.03mx25.dsc
+ 39bfaa5e2648b698bf302ddb820fdfe17d5f3a277cc8c2f7942c52387d4f5e84 383444 gazelle-installer_25.03mx25.tar.xz
+ ffcca2a517a9e490b46dc1e76c8d07d53afe3a4a95cc13093488a6085c216ab0 10944 gazelle-installer_25.03mx25_amd64.buildinfo
+ 917d8b880f8a7d9a83d00c12c815b1d349240754be321085e772ff42bd1e6f12 499708 mx-installer_25.03mx25_amd64.deb
+Files:
+ 4ebeae635a061dd9877682da036c7b3c 1234 system optional gazelle-installer_25.03mx25.dsc
+ aade094bbbd93caaec2665cb7befcfa2 383444 system optional gazelle-installer_25.03mx25.tar.xz
+ cda1cd7f0c12d31feb962bb35e96d5cf 10944 system optional gazelle-installer_25.03mx25_amd64.buildinfo
+ 0b4aec9322217c768486f0dbf64a87a7 499708 system optional mx-installer_25.03mx25_amd64.deb
+
+-----BEGIN PGP SIGNATURE-----
+
+iQFHBAEBCgAxFiEE8ndToY6S45N+YzXncJOMeAZ57pgFAmfaIXATHGFkcmlhbkBt
+eGxpbnV4Lm9yZwAKCRBwk4x4BnnumCq5B/9k5K1Ja+xvg3abrZj5R7HnAG6PFvp5
+Lm9UMHmFua1avgsJOTxyh8yy21p9UHJ8CIsB61qSX+mdb5F3UCdU1sVNwFfwSc0Z
+s766rFMbnEGXFkpVv5rMRB4ZE5XHQu793tWoPgsr7znNNarPvIS2VcbLmOvl9niG
+b1Scb0W58gm4agZ/Kk6dPfap/P/tEcarKhN4D27Cu53nhLizFZ1N/uczs+orCxMl
+iOH1yDtQecz7u1glHIZuAY8WrEsXbRgBIl1JyIcV0Tl6tXHW6igo5ICYBVqYoHUE
+qBx3+brLJOG8mt+JtIxwl15jA6K4KosJLDoy4uCMQHmbWRLDsWNFgp5T
+=P6id
+-----END PGP SIGNATURE-----

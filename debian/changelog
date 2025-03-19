@@ -1,3 +1,12 @@
+gazelle-installer (25.03mx25) mx; urgency=medium
+
+  * Add file systems only if mkfs for the format is available.
+  * Use dd instead of fallocate for swap files (as recommended by swapon man page).
+  * Allow default root account setup to be configurable.
+  * Make installer.conf consistent and take advantage of sections.
+
+ -- Adrian <adrian@mxlinux.org>  Tue, 18 Mar 2025 21:40:10 -0400
+
 gazelle-installer (24.11.01mx23+1) mx; urgency=medium
 
   * test repo build (bookworm)
