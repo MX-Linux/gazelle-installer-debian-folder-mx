@@ -1,0 +1,43 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+Format: 1.8
+Date: Tue, 18 Mar 2025 21:29:18 -0400
+Source: gazelle-installer
+Architecture: source
+Version: 25.03mx23
+Distribution: mx
+Urgency: medium
+Maintainer: dolphinoracle <dolphinoracle@gmail.com>
+Changed-By: Adrian <adrian@mxlinux.org>
+Changes:
+ gazelle-installer (25.03mx23) mx; urgency=medium
+ .
+   * Add file systems only if mkfs for the format is available.
+   * Use dd instead of fallocate for swap files (as recommended by swapon man page).
+   * Allow default root account setup to be configurable.
+   * Make installer.conf consistent and take advantage of sections.
+Checksums-Sha1:
+ b0f69f9338021791d73798cb4cb5c471264faeed 1238 gazelle-installer_25.03mx23.dsc
+ b17a6c3e7f602698bc875bad765b67549af45c8d 383356 gazelle-installer_25.03mx23.tar.xz
+ 3cab59c0408aedade279a8b75f26ba62bf22ada3 11193 gazelle-installer_25.03mx23_amd64.buildinfo
+Checksums-Sha256:
+ 0a6c4ce090da3cf14505d5fa6a56a88478d60cece455ef49b60d2e3b625d6cad 1238 gazelle-installer_25.03mx23.dsc
+ 5abbee0ef60eb1ae796fd3be1c63ae87ef0308b79e9b4ab06593ec6abfea4c9e 383356 gazelle-installer_25.03mx23.tar.xz
+ 63ab7eab42b16b67772697b805b9de3ac34cc435050f5cebb4cf6575a2ecad39 11193 gazelle-installer_25.03mx23_amd64.buildinfo
+Files:
+ 013083b26ed98b3572cf2e451cafba1a 1238 system optional gazelle-installer_25.03mx23.dsc
+ 96008402693d3f31d3559b595ffbf30b 383356 system optional gazelle-installer_25.03mx23.tar.xz
+ 93f27d12e847f445461d1dc990495ba3 11193 system optional gazelle-installer_25.03mx23_amd64.buildinfo
+
+-----BEGIN PGP SIGNATURE-----
+
+iQFHBAEBCgAxFiEE8ndToY6S45N+YzXncJOMeAZ57pgFAmfaIAETHGFkcmlhbkBt
+eGxpbnV4Lm9yZwAKCRBwk4x4BnnumAsnCACa6+VLcnBoA8SZq2lU3sqIJ/XZdZuz
+BRDhodml1Vo2qCZwSL8Em/fcWCK+YZV+mqfVcE4NcDJMLlF8+EeZ+uacZvvcnFO5
+GBQ7V7R3LRC9XNnLZ0c3skLYonddFIYYPvWyYCMA9JghHuHlsZ1qVKMlex/A/mi7
+7/Jonve4zfF11QNWGWA6KDp2449WKERM3iL1PRG2umGoICZjN0K/2c0VPFZAQQet
+ZOFz4Mh7aXuwPRqntIlTHVLb7pQEs48o8wrfp4FwASpajn8V1IAlF/4PSGWtsQB9
+YcbKshnAjQ9yCCwA78EXvSTvQKx8mekqZeeVx1YYkpc+P2ZCiDBq0yQg
+=7lU7
+-----END PGP SIGNATURE-----
