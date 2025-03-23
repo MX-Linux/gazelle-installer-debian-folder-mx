@@ -1,21 +1,14 @@
-gazelle-installer (25.03.01mx25) mx; urgency=medium
+gazelle-installer (25.03.02mx25) mx; urgency=medium
 
   * No need for trim when already done by MProcess::readOut() function.
   * Replace hard-coded "demo" user with environment content.
-  * Scope trimming and const correctness.
-  * Refactor user home clock format setup.
-  * Do not copy live home directory in OEM mode unless it is a snapshot. Don't load or save user page settings if there are snapshot accounts.
-  * Fixed disabled Back button to Terms page under OOBE mode. Do not load or save OOBE configuration in OEM mode.
-  * Revert advanced settings access in GUI. Add --advanced option for such access. Fixed next phase activation on wrong page.
-  * Replaced deprecated API call. Let Qt Creator fix the UI flags.
-  * Added zram configuration to swap page.  - Service still needs to be enabled in services page (if not already). Prevent swap file size 0, just uncheck if not needed.
-  * Allow access to boot and swap pages in regular install with Advanced button. Fixed: boot lists not built in pretend mode.
-  * Moved swap settings to a separate page.
-  * Collected crypto code into a new module.
-  * Separate load and save config functions where they differ significantly.
-  * Take advantage of btrfs/mkswap file creation features.
+  * Snapshot account fixes.
+  * Fixed disabled Back button to Terms page under OOBE mode.
+  * Do not load or save OOBE configuration in OEM mode.
+  * Moved swap settings to a separate page. Added zram configuration to swap page.
+  * Take advantage of btrfs/mkswap file creation features. 
 
- -- Adrian <adrian@mxlinux.org>  Sun, 23 Mar 2025 13:16:24 -0400
+ -- Adrian <adrian@mxlinux.org>  Sun, 23 Mar 2025 18:05:28 -0400
 
 gazelle-installer (25.03mx25) mx; urgency=medium
 
