@@ -1,0 +1,53 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+Format: 1.8
+Date: Sun, 23 Mar 2025 13:16:24 -0400
+Source: gazelle-installer
+Architecture: source
+Version: 25.03.01mx25
+Distribution: mx
+Urgency: medium
+Maintainer: dolphinoracle <dolphinoracle@gmail.com>
+Changed-By: Adrian <adrian@mxlinux.org>
+Changes:
+ gazelle-installer (25.03.01mx25) mx; urgency=medium
+ .
+   * No need for trim when already done by MProcess::readOut() function.
+   * Replace hard-coded "demo" user with environment content.
+   * Scope trimming and const correctness.
+   * Refactor user home clock format setup.
+   * Do not copy live home directory in OEM mode unless it is a snapshot. Don't load or save user page settings if there are snapshot accounts.
+   * Fixed disabled Back button to Terms page under OOBE mode. Do not load or save OOBE configuration in OEM mode.
+   * Revert advanced settings access in GUI. Add --advanced option for such access. Fixed next phase activation on wrong page.
+   * Replaced deprecated API call. Let Qt Creator fix the UI flags.
+   * Added zram configuration to swap page.  - Service still needs to be enabled in services page (if not already). Prevent swap file size 0, just uncheck if not needed.
+   * Allow access to boot and swap pages in regular install with Advanced button. Fixed: boot lists not built in pretend mode.
+   * Moved swap settings to a separate page.
+   * Collected crypto code into a new module.
+   * Separate load and save config functions where they differ significantly.
+   * Take advantage of btrfs/mkswap file creation features.
+Checksums-Sha1:
+ 07cf03960f1fe49e180487f350fb686a5f0e5bd0 1246 gazelle-installer_25.03.01mx25.dsc
+ d6dc3d1c36375213043553f08f6a657b0daabd20 385412 gazelle-installer_25.03.01mx25.tar.xz
+ 36e9d1be4d64743678e50a88fb2dbb37c5e7c3fc 10968 gazelle-installer_25.03.01mx25_amd64.buildinfo
+Checksums-Sha256:
+ 568190fd18e9bf531a9b019965ff4649921932f9c463179729ba5eedcd119c19 1246 gazelle-installer_25.03.01mx25.dsc
+ 8cd54d68415a27417ffa142c6be59341cd6463ff31b4b473046b3efc2b67e44b 385412 gazelle-installer_25.03.01mx25.tar.xz
+ 9d298bf142b4aaf78b6ce136c1c3e93cad60b885437f10dbc03f4764f1e30bc2 10968 gazelle-installer_25.03.01mx25_amd64.buildinfo
+Files:
+ e307db91fa89cc78db2928ea94c1b889 1246 system optional gazelle-installer_25.03.01mx25.dsc
+ ce1f363df4563287ec05717d6f8c0894 385412 system optional gazelle-installer_25.03.01mx25.tar.xz
+ d13988c14ebc51e2af6befeccd4922e3 10968 system optional gazelle-installer_25.03.01mx25_amd64.buildinfo
+
+-----BEGIN PGP SIGNATURE-----
+
+iQFHBAEBCgAxFiEE8ndToY6S45N+YzXncJOMeAZ57pgFAmfgQxMTHGFkcmlhbkBt
+eGxpbnV4Lm9yZwAKCRBwk4x4BnnumObhB/4i8aqGUokM8cDLlQbihLCws4GR5umu
+DoCprv5wBlX5RAYLrEobRs7w8P5KW6o1mtXXUu86O6Ox2EHeNO0u8739WvIuwHcQ
+bTzywpsIHzxXObeAXsqxMECCgL89b1lEOuCqtYitBVk36rDKFFaaIP7WHZHJCYjm
+jATRWivsUXElzMO+YybX6L69K9y+oSEf8wNjfxFjOPM4P1L2As7gnPwUD68/csob
+87bYoHjMQ21Qr8VsA1tbKPn7x2OqClL+elbRnShAdi6eBtDp9edBlG6OfsCsEQJr
+kRMDrWDNIJxpKn6X5FUuC3rzEj9xPMY6Re9BKK2XwKt1dmuUJFDlC4U6
+=sUoI
+-----END PGP SIGNATURE-----
