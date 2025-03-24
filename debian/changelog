@@ -1,3 +1,11 @@
+gazelle-installer (25.03.01mx23) mx; urgency=medium
+
+  * Updated translations.
+  * Fix partition tree keyboard navigation absorbed by cells inside hidden columns.
+  * Eliminated partition tree combo box enhancement due to issues with item selection by keyboard.
+
+ -- Adrian <adrian@mxlinux.org>  Mon, 24 Mar 2025 17:48:49 -0400
+
 gazelle-installer (25.03mx23) mx; urgency=medium
 
   * Add file systems only if mkfs for the format is available.
