@@ -1,3 +1,17 @@
+gazelle-installer (25.04mx25) mx; urgency=medium
+
+  * Enable zramswap service if the zram checkbox is ticked.
+  * Fixed incorrect Next button and hibernation check box state in swap file
+    box.
+  * Add slimski support.
+  * Fix disabling of runit services.
+  * User can choose host-specific initramfs creation.
+  * Fixed: existing zramswap settings not copied to new configuration.
+  * Message box improvements.
+  * Fix deletion of old system when a mount point is in a subdirectory.
+
+ -- Adrian <adrian@mxlinux.org>  Thu, 03 Apr 2025 10:21:30 -0400
+
 gazelle-installer (25.03.03mx25) mx; urgency=medium
 
   * Updated translations.
