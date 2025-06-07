@@ -1,3 +1,10 @@
+gazelle-installer (25.06mx25) mx; urgency=medium
+
+  * Prepare to move stuff out of /usr/local/ read script from alternative location
+  * Simplified page widget layout.
+
+ -- Adrian <adrian@mxlinux.org>  Fri, 06 Jun 2025 21:53:19 -0400
+
 gazelle-installer (25.04mx25) mx; urgency=medium
 
   * Enable zramswap service if the zram checkbox is ticked.
