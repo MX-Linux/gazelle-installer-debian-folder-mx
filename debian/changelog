@@ -1,3 +1,13 @@
+gazelle-installer (25.07mx25) mx; urgency=medium
+
+  * Do not mess with the default subvolume unless overwriting or deleting. 
+  * Disable code and UI for changing the default subvolume.
+  * Fixed systemd detection under OOBE mode. 
+  * Fixed: service setup fails on systemd-only systems. 
+  * Fix for some sessions crashing or rebooting with udev restart.
+
+ -- Adrian <adrian@mxlinux.org>  Sun, 13 Jul 2025 08:48:20 -0400
+
 gazelle-installer (25.06mx25) mx; urgency=medium
 
   * Prepare to move stuff out of /usr/local/ read script from alternative location
