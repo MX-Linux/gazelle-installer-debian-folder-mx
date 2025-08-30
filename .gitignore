@@ -1,0 +1,7 @@
+debian/.debhelper/*
+debian/debhelper-build-stamp
+debian/files
+debian/minstall
+debian/mx-installer/*
+debian/*.substvars
+debian/*.log
