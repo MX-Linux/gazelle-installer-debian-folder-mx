@@ -1,9 +1,20 @@
+gazelle-installer (25.09mx25) mx; urgency=medium
+
+  * Secure boot fixes
+  * Stop connectSlotsByName() being generated in UI code
+  * Build system migrated to CMake
+  * Break up monolithic help text chunks
+  * Significantly improved performance of MD5 checks
+  * Run MD5 checks and information gathering concurrently
+
+ -- Adrian <adrian@mxlinux.org>  Mon, 15 Sep 2025 09:28:13 -0400
+
 gazelle-installer (25.07mx25) mx; urgency=medium
 
-  * Do not mess with the default subvolume unless overwriting or deleting. 
+  * Do not mess with the default subvolume unless overwriting or deleting.
   * Disable code and UI for changing the default subvolume.
-  * Fixed systemd detection under OOBE mode. 
-  * Fixed: service setup fails on systemd-only systems. 
+  * Fixed systemd detection under OOBE mode.
+  * Fixed: service setup fails on systemd-only systems.
   * Fix for some sessions crashing or rebooting with udev restart.
 
  -- Adrian <adrian@mxlinux.org>  Sun, 13 Jul 2025 08:48:20 -0400
@@ -33,7 +44,7 @@ gazelle-installer (25.03.03mx25) mx; urgency=medium
 
   * Updated translations.
   * Fix partition tree keyboard navigation absorbed by cells inside hidden columns.
-  * Eliminated partition tree combo box enhancement due to issues with item selection by keyboard. 
+  * Eliminated partition tree combo box enhancement due to issues with item selection by keyboard.
 
  -- Adrian <adrian@mxlinux.org>  Tue, 25 Mar 2025 16:19:23 -0400
 
@@ -45,7 +56,7 @@ gazelle-installer (25.03.02mx25) mx; urgency=medium
   * Fixed disabled Back button to Terms page under OOBE mode.
   * Do not load or save OOBE configuration in OEM mode.
   * Moved swap settings to a separate page. Added zram configuration to swap page.
-  * Take advantage of btrfs/mkswap file creation features. 
+  * Take advantage of btrfs/mkswap file creation features.
 
  -- Adrian <adrian@mxlinux.org>  Sun, 23 Mar 2025 18:05:28 -0400
 
@@ -114,7 +125,7 @@ gazelle-installer (24.03.04mx23) mx; urgency=medium
   * Load tip text only when the progress bar moves enough for a new tip.
   * Only beg for support once, not three times.
   * Improved help text sequencing for the splash screen.
-  * Code improvements and some cleanup. 
+  * Code improvements and some cleanup.
 
  -- Adrian <adrian@mxlinux.org>  Sun, 31 Mar 2024 11:49:03 -0400
 
@@ -159,7 +170,7 @@ gazelle-installer (23.12.04mx23) mx; urgency=medium
 
 gazelle-installer (23.12.03mx23) mx; urgency=medium
 
-  * ensure unique machine-id on oobe setups from images 
+  * ensure unique machine-id on oobe setups from images
 
  -- Dolphin Oracle <dolphinoracle@gmail.com>  Mon, 25 Dec 2023 18:53:30 -0500
 
@@ -233,7 +244,7 @@ gazelle-installer (23.10.02mx23) mx; urgency=medium
 
 gazelle-installer (23.10.01mx23) mx; urgency=medium
 
-  * Use UUID for resume of the opened luks-partition and Remove leftover resume parameter from grub and kernel commandline 
+  * Use UUID for resume of the opened luks-partition and Remove leftover resume parameter from grub and kernel commandline
 
  -- Adrian <adrian@mxlinux.org>  Sun, 08 Oct 2023 14:38:08 -0400
 
@@ -255,7 +266,7 @@ gazelle-installer (23.8.01mx23) mx; urgency=medium
   * Make "ESP" and "/boot/efi" distinguishable uses.
   * Configuration files can now be created under pretend mode.
   * Progress for pretend mode no longer determined by a timer.
-  * Fixed: cannot abort install with a bad SMART check. 
+  * Fixed: cannot abort install with a bad SMART check.
 
  -- Adrian <adrian@mxlinux.org>  Sat, 05 Aug 2023 18:17:54 -0400
 
@@ -306,7 +317,7 @@ gazelle-installer (23.7.10mx23) mx; urgency=medium
   * Fixed: /boot/efi destroyed when preserving /home on root file system.
   * Live log scrolling is now only active when the bar is at the bottom.
   * Fixed minstall-launcher auto-mount routines.
-  * Fixed minstall-launcher $XDG_RUNTIME_DIR errors. 
+  * Fixed minstall-launcher $XDG_RUNTIME_DIR errors.
 
  -- Adrian <adrian@mxlinux.org>  Thu, 20 Jul 2023 11:30:30 -0400
 
@@ -439,7 +450,7 @@ gazelle-installer (23.6.05mx23) mx; urgency=medium
   * Do not fill mount/dump/pass options for BIOS-GRUB partition.
   * Improved cursor feedback so message boxes do not look like they are locked up.
   * Eliminate forced nosplash for OOBE.
- 
+
  -- Adrian <adrian@mxlinux.org>  Mon, 19 Jun 2023 23:34:21 -0400
 
 gazelle-installer (23.6.04mx23) mx; urgency=medium
@@ -451,7 +462,7 @@ gazelle-installer (23.6.04mx23) mx; urgency=medium
   * Fixed boot partition check for root on a btrfs subvolume.
   * Inform the user of btrfs actions in the confirmation.
   * Btrfs-related menu and user interface bug fixes.
-  * Deleted the minstall-pkexec symlink. 
+  * Deleted the minstall-pkexec symlink.
 
  -- Adrian <adrian@mxlinux.org>  Sun, 18 Jun 2023 16:16:28 -0400
 
@@ -464,7 +475,7 @@ gazelle-installer (23.6.03mx23) mx; urgency=medium
 gazelle-installer (23.6.02mx23) mx; urgency=medium
 
   * Added password strength tool tip to the gauge.
-  * Password strength gauge visual improvements. 
+  * Password strength gauge visual improvements.
 
  -- Adrian <adrian@mxlinux.org>  Tue, 06 Jun 2023 18:11:00 -0400
 
@@ -513,7 +524,7 @@ gazelle-installer (23.5mx23) mx; urgency=medium
 
 gazelle-installer (23.4mx23) mx; urgency=medium
 
-  * Add hibernation support (resume variables) for swap files.  
+  * Add hibernation support (resume variables) for swap files.
   * Set no-COW attribute for a swap file residing on a BTRFS volume.
   * Moved swap file installation before boot manager installation.
   * Fixed auto-install swap management configuration code.
@@ -543,7 +554,7 @@ gazelle-installer (22.12) mx; urgency=medium
   * Create /boot/efi for select ESP even if grub-install was not selected
   * Add checks to avoid warnings on unmount's
   * Check /proc/swaps to avoid warnings on swapoff
-  * Adjust temporary inhibit-rules for raid 
+  * Adjust temporary inhibit-rules for raid
 
  -- Adrian <adrian@mxlinux.org>  Tue, 20 Dec 2022 19:39:06 -0500
 
@@ -563,7 +574,7 @@ gazelle-installer (22.11) mx; urgency=medium
 
 gazelle-installer (22.10.01) mx; urgency=medium
 
-  *  update translations 
+  *  update translations
 
  -- Dolphin Oracle <dolphinoracle@gmail.com>  Wed, 26 Oct 2022 19:54:02 -0400
 
@@ -578,7 +589,7 @@ gazelle-installer (22.9.01) mx; urgency=medium
   * Allow the media check to be skipped by pressing ESC.
   * Omit the media check if booted with checkmd5. Use --media-check to override.
   * Fixed media checker false failure with toram=min and toram=store.
-  * Fixed attempt to use a "linuxfs.info.info" file. 
+  * Fixed attempt to use a "linuxfs.info.info" file.
   * Do not issue BIOS-GRUB warning if such a partition is being re-used.
 
  -- Adrian <adrian@mxlinux.org>  Sun, 04 Sep 2022 21:51:27 -0400
@@ -598,13 +609,13 @@ gazelle-installer (22.8.01) mx; urgency=medium
 
 gazelle-installer (22.8) mx; urgency=medium
 
-  * Set /boot default size for encrypted systems = 1024 
+  * Set /boot default size for encrypted systems = 1024
 
  -- Adrian <adrian@mxlinux.org>  Sat, 20 Aug 2022 16:54:16 -0400
 
 gazelle-installer (22.7.01) mx; urgency=medium
 
-  * translation referesh 
+  * translation referesh
 
  -- Dolphin Oracle <dolphinoracle@gmail.com>  Sat, 23 Jul 2022 11:12:04 -0400
 
@@ -632,7 +643,7 @@ gazelle-installer (22.5) mx; urgency=medium
 
 gazelle-installer (22.4.01) mx; urgency=medium
 
-  * tint2 clock change 
+  * tint2 clock change
 
  -- Adrian <adrian@mxlinux.org>  Wed, 06 Apr 2022 22:29:58 -0400
 
@@ -650,13 +661,13 @@ gazelle-installer (22.3.17) mx; urgency=medium
 
 gazelle-installer (22.3.16) mx; urgency=medium
 
-  * Fixed partition manager error handling. 
+  * Fixed partition manager error handling.
 
  -- Adrian <adrian@mxlinux.org>  Sun, 27 Mar 2022 21:51:46 -0400
 
 gazelle-installer (22.3.15) mx; urgency=medium
 
-  * Use C++ exceptions for error handling. 
+  * Use C++ exceptions for error handling.
 
  -- Adrian <adrian@mxlinux.org>  Thu, 24 Mar 2022 12:03:21 -0400
 
@@ -668,14 +679,14 @@ gazelle-installer (22.3.14) mx; urgency=medium
 
 gazelle-installer (22.3.13) mx; urgency=medium
 
-  * Fixed: wrong part of command output used for fallback space calculation. 
+  * Fixed: wrong part of command output used for fallback space calculation.
   * Fixed: linuxfs.info created if it does not already exist. Eliminate confusion within the image information log message.
 
  -- Adrian <adrian@mxlinux.org>  Tue, 22 Mar 2022 11:45:19 -0400
 
 gazelle-installer (22.3.12) mx; urgency=medium
 
-  * Fixed: BIOS-GRUB partition added to fstab. 
+  * Fixed: BIOS-GRUB partition added to fstab.
 
  -- Adrian <adrian@mxlinux.org>  Mon, 21 Mar 2022 11:14:34 -0400
 
@@ -683,7 +694,7 @@ gazelle-installer (22.3.11) mx; urgency=medium
 
   * Improved disk space calculation methods and made them less pessimistic.
   * Added splash screen throbber to detect freeze at startup and OOBE setup.
-  * New and improved help backdrop display technique. 
+  * New and improved help backdrop display technique.
   * Fixed a condition which could cause the wrong disk space method to be used.
 
  -- Adrian <adrian@mxlinux.org>  Sun, 20 Mar 2022 14:33:25 -0400
@@ -696,7 +707,7 @@ gazelle-installer (22.3.10) mx; urgency=medium
 
 gazelle-installer (22.3.09) mx; urgency=medium
 
-  * Fixed condition which could break snapshot user account detection. 
+  * Fixed condition which could break snapshot user account detection.
 
  -- Adrian <adrian@mxlinux.org>  Mon, 14 Mar 2022 12:34:41 -0400
 
@@ -764,7 +775,7 @@ gazelle-installer (22.3) mx; urgency=medium
 
 gazelle-installer (22.2) mx; urgency=medium
 
-  * explicitly set default btrfs subvolume to root subvolume 
+  * explicitly set default btrfs subvolume to root subvolume
 
  -- Dolphin Oracle <dolphinoracle@gmail.com>  Tue, 08 Feb 2022 19:48:49 -0500
 
@@ -832,7 +843,7 @@ gazelle-installer (21.10.09) mx; urgency=medium
 
 gazelle-installer (21.10.08) mx; urgency=medium
 
-  * Fixed:  generate /etc/machine-id 
+  * Fixed:  generate /etc/machine-id
 
  -- Dolphin Oracle <dolphinoracle@gmail.com>  Mon, 11 Oct 2021 20:57:34 -0400
 
@@ -845,13 +856,13 @@ gazelle-installer (21.10.07) mx; urgency=medium
 gazelle-installer (21.10.06) mx; urgency=medium
 
   * Fixed: some extended partition types appear in the list.
-  * Fixed: ESPs on MBR (type 0xEF) are not selected for ESP. 
+  * Fixed: ESPs on MBR (type 0xEF) are not selected for ESP.
 
  -- Adrian <adrian@mxlinux.org>  Sat, 09 Oct 2021 08:22:55 -0400
 
 gazelle-installer (21.10.05) mx; urgency=medium
 
-  * Fixed: incorrect sector size on new layouts. 
+  * Fixed: incorrect sector size on new layouts.
 
  -- Adrian <adrian@mxlinux.org>  Thu, 07 Oct 2021 16:36:48 -0400
 
@@ -875,7 +886,7 @@ gazelle-installer (21.10.03) mx; urgency=medium
 gazelle-installer (21.10.02) mx; urgency=medium
 
   * Fixed: ESP not automatically selected the first time.
-  * Fixed: Auto-selected ESP format not set to PRESERVE. 
+  * Fixed: Auto-selected ESP format not set to PRESERVE.
 
  -- Adrian <adrian@mxlinux.org>  Mon, 04 Oct 2021 01:48:12 -0400
 
@@ -887,7 +898,7 @@ gazelle-installer (21.10.01) mx; urgency=medium
 
 gazelle-installer (21.10) mx; urgency=medium
 
-  * Fixed: old partitions not detached before clearing the drive. 
+  * Fixed: old partitions not detached before clearing the drive.
 
  -- Adrian <adrian@mxlinux.org>  Sun, 03 Oct 2021 09:10:12 -0400
 
@@ -902,7 +913,7 @@ gazelle-installer (21.9.09) mx; urgency=medium
 
   * Fixed: combo box drop-down list gets duplicated when an entry is chosen.
   * Use the maximum available space when zero is entered.
-  * Lowered the likely excessive safety margin to 8MB. 
+  * Lowered the likely excessive safety margin to 8MB.
 
  -- Adrian <adrian@mxlinux.org>  Thu, 30 Sep 2021 08:21:11 -0400
 
@@ -935,7 +946,7 @@ gazelle-installer (21.9.06) mx; urgency=medium
 gazelle-installer (21.9.05) mx; urgency=medium
 
   * Mention the use for the volume in the confirmation details.
-  * Fixed incorrect active flag status check. 
+  * Fixed incorrect active flag status check.
 
  -- Adrian <adrian@mxlinux.org>  Sat, 25 Sep 2021 19:54:16 -0400
 
@@ -963,7 +974,7 @@ gazelle-installer (21.9.02) mx; urgency=medium
   * Partition manager UX improvements.
   * Fixed: can edit "Virtual Devices" header columns.
   * Main lock file no longer needed for pretend mode.
-  * Translator setup moved further back to the start. 
+  * Translator setup moved further back to the start.
 
  -- Adrian <adrian@mxlinux.org>  Wed, 22 Sep 2021 18:28:56 -0400
 
@@ -992,7 +1003,7 @@ gazelle-installer (21.8.10) mx; urgency=medium
 gazelle-installer (21.8.09) mx; urgency=medium
 
   * Fixed: wrong actions and options enabled if the layout is reset.
-  * Stop generating unknown "nofail" option for crypttab. 
+  * Stop generating unknown "nofail" option for crypttab.
 
  -- Adrian <adrian@mxlinux.org>  Sun, 15 Aug 2021 08:56:07 -0400
 
@@ -1017,7 +1028,7 @@ gazelle-installer (21.8.07) mx; urgency=medium
 
 gazelle-installer (21.8.06) mx; urgency=medium
 
-  * Fixed: validation segmentation fault if there are virtual devices. 
+  * Fixed: validation segmentation fault if there are virtual devices.
 
  -- Adrian <adrian@mxlinux.org>  Fri, 13 Aug 2021 22:20:32 -0400
 
@@ -1100,7 +1111,7 @@ gazelle-installer (21.7.02) mx; urgency=medium
 
 gazelle-installer (21.7.01) mx; urgency=medium
 
-  * Fixed: stale layout selections used for entire-disk install. 
+  * Fixed: stale layout selections used for entire-disk install.
 
  -- Adrian <adrian@mxlinux.org>  Wed, 14 Jul 2021 10:05:29 -0400
 
@@ -1113,7 +1124,7 @@ gazelle-installer (21.7) mx; urgency=medium
 gazelle-installer (21.6.01) mx; urgency=medium
 
   * Improved slider and partition management help text.
-  * Reflect the effect of 100% in the slider tool tip. 
+  * Reflect the effect of 100% in the slider tool tip.
 
  -- Adrian <adrian@mxlinux.org>  Sun, 13 Jun 2021 00:37:14 -0400
 
@@ -1142,7 +1153,7 @@ gazelle-installer (21.5.08) mx; urgency=medium
   * Simplified partition table clearing routine.
   * Preserve home partition by default if selected and possible.
   * Various other fixes and improvements.
- 
+
  -- Adrian <adrian@mxlinux.org>  Sun, 23 May 2021 09:16:17 -0400
 
 gazelle-installer (21.5.07) mx; urgency=medium
@@ -1181,7 +1192,7 @@ gazelle-installer (21.5.03) mx; urgency=medium
 
   * Added support for BTRFS subvolumes.
   * Fixed: incorrect names used for swap spaces.
-  * Simplified detection of various partition types. 
+  * Simplified detection of various partition types.
 
  -- Adrian <adrian@mxlinux.org>  Sun, 16 May 2021 10:38:50 -0400
 
@@ -1238,14 +1249,14 @@ gazelle-installer (21.3.12) mx; urgency=medium
   * Boot loader installation improvements.
   * Use noatime during install to improve performance.
   * Set the noatime mount option in fstab by default.
-  * Fixed: malformed fstab if options field is blank. 
+  * Fixed: malformed fstab if options field is blank.
 
  -- Adrian <adrian@mxlinux.org>  Mon, 22 Mar 2021 10:57:28 -0400
 
 gazelle-installer (21.3.11) mx; urgency=medium
 
   * Fixed: malformed ESP format command.
-  * Fixed: both gparted and partitionmanager are run if present. 
+  * Fixed: both gparted and partitionmanager are run if present.
 
  -- Adrian <adrian@mxlinux.org>  Fri, 19 Mar 2021 09:17:23 -0400
 
@@ -1261,7 +1272,7 @@ gazelle-installer (21.3.09) mx; urgency=medium
   * Mount EFI Variable FS before installing the loader.
   * Fixed: initramfs not updated if GRUB is not selected.
   * Fixed: VFAT ESPs are not recognised.
-  * Add FAT16 and FAT12 support to ESPs. 
+  * Add FAT16 and FAT12 support to ESPs.
 
  -- Adrian <adrian@mxlinux.org>  Mon, 15 Mar 2021 11:06:03 -0400
 
@@ -1296,7 +1307,7 @@ gazelle-installer (21.3.06) mx; urgency=medium
   * Partition manager documentation update.
   * Resized partitionmanager icon to 16x16.
   * Start the slider with recommended portions.
-  * GUI bug fixes and code improvements. 
+  * GUI bug fixes and code improvements.
 
  -- Adrian <adrian@mxlinux.org>  Sat, 06 Mar 2021 19:17:52 -0500
 
@@ -1316,7 +1327,7 @@ gazelle-installer (21.3.04) mx; urgency=medium
   * PartMan only displays boot drive in brave mode.
   * Fixed: GRUB install setting was not obeyed.
   * Slider label scales are now shorter.
-  * Fixed: potential divide-by-zero in slider event. 
+  * Fixed: potential divide-by-zero in slider event.
 
  -- Adrian <adrian@mxlinux.org>  Wed, 03 Mar 2021 10:34:05 -0500
 
@@ -1341,7 +1352,7 @@ gazelle-installer (21.3.02) mx; urgency=medium
 
 gazelle-installer (21.3.01) mx; urgency=medium
 
-  * Fixed: launching installer; move checks to only if non-root user 
+  * Fixed: launching installer; move checks to only if non-root user
 
  -- Adrian <adrian@mxlinux.org>  Mon, 01 Mar 2021 17:38:55 -0500
 
@@ -1349,7 +1360,7 @@ gazelle-installer (21.3) mx; urgency=medium
 
   * Support for configuration file with custom partitions.
   * Support for the space slider in configuration file.
-  * Fixed --auto installation. 
+  * Fixed --auto installation.
 
  -- Adrian <adrian@mxlinux.org>  Mon, 01 Mar 2021 11:08:56 -0500
 
@@ -1358,7 +1369,7 @@ gazelle-installer (21.2.08) mx; urgency=medium
   * Move tests to MInstall::startup() to improve GUI feedback.
   * Eliminated duplicate EFI test, merged the warning message.
   * Remove the security bodge and revert to the old install source test.
-  * Adjust script to require password when passing options or running in non-live environment 
+  * Adjust script to require password when passing options or running in non-live environment
 
  -- Adrian <adrian@mxlinux.org>  Sun, 28 Feb 2021 22:53:00 -0500
 
@@ -1373,7 +1384,7 @@ gazelle-installer (21.2.06) mx; urgency=medium
   * Account for /boot space when it is not in a separate partition.
   * Fixes: slider can move too far left and choke the installation.
   * Fixed: basic info is not read from separate /home partition.
-  * Fixed typo: gpt-overwride 
+  * Fixed typo: gpt-overwride
 
  -- Adrian <adrian@mxlinux.org>  Sun, 28 Feb 2021 10:25:15 -0500
 
@@ -1383,7 +1394,7 @@ gazelle-installer (21.2.05) mx; urgency=medium
   * The standard install now creates a separate /home partition by default.
   * Added root-home space slider for standard install.
   * The user can now change the boundary between the info tabs and installer pane.
-  * Calculate standard install swap by 1.5xRAM, capped to 5% drive space. 
+  * Calculate standard install swap by 1.5xRAM, capped to 5% drive space.
 
  -- Adrian <adrian@mxlinux.org>  Sat, 27 Feb 2021 19:14:53 -0500
 
@@ -1419,7 +1430,7 @@ gazelle-installer (21.2.01) mx; urgency=medium
 
 gazelle-installer (21.2) mx; urgency=medium
 
-  * Fixed issue with root account setup. 
+  * Fixed issue with root account setup.
 
  -- Adrian <adrian@mxlinux.org>  Mon, 01 Feb 2021 16:31:26 -0500
 
@@ -1440,10 +1451,10 @@ gazelle-installer (21.01.02) mx; urgency=medium
 
 gazelle-installer (21.01) mx; urgency=medium
 
-  * update minstall-pkexec to minstall-launcher 
+  * update minstall-pkexec to minstall-launcher
 
  -- Dolphin Oracle <dolphinoracle@gmail.com>  Thu, 21 Jan 2021 20:43:14 -0500
- 
+
 gazelle-installer (20.12) mx; urgency=medium
 
   * theme fixes for KDE
@@ -1455,16 +1466,16 @@ gazelle-installer (20.10) mx; urgency=medium
   * add /dev to esp device for parted -s command
 
  -- dolphin <dolphinoracle@gmail.com>  Fri, 30 Oct 2020 18:24:45 -0400
- 
+
 gazelle-installer (20.8) mx; urgency=medium
 
-  * add user directory creation when renaming home folder 
+  * add user directory creation when renaming home folder
 
  -- Adrian <dolphin@littlebyte>  Tue, 11 Aug 2020 19:55:38 -0400
 
 gazelle-installer (20.7) mx; urgency=medium
 
-  * Set 12or24 hour for plasma clock 
+  * Set 12or24 hour for plasma clock
 
  -- Adrian <adrian@mxlinux.org>  Fri, 24 Jul 2020 09:09:49 -0400
 
@@ -1521,13 +1532,13 @@ gazelle-installer (20.4.1) mx; urgency=medium
   * Removed command-line short-hand versions of test and experimental switches.
   * GUI text clarity improvements.
   * Select "No" by default for abortion confirmation.
-  * Postpone some initialization until after the GUI is visible. 
+  * Postpone some initialization until after the GUI is visible.
 
  -- Adrian <adrian@mxlinux.org>  Fri, 24 Apr 2020 09:12:06 -0400
 
 gazelle-installer (20.2) mx; urgency=medium
 
-  * adjust live-to-install/makeFstab sequence 
+  * adjust live-to-install/makeFstab sequence
   * update translations (ravrett)
 
  -- Dolphin Oracle <dolphinoracle@gmail.com>  Wed, 12 Feb 2020 17:35:52 -0500
@@ -1540,7 +1551,7 @@ gazelle-installer (20.1) mx; urgency=medium
 
 gazelle-installer (19.12.02) mx; urgency=medium
 
-  * new partition size estimate scheme (similar to live-remaster) 
+  * new partition size estimate scheme (similar to live-remaster)
 
  -- Dolphin Oracle <dolphinoracle@gmail.com>  Tue, 10 Dec 2019 18:59:16 -0500
 
@@ -1548,7 +1559,7 @@ gazelle-installer (19.12.01) mx; urgency=medium
 
   * adjust preserve saving existing home partition function
   * adjust gui message at start of installer
-  * adjust end message at install completion 
+  * adjust end message at install completion
 
  -- Dolphin Oracle <dolphinoracle@gmail.com>  Sat, 07 Dec 2019 16:26:18 -0500
 
@@ -1567,7 +1578,7 @@ gazelle-installer (19.11.02) mx; urgency=medium
 gazelle-installer (19.11.01) mx; urgency=medium
 
   * put minstall.conf feature behind --config switch
-  * update minstall-pkexec to pass arguments 
+  * update minstall-pkexec to pass arguments
 
  -- Dolphin Oracle <dolphinoracle@gmail.com>  Tue, 05 Nov 2019 21:33:45 -0500
 
@@ -1598,13 +1609,13 @@ gazelle-installer (19.10.03) mx; urgency=medium
 
 gazelle-installer (19.10.02) mx; urgency=medium
 
-  * add sleeps to allow time for partition changes 
+  * add sleeps to allow time for partition changes
 
  -- Dolphin Oracle <dolphinoracle@gmail.com>  Mon, 14 Oct 2019 14:46:50 -0400
 
 gazelle-installer (19.10.01) mx; urgency=medium
 
-  * revised filesystem label routines 
+  * revised filesystem label routines
 
  -- Dolphin Oracle <dolphinoracle@gmail.com>  Fri, 11 Oct 2019 21:19:27 -0400
 
@@ -1622,13 +1633,13 @@ gazelle-installer (19.9.09) mx; urgency=medium
 
 gazelle-installer (19.9.08) mx; urgency=medium
 
-  * revisions to automount in minstall and minstall-pkexec 
+  * revisions to automount in minstall and minstall-pkexec
 
  -- Dolphin Oracle <dolphinoracle@gmail.com>  Fri, 13 Sep 2019 20:18:11 -0400
 
 gazelle-installer (19.9.07) mx; urgency=medium
 
-  * Sort the output of lsblk before populating the list 
+  * Sort the output of lsblk before populating the list
 
  -- Dolphin Oracle <dolphinoracle@gmail.com>  Mon, 09 Sep 2019 20:07:06 -0400
 
@@ -1636,7 +1647,7 @@ gazelle-installer (19.9.06) mx; urgency=medium
 
   * Adjust lsblk command modify autmount disable rule name to avoid conflict with gparted
   * Let udisks trigger itself on its own accord.
-  * Improved timezone appearance. 
+  * Improved timezone appearance.
 
  -- Adrian <adrian@mxlinux.org>  Mon, 09 Sep 2019 08:54:50 -0400
 
@@ -1649,7 +1660,7 @@ gazelle-installer (19.9.05) mx; urgency=medium
 
 gazelle-installer (19.9.03) mx; urgency=medium
 
-  * correction to auto-mount routine - no longer trigger events 
+  * correction to auto-mount routine - no longer trigger events
 
  -- Dolphin Oracle <dolphinoracle@gmail.com>  Sat, 07 Sep 2019 10:45:15 -0400
 
@@ -1724,7 +1735,7 @@ gazelle-installer (19.8.02) mx; urgency=medium
 gazelle-installer (19.8.01) mx; urgency=medium
 
   * antix automount fixes
-  * fix for more than 15 partitions bug 
+  * fix for more than 15 partitions bug
 
  -- Dolphin Oracle <dolphinoracle@gmail.com>  Wed, 14 Aug 2019 20:11:10 -0400
 
@@ -1784,7 +1795,7 @@ gazelle-installer (19.6~7) mx; urgency=medium
 
   * Fixed: GPT formatted drives not detected properly.
   * Fixed: live boot medium would appear in combo boxes.
-  * Fixed: home type combo box disabled until changed. 
+  * Fixed: home type combo box disabled until changed.
 
  -- Adrian <adrian@mxlinux.org>  Sun, 23 Jun 2019 22:44:35 -0400
 
@@ -1799,7 +1810,7 @@ gazelle-installer (19.6~5) mx; urgency=medium
   * Fixed: service selection was not stashed.
   * Implemented automatic installation (--auto).
   * Mark widgets associated with invalid settings.
-  * Removed 8-character encryption passphrase restriction.  
+  * Removed 8-character encryption passphrase restriction.
 
  -- Adrian <adrian@mxlinux.org>  Sun, 23 Jun 2019 11:11:26 -0400
 
@@ -1818,7 +1829,7 @@ gazelle-installer (19.6~2) mx; urgency=medium
   * Added nasty flag to mark some devices as unsuitable for MBR/PBR installation.
   * The vintage Apple HFS+ check now uses the nasty flag.
   * Added check for Windows LDM devices, uses the nasty flag.
-  * Added --brave option to bypass the nasty blocks. A warning icon is shown next to nasty partitions when using the --brave option. 
+  * Added --brave option to bypass the nasty blocks. A warning icon is shown next to nasty partitions when using the --brave option.
 
  -- Adrian <adrian@mxlinux.org>  Tue, 11 Jun 2019 10:30:29 -0400
 
@@ -1831,11 +1842,11 @@ gazelle-installer (19.5.2) mx; urgency=medium
 
 gazelle-installer (19.5.1) mx; urgency=medium
 
-  * hide the Next arrow during Advanced Encryption and Services pages. 
+  * hide the Next arrow during Advanced Encryption and Services pages.
   * change Next to OK when at Advanced Encryption Settings and Services pages.
   * stash service selection depending on whether Back or Next is clicked.
   * use the readlink(2) syscall instead of spawning a process.
- 
+
  -- Adrian <adrian@mxlinux.org>  Sun, 19 May 2019 10:49:53 -0400
 
 gazelle-installer (19.5) mx; urgency=medium
@@ -1875,7 +1886,7 @@ gazelle-installer (19.5) mx; urgency=medium
 gazelle-installer (19.4) mx; urgency=medium
 
   * added encryption advanced settings
-  * updated translations 
+  * updated translations
 
  -- Adrian <adrian@mxlinux.org>  Fri, 05 Apr 2019 11:14:36 -0400
 
@@ -1903,7 +1914,7 @@ gazelle-installer (19.3) mx; urgency=medium
 gazelle-installer (19.2.1) mx; urgency=medium
 
   * update regex on username check
-  * 
+  *
 
  -- Dolphin Oracle <dolphinoracle@gmail.com>  Wed, 06 Feb 2019 19:02:04 -0500
 
@@ -1928,14 +1939,14 @@ gazelle-installer (19.1) mx; urgency=medium
 
 gazelle-installer (18.12.3) mx; urgency=medium
 
-  * accomdate memtest 
+  * accomdate memtest
 
  -- Dolphin Oracle <dolphinoracle@gmail.com>  Sat, 15 Dec 2018 10:09:43 -0500
 
 gazelle-installer (18.12.2) mx; urgency=medium
 
   * filter out BOOT_IMAGE live boot code
-  * 
+  *
 
  -- Dolphin Oracle <dolphinoracle@gmail.com>  Thu, 13 Dec 2018 17:21:10 -0500
 
@@ -1954,13 +1965,13 @@ gazelle-installer (18.12) mx; urgency=medium
 gazelle-installer (18.11.02) mx; urgency=medium
 
   * filter out vga=ask from bootcodes
-  * disable adding swap as resume device to initramfs if swap is encrypted 
+  * disable adding swap as resume device to initramfs if swap is encrypted
 
  -- Dolphin Oracle <dolphinoracle@gmail.com>  Mon, 26 Nov 2018 22:02:49 -0500
 
 gazelle-installer (18.11.01) mx; urgency=medium
 
-  * revised text in installer 
+  * revised text in installer
 
  -- Dolphin Oracle <dolphinoracle@gmail.com>  Fri, 23 Nov 2018 13:24:48 -0500
 
@@ -1972,7 +1983,7 @@ gazelle-installer (18.11) mx; urgency=medium
 
 gazelle-installer (18.10.01) mx; urgency=medium
 
-  * adjusted /etc/adjtime settings for LOCAL/UTC 
+  * adjusted /etc/adjtime settings for LOCAL/UTC
 
  -- dolphin <dolphinoracle@gmail.com>  Wed, 17 Oct 2018 21:42:58 -0400
 
@@ -2005,13 +2016,13 @@ gazelle-installer (18.7) mx; urgency=medium
 
   * change UI for partition selection
   * allows installing /home on different file type than root
-  * fix default /home label 
+  * fix default /home label
 
  -- Adrian <adrian@mxlinux.org>  Thu, 12 Jul 2018 01:28:07 -0400
 
 gazelle-installer (18.6.3) mx; urgency=medium
 
-  * added debugging info 
+  * added debugging info
 
  -- Adrian <adrian@mxlinux.org>  Sat, 16 Jun 2018 09:08:14 -0400
 
@@ -2041,7 +2052,7 @@ gazelle-installer (18.5.3) unstable; urgency=medium
 
 gazelle-installer (18.5.2) unstable; urgency=medium
 
-  * working on making POPULATE_MEDIA_MOUNTPOINTS configurable with btrfs changes 
+  * working on making POPULATE_MEDIA_MOUNTPOINTS configurable with btrfs changes
   * moved rc.local.install and live-to-install scripts to data deb
 
  -- dolphinoracle <dolphinoracle@gmail.com>  Mon, 30 Apr 2018 20:13:53 -0400
@@ -2061,25 +2072,25 @@ gazelle-installer (18.4.11) mx; urgency=medium
 mx-installer (18.4.10) mx; urgency=medium
 
   * added nvme mmcblk device detection
-  * added backup esp finder function 
+  * added backup esp finder function
 
  -- dolphinoracle <dolphinoracle@gmail.com>  Mon, 16 Apr 2018 19:19:46 -0400
 
 mx-installer (18.4.09) mx; urgency=medium
 
-  * added Desktop/Installer.desktop to live-to-installed 
+  * added Desktop/Installer.desktop to live-to-installed
 
  -- dolphinoracle <dolphinoracle@gmail.com>  Sat, 14 Apr 2018 19:46:31 -0400
 
 mx-installer (18.4.08) mx; urgency=medium
 
-  * modified keyboard setup so that multiple keyboards stay enabled 
+  * modified keyboard setup so that multiple keyboards stay enabled
 
  -- dolphinoracle <dolphinoracle@gmail.com>  Sat, 14 Apr 2018 19:22:29 -0400
 
 mx-installer (18.4.07mx17) mx; urgency=medium
 
-  * tweak to memain.ui 
+  * tweak to memain.ui
 
  -- dolphinoracle <dolphinoracle@gmail.com>  Sat, 14 Apr 2018 12:31:47 -0400
 
@@ -2092,14 +2103,14 @@ mx-installer (18.4.06mx17) mx; urgency=medium
 mx-installer (18.4.05mx17) mx; urgency=medium
 
   * misc. changes to sync up antiX/mx installs
-  * new live-to-installed script 
-  * incorporating changes from anticapitalista 
+  * new live-to-installed script
+  * incorporating changes from anticapitalista
 
  -- dolphinoracle <dolphinoracle@gmail.com>  Fri, 13 Apr 2018 18:38:35 -0400
 
 mx-installer (18.4.04mx17) mx; urgency=medium
 
-  * misc. changes for antiX/mx  
+  * misc. changes for antiX/mx
 
  -- dolphinoracle <dolphinoracle@gmail.com>  Wed, 11 Apr 2018 21:33:42 -0400
 
@@ -2112,7 +2123,7 @@ mx-installer (18.4.03mx17) mx; urgency=medium
 mx-installer (18.4.01mx17) mx; urgency=medium
 
   * heavy modification in effort to make customizations easier
-  * 32 bit UEFI installer 
+  * 32 bit UEFI installer
   * installer.conf file
 
  -- dolphinoracle <dolphinoracle@gmail.com>  Fri, 06 Apr 2018 21:42:55 -0400
@@ -2182,7 +2193,7 @@ mx-installer (17.10.01) mx; urgency=medium
   * timezone setup change
 
  -- dolphinoracle <dolphinoracle@gmail.com>  Wed, 25 Oct 2017 08:01:28 -0400
- 
+
  mx-installer (17.10mx17) mx; urgency=medium
 
   * resizable installer window
@@ -2233,7 +2244,7 @@ mx-installer (17.5.03mx16) mx; urgency=medium
 
 mx-installer (17.5.02mx16) mx; urgency=medium
 
-  * added pop up message about encrypting swap 
+  * added pop up message about encrypting swap
 
  -- dolphinoracle <dolphinoracle@gmail.com1>  Wed, 31 May 2017 06:48:54 -0400
 
@@ -2329,7 +2340,7 @@ mx-installer (16.10mx16+3) mx; urgency=medium
 
 mx-installer (16.10mx16+2) mx; urgency=medium
 
-  * text changes 
+  * text changes
 
  -- Adrian <adrian@mxlinux.org>  Mon, 24 Oct 2016 10:06:19 -0400
 
@@ -2516,7 +2527,7 @@ mx-installer (15.10.4mx15) mx; urgency=medium
 
 mx-installer (15.10.3mx15) mx; urgency=medium
 
-  * Fixed window icon 
+  * Fixed window icon
 
  -- Adrian <adrian@mxlinux.org>  Sun, 11 Oct 2015 10:23:13 -0400
 
@@ -2580,8 +2591,8 @@ mx-installer (15.1) mx; urgency=medium
 
  -- Adrian <adrian@mxlinux.org>  Tue, 27 Jan 2015 12:50:02 -0500
 
-mx-installer (0.2.3) unstable; urgency=low 
-   
+mx-installer (0.2.3) unstable; urgency=low
+
   * installer adds boot parameters.
   * changed code for replacing sting in /etc/default/grub.
   * replaced single quotes with double in sed.
@@ -2596,30 +2607,30 @@ mx-installer (0.2.3) unstable; urgency=low
  -- anticapitalista <antiX@operamail.com>  Sun, 09 Nov 2014 22:14:00 +0200
 
 
-mx-installer (0.2.2) unstable; urgency=low 
- 
-  * Removed condition in setting btrfs file system and added -f option. 
+mx-installer (0.2.2) unstable; urgency=low
+
+  * Removed condition in setting btrfs file system and added -f option.
 
  -- anticapitalista <antiX@operamail.com>  Sun, 29 Jun 2014 11:30:00 +0200
 
 
-mx-installer (0.2.1) unstable; urgency=low 
- 
+mx-installer (0.2.1) unstable; urgency=low
+
   * Disk warning text changed again.
   * New localisations.
 
  -- anticapitalista <antiX@operamail.com>  Fri, 27 Jun 2014 20:20:00 +0200
 
 
-mx-installer (0.2.0) unstable; urgency=low 
- 
+mx-installer (0.2.0) unstable; urgency=low
+
   * Changed disk warning text.
 
  -- anticapitalista <antiX@operamail.com>  Sun, 22 Jun 2014 13:30:00 +0200
 
 
-mx-installer (0.1.9) unstable; urgency=low 
- 
+mx-installer (0.1.9) unstable; urgency=low
+
   * fixed GUI problem selecting installing GRUB on boot.
   * added info about disks in combobox.
   * copy skel/.local and skel/.config to saved home but do not overwrite.
@@ -2629,29 +2640,29 @@ mx-installer (0.1.9) unstable; urgency=low
   * added descriptions for services.
   * changed size of columns.
   * scrollbar added.
-  * remove /etc/skel/Desktop  
+  * remove /etc/skel/Desktop
   * Japanese localisation added.
-  
+
  -- anticapitalista <antiX@operamail.com>  Sun, 08 Jun 2014 19:50:00 +0200
 
 
-mx-installer (0.1.8) unstable; urgency=low 
- 
+mx-installer (0.1.8) unstable; urgency=low
+
   * Changed focus policy for button on screen 3.
 
  -- anticapitalista <antiX@operamail.com>  Fri, 21 Mar 2014 13:40:00 +0200
 
 
-mx-installer (0.1.7) unstable; urgency=low 
- 
+mx-installer (0.1.7) unstable; urgency=low
+
   * Removed all code relating to buildfstab.
   * Remove /etc/skel/Desktop folder.
 
  -- anticapitalista <antiX@operamail.com>  Fri, 14 Mar 2014 18:30:00 +0200
 
 
-mx-installer (0.1.6) unstable; urgency=low 
- 
+mx-installer (0.1.6) unstable; urgency=low
+
   * Fixed issues with sv translation.
   * New Romanian and Dutch translation.
   * If us/gb/uk keyboard selected, only use that ie remove us,us.
@@ -2662,24 +2673,24 @@ mx-installer (0.1.6) unstable; urgency=low
  -- anticapitalista <antiX@operamail.com>  Thu, 27 Feb 2014 18:10:00 +0200
 
 
-mx-installer (0.1.5) unstable; urgency=low 
- 
+mx-installer (0.1.5) unstable; urgency=low
+
   * Added checks to hostname.
   * New translations including Romanian and Swedish.
 
  -- anticapitalista <antiX@operamail.com>  Fri, 20 Feb 2014 21:40:00 +0200
 
 
-mx-installer (0.1.4) unstable; urgency=low 
- 
+mx-installer (0.1.4) unstable; urgency=low
+
   * Localisation completed.
   * Added winbind and haveged to startup on/off options.
 
  -- anticapitalista <antiX@operamail.com>  Tue, 11 Feb 2014 16:40:00 +0200
 
 
-mx-installer (0.1.3) unstable; urgency=low 
- 
+mx-installer (0.1.3) unstable; urgency=low
+
   * Changes to localisation (incomplete).
   * Added hard disk check.
   * Added show passwords.
@@ -2688,22 +2699,22 @@ mx-installer (0.1.3) unstable; urgency=low
  -- anticapitalista <antiX@operamail.com>  Mon, 03 Feb 2014 18:40:00 +0200
 
 
-mx-installer (0.1.2) unstable; urgency=low 
- 
+mx-installer (0.1.2) unstable; urgency=low
+
   * Minor changes to comments and translations.
 
  -- anticapitalista <antiX@operamail.com>  Tue, 28 Jan 2014 15:40:00 +0200
 
 
-mx-installer (0.1.1) unstable; urgency=low 
- 
+mx-installer (0.1.1) unstable; urgency=low
+
   * Added ability for separate /home on different drive.
 
  -- anticapitalista <antiX@operamail.com>  Wed, 22 Jan 2014 12:30:00 +0200
 
 
-mx-installer (0.1.0) unstable; urgency=low 
- 
+mx-installer (0.1.0) unstable; urgency=low
+
   * Initial Release.
 
  -- anticapitalista <antiX@operamail.com>  Mon, 13 Jan 2014 22:30:00 +0200
