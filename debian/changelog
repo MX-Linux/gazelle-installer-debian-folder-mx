@@ -1,3 +1,9 @@
+gazelle-installer (25.09.1mx25) mx; urgency=medium
+
+  * Hide package upgrade check box until feature is implemented.
+
+ -- Adrian <adrian@mxlinux.org>  Sat, 20 Sep 2025 17:50:59 -0400
+
 gazelle-installer (25.09mx25) mx; urgency=medium
 
   * Secure boot fixes
