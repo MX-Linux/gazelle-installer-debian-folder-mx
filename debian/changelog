@@ -1,3 +1,51 @@
+gazelle-installer (25.09.1mx25) mx; urgency=medium
+
+  * Hide package upgrade check box until feature is implemented.
+
+ -- Adrian <adrian@mxlinux.org>  Sat, 20 Sep 2025 17:50:59 -0400
+
+gazelle-installer (25.09mx25) mx; urgency=medium
+
+  * Secure boot fixes
+  * Stop connectSlotsByName() being generated in UI code
+  * Build system migrated to CMake
+  * Break up monolithic help text chunks
+  * Significantly improved performance of MD5 checks
+  * Run MD5 checks and information gathering concurrently
+
+ -- Adrian <adrian@mxlinux.org>  Mon, 15 Sep 2025 09:28:13 -0400
+
+gazelle-installer (25.07mx25) mx; urgency=medium
+
+  * Do not mess with the default subvolume unless overwriting or deleting.
+  * Disable code and UI for changing the default subvolume.
+  * Fixed systemd detection under OOBE mode.
+  * Fixed: service setup fails on systemd-only systems.
+  * Fix for some sessions crashing or rebooting with udev restart.
+
+ -- Adrian <adrian@mxlinux.org>  Sun, 13 Jul 2025 08:48:20 -0400
+
+gazelle-installer (25.06mx25) mx; urgency=medium
+
+  * Prepare to move stuff out of /usr/local/ read script from alternative location
+  * Simplified page widget layout.
+
+ -- Adrian <adrian@mxlinux.org>  Fri, 06 Jun 2025 21:53:19 -0400
+
+gazelle-installer (25.04mx25) mx; urgency=medium
+
+  * Enable zramswap service if the zram checkbox is ticked.
+  * Fixed incorrect Next button and hibernation check box state in swap file
+    box.
+  * Add slimski support.
+  * Fix disabling of runit services.
+  * User can choose host-specific initramfs creation.
+  * Fixed: existing zramswap settings not copied to new configuration.
+  * Message box improvements.
+  * Fix deletion of old system when a mount point is in a subdirectory.
+
+ -- Adrian <adrian@mxlinux.org>  Thu, 03 Apr 2025 10:21:30 -0400
+
 gazelle-installer (25.04mx23) mx; urgency=medium
 
   * Fixed incorrect Next button and hibernation check box state in swap file box.
@@ -37,27 +85,11 @@ gazelle-installer (25.01.01mx23) mx; urgency=medium
 
  -- Dolphin Oracle <dolphinoracle@gmail.com>  Mon, 06 Jan 2025 16:53:04 -0500
 
-gazelle-installer (24.11.01mx23) mx; urgency=medium
+gazelle-installer (24.7mx25) mx; urgency=medium
 
-  * default window size adjustments
-  * timezone combobox fixes for trixie
-  [fehlix]
-  * blkdiscard fallback mode during partition creation
+  * Trixie build
 
- -- Dolphin Oracle <dolphinoracle@gmail.com>  Fri, 22 Nov 2024 19:18:57 -0500
-
-gazelle-installer (24.10.01mx23) mx; urgency=medium
-
-  * all extra customization options via /etc/gazelle-installer-data/installer.conf file
-  * logo, help backdrop, live-to-installed script, show desktop changes
-
- -- Dolphin Oracle <dolphinoracle@gmail.com>  Sat, 19 Oct 2024 18:30:14 -0400
-
-gazelle-installer (24.09.01mx23) mx; urgency=medium
-
-  * Set default domain name file
-
- -- Adrian <adrian@mxlinux.org>  Wed, 25 Sep 2024 17:06:15 -0400
+ -- Adrian <adrian@mxlinux.org>  Sat, 27 Jul 2024 21:53:05 -0400
 
 gazelle-installer (24.05.01mx23) mx; urgency=medium
 
@@ -96,7 +128,7 @@ gazelle-installer (24.03.04mx23) mx; urgency=medium
   * Load tip text only when the progress bar moves enough for a new tip.
   * Only beg for support once, not three times.
   * Improved help text sequencing for the splash screen.
-  * Code improvements and some cleanup. 
+  * Code improvements and some cleanup.
 
  -- Adrian <adrian@mxlinux.org>  Sun, 31 Mar 2024 11:49:03 -0400
 
