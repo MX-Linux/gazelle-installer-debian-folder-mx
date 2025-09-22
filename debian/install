@@ -3,7 +3,6 @@ NOTICE				usr/share/doc/gazelle-installer
 copyright			usr/share/doc/gazelle-installer
 locales.template		usr/share/antiX
 _build_/Release/minstall	usr/sbin
-_build_/Release/minstall-real	usr/bin
 minstall.desktop		usr/share/applications
 polkit/*			usr/share/polkit-1/actions
 scripts/guess-hwclock		usr/sbin
