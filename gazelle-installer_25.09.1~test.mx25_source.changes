@@ -1,0 +1,40 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+Format: 1.8
+Date: Mon, 22 Sep 2025 15:39:24 -0400
+Source: gazelle-installer
+Architecture: source
+Version: 25.09.1~test.mx25
+Distribution: mx
+Urgency: medium
+Maintainer: dolphinoracle <dolphinoracle@gmail.com>
+Changed-By: Adrian <adrian@mxlinux.org>
+Changes:
+ gazelle-installer (25.09.1~test.mx25) mx; urgency=medium
+ .
+   * Create a test .deb for launcher/auto-updater
+Checksums-Sha1:
+ 11cbea16b026447b640407d292fb092bb58dd701 1398 gazelle-installer_25.09.1~test.mx25.dsc
+ 4be301ded40ea8a4a2480ec673059418661bdc12 388740 gazelle-installer_25.09.1~test.mx25.tar.xz
+ a79f30b979ffc0f1dd094fd95330d54a56b87b33 11134 gazelle-installer_25.09.1~test.mx25_amd64.buildinfo
+Checksums-Sha256:
+ 73e8d0a126a934aa05d981d1869baf474770a241107267e5077c26b42a41eca6 1398 gazelle-installer_25.09.1~test.mx25.dsc
+ dc03e3a566096734605c416879a72fc5f138cea3937abfb819fbadd70d60caa1 388740 gazelle-installer_25.09.1~test.mx25.tar.xz
+ 3157f7a9b870015903468cf6df22acaf5f53e38d5b60c6c9ad803e344c8f124d 11134 gazelle-installer_25.09.1~test.mx25_amd64.buildinfo
+Files:
+ 3f91f517d0cdb3d50ffbece83d80548c 1398 system optional gazelle-installer_25.09.1~test.mx25.dsc
+ a990a1e9f1826b8ca2d626b0f619402e 388740 system optional gazelle-installer_25.09.1~test.mx25.tar.xz
+ cba906498415f4d5070376cd1aff23b2 11134 system optional gazelle-installer_25.09.1~test.mx25_amd64.buildinfo
+
+-----BEGIN PGP SIGNATURE-----
+
+iQFHBAEBCgAxFiEE8ndToY6S45N+YzXncJOMeAZ57pgFAmjRrmoTHGFkcmlhbkBt
+eGxpbnV4Lm9yZwAKCRBwk4x4BnnumN7tCACNMeMVy8L+F54hnPqxCk4+T0tUz/xZ
+VpuxfnAiiUsBsHc2eNj3aSVVurRGUFSUynXaYF+q6pbCCnRqejd906sYuORvTuEO
+BH0tO5/yHI/eeFmkjXf1Qb0fAulDhrSzXmmr80luTvy16WC6ZQef20p1NeWFvUeG
+K4ruRri8JQaBSeGJ5pWhyjINPQ2KqaGKwbAe/MZ5N0QKnx+olr428Df0Qee1Z1hC
+VLkvXkVW5zgY2QbFcNtkdGZuKz6Sob71fBeN8gvGB4SKXZqFwaSfpImsshnW8RRJ
+aCvprYESQ3KkhMgSl1nTtvr31rGJwsNMmhl01EuAwhYCqUDjHOnbQ4de
+=2Ywe
+-----END PGP SIGNATURE-----

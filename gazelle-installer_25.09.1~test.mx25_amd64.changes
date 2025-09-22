@@ -1,0 +1,46 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+Format: 1.8
+Date: Mon, 22 Sep 2025 15:39:24 -0400
+Source: gazelle-installer
+Binary: mx-installer
+Architecture: source amd64
+Version: 25.09.1~test.mx25
+Distribution: mx
+Urgency: medium
+Maintainer: dolphinoracle <dolphinoracle@gmail.com>
+Changed-By: Adrian <adrian@mxlinux.org>
+Description:
+ mx-installer - Customizable GUI installer for MX Linux and antiX Linux
+Changes:
+ gazelle-installer (25.09.1~test.mx25) mx; urgency=medium
+ .
+   * Create a test .deb for launcher/auto-updater
+Checksums-Sha1:
+ 11cbea16b026447b640407d292fb092bb58dd701 1398 gazelle-installer_25.09.1~test.mx25.dsc
+ 4be301ded40ea8a4a2480ec673059418661bdc12 388740 gazelle-installer_25.09.1~test.mx25.tar.xz
+ a79f30b979ffc0f1dd094fd95330d54a56b87b33 11134 gazelle-installer_25.09.1~test.mx25_amd64.buildinfo
+ e251172f649036bc7a1288b2178326db5db32ace 690244 mx-installer_25.09.1~test.mx25_amd64.deb
+Checksums-Sha256:
+ 73e8d0a126a934aa05d981d1869baf474770a241107267e5077c26b42a41eca6 1398 gazelle-installer_25.09.1~test.mx25.dsc
+ dc03e3a566096734605c416879a72fc5f138cea3937abfb819fbadd70d60caa1 388740 gazelle-installer_25.09.1~test.mx25.tar.xz
+ 3157f7a9b870015903468cf6df22acaf5f53e38d5b60c6c9ad803e344c8f124d 11134 gazelle-installer_25.09.1~test.mx25_amd64.buildinfo
+ cfb4d1ab80361c08419ac59a8462be0b14969ae288bee3669261c137b7f142f5 690244 mx-installer_25.09.1~test.mx25_amd64.deb
+Files:
+ 3f91f517d0cdb3d50ffbece83d80548c 1398 system optional gazelle-installer_25.09.1~test.mx25.dsc
+ a990a1e9f1826b8ca2d626b0f619402e 388740 system optional gazelle-installer_25.09.1~test.mx25.tar.xz
+ cba906498415f4d5070376cd1aff23b2 11134 system optional gazelle-installer_25.09.1~test.mx25_amd64.buildinfo
+ f17abd10893f08c3d27198f5aa2b53c4 690244 system optional mx-installer_25.09.1~test.mx25_amd64.deb
+
+-----BEGIN PGP SIGNATURE-----
+
+iQFHBAEBCgAxFiEE8ndToY6S45N+YzXncJOMeAZ57pgFAmjRrmoTHGFkcmlhbkBt
+eGxpbnV4Lm9yZwAKCRBwk4x4BnnumIVPB/wLIAGcgScPtuF0jsW5RhxkFV780/R2
+FUixRx91Z9n8YGRjCP8BwH0ktMHXN2d6nZId5EvCxtUOJWrMAFjtJdrCZSP7fRry
+rpsDT41r93VLv8/zYblPTuVcZFf4Q1ZuyXkCCcGdBpvi5Rx+DH9LwCiB5jvBUosd
+OEhr8cmCHeHE4zp3YZQCqOzdinpv0zuoj8MIxwAvYQb3Giha71qBY27W6XwYOf/w
+5S0+goBi3D6XzOMZ2DiVYIKLLNCLQ74CaSuXoMnxV5Zy7TFjbRjdwsmgR1wXJdUZ
+aV88eRT0Wd2RsOCEk0POWNpPO+LkFbzrBwyJQK4nn89zMx4cuzQrNbcL
+=s4gv
+-----END PGP SIGNATURE-----

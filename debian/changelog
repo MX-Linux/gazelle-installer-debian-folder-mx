@@ -1,4 +1,4 @@
-gazelle-installer (25.09.1.mx25~test) mx; urgency=medium
+gazelle-installer (25.09.1~test.mx25) mx; urgency=medium
 
   * Create a test .deb for launcher/auto-updater
 
