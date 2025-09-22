@@ -1,3 +1,9 @@
+gazelle-installer (25.09.1.mx25~test) mx; urgency=medium
+
+  * Create a test .deb for launcher/auto-updater
+
+ -- Adrian <adrian@mxlinux.org>  Mon, 22 Sep 2025 15:39:24 -0400
+
 gazelle-installer (25.09.1mx25) mx; urgency=medium
 
   * Hide package upgrade check box until feature is implemented.
