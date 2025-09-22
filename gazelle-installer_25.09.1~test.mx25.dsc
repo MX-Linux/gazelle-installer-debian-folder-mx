@@ -13,20 +13,20 @@ Build-Depends: debhelper-compat (= 13), cmake (>= 3.31), ninja-build (>= 1.12), 
 Package-List:
  mx-installer deb system optional arch=any
 Checksums-Sha1:
- 4be301ded40ea8a4a2480ec673059418661bdc12 388740 gazelle-installer_25.09.1~test.mx25.tar.xz
+ 4540e2de5cb28ca3250c6f49549cb03265f9cd73 388880 gazelle-installer_25.09.1~test.mx25.tar.xz
 Checksums-Sha256:
- dc03e3a566096734605c416879a72fc5f138cea3937abfb819fbadd70d60caa1 388740 gazelle-installer_25.09.1~test.mx25.tar.xz
+ f55715a02d5d6b1d0819f54c2b1ee7051af085c1d1ee240d76fd5c991e955c25 388880 gazelle-installer_25.09.1~test.mx25.tar.xz
 Files:
- a990a1e9f1826b8ca2d626b0f619402e 388740 gazelle-installer_25.09.1~test.mx25.tar.xz
+ aa58f9f712551041a5be0fbfb7c6d98c 388880 gazelle-installer_25.09.1~test.mx25.tar.xz
 
 -----BEGIN PGP SIGNATURE-----
 
-iQFHBAEBCgAxFiEE8ndToY6S45N+YzXncJOMeAZ57pgFAmjRrmkTHGFkcmlhbkBt
-eGxpbnV4Lm9yZwAKCRBwk4x4BnnumMEACACns6jEbOky/0M+aLLRGJHg+g1N/nfP
-bzumWapDPgt16TLqmZ9hYAto5HBIutVQmakNCvqcJAOM6/ealru/11jH/gXr/LKW
-h+fm/thKMHN+qo+HfFHHyoFVSq/gy4Ka3r9Dk7EVUBoXlujzaCLyWd3mdgUikro6
-sL88kdPODXsfUDf62ND2YBms9nZ2sefpH4zE8n2FeTzFV87TCVsfSP9kst2fXYU4
-z5jEhC5SZcfPjLhkvONvLWuBrgzJI9ycc9LcPbAhilGGEtP56C3VKzSE5Vcq65bs
-HGJInnEYk+em0Vz7SOd68b2+5xCQD4+UKOU2Pwb4yQJfk8VLsRjzJMzd
-=BNrh
+iQFHBAEBCgAxFiEE8ndToY6S45N+YzXncJOMeAZ57pgFAmjRt8ATHGFkcmlhbkBt
+eGxpbnV4Lm9yZwAKCRBwk4x4BnnumEeHB/49V9Z29rsYma3/Y7NdWObUqpQP9vUA
+C9BoyWVg6cQ/MZ9FZlrY3BJBQVo8nf6RRvURgGJqodI/TwPyjES+jkCuUeTwnKiq
+tHZpPnvzgYdLREc4NWyraS+GDEM68qOdFKwlqUZUQcSE+x2lrOPndCKC9CKOtO6A
+pkxvExwarDe0S4Bdn5EIAKLo7YvR/cvMB8y5HGfKuy+b19O8dJop++ik6d42UyOH
+a7eo+g7D4M6U+944NOnytVaR/Zc1QX2ybl0uPmbGPnGBEnIrxo7PYVcjZGXFA+/2
+EIRTfIJUIipCxGqtkwm1FNyxaCEqOojX/QnZcMQSpdtoByKaOkl/Tmjf
+=k0wp
 -----END PGP SIGNATURE-----

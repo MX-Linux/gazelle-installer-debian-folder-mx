@@ -15,26 +15,26 @@ Changes:
  .
    * Create a test .deb for launcher/auto-updater
 Checksums-Sha1:
- 11cbea16b026447b640407d292fb092bb58dd701 1398 gazelle-installer_25.09.1~test.mx25.dsc
- 4be301ded40ea8a4a2480ec673059418661bdc12 388740 gazelle-installer_25.09.1~test.mx25.tar.xz
- a79f30b979ffc0f1dd094fd95330d54a56b87b33 11134 gazelle-installer_25.09.1~test.mx25_amd64.buildinfo
+ 3389b1f30040ece8dd789960b8eb2f036959526f 1398 gazelle-installer_25.09.1~test.mx25.dsc
+ 4540e2de5cb28ca3250c6f49549cb03265f9cd73 388880 gazelle-installer_25.09.1~test.mx25.tar.xz
+ dbb8668334c99423476c62966670521fd677603c 11134 gazelle-installer_25.09.1~test.mx25_amd64.buildinfo
 Checksums-Sha256:
- 73e8d0a126a934aa05d981d1869baf474770a241107267e5077c26b42a41eca6 1398 gazelle-installer_25.09.1~test.mx25.dsc
- dc03e3a566096734605c416879a72fc5f138cea3937abfb819fbadd70d60caa1 388740 gazelle-installer_25.09.1~test.mx25.tar.xz
- 3157f7a9b870015903468cf6df22acaf5f53e38d5b60c6c9ad803e344c8f124d 11134 gazelle-installer_25.09.1~test.mx25_amd64.buildinfo
+ b993c444b265cf899cc9234f1c2f65b18fde29e641abe358f12372d92950bba9 1398 gazelle-installer_25.09.1~test.mx25.dsc
+ f55715a02d5d6b1d0819f54c2b1ee7051af085c1d1ee240d76fd5c991e955c25 388880 gazelle-installer_25.09.1~test.mx25.tar.xz
+ a0751633be480263e8b7305dbc227f592830df61a12d001c3d114a8e6304afa5 11134 gazelle-installer_25.09.1~test.mx25_amd64.buildinfo
 Files:
- 3f91f517d0cdb3d50ffbece83d80548c 1398 system optional gazelle-installer_25.09.1~test.mx25.dsc
- a990a1e9f1826b8ca2d626b0f619402e 388740 system optional gazelle-installer_25.09.1~test.mx25.tar.xz
- cba906498415f4d5070376cd1aff23b2 11134 system optional gazelle-installer_25.09.1~test.mx25_amd64.buildinfo
+ 0f1fecec449e4298ce21c68edc565563 1398 system optional gazelle-installer_25.09.1~test.mx25.dsc
+ aa58f9f712551041a5be0fbfb7c6d98c 388880 system optional gazelle-installer_25.09.1~test.mx25.tar.xz
+ 1bbdae17f8b9693d579bee4b418132b0 11134 system optional gazelle-installer_25.09.1~test.mx25_amd64.buildinfo
 
 -----BEGIN PGP SIGNATURE-----
 
-iQFHBAEBCgAxFiEE8ndToY6S45N+YzXncJOMeAZ57pgFAmjRrmoTHGFkcmlhbkBt
-eGxpbnV4Lm9yZwAKCRBwk4x4BnnumN7tCACNMeMVy8L+F54hnPqxCk4+T0tUz/xZ
-VpuxfnAiiUsBsHc2eNj3aSVVurRGUFSUynXaYF+q6pbCCnRqejd906sYuORvTuEO
-BH0tO5/yHI/eeFmkjXf1Qb0fAulDhrSzXmmr80luTvy16WC6ZQef20p1NeWFvUeG
-K4ruRri8JQaBSeGJ5pWhyjINPQ2KqaGKwbAe/MZ5N0QKnx+olr428Df0Qee1Z1hC
-VLkvXkVW5zgY2QbFcNtkdGZuKz6Sob71fBeN8gvGB4SKXZqFwaSfpImsshnW8RRJ
-aCvprYESQ3KkhMgSl1nTtvr31rGJwsNMmhl01EuAwhYCqUDjHOnbQ4de
-=2Ywe
+iQFHBAEBCgAxFiEE8ndToY6S45N+YzXncJOMeAZ57pgFAmjRt8ETHGFkcmlhbkBt
+eGxpbnV4Lm9yZwAKCRBwk4x4BnnumKZlCAC4OQeBHa/zpanWsEjim5s16tgQ9GP6
+s0W9QPDqGCiq5LfnaSj2vqMfh56HdnH1W7Q2jyU4+5QWXBHs1+18bmTO7otTf08r
+rAPp7pQVvEl+Q9+L0Yak3BuF8WvBvSyf/ilsMCqpatKmG7zInmtUOz1kBlmCgVqc
+jUz/VM0G2dN6dQ+TaWsU0GexUG2Moob/tjaJM1njhIvu0DJ1EnEHzWRK8UHQcUVh
+2uT/qlYiDTY42yDE14Da1auJnPmJnYTT4443vw/O3TosSjAf9BjQd3owVx0Laeoj
+nrPLNpX/uw8a3c9cCZGosIaXRRFy4PA0awUJwXLa958zesNS94Nlq42U
+=yby1
 -----END PGP SIGNATURE-----
