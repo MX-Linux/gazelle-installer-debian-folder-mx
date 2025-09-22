@@ -18,29 +18,29 @@ Changes:
  .
    * Create a test .deb for launcher/auto-updater
 Checksums-Sha1:
- 3389b1f30040ece8dd789960b8eb2f036959526f 1398 gazelle-installer_25.09.1~test.mx25.dsc
- 4540e2de5cb28ca3250c6f49549cb03265f9cd73 388880 gazelle-installer_25.09.1~test.mx25.tar.xz
- dbb8668334c99423476c62966670521fd677603c 11134 gazelle-installer_25.09.1~test.mx25_amd64.buildinfo
- f505e6ff27cffb6ebc85a0beb46f48d496f9face 692068 mx-installer_25.09.1~test.mx25_amd64.deb
+ 95b00eac073c78de76a8472c6fc034f601431d26 1398 gazelle-installer_25.09.1~test.mx25.dsc
+ 6e6b3dba906924ae54207b481350e0926d90ea6e 388980 gazelle-installer_25.09.1~test.mx25.tar.xz
+ 9f708b6a78948d4f5cf1131296f69e6d65dc241d 11133 gazelle-installer_25.09.1~test.mx25_amd64.buildinfo
+ 82719a7f9f0f91f3b0f9c18cdbdb4f9afcc213e3 692532 mx-installer_25.09.1~test.mx25_amd64.deb
 Checksums-Sha256:
- b993c444b265cf899cc9234f1c2f65b18fde29e641abe358f12372d92950bba9 1398 gazelle-installer_25.09.1~test.mx25.dsc
- f55715a02d5d6b1d0819f54c2b1ee7051af085c1d1ee240d76fd5c991e955c25 388880 gazelle-installer_25.09.1~test.mx25.tar.xz
- a0751633be480263e8b7305dbc227f592830df61a12d001c3d114a8e6304afa5 11134 gazelle-installer_25.09.1~test.mx25_amd64.buildinfo
- a6f3a56cfed4bb4293acccdb770a6388605c8f010aee266f022792df6a59d595 692068 mx-installer_25.09.1~test.mx25_amd64.deb
+ 4d2f1e85790284e5c1503436cc3706f0e1b3f4fa8679eebe5917a180508fe563 1398 gazelle-installer_25.09.1~test.mx25.dsc
+ 10aca586514a664504e5b13492ec5344a4d5a20ada8a9fef860dc9c652406e69 388980 gazelle-installer_25.09.1~test.mx25.tar.xz
+ 8051aae74e0df5636c2cb15dde1c1ff961e18e115f7e5846e1616b47fe1b9914 11133 gazelle-installer_25.09.1~test.mx25_amd64.buildinfo
+ 0afd3ee174c216bc9819102d5d299b8b750d7cab34381deadece41f0b23ee7df 692532 mx-installer_25.09.1~test.mx25_amd64.deb
 Files:
- 0f1fecec449e4298ce21c68edc565563 1398 system optional gazelle-installer_25.09.1~test.mx25.dsc
- aa58f9f712551041a5be0fbfb7c6d98c 388880 system optional gazelle-installer_25.09.1~test.mx25.tar.xz
- 1bbdae17f8b9693d579bee4b418132b0 11134 system optional gazelle-installer_25.09.1~test.mx25_amd64.buildinfo
- d433cd00ba1f983beb7f36f6d0898eb0 692068 system optional mx-installer_25.09.1~test.mx25_amd64.deb
+ 9615ec519c7fc4c287666b732dd75fb1 1398 system optional gazelle-installer_25.09.1~test.mx25.dsc
+ d006d1210fad68587fa5b20a90f5e6da 388980 system optional gazelle-installer_25.09.1~test.mx25.tar.xz
+ 149eb04f9a0ccc1103c92aaf6f097f38 11133 system optional gazelle-installer_25.09.1~test.mx25_amd64.buildinfo
+ 23c2d32526b0235796116959a740a589 692532 system optional mx-installer_25.09.1~test.mx25_amd64.deb
 
 -----BEGIN PGP SIGNATURE-----
 
-iQFHBAEBCgAxFiEE8ndToY6S45N+YzXncJOMeAZ57pgFAmjRt8ETHGFkcmlhbkBt
-eGxpbnV4Lm9yZwAKCRBwk4x4BnnumBLaCADEibluNEF/O37KM0yDbTXp3w3E/E4l
-cw777TkU0t8UIobjBj1jNsOYReu6kp5n+GX/afyjihx2JxaX3RMww1+0BA7TKqAr
-KBc9od+7KcXjMVhw+z5S1pOEzDWZi/s5bkp2gdbcPcj4KGlX0DaHdK5lF2g94K35
-D1nZVe2i0mPg2n1k8wGW47XE8HW0Bfz00qj/m6aiyoH2x7oUvAlQeo2seig3EqyE
-u8891KE6UvKzo7JqUJmyvZH5BcU9E44voeu1eJ4ClYcaXKR43EmwdLpHEMQlYKjd
-zVOa2DBqi3k8uyJtrZOKkNlYXHZGI+J81FrZSsMze/w1ZIEEc9NVm1+T
-=a2QH
+iQFHBAEBCgAxFiEE8ndToY6S45N+YzXncJOMeAZ57pgFAmjRyeITHGFkcmlhbkBt
+eGxpbnV4Lm9yZwAKCRBwk4x4BnnumO8iCACPh7v9owi9xae80hRCinsgIlt6fjAF
+2bxk67wIMf1fJ6+GtbfBCmt5tWxSzprSxoF1GqkUCDp+sn8EuL51k0eya3sJ4u2D
+hfT7z0g8BIt885S1bcsmX4QRw8hZqril7Cfctp0wniiI5V4PZ8XaJT0tnFGlhfsh
+QPL6P5MxbHxizXsYxA38FLDv6IOZYiK7SIA7wzpK9p5ftAlzhzApMmB0Y99Izobk
+NH4C9OORF8rgse5RvIMlkN+PeVzwnvDmKkGWRkTf3PpVUGxZuI4616LZ9BTHJTAk
+A1AaNdwuw3JP9xFr3Xs5Hp5SiWRVBbrE+SfJh0IYiSSX+HPkXoZFMZhR
+=LitI
 -----END PGP SIGNATURE-----
