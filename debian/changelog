@@ -1,3 +1,9 @@
+gazelle-installer (25.09.2mx25) mx; urgency=medium
+
+  * Do not localize-repo, already done on live system
+
+ -- Adrian <adrian@mxlinux.org>  Tue, 23 Sep 2025 21:27:08 -0400
+
 gazelle-installer (25.09.1mx25) mx; urgency=medium
 
   * Hide package upgrade check box until feature is implemented.
