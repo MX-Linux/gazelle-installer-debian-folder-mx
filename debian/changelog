@@ -1,3 +1,10 @@
+gazelle-installer (25.10mx25) mx; urgency=medium
+
+  * Fix: btrfs fixes when installing to existing subvolumes
+  * Fix: filter out ventoy boot device from drive selection
+
+ -- Adrian <adrian@mxlinux.org>  Sat, 04 Oct 2025 21:02:51 -0400
+
 gazelle-installer (25.09.2mx25) mx; urgency=medium
 
   * Do not localize-repo, already done on live system
