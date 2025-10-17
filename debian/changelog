@@ -1,3 +1,10 @@
+gazelle-installer (25.10.1mx25) mx; urgency=medium
+
+  * Added option to do a replace installation for encrypted and/or btrfs
+    partitions
+
+ -- Adrian <adrian@mxlinux.org>  Fri, 17 Oct 2025 19:13:48 -0400
+
 gazelle-installer (25.10mx25) mx; urgency=medium
 
   * Fix: btrfs fixes when installing to existing subvolumes
