@@ -1,3 +1,14 @@
+gazelle-installer (25.10.2mx25) mx; urgency=medium
+
+  * Fix: no longer trying to format non-Linux partitions from fstab for
+    reinstallation workflow
+  * Fix: in reinstallation workflow fix swap partition not being allowed and don't force
+    a swap reformat
+  * Closes LUKS devices when navigating back to installation choice to avoid
+    repartition failure due to mapper devices being left open
+
+ -- Adrian <adrian@mxlinux.org>  Sun, 19 Oct 2025 19:29:33 -0400
+
 gazelle-installer (25.10.1mx25) mx; urgency=medium
 
   * Added option to do a replace installation for encrypted and/or btrfs
