@@ -1,3 +1,9 @@
+gazelle-installer (25.10.3mx25) mx; urgency=medium
+
+  * Track whether the initial EFI grub-install succeeded without --no-nvram. When it does, we leave NVRAM updates entirely to GRUB; when it fails and we retry with --no-nvram, we fall back to the existing efibootmgr cleanup/creation path
+
+ -- Adrian <adrian@mxlinux.org>  Mon, 20 Oct 2025 21:57:46 -0400
+
 gazelle-installer (25.10.2mx25) mx; urgency=medium
 
   * Fix: no longer trying to format non-Linux partitions from fstab for
