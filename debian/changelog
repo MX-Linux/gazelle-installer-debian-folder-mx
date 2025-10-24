@@ -1,3 +1,9 @@
+gazelle-installer (25.10.4mx25) mx; urgency=medium
+
+  * Revert installation without --no-nvram
+
+ -- Adrian <adrian@mxlinux.org>  Fri, 24 Oct 2025 09:15:56 -0400
+
 gazelle-installer (25.10.3mx25) mx; urgency=medium
 
   * Track whether the initial EFI grub-install succeeded without --no-nvram. When it does, we leave NVRAM updates entirely to GRUB; when it fails and we retry with --no-nvram, we fall back to the existing efibootmgr cleanup/creation path
