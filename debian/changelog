@@ -1,3 +1,15 @@
+gazelle-installer (25.11mx25) mx; urgency=medium
+
+  * Easy dual disk setup.
+  * Boot loader and image fixes.
+  * Improved installation replacement UX, cleanup and fixes.
+  * Improved partition confirmation items.
+  * Fixed duplicate EFI boot entry cleanup.
+  * Various other bug fixes, code and UX improvements.
+  * Eliminate "RC" from code/config version.
+
+ -- Adrian <adrian@mxlinux.org>  Mon, 03 Nov 2025 12:27:05 -0500
+
 gazelle-installer (25.10.4mx25) mx; urgency=medium
 
   * Revert installation without --no-nvram
