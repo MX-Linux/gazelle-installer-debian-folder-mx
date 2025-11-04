@@ -1,3 +1,10 @@
+gazelle-installer (25.11.01mx25) mx; urgency=medium
+
+  * Fixed subvolume removal routine.
+  * Fixed: unclean ext3/ext4/xfs file systems ignored during scans. Scan all btrfs subvolumes on a volume for installations.
+
+ -- Adrian <adrian@mxlinux.org>  Tue, 04 Nov 2025 16:10:00 -0500
+
 gazelle-installer (25.11mx25) mx; urgency=medium
 
   * Easy dual disk setup.
