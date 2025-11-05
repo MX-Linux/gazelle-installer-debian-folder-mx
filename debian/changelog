@@ -1,3 +1,10 @@
+gazelle-installer (25.11.02mx25) mx; urgency=medium
+
+  * Fixed: stale swap file will cause installation to fail.
+  * Simplified deletion of (nested) subvolumes.
+
+ -- Adrian <adrian@mxlinux.org>  Wed, 05 Nov 2025 16:32:48 -0500
+
 gazelle-installer (25.11.01mx25) mx; urgency=medium
 
   * Fixed subvolume removal routine.
