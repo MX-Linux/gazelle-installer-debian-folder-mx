@@ -1,3 +1,9 @@
+gazelle-installer (25.11.03mx25) mx; urgency=medium
+
+  * Update translations
+
+ -- Adrian <adrian@mxlinux.org>  Mon, 10 Nov 2025 20:02:31 -0500
+
 gazelle-installer (25.11.02mx25) mx; urgency=medium
 
   * Fixed: stale swap file will cause installation to fail.
