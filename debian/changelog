@@ -1,3 +1,9 @@
+gazelle-installer (25.11.04mx25) mx; urgency=medium
+
+  * fix fbx64.efi file detection
+
+ -- Dolphin Oracle <dolphinoracle@gmail.com>  Tue, 11 Nov 2025 20:36:59 -0500
+
 gazelle-installer (25.11.03mx25) mx; urgency=medium
 
   * Update translations
