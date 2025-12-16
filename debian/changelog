@@ -1,3 +1,10 @@
+gazelle-installer (25.12.02mx25) mx; urgency=medium
+
+  * Avoid throwing an exception in a noexcept function.
+  * Correct copy action on debian grub.cfg
+
+ -- Adrian <adrian@mxlinux.org>  Tue, 16 Dec 2025 18:56:38 -0500
+
 gazelle-installer (25.12.01mx25) mx; urgency=medium
 
   * don't copy grub.cfg if it doesn't exist (32 bit uefi)
