@@ -1,4 +1,4 @@
-gazelle-installer (26.1.1mx26) mx; urgency=medium
+gazelle-installer (26.1.1mx25) mx; urgency=medium
 
   * adjust launcher script. oobe.sh for new minstall location
 
