@@ -1,3 +1,9 @@
+gazelle-installer (26.1.1mx26) mx; urgency=medium
+
+  * adjust launcher script. oobe.sh for new minstall location
+
+ -- Adrian <adrian@mxlinux.org>  Fri, 02 Jan 2026 17:20:31 -0500
+
 gazelle-installer (26.1mx25) mx; urgency=medium
 
   * allow fallback to usr/bin/live-to-installed
