@@ -1,3 +1,10 @@
+gazelle-installer (26.1mx25) mx; urgency=medium
+
+  * allow fallback to usr/bin/live-to-installed
+  * replacement-only ESP fallback
+
+ -- Adrian <adrian@mxlinux.org>  Fri, 02 Jan 2026 14:39:03 -0500
+
 gazelle-installer (25.12.02mx25) mx; urgency=medium
 
   * Avoid throwing an exception in a noexcept function.
