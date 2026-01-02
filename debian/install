@@ -2,10 +2,10 @@ LICENSE				usr/share/doc/gazelle-installer
 NOTICE				usr/share/doc/gazelle-installer
 copyright			usr/share/doc/gazelle-installer
 locales.template		usr/share/antiX
-_build_/Release/minstall	usr/sbin
+_build_/Release/minstall	usr/bin
 minstall.desktop		usr/share/applications
 polkit/*			usr/share/polkit-1/actions
-scripts/guess-hwclock		usr/sbin
+scripts/guess-hwclock		usr/bin
 scripts/minstall-launcher	usr/bin
 scripts/oobe			etc/init.d
 scripts/oobe.sh			usr/bin
