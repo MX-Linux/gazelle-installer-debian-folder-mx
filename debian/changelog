@@ -1,3 +1,9 @@
+gazelle-installer (26.1.3mx25) mx; urgency=medium
+
+  * Fix and update translations
+
+ -- Adrian <adrian@mxlinux.org>  Mon, 05 Jan 2026 11:21:28 -0500
+
 gazelle-installer (26.1.2mx25) mx; urgency=medium
 
   * add REPLACES to control file (replaces script in mx-goodies)
