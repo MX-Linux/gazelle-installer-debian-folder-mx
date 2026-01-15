@@ -1,4 +1,4 @@
-gazelle-installer (26.1.4mx25) mx; urgency=medium
+gazelle-installer (26.1.5mx25) mx; urgency=medium
 
   * ensure /home exists before doing copy
 
