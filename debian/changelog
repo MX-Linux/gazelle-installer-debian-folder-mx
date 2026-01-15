@@ -1,3 +1,9 @@
+gazelle-installer (26.1.4mx25) mx; urgency=medium
+
+  * ensure /home exists before doing copy
+
+ -- Adrian <adrian@mxlinux.org>  Wed, 14 Jan 2026 20:42:05 -0500
+
 gazelle-installer (26.1.3mx25) mx; urgency=medium
 
   * Fix and update translations
