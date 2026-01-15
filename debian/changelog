@@ -3,6 +3,12 @@ gazelle-installer (26.1.5mx25) mx; urgency=medium
   * ensure /home exists before doing copy
 
  -- Adrian <adrian@mxlinux.org>  Wed, 14 Jan 2026 20:42:05 -0500
+ 
+gazelle-installer (26.1.4mx25) mx; urgency=medium
+
+  * adjust control file to fix conflict issue wit mx-goodies (<<26.01.01)
+
+ -- Dolphin Oracle <dolphinoracle@gmail.com>  Wed, 07 Jan 2026 19:03:19 -0500
 
 gazelle-installer (26.1.3mx25) mx; urgency=medium
 
