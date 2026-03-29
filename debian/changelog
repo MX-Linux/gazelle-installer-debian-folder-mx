@@ -1,4 +1,4 @@
-gazelle-installer (26.3.2mx25) mx; urgency=medium
+gazelle-installer (26.3.3mx25) mx; urgency=medium
 
   * new text based cli installer mode (run minstall in console or use --tui)
   * clean up corrupted grub locale dirs before grub-install
@@ -13,7 +13,7 @@ gazelle-installer (26.1.5mx25) mx; urgency=medium
   * ensure /home exists before doing copy
 
  -- Adrian <adrian@mxlinux.org>  Wed, 14 Jan 2026 20:42:05 -0500
- 
+
 gazelle-installer (26.1.4mx25) mx; urgency=medium
 
   * adjust control file to fix conflict issue wit mx-goodies (<<26.01.01)
