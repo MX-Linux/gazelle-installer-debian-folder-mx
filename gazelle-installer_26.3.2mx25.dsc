@@ -9,29 +9,29 @@ Version: 26.3.2mx25
 Maintainer: dolphinoracle <dolphinoracle@gmail.com>
 Homepage: https://github.com/gazelle-installer
 Standards-Version: 4.7.2
-Build-Depends: debhelper-compat (= 13), cmake (>= 3.31), ninja-build (>= 1.12), qt6-base-dev (>= 6.8), qt6-base-dev-tools (>= 6.8), qt6-tools-dev (>= 6.8), qt6-tools-dev-tools (>= 6.8), libzxcvbn-dev (>= 2.5)
+Build-Depends: debhelper-compat (= 13), cmake (>= 3.31), ninja-build (>= 1.12), qt6-base-dev (>= 6.8), qt6-base-dev-tools (>= 6.8), qt6-tools-dev (>= 6.8), qt6-tools-dev-tools (>= 6.8), libncurses-dev (>= 6.5), libzxcvbn-dev (>= 2.5)
 Package-List:
  mx-installer deb system optional arch=any
 Checksums-Sha1:
- 14ab1ab40e6fdf1a07cc67f8aa853759de4c8a5e 483788 gazelle-installer_26.3.2mx25.tar.xz
+ 65fbadef511ffe79e386f95dcdb57127d051796c 6360632 gazelle-installer_26.3.2mx25.tar.xz
 Checksums-Sha256:
- 1e1740d8333af1ef521a4bda4d21ec59e4fadb69d91314aa5fcfce171af15c8c 483788 gazelle-installer_26.3.2mx25.tar.xz
+ 15965285e6b65f42d3dd13c2ce20d49c4157e02c151335cb6e3454d2385f5997 6360632 gazelle-installer_26.3.2mx25.tar.xz
 Files:
- 4c1a00c9bab6f5b209fa6c7512de470e 483788 gazelle-installer_26.3.2mx25.tar.xz
+ 067fed522f940ebe1eea6069260be128 6360632 gazelle-installer_26.3.2mx25.tar.xz
 
 -----BEGIN PGP SIGNATURE-----
 
-iQIzBAEBCgAdFiEE9i7eqjrnCpyZ2sQYm2ih6Lm2N1wFAmnIi+YACgkQm2ih6Lm2
-N1wJEhAAx5e5MPzpiTj1IyzcudBvSRCS3BKND4/fmA7O5Zc2sE5Ws/xNYJPTDNN8
-9hSYTVha2eV7nFTFIVJA0HTKF2MKfwPa6w3AuiJqLXvsAS87tW06aPhdDZ90hzP8
-DG4mxdeIhO7IDjtp5lGxlKSYkKdTdmWplt9yk3Ll7xHybcuDYyof2CkIz7RxvSvV
-/asOiSrJJ8oA+9T6aruMtdt7rsKC8sPjO8dTUDKoClB5NUGjDkbIhIO83PJJomH0
-QOAeshUBI8ugnqfnTaN5SQ5Azlst+/Lkp8BM2bZ3Osr1PnNtXAfvyELUrCyvAlbv
-O9wW+ExWZrZk/cmkFx9VpurOFXTUAQXuLmU0wwJ+9WvDCBisIjQdRSE8pSU+AR/D
-G7ncNNMCNodnMq2GZL61/NAXwY0yYspT2AR7Pp37Ir+iDxgPTHEThmFcm1jMDUAD
-wB9qCvjr1p6aiv+7OWIF0oCoDX6w2l37C7sFXx7l6AvFskBW+/xc8C2kLnjHiBfX
-vEWhhZcxSZ1tSj9XWq8VDblRgi2O4CiwvSbZIea9kTxd7tzIKqZOpLnnU48mhZ63
-N/uO3uEpFL9QkBJkgB0OdDwXA89M6ReB3621MMS3+1TJorVa/eKeEnlybcXdYKNB
-gJaHkc1pzU8dxL4l6ceTPBEL7xALr/sIjPd77gXKfO3YVwiXCeE=
-=OgwP
+iQIzBAEBCgAdFiEE9i7eqjrnCpyZ2sQYm2ih6Lm2N1wFAmnIj2AACgkQm2ih6Lm2
+N1yz4xAA1z3JXZQ+BjywoFZs4lYldTxhplsupj1BixBb3mTgXR0SIWHbLTvvi/bV
+HUCSQGhEI9n0OVYnYQRC/Bw+UKreyfoGSL+bLeaQTE6L3GnT9O4oebavAKgAiAaK
+KVGDU/LBmfg6xgFHZcw1fRXFFE6st9XCYo8PrdJ5y47I4yYn30SiGvuDYD619Jso
+ryodQ8/guUKNNjQDvMmyr37c4dAKn5BP0eaUdPiMMlIGzDwDyRaLTUimvkKT9JaL
+AQoaQNmF50TAh41eGtfbo8JrzRldUBbkZuDIjXcTswMpIxu9akcCJcd/ejsyJgMX
+X54YDN5ZIhxe/92aCcg+EFHkuetATQE2gUr8x7ufWe7FZLP9Nst6aQZ2S+JU+FGU
+6LXITIU5i2K5e+PSSE/kyw7UiOJeLNUPuiQIe2Ms3Ar5UsFk+YwymC/Bwei25lC+
+s573x7XwnAWVCt8SN4SfWhmt0dUScuewzUkxVVOnLeLwNin7RTtVlGovHSatUX5h
+jWBCXBj1dsmygz45Cub1ZeAcDKCrI1u8iqMj4/J2KlP86C7JyfYaL7uVMkC3cHTe
+haWDNKA/MBVzdOphYPdtoY2IKRKc7iMhSWK0xhR4UC4xQdYjftp6Y6hpnXAe4jNe
+LQARAIXCyh1DRH44qMngccrALvcNSuqUp5X5EQ6ZheAlyyg1Xuw=
+=PNVR
 -----END PGP SIGNATURE-----

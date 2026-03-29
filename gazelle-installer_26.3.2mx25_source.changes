@@ -19,31 +19,31 @@ Changes:
    * only do "save desktop changes" sed command on real files
    * add systemd unit service file for oobe
 Checksums-Sha1:
- c8cd05423773b7fed81e4984edcbfcf4a95d2245 1691 gazelle-installer_26.3.2mx25.dsc
- 14ab1ab40e6fdf1a07cc67f8aa853759de4c8a5e 483788 gazelle-installer_26.3.2mx25.tar.xz
- 5bc8188d1823c1f2f9b089c48d6192d2c0c546d7 11845 gazelle-installer_26.3.2mx25_source.buildinfo
+ 7be68613b64986f3138640a74b1fc3a44a143e7d 1719 gazelle-installer_26.3.2mx25.dsc
+ 65fbadef511ffe79e386f95dcdb57127d051796c 6360632 gazelle-installer_26.3.2mx25.tar.xz
+ b7d7037f91520c3d939940346913080b58a754fc 11914 gazelle-installer_26.3.2mx25_source.buildinfo
 Checksums-Sha256:
- dfdf2f94b30c8425314d7e0381aa0fd26e9a3a31ae952714055709d3123c578a 1691 gazelle-installer_26.3.2mx25.dsc
- 1e1740d8333af1ef521a4bda4d21ec59e4fadb69d91314aa5fcfce171af15c8c 483788 gazelle-installer_26.3.2mx25.tar.xz
- d321e9a1aa6f3ff4951ee09968c99539ea2293b28af5502338064731eb3df2f0 11845 gazelle-installer_26.3.2mx25_source.buildinfo
+ 900b40e818654f3b5fd3daa6d03491f9c2360f88b456aca8044a3a20d80103f6 1719 gazelle-installer_26.3.2mx25.dsc
+ 15965285e6b65f42d3dd13c2ce20d49c4157e02c151335cb6e3454d2385f5997 6360632 gazelle-installer_26.3.2mx25.tar.xz
+ 32a0af7c2d791000bd94d3c43250b03393ffde03331d2d692206b8ad77a0fab1 11914 gazelle-installer_26.3.2mx25_source.buildinfo
 Files:
- 1d811b44db39b0c2e27ab335783fb05a 1691 system optional gazelle-installer_26.3.2mx25.dsc
- 4c1a00c9bab6f5b209fa6c7512de470e 483788 system optional gazelle-installer_26.3.2mx25.tar.xz
- 1d08d71a365afd1f19c780ba5f64b406 11845 system optional gazelle-installer_26.3.2mx25_source.buildinfo
+ 2dda7e96566dd517cc79840c036b8bb5 1719 system optional gazelle-installer_26.3.2mx25.dsc
+ 067fed522f940ebe1eea6069260be128 6360632 system optional gazelle-installer_26.3.2mx25.tar.xz
+ 191edde211fe69d4fe515770be4318c2 11914 system optional gazelle-installer_26.3.2mx25_source.buildinfo
 
 -----BEGIN PGP SIGNATURE-----
 
-iQIzBAEBCgAdFiEE9i7eqjrnCpyZ2sQYm2ih6Lm2N1wFAmnIi+oACgkQm2ih6Lm2
-N1zI2BAAsXjIpewglQzmMqFBfjV3lquT2L1975Jf2Wy1HN6HgZX2Rwgj5Ayrz+0C
-8QqpOdjdb1CsblVvvIYoe+v09KhEG9/vFXfeS21bV/VBaB/ylIDiKTrBUr9T2RsD
-Z26vHJqUPkQusy4S9cKIST0KrfD1JeINyRTP9jp+/ZgN2rQHyGjteb34ZcvW/uHn
-4UYck5M/fSCRtTw9yJfYU7rE/b9Y55kFIeAS/h7AAaHNhz6jvgk0XPAmpYcRP4FA
-ZGujD+7vLVQYpwfPcvmQagI5dA2kH4e2uHu5IM5I4iQuH3DxD6p0BRApj5e/S+w7
-lJDnK77Py6ZvIC2Nq2NYNM3IhwCoy9zPIErTpFdCo6/mBwoabp7XWCSSe8m2KK9O
-EbAJVYg3k2tYWYfukbiJtj6sd5EDK8eipAN+CWH1PPcVqTPZGWKd4HD+hb8M53V3
-sLt/1ID3mRbc3uLMUNjm2+xYbPFJI60qKh5eJEkzZBHxjLudGs1C7zif4IyyEgKD
-tk6foQlB2W/QTNjm6s/8j02DFM8utkGHE4vsGw8ZAyRIA9hGRP7K3UKVb3O+GVgi
-3QIxQjKRkgWkCFS6OvflD96SQ+OUYv8CAZyjjiaZY667xfQQ00AY31M5V3x+G8iH
-Bd516qZKDgR5f8HkcBxa1C3eNyK2U3OZ39YOaI5iabznSPftoZU=
-=HaCt
+iQIzBAEBCgAdFiEE9i7eqjrnCpyZ2sQYm2ih6Lm2N1wFAmnIj2AACgkQm2ih6Lm2
+N1xanBAAjSeiULufCEu63mDhbML+OG5ZtdBQCgr/R7fOCP6MmZgVlGc4nF5s8Ao8
+EiBqBr9K0WFF20AlZthu6rYUZeqUuZpwwDlOiuT53H/KxUci0skBjXqv36k6bxhc
+ZCkeoDBvGC6W0s1H9ynIkUGcDxY9qTuMvaVXNW3AHG1us8OugfTFFvx+DRGp+QTo
+tOMgTQO+GhsFtxBOotQzE+rH4dZHXjT52E/JftZ8pqsmpvgIlfQP7Gms+oi9ev4y
+daPBBcsqZ7T7AmEgqw0y+hFeWsPqISb+Yn4W9SJkqzZmW2Yge7AFUZue2brI7AfU
+nOzelo9RxKS9j+8DFLw/xZVnh3KDyLnArQBOUCRUnxoPFlWErroKN8RXHc3MwiFg
+8wIytEWsdbN7HDKjIv7bmxsRvsgl7GMp4hKyx3DGaOw0HIWyBBpxI3g5cgi09GNV
+SDcUni2K8hiUNVsDg723dIoXEC9fGoLJY66qN/bokkPVCk5fw1mCS76WsBzWhLyz
+9l3BVsZCkuPVLnzpL+M4nlDLdwjTtPDAZ6LdyH6dy0kT3Il9jdBDnmDOcq5yx3CN
+qnnEaYvektBD8ZlBrhYEXa+OQHiJDzNeXRDhIO6fPfI3Y4Ka0wJbNWkI12pE4pBT
+5I3Y5mi6bOqeHXXPXD3NsprDAXsgXFXPCI+Juy2g6DgMH1NDa4A=
+=4Qji
 -----END PGP SIGNATURE-----
