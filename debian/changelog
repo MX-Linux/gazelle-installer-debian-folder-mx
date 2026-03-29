@@ -1,4 +1,4 @@
-gazelle-installer (26.3.1mx25) UNRELEASED; urgency=medium
+gazelle-installer (26.3.1mx25) mx; urgency=medium
 
   * new text based cli installer mode (run minstall in console or use --tui)
   * clean up corrupted grub locale dirs before grub-install

@@ -1,0 +1,49 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+Format: 1.8
+Date: Sat, 28 Mar 2026 21:46:16 -0400
+Source: gazelle-installer
+Architecture: source
+Version: 26.3.1mx25
+Distribution: mx
+Urgency: medium
+Maintainer: dolphinoracle <dolphinoracle@gmail.com>
+Changed-By: Dolphin Oracle <dolphinoracle@gmail.com>
+Changes:
+ gazelle-installer (26.3.1mx25) mx; urgency=medium
+ .
+   * new text based cli installer mode (run minstall in console or use --tui)
+   * clean up corrupted grub locale dirs before grub-install
+   * exclude locales in grub-install, copy locales later if they exist
+   * only do "save desktop changes" sed command on real files
+   * add systemd unit service file for oobe
+Checksums-Sha1:
+ cbafe8b5220ee35d483b411abbbd0e5198d48b70 1691 gazelle-installer_26.3.1mx25.dsc
+ eac5f2b073f510cd174c1e93b3febe1ae1c2eea4 483768 gazelle-installer_26.3.1mx25.tar.xz
+ ae0ce1150a647587e8793b95dca39dcfe21fb117 11845 gazelle-installer_26.3.1mx25_source.buildinfo
+Checksums-Sha256:
+ ac7c49580f1df55d9f78f64e8c1b0586db3794002c362e9144fff1d8a46560b5 1691 gazelle-installer_26.3.1mx25.dsc
+ 96e1144653a8ef042e775bc07fc79cb5fcb1ed576f35ca1d4ba4ee3abb7a7b87 483768 gazelle-installer_26.3.1mx25.tar.xz
+ 45ec0b1df1e5d338ea9acd1b2d386095be144e284fd77722e3336c5b5e874cad 11845 gazelle-installer_26.3.1mx25_source.buildinfo
+Files:
+ 6f088479f2b69ee40edf5e105f9d0037 1691 system optional gazelle-installer_26.3.1mx25.dsc
+ 714b68a893ca747c63390ed994e37b3b 483768 system optional gazelle-installer_26.3.1mx25.tar.xz
+ acd45fa745f237c3f416b0814336d6de 11845 system optional gazelle-installer_26.3.1mx25_source.buildinfo
+
+-----BEGIN PGP SIGNATURE-----
+
+iQIzBAEBCgAdFiEE9i7eqjrnCpyZ2sQYm2ih6Lm2N1wFAmnIhrkACgkQm2ih6Lm2
+N1xp7A//dAoU/nTqcIhqDRY0q3r7mWweIdRViz+cQHOHoAC2Qz+9Nz9rGfVx10Cx
+v9NSR9awWPTe485g4kXGUg3K8oFQkz5mrz97487oDpEalJFSwvdh6e+Crs3+q5N8
+m8+N48lafLufLia9FL24uqF2qOxbLOoKmhC61q4eXZhluJWGZyl+31n8O9qTPAln
+ANi2xE+OQ1Nzcqo5/au0L7qp4/VYvJvmF2JhOjxtvBozwT3oxLBBMCx4MPpX40C2
+L2yB6JLRnM+ygWEhAP7nENDGwaBdtRTax74fdaz7NFVKs/e0T0+Brun6kXPZz3t7
+13pN86hH8wSDpjVlRQVIMV9VwiNWq9ZSlt/PqtrQD3H32W4S6ES/7J8g0K0ciWGE
+WR26vIk3xUmBQvw0hT82Ed59gV+coCha9mlcFIV0/0cO53H9a6W3sljWJpoyYaE+
+M4ajZLD5nd17Rsof7klAGy59iS2zPd9YAEB1AX+BXRx2pkJLjmYQzPSnxblBmMrA
+XrwaSA5Nbj7apAdwDPCYqHlCu2EWDqO7ftdbjJJ7LYqZMo3g/299Dq59NUcvfyGP
+N7jrChPCoQPCF6OxOkK1Q1/J9umTVs5Va7pPfbD9bXevD+pgBNClVk70S0lCIGxY
+LSwUL6H+jBK0aNuXyGGQuVFNRL6mu7G6nbAiqQjIvaVQCXAZwyc=
+=umnA
+-----END PGP SIGNATURE-----
