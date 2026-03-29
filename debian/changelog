@@ -1,4 +1,4 @@
-gazelle-installer (26.3.1mx25) mx; urgency=medium
+gazelle-installer (26.3.2mx25) mx; urgency=medium
 
   * new text based cli installer mode (run minstall in console or use --tui)
   * clean up corrupted grub locale dirs before grub-install
@@ -6,7 +6,7 @@ gazelle-installer (26.3.1mx25) mx; urgency=medium
   * only do "save desktop changes" sed command on real files
   * add systemd unit service file for oobe
 
- -- Dolphin Oracle <dolphinoracle@gmail.com>  Sat, 28 Mar 2026 21:46:16 -0400
+ -- Dolphin Oracle <dolphinoracle@gmail.com>  Sat, 28 Mar 2026 22:16:49 -0400
 
 gazelle-installer (26.1.5mx25) mx; urgency=medium
 

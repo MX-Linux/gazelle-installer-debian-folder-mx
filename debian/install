@@ -10,4 +10,4 @@ scripts/minstall-launcher	usr/bin
 scripts/oobe			etc/init.d
 scripts/oobe.sh			usr/bin
 _build_/*.qm			usr/share/gazelle-installer/locale
-servivce/*              usr/lib/systemd/system
+service/*              usr/lib/systemd/system
