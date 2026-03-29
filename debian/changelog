@@ -1,3 +1,13 @@
+gazelle-installer (26.3.1mx25) UNRELEASED; urgency=medium
+
+  * new text based cli installer mode (run minstall in console or use --tui)
+  * clean up corrupted grub locale dirs before grub-install
+  * exclude locales in grub-install, copy locales later if they exist
+  * only do "save desktop changes" sed command on real files
+  * add systemd unit service file for oobe
+
+ -- Dolphin Oracle <dolphinoracle@gmail.com>  Sat, 28 Mar 2026 21:46:16 -0400
+
 gazelle-installer (26.1.5mx25) mx; urgency=medium
 
   * ensure /home exists before doing copy
