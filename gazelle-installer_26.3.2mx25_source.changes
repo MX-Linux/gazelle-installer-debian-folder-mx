@@ -1,0 +1,49 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+Format: 1.8
+Date: Sat, 28 Mar 2026 22:16:49 -0400
+Source: gazelle-installer
+Architecture: source
+Version: 26.3.2mx25
+Distribution: mx
+Urgency: medium
+Maintainer: dolphinoracle <dolphinoracle@gmail.com>
+Changed-By: Dolphin Oracle <dolphinoracle@gmail.com>
+Changes:
+ gazelle-installer (26.3.2mx25) mx; urgency=medium
+ .
+   * new text based cli installer mode (run minstall in console or use --tui)
+   * clean up corrupted grub locale dirs before grub-install
+   * exclude locales in grub-install, copy locales later if they exist
+   * only do "save desktop changes" sed command on real files
+   * add systemd unit service file for oobe
+Checksums-Sha1:
+ c8cd05423773b7fed81e4984edcbfcf4a95d2245 1691 gazelle-installer_26.3.2mx25.dsc
+ 14ab1ab40e6fdf1a07cc67f8aa853759de4c8a5e 483788 gazelle-installer_26.3.2mx25.tar.xz
+ 5bc8188d1823c1f2f9b089c48d6192d2c0c546d7 11845 gazelle-installer_26.3.2mx25_source.buildinfo
+Checksums-Sha256:
+ dfdf2f94b30c8425314d7e0381aa0fd26e9a3a31ae952714055709d3123c578a 1691 gazelle-installer_26.3.2mx25.dsc
+ 1e1740d8333af1ef521a4bda4d21ec59e4fadb69d91314aa5fcfce171af15c8c 483788 gazelle-installer_26.3.2mx25.tar.xz
+ d321e9a1aa6f3ff4951ee09968c99539ea2293b28af5502338064731eb3df2f0 11845 gazelle-installer_26.3.2mx25_source.buildinfo
+Files:
+ 1d811b44db39b0c2e27ab335783fb05a 1691 system optional gazelle-installer_26.3.2mx25.dsc
+ 4c1a00c9bab6f5b209fa6c7512de470e 483788 system optional gazelle-installer_26.3.2mx25.tar.xz
+ 1d08d71a365afd1f19c780ba5f64b406 11845 system optional gazelle-installer_26.3.2mx25_source.buildinfo
+
+-----BEGIN PGP SIGNATURE-----
+
+iQIzBAEBCgAdFiEE9i7eqjrnCpyZ2sQYm2ih6Lm2N1wFAmnIi+oACgkQm2ih6Lm2
+N1zI2BAAsXjIpewglQzmMqFBfjV3lquT2L1975Jf2Wy1HN6HgZX2Rwgj5Ayrz+0C
+8QqpOdjdb1CsblVvvIYoe+v09KhEG9/vFXfeS21bV/VBaB/ylIDiKTrBUr9T2RsD
+Z26vHJqUPkQusy4S9cKIST0KrfD1JeINyRTP9jp+/ZgN2rQHyGjteb34ZcvW/uHn
+4UYck5M/fSCRtTw9yJfYU7rE/b9Y55kFIeAS/h7AAaHNhz6jvgk0XPAmpYcRP4FA
+ZGujD+7vLVQYpwfPcvmQagI5dA2kH4e2uHu5IM5I4iQuH3DxD6p0BRApj5e/S+w7
+lJDnK77Py6ZvIC2Nq2NYNM3IhwCoy9zPIErTpFdCo6/mBwoabp7XWCSSe8m2KK9O
+EbAJVYg3k2tYWYfukbiJtj6sd5EDK8eipAN+CWH1PPcVqTPZGWKd4HD+hb8M53V3
+sLt/1ID3mRbc3uLMUNjm2+xYbPFJI60qKh5eJEkzZBHxjLudGs1C7zif4IyyEgKD
+tk6foQlB2W/QTNjm6s/8j02DFM8utkGHE4vsGw8ZAyRIA9hGRP7K3UKVb3O+GVgi
+3QIxQjKRkgWkCFS6OvflD96SQ+OUYv8CAZyjjiaZY667xfQQ00AY31M5V3x+G8iH
+Bd516qZKDgR5f8HkcBxa1C3eNyK2U3OZ39YOaI5iabznSPftoZU=
+=HaCt
+-----END PGP SIGNATURE-----
