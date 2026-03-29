@@ -9,7 +9,7 @@ Build-Depends: debhelper-compat (= 13),
 	qt6-base-dev-tools (>= 6.8),
 	qt6-tools-dev (>= 6.8),
 	qt6-tools-dev-tools (>= 6.8),
-	libncurses-dev (>= 6.5),
+	libncurses-dev,
 	libzxcvbn-dev (>= 2.5)
 Standards-Version: 4.7.2
 Homepage: https://github.com/gazelle-installer
