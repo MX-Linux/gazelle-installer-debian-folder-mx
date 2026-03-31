@@ -1,3 +1,12 @@
+gazelle-installer (26.3.5mx25) mx; urgency=medium
+
+  * improve TUI keyboard navigation and Alt-arrow handling
+  * refine TUI drive format editing and format column labels
+  * fix TUI confirm back navigation and partition reload after cfdisk
+  * polish install completion UI
+
+ -- Adrian <adrian@mxlinux.org>  Tue, 31 Mar 2026 09:52:55 -0400
+
 gazelle-installer (26.3.4mx25) mx; urgency=medium
 
   * new text based cli installer mode (run minstall in console or use --tui)
@@ -2862,4 +2871,3 @@ mx-installer (0.1.0) unstable; urgency=low
   * Initial Release.
 
  -- anticapitalista <antiX@operamail.com>  Mon, 13 Jan 2014 22:30:00 +0200
-
