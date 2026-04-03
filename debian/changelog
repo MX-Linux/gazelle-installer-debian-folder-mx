@@ -1,3 +1,10 @@
+gazelle-installer (26.3.6mx25) mx; urgency=medium
+
+  * update excludes for home folder rsync
+  * don't offer ESP grub installation if ESP boot folder not defined
+
+ -- Dolphin Oracle <dolphinoracle@gmail.com>  Fri, 03 Apr 2026 16:44:10 -0400
+
 gazelle-installer (26.3.5mx25) mx; urgency=medium
 
   * improve TUI keyboard navigation and Alt-arrow handling
