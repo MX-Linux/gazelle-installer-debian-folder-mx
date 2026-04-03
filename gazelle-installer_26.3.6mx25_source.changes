@@ -1,0 +1,26 @@
+Format: 1.8
+Date: Fri, 03 Apr 2026 16:44:10 -0400
+Source: gazelle-installer
+Architecture: source
+Version: 26.3.6mx25
+Distribution: mx
+Urgency: medium
+Maintainer: dolphinoracle <dolphinoracle@gmail.com>
+Changed-By: Dolphin Oracle <dolphinoracle@gmail.com>
+Changes:
+ gazelle-installer (26.3.6mx25) mx; urgency=medium
+ .
+   * update excludes for home folder rsync
+   * don't offer ESP grub installation if ESP boot folder not defined
+Checksums-Sha1:
+ 46a842b031fb4925e930606eecceaaa0005060d7 824 gazelle-installer_26.3.6mx25.dsc
+ e7368bfe2237b41eeed43139769ec7db133a5592 502016 gazelle-installer_26.3.6mx25.tar.xz
+ ff475dfa6fdf5ab2c42a775ec6c7fa030e73ccb9 11028 gazelle-installer_26.3.6mx25_source.buildinfo
+Checksums-Sha256:
+ 520c70c875d7b2d155bc0dfb9c60c8eed99aed4e0f96b4cb57881cb546c333a6 824 gazelle-installer_26.3.6mx25.dsc
+ b0e5e4c7be7e7241f51a21d35bb4e0420127a60b46027f80d41160198fba6dac 502016 gazelle-installer_26.3.6mx25.tar.xz
+ c4bcb19978751f14134c03e74f59653b14817c78782adef80b7c8d3a99791906 11028 gazelle-installer_26.3.6mx25_source.buildinfo
+Files:
+ 42b5be30b3df393184a2b9b552eb0906 824 system optional gazelle-installer_26.3.6mx25.dsc
+ 847fe676330f4038dbc0a454db69f1f2 502016 system optional gazelle-installer_26.3.6mx25.tar.xz
+ 545e91c1cf3d06c0010e5720dd01c57b 11028 system optional gazelle-installer_26.3.6mx25_source.buildinfo
