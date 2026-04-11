@@ -1,3 +1,12 @@
+gazelle-installer (26.4mx25) mx; urgency=medium
+
+  * Default Live-usb copy to off
+  * Handle Live-usb-storage as optional copy
+  * Exclude copied history and clean demo home
+  * Remove style override on oem
+
+ -- Adrian <adrian@mxlinux.org>  Sat, 11 Apr 2026 09:24:13 -0400
+
 gazelle-installer (26.3.6mx25) mx; urgency=medium
 
   * update excludes for home folder rsync
