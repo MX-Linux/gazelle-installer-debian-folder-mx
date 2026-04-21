@@ -1,0 +1,22 @@
+Format: 1.8
+Date: Mon, 20 Apr 2026 20:35:16 -0400
+Source: gazelle-installer
+Architecture: source
+Version: 26.4.1mx25
+Distribution: mx
+Urgency: medium
+Maintainer: dolphinoracle <dolphinoracle@gmail.com>
+Changed-By: Dolphin Oracle <dolphinoracle@gmail.com>
+Changes:
+ gazelle-installer (26.4.1mx25) mx; urgency=medium
+ .
+   * restore demo folder copy if it exists in linuxfs
+Checksums-Sha1:
+ 1ee362b41af5accba1d98e380d35380f6ffa8ae7 824 gazelle-installer_26.4.1mx25.dsc
+ 0d44d6f759ce9ea837186fd0daa9dc6636305f42 502800 gazelle-installer_26.4.1mx25.tar.xz
+Checksums-Sha256:
+ 887c67e5b317c8c8d1dab0988f0981a8eb49bae58b0655644d3f5c966371a441 824 gazelle-installer_26.4.1mx25.dsc
+ ffa1ecc59854e87701f9b7b9e80c3540c2ee52d3582c915c3fcaa68bf90a38c1 502800 gazelle-installer_26.4.1mx25.tar.xz
+Files:
+ d8e26a354181c87503acb1468534fbd2 824 system optional gazelle-installer_26.4.1mx25.dsc
+ 276dc5580352fbdbaad1ea568e95f054 502800 system optional gazelle-installer_26.4.1mx25.tar.xz
