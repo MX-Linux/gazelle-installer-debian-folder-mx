@@ -11,12 +11,16 @@ Changes:
  gazelle-installer (26.4.1mx25) mx; urgency=medium
  .
    * restore demo folder copy if it exists in linuxfs
+   * use running home demo folder if it exists and /home/demo is in linuxfs
 Checksums-Sha1:
- 1ee362b41af5accba1d98e380d35380f6ffa8ae7 824 gazelle-installer_26.4.1mx25.dsc
- 0d44d6f759ce9ea837186fd0daa9dc6636305f42 502800 gazelle-installer_26.4.1mx25.tar.xz
+ 138105ad215fb79f9931f907c6aee27f38b5c781 824 gazelle-installer_26.4.1mx25.dsc
+ f06eab1fd07a5707804547dfda8f1b52aa0666a7 502764 gazelle-installer_26.4.1mx25.tar.xz
+ 71dec7535d67a9e3d99825ae0ec91c44ed8cbe8f 11028 gazelle-installer_26.4.1mx25_source.buildinfo
 Checksums-Sha256:
- 887c67e5b317c8c8d1dab0988f0981a8eb49bae58b0655644d3f5c966371a441 824 gazelle-installer_26.4.1mx25.dsc
- ffa1ecc59854e87701f9b7b9e80c3540c2ee52d3582c915c3fcaa68bf90a38c1 502800 gazelle-installer_26.4.1mx25.tar.xz
+ 02c279379a75ae15607499bd13a15df91e0686204621c9bcd29c882728aa0103 824 gazelle-installer_26.4.1mx25.dsc
+ e7ec3a8de85f0f73543f283cb6006a869a3706121dc7590392b6af363fc55929 502764 gazelle-installer_26.4.1mx25.tar.xz
+ 3eb72a7b77fb6604fd4dee36aaaa6f950619d0b67b746c366a17dcc78f106ae5 11028 gazelle-installer_26.4.1mx25_source.buildinfo
 Files:
- d8e26a354181c87503acb1468534fbd2 824 system optional gazelle-installer_26.4.1mx25.dsc
- 276dc5580352fbdbaad1ea568e95f054 502800 system optional gazelle-installer_26.4.1mx25.tar.xz
+ aade52f0d37b0a7e8845dcad6929cc32 824 system optional gazelle-installer_26.4.1mx25.dsc
+ 0501871eadd755f25c859019b3f019b4 502764 system optional gazelle-installer_26.4.1mx25.tar.xz
+ 658e7df72b9418d9625f0d89e7d7fa14 11028 system optional gazelle-installer_26.4.1mx25_source.buildinfo
