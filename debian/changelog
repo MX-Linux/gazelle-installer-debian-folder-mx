@@ -1,3 +1,9 @@
+gazelle-installer (26.4.1mx25) mx; urgency=medium
+
+  * restore demo folder copy if it exists in linuxfs
+
+ -- Dolphin Oracle <dolphinoracle@gmail.com>  Mon, 20 Apr 2026 20:35:16 -0400
+
 gazelle-installer (26.4mx25) mx; urgency=medium
 
   * Default Live-usb copy to off
