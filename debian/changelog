@@ -1,9 +1,9 @@
 gazelle-installer (26.4.1mx25) mx; urgency=medium
 
   * restore demo folder copy if it exists in linuxfs
-  * use running home demo folder if it exists and /home/demo is in linuxfs
+  * use live home demo folder if it exists and fallback to version in linuxfs 
 
- -- Dolphin Oracle <dolphinoracle@gmail.com>  Mon, 20 Apr 2026 20:35:16 -0400
+ -- Dolphin Oracle <dolphinoracle@gmail.com>  Tue, 21 Apr 2026 20:23:22 -0400
 
 gazelle-installer (26.4mx25) mx; urgency=medium
 
