@@ -10,8 +10,8 @@ Build-Depends: debhelper-compat (= 13), cmake (>= 3.31), ninja-build (>= 1.12), 
 Package-List:
  mx-installer deb system optional arch=any
 Checksums-Sha1:
- f06eab1fd07a5707804547dfda8f1b52aa0666a7 502764 gazelle-installer_26.4.1mx25.tar.xz
+ 17d0fcbcc6051d9c8fa58688c5a1e1e739449c12 502932 gazelle-installer_26.4.1mx25.tar.xz
 Checksums-Sha256:
- e7ec3a8de85f0f73543f283cb6006a869a3706121dc7590392b6af363fc55929 502764 gazelle-installer_26.4.1mx25.tar.xz
+ 19c2c7662f09d0c9ab29ba01be32c5086edc8253e0a247ad61e45598903750e5 502932 gazelle-installer_26.4.1mx25.tar.xz
 Files:
- 0501871eadd755f25c859019b3f019b4 502764 gazelle-installer_26.4.1mx25.tar.xz
+ 2a224a535545a7c3a99398571dd5c305 502932 gazelle-installer_26.4.1mx25.tar.xz

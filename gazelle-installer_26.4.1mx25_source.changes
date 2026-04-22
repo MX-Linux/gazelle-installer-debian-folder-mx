@@ -1,5 +1,5 @@
 Format: 1.8
-Date: Mon, 20 Apr 2026 20:35:16 -0400
+Date: Tue, 21 Apr 2026 20:23:22 -0400
 Source: gazelle-installer
 Architecture: source
 Version: 26.4.1mx25
@@ -11,16 +11,16 @@ Changes:
  gazelle-installer (26.4.1mx25) mx; urgency=medium
  .
    * restore demo folder copy if it exists in linuxfs
-   * use running home demo folder if it exists and /home/demo is in linuxfs
+   * use live home demo folder if it exists and fallback to version in linuxfs
 Checksums-Sha1:
- 138105ad215fb79f9931f907c6aee27f38b5c781 824 gazelle-installer_26.4.1mx25.dsc
- f06eab1fd07a5707804547dfda8f1b52aa0666a7 502764 gazelle-installer_26.4.1mx25.tar.xz
- 71dec7535d67a9e3d99825ae0ec91c44ed8cbe8f 11028 gazelle-installer_26.4.1mx25_source.buildinfo
+ a8babe165e154dc1dcff5f9bfe1603a814f25732 824 gazelle-installer_26.4.1mx25.dsc
+ 17d0fcbcc6051d9c8fa58688c5a1e1e739449c12 502932 gazelle-installer_26.4.1mx25.tar.xz
+ ee266147680742c37b806cfa96d9a2e4b2b9a6c4 11044 gazelle-installer_26.4.1mx25_source.buildinfo
 Checksums-Sha256:
- 02c279379a75ae15607499bd13a15df91e0686204621c9bcd29c882728aa0103 824 gazelle-installer_26.4.1mx25.dsc
- e7ec3a8de85f0f73543f283cb6006a869a3706121dc7590392b6af363fc55929 502764 gazelle-installer_26.4.1mx25.tar.xz
- 3eb72a7b77fb6604fd4dee36aaaa6f950619d0b67b746c366a17dcc78f106ae5 11028 gazelle-installer_26.4.1mx25_source.buildinfo
+ 00b6bfbf8ae431eca60131c89026ebba393cca1decc07196cef6f6f129acb12c 824 gazelle-installer_26.4.1mx25.dsc
+ 19c2c7662f09d0c9ab29ba01be32c5086edc8253e0a247ad61e45598903750e5 502932 gazelle-installer_26.4.1mx25.tar.xz
+ fe6e2240ace318ce698fbc17a1501e991943ea18daf189e02f7bc2ec40e5e174 11044 gazelle-installer_26.4.1mx25_source.buildinfo
 Files:
- aade52f0d37b0a7e8845dcad6929cc32 824 system optional gazelle-installer_26.4.1mx25.dsc
- 0501871eadd755f25c859019b3f019b4 502764 system optional gazelle-installer_26.4.1mx25.tar.xz
- 658e7df72b9418d9625f0d89e7d7fa14 11028 system optional gazelle-installer_26.4.1mx25_source.buildinfo
+ 46600ac49dd45aefe9cf3d28ee15e00d 824 system optional gazelle-installer_26.4.1mx25.dsc
+ 2a224a535545a7c3a99398571dd5c305 502932 system optional gazelle-installer_26.4.1mx25.tar.xz
+ 4f3802a731bfd5b7eec1315d5438efe1 11044 system optional gazelle-installer_26.4.1mx25_source.buildinfo
