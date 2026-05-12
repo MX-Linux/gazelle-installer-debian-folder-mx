@@ -1,7 +1,8 @@
-gazelle-installer (26.5.2mx25) mx; urgency=medium
+gazelle-installer (26.5.3mx25) mx; urgency=medium
 
   * Add 5 seconds timeout for restarting with an option to cancel
   * TUI: fix Format column truncation
+  * TUI: render partition Apply button after footer so Tab focus is visible
 
  -- Adrian <adrian@mxlinux.org>  Tue, 12 May 2026 11:50:55 -0400
 
