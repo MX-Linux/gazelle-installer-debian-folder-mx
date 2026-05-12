@@ -1,3 +1,10 @@
+gazelle-installer (26.5.2mx25) mx; urgency=medium
+
+  * Add 5 seconds timeout for restarting with an option to cancel
+  * TUI: fix Format column truncation
+
+ -- Adrian <adrian@mxlinux.org>  Tue, 12 May 2026 11:50:55 -0400
+
 gazelle-installer (26.5.1mx25) mx; urgency=medium
 
   * Add a warning for minimum size of 100 MB for ESP
