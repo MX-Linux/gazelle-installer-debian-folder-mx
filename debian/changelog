@@ -1,3 +1,10 @@
+gazelle-installer (26.5.1mx25) mx; urgency=medium
+
+  * Add a warning for minimum size of 100 MB for ESP
+  * Fold custom partition nav bar across two rows; remove footer from end screen
+
+ -- Adrian <adrian@mxlinux.org>  Tue, 12 May 2026 08:40:23 -0400
+
 gazelle-installer (26.5mx5) mx; urgency=medium
 
   * Update helper text to clarify that Ctrl-N and Ctrl-P can be used for
