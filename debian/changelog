@@ -1,3 +1,14 @@
+gazelle-installer (26.09mx25) mx; urgency=medium
+
+  * Show the first-start setup screen on systems that use the newer Wayland
+    display system
+  * Run the first-start setup on Raspberry Pi systems instead of skipping it
+  * Newly installed systems now record file access times less often, which
+    reduces unnecessary writing to the drive
+  * Add a manual page for the installer, viewable with "man minstall"
+
+ -- Adrian <adrian@mxlinux.org>  Mon, 14 Sep 2026 08:04:03 -0400
+
 gazelle-installer (26.06mx25) mx; urgency=medium
 
   * Fix a false "GRUB install failed" error that could appear even when the
