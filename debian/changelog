@@ -1,3 +1,11 @@
+gazelle-installer (26.09.1mx25) mx; urgency=medium
+
+  * Fix automatic partitioning getting stuck toggling a checkbox back and
+    forth on some disk layouts
+  * Fix a crash during the media check when there was nothing to check
+
+ -- Adrian <adrian@mxlinux.org>  Thu, 17 Sep 2026 14:28:13 -0400
+
 gazelle-installer (26.09mx25) mx; urgency=medium
 
   * Show the first-start setup screen on systems that use the newer Wayland
