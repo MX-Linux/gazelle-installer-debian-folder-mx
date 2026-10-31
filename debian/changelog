@@ -1,3 +1,15 @@
+gazelle-installer (26.10mx25) mx; urgency=medium
+
+  * Honor distribution defaults for swap files and compressed-memory swap
+    when no swap partition is selected
+  * Preserve Fluxbox clock formatting when choosing 12-hour or 24-hour time
+  * Fix EFI installation failures caused by differences in uppercase and
+    lowercase directory names on some live kernels
+  * Continue installation if an optional copy of the EFI boot configuration
+    cannot be created
+
+ -- Adrian <adrian@mxlinux.org>  Sat, 31 Oct 2026 19:13:13 -0400
+
 gazelle-installer (26.09.1mx25) mx; urgency=medium
 
   * Fix automatic partitioning getting stuck toggling a checkbox back and
