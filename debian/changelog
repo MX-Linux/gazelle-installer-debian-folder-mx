@@ -1,3 +1,10 @@
+gazelle-installer (26.11mx25) mx; urgency=medium
+
+  * Install the bootloader even when the installer cannot access the firmware
+    boot entries, as can happen on systems with 32-bit UEFI
+
+ -- Adrian <adrian@mxlinux.org>  Tue, 24 Nov 2026 08:25:06 -0500
+
 gazelle-installer (26.10mx25) mx; urgency=medium
 
   * Honor distribution defaults for swap files and compressed-memory swap
